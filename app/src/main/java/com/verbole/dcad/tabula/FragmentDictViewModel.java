@@ -108,9 +108,9 @@ public class FragmentDictViewModel extends AndroidViewModel  {
         if (entrees == null) {
             entrees = new MutableLiveData<List<EnregDico>>();
         }
-        Cursor curs = MeF.listeDesEntrees(entree);
+
         AddStringTask myTask = new AddStringTask();
-        myTask.execute(curs);
+        myTask.execute(entree);
         Log.d(ActivitePrincipale2.TAG, TAG + "fin get entrees");
 
         return entrees;
@@ -361,7 +361,7 @@ public class FragmentDictViewModel extends AndroidViewModel  {
     // =============== asyncTask pour recuperer les listes entrees (BaseEntrees)
     private List<EnregDico> listProv;
 
-    private class AddStringTask extends AsyncTask<Cursor, EnregDico, List<EnregDico>> {
+    private class AddStringTask extends AsyncTask<String, List<EnregDico>, List<EnregDico>> {
 
         @Override
         protected void onPreExecute() {
@@ -369,12 +369,13 @@ public class FragmentDictViewModel extends AndroidViewModel  {
         }
 
         @Override
-        protected List<EnregDico> doInBackground(Cursor... params) {
+        protected List<EnregDico> doInBackground(String... params) {
             List<EnregDico> results = new ArrayList<>();
+            Cursor curs = MeF.listeDesEntrees(params[0]);
             int compte = 0;
-            while (params[0].moveToNext()) {
+            while (curs.moveToNext()) {
                 compte += 1;
-                EnregDico enr = MeF.flex.db.curseur2Entree(params[0]);
+                EnregDico enr = MeF.flex.db.curseur2Entree(curs);
                 results.add(enr);
 
             }
@@ -383,11 +384,14 @@ public class FragmentDictViewModel extends AndroidViewModel  {
 
         @SuppressWarnings("unchecked")
         @Override
-        protected void onProgressUpdate(EnregDico... values) {
-
+        protected void onProgressUpdate(List<EnregDico>... values) {
+            listProv.addAll(values[0]);
+            /*
             for (EnregDico v : values) {
                 listProv.add(v);
             }
+
+             */
             entrees.setValue(listProv);
         }
 
