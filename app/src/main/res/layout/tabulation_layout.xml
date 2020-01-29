@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="2dp"
+    android:layout_marginRight="2dp"
+    android:background="@drawable/tab_indicator"
+    android:orientation="vertical"
+    android:paddingLeft="2dp"
+    android:paddingRight="2dp">
+
+    <TextView
+        android:id="@+id/tabulation_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingBottom="2dp"
+        android:paddingTop="2dp"
+        android:textAlignment="center"
+        android:textColor="@color/blanc"
+        android:textSize="@dimen/taille_police_tabulations" />
+
+
+</LinearLayout>

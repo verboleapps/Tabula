@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/boutonDialogFerme"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginRight="100dp"
+        android:background="@android:drawable/ic_delete"
+        app:layout_constraintEnd_toStartOf="@+id/boutonNewList"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Listes"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/taille_police_section"
+        app:layout_constraintBaseline_toBaselineOf="@+id/boutonDialogFerme"
+        app:layout_constraintLeft_toRightOf="parent"
+        app:layout_constraintRight_toLeftOf="parent" />
+
+    <Button
+        android:id="@+id/boutonNewList"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="100dp"
+        android:background="@android:drawable/ic_input_add"
+        app:layout_constraintBaseline_toBaselineOf="@+id/boutonDialogFerme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/boutonDialogFerme"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ListView
+        android:id="@+id/listeListes"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHeight_min="200dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/boutonDialogFerme" />
+</androidx.constraintlayout.ConstraintLayout>

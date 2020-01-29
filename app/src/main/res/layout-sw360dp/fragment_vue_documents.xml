@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_fragment_documents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bord_fond_action_barre"
+        android:gravity="center_horizontal|center"
+        android:minHeight="?attr/actionBarSize"
+        app:contentInsetLeft="0dp"
+        app:contentInsetStart="0dp"
+        app:contentInsetEnd="0dp"
+        app:contentInsetRight="0dp"
+        android:paddingBottom="0dp"
+        android:paddingEnd="0dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingStart="0dp"
+        android:paddingTop="0dp"
+        android:theme="?attr/actionBarTheme">
+
+        <include
+            layout="@layout/action_bar_tabs"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp" />
+    </androidx.appcompat.widget.Toolbar>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.verbole.dcad.tabula.ActivitePrincipale2"
+        android:id="@+id/relLay"
+        android:background="#ffffff">
+
+        <FrameLayout
+            android:id="@+id/frameLayWebView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="start|top">
+
+            <com.verbole.dcad.tabula.WebViewPDF
+                android:id="@+id/webVueTextes"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="start|top" />
+
+        </FrameLayout>
+
+
+        <ListView
+            android:id="@+id/listeChapitres"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/blanc" />
+
+        <ExpandableListView
+            android:id="@+id/listeFichiers"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/blanc"
+            android:divider="@null"
+            android:dividerHeight="0dp"
+            android:groupIndicator="@null"
+            android:padding="5dp" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

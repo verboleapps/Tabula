@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/horizontalLA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <SearchView
+            android:id="@+id/barreRecherche"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+
+            android:layout_marginRight="8dp"
+            android:iconifiedByDefault="false"
+            android:showDividers="none"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@id/boutonLangue"
+            app:layout_constraintTop_toTopOf="parent">
+
+        </SearchView>
+
+        <Button
+            android:id="@+id/boutonLangue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_marginRight="8dp"
+            android:background="@drawable/bouton_bord"
+            android:gravity="center|center_horizontal|center_vertical"
+            android:lines="1"
+            android:paddingStart="@dimen/padding_bouton_langue"
+            android:paddingLeft="@dimen/padding_bouton_langue"
+            android:paddingEnd="@dimen/padding_bouton_langue"
+            android:paddingRight="@dimen/padding_bouton_langue"
+            android:text="@string/menu_textes_langue"
+            android:textColor="@color/bleu"
+            android:textSize="@dimen/taille_police_boutons_toolbar"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toLeftOf="@id/boutonNewCarte"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <Button
+            android:id="@+id/boutonNewCarte"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="44dp"
+
+            android:layout_height="0dp"
+            android:layout_marginRight="8dp"
+            android:background="@android:drawable/ic_input_add"
+            android:gravity="center_vertical|center_horizontal|center"
+            android:textColor="@color/bleu"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <WebView
+        android:id="@+id/webDico"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/horizontalLA">
+
+
+    </WebView>
+
+    <ListView
+        android:id="@+id/TableListeMots"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/horizontalLA"
+        android:background="@color/blanc" />
+
+    <ListView
+        android:id="@+id/TableListeMotsFR"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/horizontalLA"
+        android:background="@color/blanc"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp" />
+
+
+
+</RelativeLayout>

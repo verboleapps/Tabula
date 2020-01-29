@@ -1,0 +1,118 @@
+ <div class = "corpsTexte"><p class = "marge"><span id="elemMenu1">1</span>  &nbsp;&nbsp;<span id="elemMenu2">2</span>  &nbsp;&nbsp;<span id="elemMenu3">3</span>  &nbsp;&nbsp;<span id="elemMenu4">4</span>  &nbsp;&nbsp;<span id="elemMenu5">5</span>  &nbsp;&nbsp;</p><section id ="LAT1">I<BR/> PELOPIDAS Thebanus, magis historicis quam vulgo notus. Cuius de virtutibus dubito, quemadmodum exponam, quod vereor; si res explicare incipiam, ne non vitam eius enarrare, sed historiam videar scribere; si tantummodo summas attigero, ne rudibus Graecarum litterarum minus dilucide appareat, quantus fuerit ille vir. Itaque utrique rei occurram, quantum potuero, et medebor cum satietati tum ignorantiae lectorum. <verset=2> Phoebidas Lacedaemonius cum exercitum Olynthum duceret iterque per Thebas faceret, arcem oppidi, quae Cadmea nominatur, occupavit impulsu paucorum Thebanorum, qui, adversariae factioni quo facilius resisterent, Laconum rebus studebant, idque suo privato, non publico fecit consilio. Quo facto eum Lacedaemonii ab exercitu removerunt pecuniaque multarunt, neque eo magis arcem Thebanis reddiderunt, quod susceptis inimicitiis satius ducebant eos obsideri quam liberari. Nam post Peloponnesium bellum Athenasque devictas cum Thebanis sibi rem esse existimabant et eos esse solos, qui adversus resistere auderent. Hac mente amicis suis summas potestates dederant alteriusque factionis principes partim interfecerant, alios in exsilium eiecerant; in quibus Pelopidas hic, de quo scribere exorsi sumus, pulsus patria carebat.
+</section><section id ="FR1">1<BR/> Le Thébain Pélopidas est plus connu des historiens que du commun des hommes. Je ne sais de quelle manière exposer ses grandes actions. Je crains, en entreprenant de les développer, de paraître écrire, non sa vie, mais une histoire; et en ne touchant qu’aux principales, de ne pas montrer assez clairement à ceux qui ne connaissent point l’histoire grecque, combien il a été grand homme. Je préviendrai donc, autant que je pourrai, l’un et l’autre inconvénient, et je remédierai, soit à la satiété, soit à l’ignorance des lecteurs. Le Lacédémonien Phébidas, menant une armée à Olynthe et passant par Thèbes, s’empara de la citadelle de la ville, qu’on nomme la Cadmée, à l’instigation d’un très petit nombre de Thébains, qui, pour résister plus facilement à la faction contraire, favorisaient les intérêts des Lacédémoniens. Il agit ainsi de sa volonté privée, et non en vertu d’une délibération publique. Les Lacédémoniens lui firent quitter l’armée pour ce fait, et le punirent d’une amende. Ils n’en rendirent pas plus aux Thébains leur citadelle, parce qu’étant dès lors brouillés avec eux, ils jugeaient plus à propos de les tenir assiégés que de les laisser libres. Car, depuis la guerre du Péloponnèse et l’assujettissement d’Athènes, ils pensaient qu’ils avaient affaire avec les Thébains, et que ceux-ci étaient le seul peuple de la Grèce qui osât leur résister. Dans cette idée, ils avaient donné à leurs amis les plus hautes magistratures, et ils avaient ou fait mourir ou envoyé en exil les chefs de l’autre faction. Pélopidas, dont nous écrivons la vie, était du nombre de ceux-ci, et se voyait privé de sa patrie.
+</section><section id ="LAT2">II<BR/>  Hi omnes fere Athenas se contulerant, non quo sequerentur otium, sed ut, quem ex proximo locum fors obtulisset, eo patriam recuperare niterentur. Itaque cum tempus est visum rei gerendae, communiter cum iis, qui Thebis idem sentiebant, diem delegerunt ad inimicos opprimendos civitatemque liberandam eum, quo maximi magistratus simul consuerant epulari. <verset=3> Magnae saepe res non ita magnis copiis sunt gestae; sed profecto numquam tam ab tenui initio tantae opes sunt profligatae. Nam duodecim adulescentuli coierunt ex iis, qui exsilio erant multati, cum omnino non essent amplius centum, qui tanto se offerrent periculo. <verset=4> Qua paucitate percussa est Lacedaemoniorum potentia. Hi enim non magis adversariorum factioni quam Spartanis eo tempore bellum intulerunt, qui principes erant totius Graeciae; quorum imperii maiestas, neque ita multo post, Leuctrica pugna ab hoc initio perculsa concidit. <verset=5> Illi igitur duodecim, quorum dux erat Pelopidas, cum Athenis interdiu exissent, ut vesperascente caelo Thebas possent pervenire, cum canibus venaticis exierunt, retia ferentes, vestitu agresti, quo minore suspicione facerent iter. Qui cum tempore ipso, quo studuerant, pervenissent, domum Charonis deverterunt, a quo et tempus et dies erat datus.
+</section><section id ="FR2">2<BR/> Tous ces bannis s’étaient transportés à Athènes, non pour y rester dans l’oisiveté, mais pour tâcher de recouvrer leur patrie à la première occasion que le hasard leur offrirait si près de Thèbes. Lors donc qu’ils jugèrent qu’il était temps d’exécuter leur dessein, ils choisirent avec ceux qui pensaient comme eux à Thèbes, pour accabler leurs ennemis et délivrer leur cité, le jour où les premiers magistrats avaient coutume de faire un festin entre eux. Souvent de grandes choses ont été accomplies avec de petits moyens; mais, assurément, jamais une aussi forte puissance ne fut abattue avec de si faibles ressources. Douze jeunes gens, de ceux qui étaient punis de l’exil, se réunirent; et il n’y eut pas plus de cent hommes en tout qui se soient exposés à un si grand péril. La puissance des Lacédémoniens fut renversée par ce petit nombre. Car, en faisant la guerre à la faction de leurs adversaires, les exilés la firent autant aux Spartiates, qui étaient les maîtres de toute la Grèce, et dont l’impérieuse grandeur, ébranlée par ce premier coup, tomba peu de temps après à la bataille de Leuctres. Ces douze bannis, ayant Pélopidas à leur tête, sortirent d’Athènes pendant le jour, pour pouvoir arriver à Thèbes sur le soir, et se mirent en chemin avec des chiens de chasse, portant des rets et vêtus en paysans, afin de faire route sans éveiller les soupçons. Arrivés au moment même qu’ils s’étaient proposé, ils rendirent à la maison de Charon, qui leur avait donné le jour et l’heure.
+</section><section id ="LAT3">III<BR/>  Hoc loco libet interponere, etsi seiunctum ab re proposita est, nimia fiducia quantae calamitati soleat esse. Nam magistratuum Thebanorum statim ad auris pervenit exules in urbem venisse. Id illi vino epulisque dediti usque eo despexerunt, ut ne quaerere quidem de tanta re laborarint. <verset=2> Accessit etiam quod magis aperiret eorum dementiam. Allata est enim epistula Athenis ab Archino uni ex his Archiae, qui tum maximum magistratum Thebis obtinebat, in qua omnia de profectione eorum perscripta erant. Quae cum iam accubanti in convivio esset data, sicut erat signata, sub pulvinum subiciens `In crastinum' inquit `differo res severas.' <verset=3> At illi omnes, cum iam nox processisset, vinolenti ab exulibus duce Pelopida sunt interfecti. Quibus rebus confectis, vulgo ad arma libertatemque vocato, non solum qui in urbe erant, sed etiam undique ex agris concurrerunt, praesidium Lacedaemoniorum ex arce pepulerunt, patriam obsidione liberarunt, auctores Cadmeae occupandae partim occiderunt, partim in exsilium eiecerunt.
+</section><section id ="FR3">3<BR/> Je veux insérer en cet endroit une réflexion, quoiqu’elle interrompe mon récit: c’est qu’une trop grande confiance cause souvent de grands malheurs. Il parvint aussitôt aux oreilles des magistrats thébains que les exilés étaient entrés dans la ville. Livrés au plaisir de boire et de manger, ils méprisèrent cette nouvelle, et ne prirent même pas la peine de s’instruire d’un fait aussi important. Il arriva en outre une chose qui manifesta plus encore leur démence. On apporta d’Athènes une lettre d’Archias, hiérophante, à l’Archias qui était alors le suprême magistrat de Thèbes, dans laquelle étaient marqués tous les détails du départ des exilés. Cette lettre lui ayant été remise lorsqu’il était déjà à table, il la plaça sous son coussin, et dit: «Je renvoie à demain les affaires sérieuses.» Mais quand la nuit fut avancée, tous ces magistrats, noyés de vin furent tués par les exilés, sous la conduite de Pélopidas. Cette exécution faite, non seulement les habitants de la ville, mais encore ceux de la campagne, appelés aux armes et à la liberté, accoururent de toutes parts. Ils chassèrent de la citadelle la garnison des Lacédémoniens, délivrèrent leur patrie de l’état de siège où elle était, et massacrèrent ou bannirent ceux qui avaient conseillé aux ennemis de s’emparer de la Cadmée.
+</section><section id ="LAT4">IV<BR/>  Hoc tam turbido tempore, sicut supra docuimus, Epaminondas quoad cum civibus dimicatum est, domi quietus fuit. Itaque haec liberandarum Thebarum propria laus est Pelopidae: ceterae fere communes cum Epaminonda. <verset=2> Namque in Leuctrica pugna imperatore Epaminonda hic fuit dux delectae manus, quae prima phalangem prostravit Laconum. <verset=3> Omnibus praeterea periculis adfuit - sicut, Spartam cum oppugnavit, alterum tenuit cornu -, quoque Messena celerius restitueretur, legatus in Persas est profectus. Denique haec fuit altera persona Thebis, sed tamen secunda ita, ut proxima esset Epaminondae.
+</section><section id ="FR4">4<BR/> Dans ces moments de trouble, Épaminondas, comme nous l’avons marqué ci-dessus, se tint tranquille chez lui, tant qu’on se battit contre des citoyens. L’honneur d’avoir délivré Thèbes appartient donc en propre à Pélopidas. Quant à ses autres actions glorieuses, elles lui sont presque toutes communes avec Épaminondas. À la bataille de Leuctres, où Épaminondas commandait en chef, il menait la troupe d’élite, qui la première renversa la phalange des Lacédémoniens. Il se trouva encore dans toutes les actions périlleuses de ce général; ainsi, quand Épaminondas assiégea Sparte, il commanda l’une des ailes de son armée, et, afin de hâter le rétablissement de Messène, il se rendit chez les Perses en qualité d’ambassadeur. Pélopidas fut enfin le second personnage de Thèbes, mais de manière pourtant qu’il approchait de très près d’Épaminondas.
+</section><section id ="LAT5">V<BR/>  Conflictatus autem est cum adversa fortuna. Nam et initio, sicut ostendimus, exul patria caruit, et cum Thessaliam in potestatem Thebanorum cuperet redigere legationisque iure satis tectum se arbitraretur, quod apud omnes gentes sanctum esse consuesset, a tyranno Alexandro Pheraeo simul cum Ismenia comprehensus in vincla coniectus est. <verset=2> Hunc Epaminondas recuperavit, bello persequens Alexandrum. Post id factum numquam animo placari potuit in eum, a quo erat violatus. Itaque persuasit Thebanis, ut subsidio Thessaliae proficiscerentur tyrannosque eius expellerent. <verset=3> Cuius belli cum ei summa esset data eoque cum exercitu profectus esset, non dubitavit, simulac conspexit hostem, confligere. <verset=4> In quo proelio Alexandrum ut animadvertit, incensus ira equum in eum concitavit, proculque digressus a suis, coniectu telorum confossus concidit. Atque hoc secunda victoria accidit: nam iam inclinatae erant tyrannorum copiae. <verset=5> Quo facto omnes Thessaliae civitates interfectum Pelopidam coronis aureis et statuis aeneis liberosque eius multo agro donarunt.
+
+</section><section id ="FR5">5<BR/> Il eut en outre à lutter contre la mauvaise fortune. D’abord, il fut exilé de sa patrie, comme je l’ai rapporté. Plus tard, voulant réduire la Thessalie sous la puissance des Thébains, et se croyant assez garanti par son caractère d’ambassadeur, lequel est ordinairement sacré chez toutes les nations, il fut arrêté, avec Isménias, et jeté en prison par Alexandre, tyran de Phères. Épaminondas le remit en liberté en faisant la guerre à Alexandre. Après cette captivité, Pélopidas ne put calmer son ressentiment contre celui qui l’avait outragé. Il persuada les Thébains de marcher au secours de la Thessalie et de chasser ses tyrans. Comme on lui eut donné la conduite de cette guerre, et qu’il fut parti pour ce pays avec une armée, il ne balança point, aussitôt qu’il aperçut l’ennemi, à en venir aux mains avec lui. Dès qu’il eut remarqué Alexandre sur le champ de bataille, il poussa son cheval vers lui, tout enflammé de colère; mais s’étant fort éloigné des siens, il fut percé d’une multitude de traits, et tomba mort sur la place. Cet événement arriva au moment où la victoire le favorisait, car déjà les troupes des tyrans pliaient. Toutes les villes de la Thessalie décernèrent, pour ce service, au général tué, des couronnes d’or et des statues de bronze, et donnèrent à ses enfants des terres considérables.
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 5;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 6; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 6; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 6; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 6; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 6; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 6; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 6; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script></body></html>

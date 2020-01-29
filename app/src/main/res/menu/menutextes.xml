@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.verbole.dcad.tabula.VueDocuments">
+    <item
+        android:id="@+id/texte_titre"
+        android:enabled="true"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="true"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_gauche"
+        android:enabled="true"
+        android:icon="@drawable/navigue_gauche"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="true"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_langue"
+        android:enabled="true"
+        android:orderInCategory="100"
+        android:title="@string/menu_textes_langue"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_droite"
+        android:enabled="true"
+        android:icon="@drawable/navigue_droite"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="true"
+        app:showAsAction="always" />
+
+
+
+</menu>

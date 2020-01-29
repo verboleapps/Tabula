@@ -1,0 +1,118 @@
+ <div class = "corpsTexte"><p class = "marge"><span id="elemMenu1">1</span>  &nbsp;&nbsp;<span id="elemMenu2">2</span>  &nbsp;&nbsp;<span id="elemMenu3">3</span>  &nbsp;&nbsp;<span id="elemMenu4">4</span>  &nbsp;&nbsp;<span id="elemMenu5">5</span>  &nbsp;&nbsp;</p><section id ="LAT1">I<BR/>  TIMOLEON Corinthius. Sine dubio magnus omnium iudicio hic vir exstitit. Namque huic uni contigit, quod nescio an nulli, ut et patriam, in qua erat natus, oppressam a tyranno liberaret et a Syracusanis, quibus auxilio erat missus, iam inveteratam servitutem depelleret totamque Siciliam multos annos bello vexatam a barbarisque oppressam suo adventu in pristinum restitueret. <verset=2> Sed in his rebus non simplici fortuna conflictatus est et, id quod difficilius putatur, multo sapientius tulit secundam quam adversam fortunam. <verset=3> Nam cum frater eius Timophanes, dux a Corinthiis delectus, tyrannidem per milites mercennarios occupasset particepsque regni posset esse, tantum afuit a societate sceleris, ut antetulerit civium suorum libertatem fratris saluti et parere legibus quam imperare patriae satius duxerit. <verset=4> Hac mente per haruspicem communemque affinem, cui soror ex eisdem parentibus nata nupta erat, fratrem tyrannum interficiundum curavit. Ipse non modo manus non attulit, sed ne aspicere quidem fraternum sanguinem voluit. Nam dam res conficeretur, procul in praesidio fuit, ne quis satelles posset succurrere. <verset=5> Hoc praeclarissimum eius factum non pari modo probatum est ab omnibus. Nonnulli enim laesam ab eo pietatem putabat et invidia laudem virtutis obterebant. Mater vero post id factum neque domum ad se filium admisit neque aspexit, quin eum fratricidam impiumque detestans compellaret. <verset=6> Quibus rebus ille adeo est commotus, ut nonnumquam vitae finem facere voluerit atque ex ingratorum hominum conspectu morte decedere.
+</section><section id ="FR1">1<BR/> Timoléon de Corinthe fut sans doute un grand homme, au jugement de tout le monde: car il eut le bonheur, unique peut-être, de délivrer le pays où il était né, opprimé par un tyran; de bannir de Syracuse, au secours de laquelle il avait été envoyé, une servitude invétérée, et de rétablir dans son ancien état, par son arrivée, toute la Sicile, désolée pendant un grand nombre d’années par la guerre, et opprimée par les barbares. Dans ces expéditions, il éprouva l’une et l’autre fortune; et, ce qui est réputé bien difficile, il supporta beaucoup plus sagement le bonheur que l’adversité. Son frère Timophane, élu général par les Corinthiens, s’étant emparé de la tyrannie par le moyen des soldats mercenaires, et Timoléon pouvant participer à la royauté, il fut si loin de se rendre complice de ce crime, qu’il préféra la liberté de ses concitoyens au salut de son frère, et aima mieux obéir aux lois de sa patrie que de lui commander. Dans cette disposition, il s’entendit avec un haruspice et un homme, leur commun allié, qui avait épousé leur soeur: c’était par eux qu’il voulait faire périr le tyran. Pour lui, non seulement il ne porta point les mains sur son frère, mais il ne voulut pas même voir son sang: car, pendant que le meurtre s’accomplissait, il se tint éloigné avec une troupe en armes, afin qu’aucun satellite du tyran ne pût courir à son secours. Cette belle action ne fut pas également approuvée de tout le monde. Quelques-uns pensaient qu’il avait attenté à la piété fraternelle, et par envie, ils dépréciaient la gloire de sa vertu. Quant à sa mère, après cette action, elle ne le reçut plus dans sa maison, et jamais elle ne le vit sans le maudire et sans l’appeler fratricide et impie. Il fut si fort touché de ces traitements, qu’il voulut quelquefois mettre fin à sa vie, et se dérober par la mort aux regards d’hommes ingrats.
+</section><section id ="LAT2">II<BR/>  Interim Dione Syracusis interfecto Dionysius rursus Syracusarum potitus est. Cuius adversarii opem a Corinthiis petierunt ducemque, quo in bello uterentur, postularunt. Huc Timoleon missus incredibili felicitate Dionysium tota Sicilia depulit. <verset=2> Cum interficere posset, noluit, tutoque ut Corinthum perveniret, effecit, quod utrorumque Dionysiorum opibus Corinthii saepe adiuti fuerant, cuius benignitatis memoriam volebat exstare, eamque praeclaram victoriam ducebat, in qua plus esset clementiae quam crudelitatis, postremo ut non solum auribus acciperetur, sed etiam oculis cerneretur, quem et ex quanto regno ad quam fortunam detulisset. <verset=3> Post Dionysii decessum cum Hiceta bellavit, qui adversatus erat Dionysio; quem non odio tyrannidis dissensisse, sed cupiditate indicio fuit, quod ipse expulso Dionysio imperium dimittere noluit. <verset=4> Hoc superato Timoleon maximas copias Carthaginiensium apud Crinissum flumen fugavit ac satis habere coegit, si liceret Africam obtinere, qui iam complures annos possessionem Siciliae tenebant. Cepit etiam Mamercum, Italicum ducem, hominem bellicosum et potentem, qui tyrannos adiutum in Siciliam venerat.
+</section><section id ="FR2">2<BR/> Cependant, Dion ayant été tué à Syracuse, Denys le Jeune s’empara derechef de cette ville. Ses ennemis demandèrent du secours aux Corinthiens, et un général pour mettre à leur tête dans la guerre. Timoléon y fut envoyé, et chassa Denys de toute la Sicile avec un bonheur incroyable. Quoiqu’il pût lui ôter la vie, il ne le voulut pas, et il fit en sorte qu’il se rendît en sûreté à Corinthe, parce que les Corinthiens avaient été souvent aidés des forces de l’un et de l’autre Denys. Timoléon voulait consacrer le souvenir de ces bienfaits; et il pensait que la victoire la plus illustre était celle où il se trouvait plus de clémence que de cruauté. Il désirait enfin que Corinthe n’entendît pas dire seulement, mais vît même de ses yeux quel homme il avait vaincu, et de quel puissant trône il l’avait fait tomber dans la misère. Après la retraite de Denys, il fit la guerre à Icétas, qui avait été contraire à ce prince. Ce qui montra qu’Icétas avait été en désunion avec Denys, non par haine de la tyrannie, mais par ambition, c’est que lui-même, après l’expulsion de Denys, ne voulut pas se démettre du commandement. Icétas de fait, Timoléon mit en fuite, près du fleuve Crimesse, une très grande armée de Carthaginois, et les réduisit à se contenter de pouvoir conserver l’Afrique, eux qui déjà depuis un grand nombre d’années étaient en possession de la Sicile. Il fit aussi prisonnier Mamercus, général italien, homme belliqueux et puissant, qui était venu en Sicile aider les tyrans.
+</section><section id ="LAT3">III<BR/>  Quibus rebus confectis cum propter diuturnitatem belli non solum regiones, sed etiam urbes desertas videret, conquisivit, quos potuit, primum Siculos; dein Corintho arcessivit colonos, quod ab his initio Syracusae erant conditae. <verset=2> Civibus veteribus sua restituit, novis bello vacuefactas possessiones divisit; urbium moenia disiecta fanaque deserta refecit; civitatibus leges libertatemque reddidit; ex maximo bello tantum otium totae insulae conciliavit, ut hic conditor urbium earum, non illi, qui initio deduxerant, videretur. <verset=3> Arcem Syracusis, quam munierat Dionysius ad urbem obsidendam, a fundamentis disiecit; cetera tyrannidis propugnacula demolitus est deditque operam, ut quam minime multa vestigia servitutis manerent. <verset=4> Cum tantis esset opibus, ut etiam invitis imperare posset, tantum autem amorem haberet omnium Siculorum, ut nullo recusante regnum obtinere, maluit se diligi quam metui. Itaque, cum primum potuit, imperium deposuit ac privatus Syracusis, quod reliquum vitae fuit, vixit. <verset=5> Neque vero id imperite fecit. Nam quod ceteri reges imperio potuerunt, hic benevolentia tenuit. Nullus honos huic defuit, neque postea res ulla Syracusis gesta est publice, de qua prius sit decretum quam Timoleontis sententia cognita. <verset=6> Nullius umquam consilium non modo antelatum, sed ne comparatum quidem est; neque id magis benevolentia factum est quam prudentia.
+</section><section id ="FR3">3<BR/> Après avoir terminé ces entreprises, Timoléon voyant que non seulement les campagnes, mais encore les villes de Sicile avaient été désertées à cause de la longueur de la guerre, rechercha et réunit d’abord tous les Siciliens qu’il put trouver; ensuite il fit venir des colons de Corinthe, parce que Syracuse avait d’abord été fondée par les habitants de cette ville. Il restitua aux anciens citoyens les biens qui leur appartenaient. Il partagea aux nouveaux les possessions que la guerre avait rendues vacantes. Il releva les murs renversés et les temples détruits, et rendit aux villes leurs lois et leur liberté. Après une très grande guerre, il procura un si grand repos à toute l’île, qu’il semblait le fondateur de ces villes, plutôt que ceux qui les premiers y avaient conduit des colonies. Il rasa la citadelle de Syracuse, que Denys avait élevée pour tenir la ville en état de siège. Il démolit tous les autres remparts de la tyrannie, et fit en sorte qu’il ne restât que le moins possible de tant de vestiges de la servitude. Assez puissant pour imposer son autorité, assez aimé pour obtenir la royauté sans que personne s’y opposât, Timoléon aima mieux inspirer l’amour que la crainte. Sitôt qu’il le put, il déposa le commandement, et vécut en simple particulier à Syracuse le reste de sa vie. Et en agissant ainsi il fit preuve de sagesse: car, ce que les rois peuvent à peine obtenir de l’autorité, il l’obtint de la bienveillance. Aucun honneur ne lui manqua; et, dans la suite, on ne prit aucune décision publique à Syracuse avant d’avoir connu son sentiment. Jamais on ne préféra, jamais même on ne compara l’avis de personne au sien; et ce n’était pas plus l’effet de l’affection que de la prudence.
+</section><section id ="LAT4">IV<BR/>  Hic cum aetate iam provectus esset, sine ullo modo morbo lumina oculorum amisit. Quam calamitatem ita moderate tulit, ut neque eum querentem quisquam audierit, neque eo minus privatis publicisque rebus interfuerit. <verset=2> Veniebat autem in theatrum, cum ibi concilium populi haberetur, propter valetudinem vectus iumentis iunctis, atque ita de vehiculo, quae videbantur, dicebat. Neque hoc illi quisquam tribuebat superbiae. Nihil enim umquam neque insolens neque gloriosum ex ore eius exiit. <verset=3> Qui quidem, cum suas laudes audiret praedicari, numquam aliud dixit quam se in ea re maxime diis agere gratias atque habere, quod, cum Siciliam recreare constituissent, tum se potissimum ducem esse voluissent. Nihil enim rerum humanarum sine deorum numine geri putabat. Itaque suae domi sacellum Automatias constituerat idque sanctissime colebat.
+</section><section id ="FR4">4<BR/> Étant déjà fort âgé, Timoléon perdit la vue, sans avoir essuyé aucune maladie. Il supporta ce malheur avec tant de résignation, que personne ne l’entendit jamais se plaindre, et qu’il n’assista pas moins aux affaires particulières et publiques. Il venait au théâtre, quand le conseil du peuple s’y tenait, porté, à cause de son infirmité, dans un char attelé de deux chevaux; et de ce char, il disait ce qu’il pensait sur l’objet en délibération. Personne n’attribuait cette manière d’agir à l’orgueil; car il ne sortit jamais de sa bouche rien d’arrogant ni de vain. Lorsqu’il entendait publier ses louanges, il ne disait jamais autre chose, sinon «qu’il rendait de très grandes actions de grâces aux dieux, et qu’il leur était très obligé de ce qu’ayant résolu de régénérer la Sicile, ils avaient voulu qu’il fût de préférence le chef de cette entreprise.» Car il pensait qu’aucune des choses humaines ne se fait sans la puissance et la volonté des dieux. Aussi avait-il bâti dans sa maison une chapelle à la Toute-Puissance et l’honorait-il très religieusement.
+</section><section id ="LAT5">V<BR/>  Ad hanc hominis excellentem bonitatem mirabiles accesserant casus. Nam proelia maxima natali suo die fecit omnia: quo factum est, ut eius diem natalem festum haberet universa Sicilia. Huic quidam Laphystius, homo petulans et ingratus, vadimonium cum vellet imponere, quod cum illo se lege agere diceret, et complures concurrissent, qui procacitatem hominis manibus coercere conarentur, Timoleon oravit omnes, ne id facerent. <verset=2> Namque id ut Laphystio et cuivis liceret, se maximos labores summaque adisse pericula. Hanc enim speciem libertatis esse, si omnibus, quod quisque vellet, legibus experiri liceret. Idem, cum quidam Laphystii similis, nomine Demaenetus, in contione populi de rebus gestis eius detrahere coepisset ac nonnulla inveheretur in Timoleonta, <verset=3> dixit nunc demum se voti esse damnatum: namque hoc a diis immortalibus semper precatum, ut talem libertatem restitueret Syracusanis, in qua cuivis liceret, de quo vellet, impune dicere. <verset=4> Hic cum diem supremum obisset, publice a Syracusanis in gymnasio, quod Timoleonteum appellatur, tota celebrante Sicilia sepultus est.
+
+</section><section id ="FR5">5<BR/> Aux excellentes qualités de Timoléon se joignirent des circonstances merveilleuses; car il donna ses plus grandes batailles le jour de sa naissance, d’où il arriva que toute la Sicile fit de ce jour un jour de fête. Comme un certain Lamestius, homme insolent et ingrat, voulait le contraindre à comparaître en justice, disant qu’il était en procès avec lui, et que plusieurs citoyens étaient accourus pour réprimer par la force l’impudence de cet homme, Timoléon les pria tous de ne pas le faire; disant «qu’il avait accepté les plus grands travaux et les plus grands périls, pour que cette conduite fût permise à Lamestius et à tous les autres citoyens; qu’en effet, le signe visible de la liberté consiste en ce que chacun ait le pouvoir de faire valoir ses prétentions selon les lois.» Un autre citoyen, nommé Déménète, homme pareil à Lamestius, s’étant mis à rabaisser les exploits de Timoléon et à proférer quelques invectives contre lui, Timoléon dit «qu’en ce moment enfin ses voeux étaient exaucés; qu’effectivement il avait toujours demandé aux dieux de rendre aux Syracusains une liberté telle, qu’il fût licite à chacun de parler impunément de qui il voudrait.» Après sa mort, il fut enseveli par les Syracusains aux frais du trésor public, et avec le concours de toute la Sicile, dans le gymnase qui porte son nom.
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 5;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 6; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 6; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 6; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 6; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 6; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 6; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 6; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script></body></html>

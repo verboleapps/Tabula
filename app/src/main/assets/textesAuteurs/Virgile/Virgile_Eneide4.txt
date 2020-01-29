@@ -1,0 +1,937 @@
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+</head>
+
+ <body>
+
+ <div class = "corpsTexte">
+  
+  <section id ="LAT1">LIBER IV.<BR><BR>
+At regina gravi iamdudum saucia cura<BR>
+vulnus alit venis et caeco carpitur igni.<BR>
+multa viri virtus animo multusque recursat<BR>
+gentis honos; haerent infixi pectore vultus<BR>
+verbaque nec placidam membris dat cura quietem. (4,5)<BR>
+postera Phoebea lustrabat lampade terras<BR>
+umentemque Aurora polo dimoverat umbram,<BR>
+cum sic unanimam adloquitur male sana sororem:<BR>
+'Anna soror, quae me suspensam insomnia terrent!<BR>
+quis novus hic nostris successit sedibus hospes, (4,10)<BR>
+quem sese ore ferens, quam forti pectore et armis!<BR>
+credo equidem, nec vana fides, genus esse deorum.<BR>
+degeneres animos timor arguit. heu, quibus ille<BR>
+iactatus fatis! quae bella exhausta canebat!<BR>
+si mihi non animo fixum immotumque sederet (4,15)<BR>
+ne cui me vinclo vellem sociare iugali,<BR>
+postquam primus amor deceptam morte fefellit;<BR>
+si non pertaesum thalami taedaeque fuisset,<BR>
+huic uni forsan potui succumbere culpae.<BR>
+Anna (fatebor enim) miseri post fata Sychaei (4,20)<BR>
+coniugis et sparsos fraterna caede penatis<BR>
+solus hic inflexit sensus animumque labantem<BR>
+impulit. agnosco veteris vestigia flammae.<BR>
+sed mihi vel tellus optem prius ima dehiscat<BR>
+vel pater omnipotens adigat me fulmine ad umbras, (4,25)<BR>
+pallentis umbras Erebo noctemque profundam,<BR>
+ante, pudor, quam te violo aut tua iura resolvo.<BR>
+ille meos, primus qui me sibi iunxit, amores<BR>
+abstulit; ille habeat secum servetque sepulcro.'<BR>
+sic effata sinum lacrimis implevit obortis. (4,30)<BR>
+<BR>
+Anna refert: 'o luce magis dilecta sorori,<BR>
+solane perpetua maerens carpere iuventa<BR>
+nec dulcis natos Veneris nec praemia noris?<BR>
+id cinerem aut manis credis curare sepultos?<BR>
+esto: aegram nulli quondam flexere mariti, (4,35)<BR>
+non Libyae, non ante Tyro; despectus Iarbas<BR>
+ductoresque alii, quos Africa terra triumphis<BR>
+dives alit: placitone etiam pugnabis amori?<BR>
+nec venit in mentem quorum consederis arvis?<BR>
+hinc Gaetulae urbes, genus insuperabile bello, (4,40)<BR>
+et Numidae infreni cingunt et inhospita Syrtis;<BR>
+hinc deserta siti regio lateque furentes<BR>
+Barcaei. quid bella Tyro surgentia dicam<BR>
+germanique minas?<BR>
+dis equidem auspicibus reor et Iunone secunda (4,45)<BR>
+hunc cursum Iliacas vento tenuisse carinas.<BR>
+quam tu urbem, soror, hanc cernes, quae surgere regna<BR>
+coniugio tali! Teucrum comitantibus armis<BR>
+Punica se quantis attollet gloria rebus!<BR>
+tu modo posce deos veniam, sacrisque litatis (4,50)<BR>
+indulge hospitio causasque innecte morandi,<BR>
+dum pelago desaevit hiems et aquosus Orion,<BR>
+quassataeque rates, dum non tractabile caelum.'<BR>
+<BR>
+His dictis impenso animum flammavit amore<BR>
+spemque dedit dubiae menti solvitque pudorem. (4,55)<BR>
+principio delubra adeunt pacemque per aras<BR>
+exquirunt; mactant lectas de more bidentis<BR>
+legiferae Cereri Phoeboque patrique Lyaeo,<BR>
+Iunoni ante omnis, cui vincla iugalia curae.<BR>
+ipsa tenens dextra pateram pulcherrima Dido (4,60)<BR>
+candentis vaccae media inter cornua fundit,<BR>
+aut ante ora deum pinguis spatiatur ad aras,<BR>
+instauratque diem donis, pecudumque reclusis<BR>
+pectoribus inhians spirantia consulit exta.<BR>
+heu, vatum ignarae mentes! quid vota furentem, (4,65)<BR>
+quid delubra iuvant? est mollis flamma medullas<BR>
+interea et tacitum vivit sub pectore vulnus.<BR>
+uritur infelix Dido totaque vagatur<BR>
+urbe furens, qualis coniecta cerva sagitta,<BR>
+quam procul incautam nemora inter Cresia fixit (4,70)<BR>
+pastor agens telis liquitque volatile ferrum<BR>
+nescius: illa fuga silvas saltusque peragrat<BR>
+Dictaeos; haeret lateri letalis harundo.<BR>
+nunc media Aenean secum per moenia ducit<BR>
+Sidoniasque ostentat opes urbemque paratam, (4,75)<BR>
+incipit effari mediaque in voce resistit;<BR>
+nunc eadem labente die convivia quaerit,<BR>
+Iliacosque iterum demens audire labores<BR>
+exposcit pendetque iterum narrantis ab ore.<BR>
+post ubi digressi, lumenque obscura vicissim (4,80)<BR>
+luna premit suadentque cadentia sidera somnos,<BR>
+sola domo maeret vacua stratisque relictis<BR>
+incubat. illum absens absentem auditque videtque,<BR>
+aut gremio Ascanium genitoris imagine capta<BR>
+detinet, infandum si fallere possit amorem. (4,85)<BR>
+non coeptae adsurgunt turres, non arma iuventus<BR>
+exercet portusve aut propugnacula bello<BR>
+tuta parant: pendent opera interrupta minaeque<BR>
+murorum ingentes aequataque machina caelo.<BR>
+<BR>
+Quam simul ac tali persensit peste teneri (4,90)<BR>
+cara Iovis coniunx nec famam obstare furori,<BR>
+talibus adgreditur Venerem Saturnia dictis:<BR>
+'egregiam vero laudem et spolia ampla refertis<BR>
+tuque puerque tuus (magnum et memorabile numen),<BR>
+una dolo divum si femina victa duorum est. (4,95)<BR>
+nec me adeo fallit veritam te moenia nostra<BR>
+suspectas habuisse domos Karthaginis altae.<BR>
+sed quis erit modus, aut quo nunc certamine tanto?<BR>
+quin potius pacem aeternam pactosque hymenaeos<BR>
+exercemus? habes tota quod mente petisti: (4,100)<BR>
+ardet amans Dido traxitque per ossa furorem.<BR>
+communem hunc ergo populum paribusque regamus<BR>
+auspiciis; liceat Phrygio servire marito<BR>
+dotalisque tuae Tyrios permittere dextrae.'<BR>
+<BR>
+Olli (sensit enim simulata mente locutam, (4,105)<BR>
+quo regnum Italiae Libycas averteret oras)<BR>
+sic contra est ingressa Venus: 'quis talia demens<BR>
+abnuat aut tecum malit contendere bello?<BR>
+si modo quod memoras factum fortuna sequatur.<BR>
+sed fatis incerta feror, si Iuppiter unam (4,110)<BR>
+esse velit Tyriis urbem Troiaque profectis,<BR>
+miscerive probet populos aut foedera iungi.<BR>
+tu coniunx, tibi fas animum temptare precando.<BR>
+perge, sequar.' tum sic excepit regia Iuno:<BR>
+'mecum erit iste labor. nunc qua ratione quod instat (4,115)<BR>
+confieri possit, paucis (adverte) docebo.<BR>
+venatum Aeneas unaque miserrima Dido<BR>
+in nemus ire parant, ubi primos crastinus ortus<BR>
+extulerit Titan radiisque retexerit orbem.<BR>
+his ego nigrantem commixta grandine nimbum, (4,120)<BR>
+dum trepidant alae saltusque indagine cingunt,<BR>
+desuper infundam et tonitru caelum omne ciebo.<BR>
+diffugient comites et nocte tegentur opaca:<BR>
+speluncam Dido dux et Troianus eandem<BR>
+devenient. adero et, tua si mihi certa voluntas, (4,125)<BR>
+conubio iungam stabili propriamque dicabo.<BR>
+hic hymenaeus erit.' non adversata petenti<BR>
+adnuit atque dolis risit Cytherea repertis.<BR>
+<BR>
+Oceanum interea surgens Aurora reliquit.<BR>
+it portis iubare exorto delecta iuventus, (4,130)<BR>
+retia rara, plagae, lato venabula ferro,<BR>
+Massylique ruunt equites et odora canum vis.<BR>
+reginam thalamo cunctantem ad limina primi<BR>
+Poenorum exspectant, ostroque insignis et auro<BR>
+stat sonipes ac frena ferox spumantia mandit. (4,135)<BR>
+tandem progreditur magna stipante caterva<BR>
+Sidoniam picto chlamydem circumdata limbo;<BR>
+cui pharetra ex auro, crines nodantur in aurum,<BR>
+aurea purpuream subnectit fibula vestem.<BR>
+nec non et Phrygii comites et laetus Iulus (4,140)<BR>
+incedunt. ipse ante alios pulcherrimus omnis<BR>
+infert se socium Aeneas atque agmina iungit.<BR>
+qualis ubi hibernam Lyciam Xanthique fluenta<BR>
+deserit ac Delum maternam invisit Apollo<BR>
+instauratque choros, mixtique altaria circum (4,145)<BR>
+Cretesque Dryopesque fremunt pictique Agathyrsi;<BR>
+ipse iugis Cynthi graditur mollique fluentem<BR>
+fronde premit crinem fingens atque implicat auro,<BR>
+tela sonant umeris: haud illo segnior ibat<BR>
+Aeneas, tantum egregio decus enitet ore. (4,150)<BR>
+postquam altos ventum in montis atque invia lustra,<BR>
+ecce ferae saxi deiectae vertice caprae<BR>
+decurrere iugis; alia de parte patentis<BR>
+transmittunt cursu campos atque agmina cervi<BR>
+pulverulenta fuga glomerant montisque relinquunt. (4,155)<BR>
+at puer Ascanius mediis in vallibus acri<BR>
+gaudet equo iamque hos cursu, iam praeterit illos,<BR>
+spumantemque dari pecora inter inertia votis<BR>
+optat aprum, aut fulvum descendere monte leonem.<BR>
+<BR>
+Interea magno misceri murmure caelum (4,160)<BR>
+incipit, insequitur commixta grandine nimbus,<BR>
+et Tyrii comites passim et Troiana iuventus<BR>
+Dardaniusque nepos Veneris diversa per agros<BR>
+tecta metu petiere; ruunt de montibus amnes.<BR>
+speluncam Dido dux et Troianus eandem (4,165)<BR>
+deveniunt. prima et Tellus et pronuba Iuno<BR>
+dant signum; fulsere ignes et conscius aether<BR>
+conubiis summoque ulularunt vertice Nymphae.<BR>
+ille dies primus leti primusque malorum<BR>
+causa fuit; neque enim specie famave movetur (4,170)<BR>
+nec iam furtivum Dido meditatur amorem:<BR>
+coniugium vocat, hoc praetexit nomine culpam.<BR>
+<BR>
+Extemplo Libyae magnas it Fama per urbes,<BR>
+Fama, malum qua non aliud velocius ullum:<BR>
+mobilitate viget virisque adquirit eundo, (4,175)<BR>
+parva metu primo, mox sese attollit in auras<BR>
+ingrediturque solo et caput inter nubila condit.<BR>
+illam Terra parens ira inritata deorum<BR>
+extremam, ut perhibent, Coeo Enceladoque sororem<BR>
+progenuit pedibus celerem et pernicibus alis, (4,180)<BR>
+monstrum horrendum, ingens, cui quot sunt corpore plumae,<BR>
+tot vigiles oculi subter (mirabile dictu),<BR>
+tot linguae, totidem ora sonant, tot subrigit auris.<BR>
+nocte volat caeli medio terraeque per umbram<BR>
+stridens, nec dulci declinat lumina somno; (4,185)<BR>
+luce sedet custos aut summi culmine tecti<BR>
+turribus aut altis, et magnas territat urbes,<BR>
+tam ficti pravique tenax quam nuntia veri.<BR>
+haec tum multiplici populos sermone replebat<BR>
+gaudens, et pariter facta atque infecta canebat: (4,190)<BR>
+venisse Aenean Troiano sanguine cretum,<BR>
+cui se pulchra viro dignetur iungere Dido;<BR>
+nunc hiemem inter se luxu, quam longa, fovere<BR>
+regnorum immemores turpique cupidine captos.<BR>
+haec passim dea foeda virum diffundit in ora. (4,195)<BR>
+protinus ad regem cursus detorquet Iarban<BR>
+incenditque animum dictis atque aggerat iras.<BR>
+<BR>
+Hic Hammone satus rapta Garamantide nympha<BR>
+templa Iovi centum latis immania regnis,<BR>
+centum aras posuit vigilemque sacraverat ignem, (4,200)<BR>
+excubias divum aeternas, pecudumque cruore<BR>
+pingue solum et variis florentia limina sertis.<BR>
+isque amens animi et rumore accensus amaro<BR>
+dicitur ante aras media inter numina divum<BR>
+multa Iovem manibus supplex orasse supinis: (4,205)<BR>
+'Iuppiter omnipotens, cui nunc Maurusia pictis<BR>
+gens epulata toris Lenaeum libat honorem,<BR>
+aspicis haec? an te, genitor, cum fulmina torques<BR>
+nequiquam horremus, caecique in nubibus ignes<BR>
+terrificant animos et inania murmura miscent? (4,210)<BR>
+femina, quae nostris errans in finibus urbem<BR>
+exiguam pretio posuit, cui litus arandum<BR>
+cuique loci leges dedimus, conubia nostra<BR>
+reppulit ac dominum Aenean in regna recepit.<BR>
+et nunc ille Paris cum semiviro comitatu, (4,215)<BR>
+Maeonia mentum mitra crinemque madentem<BR>
+subnexus, rapto potitur: nos munera templis<BR>
+quippe tuis ferimus famamque fovemus inanem.'<BR>
+<BR>
+Talibus orantem dictis arasque tenentem<BR>
+audiit Omnipotens, oculosque ad moenia torsit (4,220)<BR>
+regia et oblitos famae melioris amantis.<BR>
+tum sic Mercurium adloquitur ac talia mandat:<BR>
+'vade age, nate, voca Zephyros et labere pennis<BR>
+Dardaniumque ducem, Tyria Karthagine qui nunc<BR>
+exspectat fatisque datas non respicit urbes, (4,225)<BR>
+adloquere et celeris defer mea dicta per auras.<BR>
+non illum nobis genetrix pulcherrima talem<BR>
+promisit Graiumque ideo bis vindicat armis;<BR>
+sed fore qui gravidam imperiis belloque frementem<BR>
+Italiam regeret, genus alto a sanguine Teucri (4,230)<BR>
+proderet, ac totum sub leges mitteret orbem.<BR>
+si nulla accendit tantarum gloria rerum<BR>
+nec super ipse sua molitur laude laborem,<BR>
+Ascanione pater Romanas invidet arces?<BR>
+quid struit? aut qua spe inimica in gente moratur (4,235)<BR>
+nec prolem Ausoniam et Lavinia respicit arva?<BR>
+naviget! haec summa est, hic nostri nuntius esto.'<BR>
+<BR>
+Dixerat. ille patris magni parere parabat<BR>
+imperio; et primum pedibus talaria nectit<BR>
+aurea, quae sublimem alis sive aequora supra (4,240)<BR>
+seu terram rapido pariter cum flamine portant.<BR>
+tum virgam capit: hac animas ille evocat Orco<BR>
+pallentis, alias sub Tartara tristia mittit,<BR>
+dat somnos adimitque, et lumina morte resignat.<BR>
+illa fretus agit ventos et turbida tranat (4,245)<BR>
+nubila. iamque volans apicem et latera ardua cernit<BR>
+Atlantis duri caelum qui vertice fulcit,<BR>
+Atlantis, cinctum adsidue cui nubibus atris<BR>
+piniferum caput et vento pulsatur et imbri,<BR>
+nix umeros infusa tegit, tum flumina mento (4,250)<BR>
+praecipitant senis, et glacie riget horrida barba.<BR>
+hic primum paribus nitens Cyllenius alis<BR>
+constitit; hinc toto praeceps se corpore ad undas<BR>
+misit avi similis, quae circum litora, circum<BR>
+piscosos scopulos humilis volat aequora iuxta. (4,255)<BR>
+haud aliter terras inter caelumque volabat<BR>
+litus harenosum ad Libyae, ventosque secabat<BR>
+materno veniens ab avo Cyllenia proles.<BR>
+ut primum alatis tetigit magalia plantis,<BR>
+Aenean fundantem arces ac tecta novantem (4,260)<BR>
+conspicit. atque illi stellatus iaspide fulva<BR>
+ensis erat Tyrioque ardebat murice laena<BR>
+demissa ex umeris, dives quae munera Dido<BR>
+fecerat, et tenui telas discreverat auro.<BR>
+continuo invadit: 'tu nunc Karthaginis altae (4,265)<BR>
+fundamenta locas pulchramque uxorius urbem<BR>
+exstruis? heu, regni rerumque oblite tuarum!<BR>
+ipse deum tibi me claro demittit Olympo<BR>
+regnator, caelum et terras qui numine torquet,<BR>
+ipse haec ferre iubet celeris mandata per auras: (4,270)<BR>
+quid struis? aut qua spe Libycis teris otia terris?<BR>
+si te nulla movet tantarum gloria rerum<BR>
+[nec super ipse tua moliris laude laborem,]<BR>
+Ascanium surgentem et spes heredis Iuli<BR>
+respice, cui regnum Italiae Romanaque tellus (4,275)<BR>
+debetur.' tali Cyllenius ore locutus<BR>
+mortalis visus medio sermone reliquit<BR>
+et procul in tenuem ex oculis evanuit auram.<BR>
+<BR>
+At vero Aeneas aspectu obmutuit amens,<BR>
+arrectaeque horrore comae et vox faucibus haesit. (4,280)<BR>
+ardet abire fuga dulcisque relinquere terras,<BR>
+attonitus tanto monitu imperioque deorum.<BR>
+heu quid agat? quo nunc reginam ambire furentem<BR>
+audeat adfatu? quae prima exordia sumat?<BR>
+atque animum nunc huc celerem nunc dividit illuc (4,285)<BR>
+in partisque rapit varias perque omnia versat.<BR>
+haec alternanti potior sententia visa est:<BR>
+Mnesthea Sergestumque vocat fortemque Serestum,<BR>
+classem aptent taciti sociosque ad litora cogant,<BR>
+arma parent et quae rebus sit causa novandis (4,290)<BR>
+dissimulent; sese interea, quando optima Dido<BR>
+nesciat et tantos rumpi non speret amores,<BR>
+temptaturum aditus et quae mollissima fandi<BR>
+tempora, quis rebus dexter modus. ocius omnes<BR>
+imperio laeti parent et iussa facessunt. (4,295)<BR>
+<BR>
+At regina dolos (quis fallere possit amantem?)<BR>
+praesensit, motusque excepit prima futuros<BR>
+omnia tuta timens. eadem impia Fama furenti<BR>
+detulit armari classem cursumque parari.<BR>
+saevit inops animi totamque incensa per urbem (4,300)<BR>
+bacchatur, qualis commotis excita sacris<BR>
+Thyias, ubi audito stimulant trieterica Baccho<BR>
+orgia nocturnusque vocat clamore Cithaeron.<BR>
+tandem his Aenean compellat vocibus ultro:<BR>
+'dissimulare etiam sperasti, perfide, tantum (4,305)<BR>
+posse nefas tacitusque mea decedere terra?<BR>
+nec te noster amor nec te data dextera quondam<BR>
+nec moritura tenet crudeli funere Dido?<BR>
+quin etiam hiberno moliri sidere classem<BR>
+et mediis properas Aquilonibus ire per altum, (4,310)<BR>
+crudelis? quid, si non arva aliena domosque<BR>
+ignotas peteres, et Troia antiqua maneret,<BR>
+Troia per undosum peteretur classibus aequor?<BR>
+mene fugis? per ego has lacrimas dextramque tuam te<BR>
+(quando aliud mihi iam miserae nihil ipsa reliqui), (4,315)<BR>
+per conubia nostra, per inceptos hymenaeos,<BR>
+si bene quid de te merui, fuit aut tibi quicquam<BR>
+dulce meum, miserere domus labentis et istam,<BR>
+oro, si quis adhuc precibus locus, exue mentem.<BR>
+te propter Libycae gentes Nomadumque tyranni (4,320)<BR>
+odere, infensi Tyrii; te propter eundem<BR>
+exstinctus pudor et, qua sola sidera adibam,<BR>
+fama prior. cui me moribundam deseris hospes<BR>
+(hoc solum nomen quoniam de coniuge restat)?<BR>
+quid moror? an mea Pygmalion dum moenia frater (4,325)<BR>
+destruat aut captam ducat Gaetulus Iarbas?<BR>
+saltem si qua mihi de te suscepta fuisset<BR>
+ante fugam suboles, si quis mihi parvulus aula<BR>
+luderet Aeneas, qui te tamen ore referret,<BR>
+non equidem omnino capta ac deserta viderer.' (4,330)<BR>
+<BR>
+Dixerat. ille Iovis monitis immota tenebat<BR>
+lumina et obnixus curam sub corde premebat.<BR>
+tandem pauca refert: 'ego te, quae plurima fando<BR>
+enumerare vales, numquam, regina, negabo<BR>
+promeritam, nec me meminisse pigebit Elissae (4,335)<BR>
+dum memor ipse mei, dum spiritus hos regit artus.<BR>
+pro re pauca loquar. neque ego hanc abscondere furto<BR>
+speravi (ne finge) fugam, nec coniugis umquam<BR>
+praetendi taedas aut haec in foedera veni.<BR>
+me si fata meis paterentur ducere vitam (4,340)<BR>
+auspiciis et sponte mea componere curas,<BR>
+urbem Troianam primum dulcisque meorum<BR>
+reliquias colerem, Priami tecta alta manerent,<BR>
+et recidiva manu posuissem Pergama victis.<BR>
+sed nunc Italiam magnam Gryneus Apollo, (4,345)<BR>
+Italiam Lyciae iussere capessere sortes;<BR>
+hic amor, haec patria est. si te Karthaginis arces<BR>
+Phoenissam Libycaeque aspectus detinet urbis,<BR>
+quae tandem Ausonia Teucros considere terra<BR>
+invidia est? et nos fas extera quaerere regna. (4,350)<BR>
+me patris Anchisae, quotiens umentibus umbris<BR>
+nox operit terras, quotiens astra ignea surgunt,<BR>
+admonet in somnis et turbida terret imago;<BR>
+me puer Ascanius capitisque iniuria cari,<BR>
+quem regno Hesperiae fraudo et fatalibus arvis. (4,355)<BR>
+nunc etiam interpres divum Iove missus ab ipso<BR>
+(testor utrumque caput) celeris mandata per auras<BR>
+detulit: ipse deum manifesto in lumine vidi<BR>
+intrantem muros vocemque his auribus hausi.<BR>
+desine meque tuis incendere teque querelis; (4,360)<BR>
+Italiam non sponte sequor.'<BR>
+<BR>
+Talia dicentem iamdudum aversa tuetur<BR>
+huc illuc volvens oculos totumque pererrat<BR>
+luminibus tacitis et sic accensa profatur:<BR>
+'nec tibi diva parens generis nec Dardanus auctor, (4,365)<BR>
+perfide, sed duris genuit te cautibus horrens<BR>
+Caucasus Hyrcanaeque admorunt ubera tigres.<BR>
+nam quid dissimulo aut quae me ad maiora reservo?<BR>
+num fletu ingemuit nostro? num lumina flexit?<BR>
+num lacrimas victus dedit aut miseratus amantem est? (4,370)<BR>
+quae quibus anteferam? iam iam nec maxima Iuno<BR>
+nec Saturnius haec oculis pater aspicit aequis.<BR>
+nusquam tuta fides. eiectum litore, egentem<BR>
+excepi et regni demens in parte locavi.<BR>
+amissam classem, socios a morte reduxi (4,375)<BR>
+(heu furiis incensa feror!): nunc augur Apollo,<BR>
+nunc Lyciae sortes, nunc et Iove missus ab ipso<BR>
+interpres divum fert horrida iussa per auras.<BR>
+scilicet is superis labor est, ea cura quietos<BR>
+sollicitat. neque te teneo neque dicta refello: (4,380)<BR>
+i, sequere Italiam ventis, pete regna per undas.<BR>
+spero equidem mediis, si quid pia numina possunt,<BR>
+supplicia hausurum scopulis et nomine Dido<BR>
+saepe vocaturum. sequar atris ignibus absens<BR>
+et, cum frigida mors anima seduxerit artus, (4,385)<BR>
+omnibus umbra locis adero. dabis, improbe, poenas.<BR>
+audiam et haec Manis veniet mihi fama sub imos.'<BR>
+his medium dictis sermonem abrumpit et auras<BR>
+aegra fugit seque ex oculis avertit et aufert,<BR>
+linquens multa metu cunctantem et multa parantem (4,390)<BR>
+dicere. suscipiunt famulae conlapsaque membra<BR>
+marmoreo referunt thalamo stratisque reponunt.<BR>
+<BR>
+At pius Aeneas, quamquam lenire dolentem<BR>
+solando cupit et dictis avertere curas,<BR>
+multa gemens magnoque animum labefactus amore (4,395)<BR>
+iussa tamen divum exsequitur classemque revisit.<BR>
+tum vero Teucri incumbunt et litore celsas<BR>
+deducunt toto navis. natat uncta carina,<BR>
+frondentisque ferunt remos et robora silvis<BR>
+infabricata fugae studio. (4,400)<BR>
+migrantis cernas totaque ex urbe ruentis:<BR>
+ac velut ingentem formicae farris acervum<BR>
+cum populant hiemis memores tectoque reponunt,<BR>
+it nigrum campis agmen praedamque per herbas<BR>
+convectant calle angusto; pars grandia trudunt (4,405)<BR>
+obnixae frumenta umeris, pars agmina cogunt<BR>
+castigantque moras, opere omnis semita fervet.<BR>
+quis tibi tum, Dido, cernenti talia sensus,<BR>
+quosve dabas gemitus, cum litora fervere late<BR>
+prospiceres arce ex summa, totumque videres (4,410)<BR>
+misceri ante oculos tantis clamoribus aequor!<BR>
+improbe Amor, quid non mortalia pectora cogis!<BR>
+ire iterum in lacrimas, iterum temptare precando<BR>
+cogitur et supplex animos summittere amori,<BR>
+ne quid inexpertum frustra moritura relinquat. (4,415)<BR>
+<BR>
+'Anna, vides toto properari litore circum:<BR>
+undique convenere; vocat iam carbasus auras,<BR>
+puppibus et laeti nautae imposuere coronas.<BR>
+hunc ego si potui tantum sperare dolorem,<BR>
+et perferre, soror, potero. miserae hoc tamen unum (4,420)<BR>
+exsequere, Anna, mihi; solam nam perfidus ille<BR>
+te colere, arcanos etiam tibi credere sensus;<BR>
+sola viri mollis aditus et tempora noras.<BR>
+i, soror, atque hostem supplex adfare superbum:<BR>
+non ego cum Danais Troianam exscindere gentem (4,425)<BR>
+Aulide iuravi classemve ad Pergama misi,<BR>
+nec patris Anchisae cinerem manisve revelli:<BR>
+cur mea dicta negat duras demittere in auris?<BR>
+quo ruit? extremum hoc miserae det munus amanti:<BR>
+exspectet facilemque fugam ventosque ferentis. (4,430)<BR>
+non iam coniugium antiquum, quod prodidit, oro,<BR>
+nec pulchro ut Latio careat regnumque relinquat:<BR>
+tempus inane peto, requiem spatiumque furori,<BR>
+dum mea me victam doceat fortuna dolere.<BR>
+extremam hanc oro veniam (miserere sororis), (4,435)<BR>
+quam mihi cum dederit cumulatam morte remittam.'<BR>
+<BR>
+Talibus orabat, talisque miserrima fletus<BR>
+fertque refertque soror. sed nullis ille movetur<BR>
+fletibus aut voces ullas tractabilis audit;<BR>
+fata obstant placidasque viri deus obstruit auris. (4,440)<BR>
+ac velut annoso validam cum robore quercum<BR>
+Alpini Boreae nunc hinc nunc flatibus illinc<BR>
+eruere inter se certant; it stridor, et altae<BR>
+consternunt terram concusso stipite frondes;<BR>
+ipsa haeret scopulis et quantum vertice ad auras (4,445)<BR>
+aetherias, tantum radice in Tartara tendit:<BR>
+haud secus adsiduis hinc atque hinc vocibus heros<BR>
+tunditur, et magno persentit pectore curas;<BR>
+mens immota manet, lacrimae volvuntur inanes.<BR>
+<BR>
+Tum vero infelix fatis exterrita Dido (4,450)<BR>
+mortem orat; taedet caeli convexa tueri.<BR>
+quo magis inceptum peragat lucemque relinquat,<BR>
+vidit, turicremis cum dona imponeret aris,<BR>
+(horrendum dictu) latices nigrescere sacros<BR>
+fusaque in obscenum se vertere vina cruorem; (4,455)<BR>
+hoc visum nulli, non ipsi effata sorori.<BR>
+praeterea fuit in tectis de marmore templum<BR>
+coniugis antiqui, miro quod honore colebat,<BR>
+velleribus niveis et festa fronde revinctum:<BR>
+hinc exaudiri voces et verba vocantis (4,460)<BR>
+visa viri, nox cum terras obscura teneret,<BR>
+solaque culminibus ferali carmine bubo<BR>
+saepe queri et longas in fletum ducere voces;<BR>
+multaque praeterea vatum praedicta priorum<BR>
+terribili monitu horrificant. agit ipse furentem (4,465)<BR>
+in somnis ferus Aeneas, semperque relinqui<BR>
+sola sibi, semper longam incomitata videtur<BR>
+ire viam et Tyrios deserta quaerere terra,<BR>
+Eumenidum veluti demens videt agmina Pentheus<BR>
+et solem geminum et duplices se ostendere Thebas, (4,470)<BR>
+aut Agamemnonius scaenis agitatus Orestes,<BR>
+armatam facibus matrem et serpentibus atris<BR>
+cum fugit ultricesque sedent in limine Dirae.<BR>
+<BR>
+Ergo ubi concepit furias evicta dolore<BR>
+decrevitque mori, tempus secum ipsa modumque (4,475)<BR>
+exigit, et maestam dictis adgressa sororem<BR>
+consilium vultu tegit ac spem fronte serenat:<BR>
+'inveni, germana, viam (gratare sorori)<BR>
+quae mihi reddat eum vel eo me solvat amantem.<BR>
+Oceani finem iuxta solemque cadentem (4,480)<BR>
+ultimus Aethiopum locus est, ubi maximus Atlas<BR>
+axem umero torquet stellis ardentibus aptum:<BR>
+hinc mihi Massylae gentis monstrata sacerdos,<BR>
+Hesperidum templi custos, epulasque draconi<BR>
+quae dabat et sacros servabat in arbore ramos, (4,485)<BR>
+spargens umida mella soporiferumque papaver.<BR>
+haec se carminibus promittit solvere mentes<BR>
+quas velit, ast aliis duras immittere curas,<BR>
+sistere aquam fluviis et vertere sidera retro,<BR>
+nocturnosque movet Manis: mugire videbis (4,490)<BR>
+sub pedibus terram et descendere montibus ornos.<BR>
+testor, cara, deos et te, germana, tuumque<BR>
+dulce caput, magicas invitam accingier artis.<BR>
+tu secreta pyram tecto interiore sub auras<BR>
+erige, et arma viri thalamo quae fixa reliquit (4,495)<BR>
+impius exuviasque omnis lectumque iugalem,<BR>
+quo perii, super imponas: abolere nefandi<BR>
+cuncta viri monimenta iuvat monstratque sacerdos.'<BR>
+haec effata silet, pallor simul occupat ora.<BR>
+non tamen Anna novis praetexere funera sacris (4,500)<BR>
+germanam credit, nec tantos mente furores<BR>
+concipit aut graviora timet quam morte Sychaei.<BR>
+ergo iussa parat.<BR>
+<BR>
+At regina, pyra penetrali in sede sub auras<BR>
+erecta ingenti taedis atque ilice secta, (4,505)<BR>
+intenditque locum sertis et fronde coronat<BR>
+funerea; super exuvias ensemque relictum<BR>
+effigiemque toro locat haud ignara futuri.<BR>
+stant arae circum et crinis effusa sacerdos<BR>
+ter centum tonat ore deos, Erebumque Chaosque (4,510)<BR>
+tergeminamque Hecaten, tria virginis ora Dianae.<BR>
+sparserat et latices simulatos fontis Averni,<BR>
+falcibus et messae ad lunam quaeruntur aenis<BR>
+pubentes herbae nigri cum lacte veneni;<BR>
+quaeritur et nascentis equi de fronte revulsus (4,515)<BR>
+et matri praereptus amor.<BR>
+ipsa mola manibusque piis altaria iuxta<BR>
+unum exuta pedem vinclis, in veste recincta,<BR>
+testatur moritura deos et conscia fati<BR>
+sidera; tum, si quod non aequo foedere amantis (4,520)<BR>
+curae numen habet iustumque memorque, precatur.<BR>
+<BR>
+Nox erat et placidum carpebant fessa soporem<BR>
+corpora per terras, silvaeque et saeva quierant<BR>
+aequora, cum medio volvuntur sidera lapsu,<BR>
+cum tacet omnis ager, pecudes pictaeque volucres, (4,525)<BR>
+quaeque lacus late liquidos quaeque aspera dumis<BR>
+rura tenent, somno positae sub nocte silenti.<BR>
+[lenibant curas et corda oblita laborum.]<BR>
+at non infelix animi Phoenissa, neque umquam<BR>
+solvitur in somnos oculisve aut pectore noctem (4,530)<BR>
+accipit: ingeminant curae rursusque resurgens<BR>
+saevit amor magnoque irarum fluctuat aestu.<BR>
+sic adeo insistit secumque ita corde volutat:<BR>
+'en, quid ago? rursusne procos inrisa priores<BR>
+experiar, Nomadumque petam conubia supplex, (4,535)<BR>
+quos ego sim totiens iam dedignata maritos?<BR>
+Iliacas igitur classis atque ultima Teucrum<BR>
+iussa sequar? quiane auxilio iuvat ante levatos<BR>
+et bene apud memores veteris stat gratia facti?<BR>
+quis me autem, fac velle, sinet ratibusve superbis (4,540)<BR>
+invisam accipiet? nescis heu, perdita, necdum<BR>
+Laomedonteae sentis periuria gentis?<BR>
+quid tum? sola fuga nautas comitabor ovantis?<BR>
+an Tyriis omnique manu stipata meorum<BR>
+inferar et, quos Sidonia vix urbe revelli, (4,545)<BR>
+rursus agam pelago et ventis dare vela iubebo?<BR>
+quin morere ut merita es, ferroque averte dolorem.<BR>
+tu lacrimis evicta meis, tu prima furentem<BR>
+his, germana, malis oneras atque obicis hosti.<BR>
+non licuit thalami expertem sine crimine vitam (4,550)<BR>
+degere more ferae, talis nec tangere curas;<BR>
+non servata fides cineri promissa Sychaeo.'<BR>
+<BR>
+Tantos illa suo rumpebat pectore questus:<BR>
+Aeneas celsa in puppi iam certus eundi<BR>
+carpebat somnos rebus iam rite paratis. (4,555)<BR>
+huic se forma dei vultu redeuntis eodem<BR>
+obtulit in somnis rursusque ita visa monere est,<BR>
+omnia Mercurio similis, vocemque coloremque<BR>
+et crinis flavos et membra decora iuventa:<BR>
+'nate dea, potes hoc sub casu ducere somnos, (4,560)<BR>
+nec quae te circum stent deinde pericula cernis,<BR>
+demens, nec Zephyros audis spirare secundos?<BR>
+illa dolos dirumque nefas in pectore versat<BR>
+certa mori, variosque irarum concitat aestus.<BR>
+non fugis hinc praeceps, dum praecipitare potestas? (4,565)<BR>
+iam mare turbari trabibus saevasque videbis<BR>
+conlucere faces, iam fervere litora flammis,<BR>
+si te his attigerit terris Aurora morantem.<BR>
+heia age, rumpe moras. varium et mutabile semper<BR>
+femina.' sic fatus nocti se immiscuit atrae. (4,570)<BR>
+<BR>
+Tum vero Aeneas subitis exterritus umbris<BR>
+corripit e somno corpus sociosque fatigat<BR>
+praecipitis: 'vigilate, viri, et considite transtris;<BR>
+solvite vela citi. deus aethere missus ab alto<BR>
+festinare fugam tortosque incidere funis (4,575)<BR>
+ecce iterum instimulat. sequimur te, sancte deorum,<BR>
+quisquis es, imperioque iterum paremus ovantes.<BR>
+adsis o placidusque iuves et sidera caelo<BR>
+dextra feras.' dixit vaginaque eripit ensem<BR>
+fulmineum strictoque ferit retinacula ferro. (4,580)<BR>
+idem omnis simul ardor habet, rapiuntque ruuntque;<BR>
+litora deseruere, latet sub classibus aequor,<BR>
+adnixi torquent spumas et caerula verrunt.<BR>
+<BR>
+Et iam prima novo spargebat lumine terras<BR>
+Tithoni croceum linquens Aurora cubile. (4,585)<BR>
+regina e speculis ut primam albescere lucem<BR>
+vidit et aequatis classem procedere velis,<BR>
+litoraque et vacuos sensit sine remige portus,<BR>
+terque quaterque manu pectus percussa decorum<BR>
+flaventisque abscissa comas 'pro Iuppiter! ibit (4,590)<BR>
+hic,' ait 'et nostris inluserit advena regnis?<BR>
+non arma expedient totaque ex urbe sequentur,<BR>
+diripientque rates alii navalibus? ite,<BR>
+ferte citi flammas, date tela, impellite remos!<BR>
+quid loquor? aut ubi sum? quae mentem insania mutat? (4,595)<BR>
+infelix Dido, nunc te facta impia tangunt?<BR>
+tum decuit, cum sceptra dabas. en dextra fidesque,<BR>
+quem secum patrios aiunt portare penatis,<BR>
+quem subiisse umeris confectum aetate parentem!<BR>
+non potui abreptum divellere corpus et undis (4,600)<BR>
+spargere? non socios, non ipsum absumere ferro<BR>
+Ascanium patriisque epulandum ponere mensis?<BR>
+verum anceps pugnae fuerat fortuna. fuisset:<BR>
+quem metui moritura? faces in castra tulissem<BR>
+implessemque foros flammis natumque patremque (4,605)<BR>
+cum genere exstinxem, memet super ipsa dedissem.<BR>
+Sol, qui terrarum flammis opera omnia lustras,<BR>
+tuque harum interpres curarum et conscia Iuno,<BR>
+nocturnisque Hecate triviis ululata per urbes<BR>
+et Dirae ultrices et di morientis Elissae, (4,610)<BR>
+accipite haec, meritumque malis advertite numen<BR>
+et nostras audite preces. si tangere portus<BR>
+infandum caput ac terris adnare necesse est,<BR>
+et sic fata Iovis poscunt, hic terminus haeret,<BR>
+at bello audacis populi vexatus et armis, (4,615)<BR>
+finibus extorris, complexu avulsus Iuli<BR>
+auxilium imploret videatque indigna suorum<BR>
+funera; nec, cum se sub leges pacis iniquae<BR>
+tradiderit, regno aut optata luce fruatur,<BR>
+sed cadat ante diem mediaque inhumatus harena. (4,620)<BR>
+haec precor, hanc vocem extremam cum sanguine fundo.<BR>
+tum vos, o Tyrii, stirpem et genus omne futurum<BR>
+exercete odiis, cinerique haec mittite nostro<BR>
+munera. nullus amor populis nec foedera sunto.<BR>
+exoriare aliquis nostris ex ossibus ultor (4,625)<BR>
+qui face Dardanios ferroque sequare colonos,<BR>
+nunc, olim, quocumque dabunt se tempore vires.<BR>
+litora litoribus contraria, fluctibus undas<BR>
+imprecor, arma armis: pugnent ipsique nepotesque.'<BR>
+<BR>
+Haec ait, et partis animum versabat in omnis, (4,630)<BR>
+invisam quaerens quam primum abrumpere lucem.<BR>
+tum breviter Barcen nutricem adfata Sychaei,<BR>
+namque suam patria antiqua cinis ater habebat:<BR>
+'Annam, cara mihi nutrix, huc siste sororem:<BR>
+dic corpus properet fluviali spargere lympha, (4,635)<BR>
+et pecudes secum et monstrata piacula ducat.<BR>
+sic veniat, tuque ipsa pia tege tempora vitta.<BR>
+sacra Iovi Stygio, quae rite incepta paravi,<BR>
+perficere est animus finemque imponere curis<BR>
+Dardaniique rogum capitis permittere flammae.' (4,640)<BR>
+sic ait. illa gradum studio celebrabat anili.<BR>
+at trepida et coeptis immanibus effera Dido<BR>
+sanguineam volvens aciem, maculisque trementis<BR>
+interfusa genas et pallida morte futura,<BR>
+interiora domus inrumpit limina et altos (4,645)<BR>
+conscendit furibunda rogos ensemque recludit<BR>
+Dardanium, non hos quaesitum munus in usus.<BR>
+hic, postquam Iliacas vestis notumque cubile<BR>
+conspexit, paulum lacrimis et mente morata<BR>
+incubuitque toro dixitque novissima verba: (4,650)<BR>
+'dulces exuviae, dum fata deusque sinebat,<BR>
+accipite hanc animam meque his exsolvite curis.<BR>
+vixi et quem dederat cursum Fortuna peregi,<BR>
+et nunc magna mei sub terras ibit imago.<BR>
+urbem praeclaram statui, mea moenia vidi, (4,655)<BR>
+ulta virum poenas inimico a fratre recepi,<BR>
+felix, heu nimium felix, si litora tantum<BR>
+numquam Dardaniae tetigissent nostra carinae.'<BR>
+dixit, et os impressa toro 'moriemur inultae,<BR>
+sed moriamur' ait. 'sic, sic iuvat ire sub umbras. (4,660)<BR>
+hauriat hunc oculis ignem crudelis ab alto<BR>
+Dardanus, et nostrae secum ferat omina mortis.'<BR>
+dixerat, atque illam media inter talia ferro<BR>
+conlapsam aspiciunt comites, ensemque cruore<BR>
+spumantem sparsasque manus. it clamor ad alta (4,665)<BR>
+atria: concussam bacchatur Fama per urbem.<BR>
+lamentis gemituque et femineo ululatu<BR>
+tecta fremunt, resonat magnis plangoribus aether,<BR>
+non aliter quam si immissis ruat hostibus omnis<BR>
+Karthago aut antiqua Tyros, flammaeque furentes (4,670)<BR>
+culmina perque hominum volvantur perque deorum.<BR>
+audiit exanimis trepidoque exterrita cursu<BR>
+unguibus ora soror foedans et pectora pugnis<BR>
+per medios ruit, ac morientem nomine clamat:<BR>
+'hoc illud, germana, fuit? me fraude petebas? (4,675)<BR>
+hoc rogus iste mihi, hoc ignes araeque parabant?<BR>
+quid primum deserta querar? comitemne sororem<BR>
+sprevisti moriens? eadem me ad fata vocasses,<BR>
+idem ambas ferro dolor atque eadem hora tulisset.<BR>
+his etiam struxi manibus patriosque vocavi (4,680)<BR>
+voce deos, sic te ut posita, crudelis, abessem?<BR>
+exstinxti te meque, soror, populumque patresque<BR>
+Sidonios urbemque tuam. date, vulnera lymphis<BR>
+abluam et, extremus si quis super halitus errat,<BR>
+ore legam.' sic fata gradus evaserat altos, (4,685)<BR>
+semianimemque sinu germanam amplexa fovebat<BR>
+cum gemitu atque atros siccabat veste cruores.<BR>
+illa gravis oculos conata attollere rursus<BR>
+deficit; infixum stridit sub pectore vulnus.<BR>
+ter sese attollens cubitoque adnixa levavit, (4,690)<BR>
+ter revoluta toro est oculisque errantibus alto<BR>
+quaesivit caelo lucem ingemuitque reperta.<BR>
+<BR>
+Tum Iuno omnipotens longum miserata dolorem<BR>
+difficilisque obitus Irim demisit Olympo<BR>
+quae luctantem animam nexosque resolveret artus. (4,695)<BR>
+nam quia nec fato merita nec morte peribat,<BR>
+sed misera ante diem subitoque accensa furore,<BR>
+nondum illi flavum Proserpina vertice crinem<BR>
+abstulerat Stygioque caput damnaverat Orco.<BR>
+ergo Iris croceis per caelum roscida pennis (4,700)<BR>
+mille trahens varios adverso sole colores<BR>
+devolat et supra caput astitit. 'hunc ego Diti<BR>
+sacrum iussa fero teque isto corpore solvo':<BR>
+sic ait et dextra crinem secat, omnis et una<BR>
+dilapsus calor atque in ventos vita recessit. (4,705)<BR>
+</section>
+  
+  <section id ="FR1">
+LIVRE IV.<BR>
+<BR>
+(4, 1) Cependant la reine, déjà atteinte d’un mal profond, nourrit dans ses veines une cuisante blessure, et est dévorée d’un feu secret. L’insigne valeur du héros, la noblesse de sa race lui reviennent sans cesse à l’esprit ; ses traits, ses paroles sont restés empreints dans son cœur ; et sa passion ne lui laisse pas goûter le doux sommeil. Le lendemain, l’Aurore avait à peine éclairé la terre des premiers feux de Phébus et chassé des cieux l’ombre humide, que Didon aborde sa sœur, sa sœur qui n’a qu’une âme avec elle, et dans son égarement lui parle ainsi : « Anna, ma sœur, quelles insomnies m’inquiètent et m’épouvantent ! (4, 10) Quel est cet étranger nouvellement arrivé dans nos demeures ? Qu’il a l’air noble ! quel cœur intrépide ! quelle valeur dans les combats ! Oui, je crois, et ce n’est point une vaine idée, qu’il est du sang des dieux : la peur trahit les âmes dégénérées. Hélas ! qu’il a été agité par les destins ! quelles guerres il nous racontait ! qu’il a épuisé de travaux ! Si je n’avais pas formé dans mon cœur la ferme et immuable resolution de ne plus m’engager dans le lien conjugal, depuis que la mort a trompé mon premier amour ; si je n’avais pris en dégoût le lit nuptial et les torches de l’hymen, peut-être aurais-je succombé à cette seule faiblesse. (4, 20) Anna, te l’avouerai-je ? après les destins malheureux de mon époux Sichée, et depuis qu’immolé par la main d’un frère il a arrosé nos pénates de son sang, cet étranger seul a fléchi ma vertu et ébranlé mon âme chancelante : je reconnais la trace de mes anciens feux. Mais que la terre s’entr’ouvre sous mes pas, que le père tout-puissant des dieux, lançant sa foudre, me précipite dans le séjour des ombres, des pâles ombres de l’Érèbe et dans sa nuit profonde, avant que je te profane, ô Pudeur, ou que je viole tes saintes lois ! Le premier à qui je fus unie a emporté mes amours dans la tombe ; qu’elles y restent avec lui et qu’il les conserve à jamais ! » (4, 30) Elle dit, et des torrents de larmes inondèrent son sein.<BR>
+<BR>
+Anna lui répondit : « Ma sœur, toi qui m’es plus chère que la lumière du jour, seras-tu la seule à te consumer dans les ennuis d’une jeunesse éternelle ? Veux-tu ne jamais connaître ni la douceur d’être mère ni les faveurs de Vénus ? Crois-tu qu’une froide cendre et des mânes ensevelis soient touchés de cette constance ? Je veux que jusqu’à présent aucun de ceux qui ont brigué ta main n’ait pu fléchir ton triste cœur ; tu as dédaigné en Libye Iarbas, déjà repoussé à Tyr, et tant d’autres chefs illustres que nourrit l’Afrique, cette terre féconde en trophées : vas-tu combattre encore un amour qui te plaît ? Et ne regardes-tu pas dans quelle contrée tu es venue t’établir ? (4, 40) Ici les Gétules, peuples indomptables à la guerre, et les Numides aux coursiers sans frein t’environnent, et tu es bornée par les Syrtes inaccessibles ; là s’étendent des déserts que la soif dévore, et les Barcéens qui répandent au loin leurs fureurs. Te dirai-je les guerres qui s’élèvent dans Tyr contre toi, et les menaces de ton frère ? Oui, c’est sous les auspices des dieux et par la faveur de Junon que les vents ont poussé sur ces rivages les vaisseaux d’Ilion. Quelle ville, ô ma sœur, tu verras s’élever, quel empire s’accroître par cet hymen ! Soutenue des armes troyennes, à quel degré de splendeur ne va pas monter la fortune de Carthage ! (4, 50) Toi seulement implore la bonté des dieux ; apaise-les par des sacrifices ; livre-toi aux soins de l’hospitalité ; et de jour en jour inventant des prétextes, retiens tes hôtes tandis que la tempête et le pluvieux Orion se déchaînent sur les mers, que leurs vaisseaux sont fracassés, et que le ciel est intraitable. » Par ce discours elle enflamma ce cœur déjà brûlant d’amour, rendit l’espérance à cette âme encore tremblante, et la délia de la pudeur.<BR>
+<BR>
+Elles vont donc l’une et l’autre dans les temples des dieux, et implorent leur bonté au pied des autels : elles immolent, suivant l’usage, des brebis choisies à Cérès législatrice, à Apollon et à Bacchus, à Junon surtout, qui préside aux nœuds de l’hyménée. (4, 60) Tenant une coupe à la main, la belle Didon elle-même la répand entre les deux cornes d’une génisse blanche, ou, à la face des dieux, elle marche à grands pas autour des gras autels, renouvelle chaque jour ses offrandes, et, penchée sur les flancs ouverts des victimes, elle interroge d’un œil avide leurs fibres palpitantes. Ô vaine science des devins ! Que servent les vœux et les autels contre les fureurs de l’amour ? Tandis qu’elle prie les dieux, une douce flamme consume ses os, et dans son cœur s’entretient une vive et secrète blessure. La malheureuse Didon brûle de tous les feux de l’amour : furieuse, elle erre çà et là dans la ville : telle une biche surprise (4, 70) dans les bois de Crète, et qu’un berger a percée de loin avec ses flèches ; il a laissé sans le savoir le fer ailé dans la blessure ; l’animal fuit à travers les forêts, et franchit les pâturages de Dictée ; mais le trait mortel reste attaché à ses flancs. La reine conduit Énée vers les remparts de la ville, lui montre avec orgueil les richesses rapportées de Sidon, et cette cité toute prête à s’élever. Elle commence à lui parler, et tout à coup elle s’interrompt : quand vient le soir, elle le rappelle encore à de nouveaux festins ; et, dans sa folle envie de l’entendre raconter les malheurs d’Ilion, elle les lui redemande sans cesse, et sans cesse est suspendue aux lèvres du héros. (4, 80) Quand l’heure est venue où ils se séparent, quand la lune plus sombre voile sa lumière et que les astres tombants les invitent enfin au sommeil, elle, triste et abandonnée, reste dans son palais solitaire, se couche sur le lit où le héros s’est reposé ; absent, elle l’entend ; absent, elle le voit encore. Quelquefois elle retient Ascagne sur son sein, charmée par la ressemblance paternelle, et tâche de tromper ainsi son malheureux amour. Les tours commencées ne s’élèvent plus ; la jeunesse ne s’exerce plus aux armes ; elle cesse de creuser les ports, de préparer les fortifications pour la guerre : tous les ouvrages restent suspendus ; et dans les airs s’arrêtent inachevées et menaçantes les hautes murailles, et les machines qui vont toucher les nues.<BR>
+<BR>
+(4, 90) Dès que Junon, la chère épouse de Jupiter, a senti que Didon est atteinte d’un mal incurable, et que le soin de sa renommée n’arrête plus ses fureurs, elle aborde Vénus, et lui parle ainsi : « La belle victoire en vérité pour vous et pour votre fils, le magnifique trophée, le grand et insigne honneur pour deux divinités puissantes, que vaincre par la ruse une faible mortelle ! Je sais que vous redoutez nos nouvelles murailles, et que les palais de ma superbe Carthage ont excité vos soupçons jaloux. Mais quand finiront vos alarmes ? que nous revient-il aujourd’hui de nos grandes querelles ? que ne concluons-nous plutôt une paix éternelle cimentée par un hymen ? (4, 100) vous avez maintenant ce que vous avez désiré de toutes vos forces : Didon brûle d’amour, et attise la flamme qui consume ses veines. Gouvernons désormais les deux peuples confondus et réunis sous les mêmes auspices : consentez que Didon se soumette à un époux phrygien, et que les Tyriens soient la dot qu’il reçoive de vos mains. »<BR>
+<BR>
+Vénus sentit l’artifice de Junon, qui ne parlait ainsi que pour écarter de l’Italie et fixer sur les rivages libyens l’empire promis à son fils : « Qui serait assez insensé, lui répondit-elle, pour repousser de telles offres, et pour aimer mieux engager la lutte avec vous ? Sachons seulement si la fortune fera réussir les projets que vous me proposez. (4, 110) Mais un doute fatal m’agite, et je ne sais si Jupiter voudra permettre que les Tyriens et les exilés de Troie aient une même ville, que les deux peuples se mêlent et s’allient l’un à l’autre. Vous êtes son épouse ; vous seule pouvez essayer de gagner son cœur. Marchez, je vous suis. » Junon reprit en ces termes : « Ce soin me regarde : maintenant je vais vous dire en peu de mots le moyen que j’ai imaginé pour hâter la fin de cet heureux événement. Enée et la malheureuse Didon doivent aller ensemble dans la forêt pour y chasser, dès que Phébus aura montré son front matinal à la terre, et l’aura illuminée de ses rayons naissants. (4, 120) Là, tandis qu’en tumulte on déploiera les filets, et que les forêts seront assiégées par la troupe des chasseurs, je ferai s’épancher sur eux du haut des airs un nuage noir mêlé de grêle, et j’ébranlerai tout le ciel par les éclats du tonnerre. Les chasseurs se disperseront, enveloppés d’une nuit épaisse. Didon et le chef des Troyens iront ensemble se réfugier dans la même grotte. J’y serai présente ; et si je suis assurée de votre volonté, j’unirai Didon à Énée par des nœuds durables, et je la lui donnerai pour épouse. Le dieu Hyménée sera là. » La déesse de Cythère ne refusa pas à Junon ce qu’elle demandait ; elle comprit la ruse, et en sourit.<BR>
+<BR>
+Cependant l’Aurore se levant quittait le sein de l’Océan, (4, 130) et allumait le flambeau du jour, quand l’élite de la jeunesse tyrienne sortit des portes de Carthage. Les filets, les toiles, les épieux garnis d’un large fer, tout est prêt ; les cavaliers massyliens se précipitent, et avec eux la meute des chiens ardente à flairer sa proie. La reine, qui tarde à sortir de son palais, est attendue par les grands de Carthage. Son coursier tout brillant de pourpre et d’or est là qui, fier et impatient, ronge son frein écumant. Enfin elle paraît, environnée d’une nombreuse escorte : sa chlamyde de Tyr est bordée d’une frange aux mille couleurs ; son carquois est d’or ; l’or retient ses cheveux assemblés ; une agrafe d’or soutient les plis ramassés de son manteau de pourpre. (4, 140) Autour d’elle s’avancent les Phrygiens, et Ascagne tout joyeux : le plus beau d’eux tous, Énée se porte à la rencontre de la reine, et se joint à l’escorte. Tel Apollon, quand il quitte la Lycie que l’hiver a glacée, et les rives du Xanthe, et qu’il va revoir Délos son île maternelle, y recommence ses chœurs sacrés : confondus autour de ses autels, les Crétois, les Dryopes, et les Agathyrses qui se peignent le corps, dansent en frémissant : le dieu marche à grands pas sur les cimes du Cynthe ; une branche de laurier presse mollement sa chevelure flottante, où l’or s’entrelace ; ses flèches retentissent sur ses épaules. Tel et aussi agile marchait (4, 150) Enée ; ainsi brille la grâce répandue sur son noble visage. Lorsqu’on eut atteint les hautes montagnes et pénétré dans les inaccessibles retraites des bois, voici que, précipitées de la crête des rochers, les biches courent le long des pentes : d’un autre côté les cerfs, abandonnant les hauteurs, traversent d’une course légère les vastes plaines, et ramassent en fuyant leurs escadrons poudreux. Le jeune Ascagne, charmé du vif coursier qu’il monte, vole à travers les vallées, et devance tantôt les uns, tantôt les autres : il voudrait, dans son ardeur, voir venir à lui, au milieu de ces timides troupeaux, un sanglier écumant, ou un lion à la fauve crinière descendre de la montagne. (4, 160) Cependant le ciel commence à retentir d’un effrayant murmure : un nuage éclate, mêlé de pluie et de grêle. Les Tyriens et la jeunesse Troyenne, et le petit-fils de Vénus, fuient de tous côtés à travers les campagnes, et dans leur frayeur cherchent des abris : des torrents s’élancent du haut des monts. Didon et le chef des Troyens se retirent dans la même grotte : la Terre la première et Junon donnent le signal ; les feux du ciel étincelèrent ; l’Éther s’enflamma, complice de l’Hymen ; et les nymphes en hurlèrent sur le sommet des montagnes. Ce jour fut pour Didon le commencement de sa mort, et le premier de ses jours infortunés. (4, 170) Maintenant rien ne la touche, ni la décence ni l’honneur ; ce n’est plus un amour secret qu’elle prétend cacher ; elle l’appelle un hymen, elle couvre de ce nom sa déplorable faiblesse.<BR>
+<BR>
+Aussitôt la Renommée va parcourant les grandes villes de la Libye ; la Renommée, le plus rapide de tous les maux. La mobilité est sa vie, et elle acquiert des forces en courant. D’abord petite et timide, elle grandit et s’élève dans les airs ; elle chemine sur la terre, et cache sa tête dans les nues. La Terre, irritée contre les dieux, l’enfanta, dit-on, la dernière ; elle est la sœur des géants Cée et Encelade, (4, 180) aussi rapide des pieds que de l’aile. C’est un monstre horrible, immense, le corps couvert de plumes, et qui sous chacune d’elles a des yeux toujours ouverts, une bouche et une langue toujours retentissantes, des oreilles toujours dressées. La nuit, il vole à travers les cieux, et déploie ses ailes bruyantes au milieu des ombres de la terre ; jamais le doux sommeil n’abaisse ses paupières. Le jour, il s’assied, sentinelle immobile, sur le toit des hautes maisons ou sur les tours élevées, et de là il jette l’épouvante dans les grandes villes, aussi ferme à tenir pour le mensonge et la calomnie, qu’à répandre la vérité. Alors l’affreuse déesse semait avec joie mille bruits divers parmi les peuples, (4, 190) disant tout à la fois et ce qui était et ce qui n’était pas. Elle allait publiant qu’Énée, issu du sang troyen, était arrivé sur la terre d’Afrique, et que la belle Didon ne dédaignait pas de s’unir à lui ; qu’ils passaient tous deux le long hiver dans la mollesse et les délices, oubliant leurs empires, et épris l’un pour l’autre d’une indigne passion. Voilà ce que l’odieuse déesse répandait çà et là dans toutes les bouches. Aussitôt elle prend son vol vers le roi Iarbas, enflamme son cœur par ses discours envenimés, et y amasse tous les orages de la colère.<BR>
+<BR>
+Fils de Jupiter Hammon et d’une nymphe du pays des Garamantes enlevée par le dieu, il avait élevé dans ses vastes États cent temples magnifiques au maître de l’Olympe, (4, 200) et cent autels où des feux nuit et jour allumés veillaient éternellement en l’honneur des dieux ; le sang des grasses victimes y ruisselait sur les parvis, et les portes étaient couronnées de guirlandes toujours fleuries. On dit que, furieux et enflammé par le cruel récit des nouvelles amours de Didon, Iarbas, au milieu même des autels des dieux, exhala suppliant, et les mains levées vers Jupiter, ces plaintes insensées : « Dieu tout-puissant, à qui la nation des Maures, dans ses festins et sur ses lits aux mille couleurs, ne cesse de faire de pieuses libations, peux-tu voir et souffrir mon injure ? Est-ce donc en vain, ô mon père, que nous frissonnons d’horreur, lorsque tu lances ta foudre ? Est-ce en vain que ces feux cachés dans la nue (4, 210) épouvantent les cœurs des mortels ? et ton tonnerre n’a-t-il que de vains murmures ? Une femme, une étrangère, errante sur les frontières de mon empire, y bâtit à prix d’or une petite ville, et vient pour défricher ce rivage aride ; je lui donne et lui mesure la terre qu’elle possède : et c’est elle qui rejette ma main, elle qui reçoit Énée dans son royaume et l’en fait maître ! Et maintenant ce Pâris, avec son cortège de femmes, avec sa mitre lydienne et sa chevelure tout humide de parfums, jouit, en ravisseur qu’il est, de sa conquête. Et moi, qui charge tes temples de mes offrandes, je n’ai donc plus qu’une vaine idée de ta puissance. » Ainsi priait Iarbas, et il tenait les autels embrassés : (4, 220) le dieu tout-puissant l’entendit, et, tournant ses regards vers les murs de Carthage, il voit ces deux amants qui y languissent dans l’oubli d’une meilleure renommée. Aussitôt il parle à Mercure, et lui dit : « Va, cours, mon fils, appelle les zéphyrs, et, les ailes déployées, vole vers la terre. Le chef des Troyens se laisse retenir dans la ville tyrienne, et ne songe plus à l’empire que lui assurent les destins : aborde-le, et porte-lui mes ordres à travers les airs rapides. Dis-lui qu’il n’est pas le héros que nous avait promis la belle Vénus sa mère, et que ce n’est pas pour d’aussi tristes destins qu’elle l’a deux fois préservé du fer des Grecs. (4, 229) Digne rejeton du sang de Teucer, il devait être cet illustre mortel qui gouvernerait un jour l’Italie chargée de tant d’empires et toute frémissante de guerre, et qui rangerait l’univers entier sous ses lois. Si des destinées si hautes n’enflamment pas son cœur, et s’il ne soutient pas lui-même ce laborieux ouvrage de sa grandeur, pourquoi, père injuste, envierait-il à son fils Ascagne la gloire d’élever les remparts de Rome ? Que prétend-il ? Quelles espérances le retiennent au milieu d’une nation ennemie ? Et ne regarde-t-il plus dans l’avenir sa postérité ausonienne et les champs de Lavinium ? Qu’il s’embarque, je le veux ; va le lui annoncer. »<BR>
+<BR>
+Il dit, et Mercure se prépare à obéir aux ordres du père tout-puissant des dieux : il attache à ses pieds ses brodequins (4, 240) d’or, dont les ailes le soutiennent au haut des airs, et le portent, rapide comme les vents, au-dessus de la terre et des mers. Il prend sa baguette puissante ; avec elle tantôt il évoque les pâles ombres de l’Orcus, tantôt il envoie vers le sombre Tartare les âmes des mortels ; avec elle il donne et ôte le sommeil, et ouvre les yeux que la mort a fermés : c’est elle qui l’aide à pousser les vents, à traverser les nuées orageuses. Il vole, et déjà il découvre la cime et les flancs sourcilleux de l’Atlas, du dur Atlas qui soutient le fardeau des cieux, et dont la tête, environnée de nuages noirs et couronnée de pins est incessamment battue des vents et des orages. (4, 250) Les épaules du vieillard sont couvertes de neiges amoncelées ; de son menton se précipitent des fleuves, et sa barbe, roidie par les frimas, est toute hérissée de glaçons. Là le dieu, se balançant sur ses ailes immobiles, s’arrête, et d’un élan impétueux de tout son corps se précipite vers la mer, semblable à l’oiseau qui le long des rivages et des rochers poissonneux vole en rasant la surface des eaux. Ainsi volait entre la terre et les cieux le fils de Maïa, quittant les sommets d’Atlas, son aïeul maternel ; ainsi il effleurait les rivages de la Libye et fendait les airs. À peine de ses pieds ailés a-t-il touché les humbles cabanes du pays de Carthage, (4, 260) qu’il aperçoit Énée posant les fondements des hautes murailles et des édifices de la nouvelle cité : il portait à son côté une épée sur laquelle brillait une étoile de jaspe ; de ses épaules tombait un manteau tyrien étincelant des feux de la pourpre, ouvrage et présent de la riche Didon, et qu’elle-même avait tissu, l’entremêlant de filets d’or. Tout à coup le dieu l’aborde : « Eh quoi ! tu poses les fondements de la haute Carthage, et tu songes, esclave et mari d’une étrangère, à lui bâtir une belle ville ; et tu oublies ton empire et tes grandes destinées ! Le roi des dieux, le maître du ciel et de la terre, m’envoie vers toi du haut du brillant Olympe, (4, 270) et veut que je te porte à travers les espaces de l’air les ordres que voici : Que prétends-tu, Énée, et quel espoir te fait te consumer ainsi d’oisiveté sur la terre libyenne ? Si tu n’es pas touché des magnifiques destinées qui t’attendent, et si tu n’entreprends rien toi-même pour ta propre gloire, songe au moins à ton fils Ascagne, à l’héritier de ta fortune, à ses espérances grandissantes ; souviens-toi que l’empire de l’Italie et la terre de Rome lui sont dus. »<BR>
+<BR>
+À ces mots, le dieu se dérobe aux regards du faible mortel qui l’écoute encore, et disparaît au loin comme une vapeur légère.<BR>
+<BR>
+Troublé de cette apparition, Énée reste interdit ; (4, 280) ses cheveux se dressent d’horreur sur sa tête, et sa voix s’arrête sur ses lèvres. Frappé d’un si grand avis des dieux et de leur ordre absolu, il brûle de partir, et de quitter en fugitif ces doux lieux. Hélas ! que faire ? De quel air osera-t-il aborder une amante en fureur ? par quel détour ? que lui dire, et par où commencer ? Mille projets partagent son âme irrésolue, l’entraînent en tous sens, l’agitent et la bouleversent. De désespoir enfin, il s’arrête à ce parti. Il fait appeler Mnesthée, Sergeste, et le brave Cloanthe : (4, 289) il leur dit d’équiper la flotte en silence, de préparer leurs armes, de rassembler leurs compagnons sur le rivage, et de leur cacher la cause de ces mouvements extraordinaires ; lui, tandis que la trop confiante Didon ignore ses desseins et ne s’attend pas à ce qu’un si grand amour puisse se rompre, tentera près d’elle quelque accès, épiera les moments les plus propices pour lui parler, les voies les plus délicates pour l’amener à ses projets. Les Troyens obéissent à ses ordres avec joie, et sur-le-champ les exécutent.<BR>
+<BR>
+Mais la reine (qui peut tromper une amante ?) pressentit la ruse, et la première comprit les mouvements qui se préparaient autour d’elle : elle craint tout, et le calme de son propre cœur. Déjà ses fureurs se ravivent, quand la Renommée, la messagère impie de ses amours, vient lui apprendre qu’on arme la flotte, et qu’on se prépare à mettre à la voile. (4, 300) Alors elle éclate en transports insensés, et, la colère l’enflammant, elle s’emporte à travers la ville. Telle la jeune bacchante s’émeut en préludant aux fêtes du dieu qui l’appelle ; les saintes orgies l’enivrent ; elle n’entend plus que les clameurs nocturnes du Cithéron. Enfin la reine va au-devant d’Énée, et lui parle ainsi :<BR>
+<BR>
+« Perfide, as-tu bien cru pouvoir me cacher un si grand crime, et t’évader en secret de mon royaume ? Ni mon amour, ni la foi que tu m’avais donnée, ni la triste Didon qui n’a plus qu’à mourir, ne peuvent t’arrêter. Cruel ! et c’est par un ciel d’hiver que ta flotte appareille, (4, 310) et qu’en dépit des aquilons déchaînés tu te hâtes de voguer vers la haute mer ! Ah ! quand tu n’irais pas chercher dans de lointains climats une patrie inconnue, quand même l’antique Troie subsisterait encore, irais-tu chercher Troie à travers les mers orageuses ? Est-ce moi que tu fuis ? Par ces larmes que je répands, par cette main qui est la tienne, puisque je n’ai plus que cela, malheureuse ! de tout ce que j’avais, par nos amours, par notre hymen commencé, si j’ai bien mérité de toi en quelque chose, si quelque douceur t’est revenue de moi, aie pitié de ma maison qui tombe, si tu ne demeures ! et je t’en conjure, si tu es encore accessible à mes prières, renonce à ce projet affreux. (4, 320) Pour toi je me suis rendue odieuse aux nations de la Libye, aux rois Nomades, et même à mes Tyriens ; pour toi j’ai perdu ma pudeur ; j’ai perdu le seul bien qui m’égalait aux dieux, ma renommée. À qui vas-tu m’abandonner mourante, cher hôte, puisque c’est le seul nom qui me reste de toi, de toi que j’appelais mon époux ? Que faire ? Attendrai-je que mon frère Pygmalion vienne renverser ces murs, ou qu’il plaise au Gétule Iarbas de m’emmener captive ? Encore si avant ta fuite tu me laissais quelque doux gage de notre amour, s’il m’était né quelque enfant que je visse grandir à ma cour, et qui me rappelât seulement les traits de son père, (4, 330) je ne me trouverais pas tout à fait captive et abandonnée. »<BR>
+<BR>
+Elle dit. Énée, qu’enchaînent les ordres de Jupiter, tient ses regards immobiles, et s’efforce d’étouffer la douleur qui le surmonte. Enfin il répond en peu de mots : « Grande reine, tous les bienfaits que vous me rappelez, je les reconnais, et jamais ne les renierai ; non, jamais je n’aurai de peine à me souvenir de la noble Élise, tant que je vivrai pour me souvenir, tant que mon esprit animera ces membres. N’imaginez pas que j’aie voulu fuir en cachette de vos États, et me dérober à vous : jamais non plus je n’ai fait briller à vos yeux les torches sacrées de l’hymen ; jamais je n’ai engagé dans notre union ma parole d’époux. (4, 340) Si les destins m’eussent permis de disposer de mes jours, et d’ordonner à mon gré des intérêts qui m’agitaient, j’aurais d’abord gardé les chers débris de Troie et les doux restes des miens ; les hauts palais de Priam seraient encore debout, et j’aurais vu mon Ilion, relevé par mes mains, renaître pour les vaincus. Mais aujourd’hui Apollon et les oracles de Lycie m’ordonnent d’aller prendre terre dans la grande Italie : là est ma nouvelle patrie ; je n’ai plus que celle-là que j’aime. Si votre Carthage, si la nouvelle cité libyenne vous charment et vous consolent de Tyr, pourquoi envieriez-vous aux Troyens de s’aller fixer dans les champs de l’Ausonie ? (4, 350) Exilés comme vous, il nous est permis de chercher un empire sur la terre étrangère. L’image lugubre de mon père Anchise, dès que la nuit enveloppe la terre de ses humides ombres, dès que se lèvent dans les cieux les astres enflammés, m’avertit en songe, et me remplit d’épouvante : et je pense à mon fils Ascagne, à cette tête si chère que j’irais frustrer cruellement de l’empire de l’Hespérie et des champs que les destins lui assurent. Aujourd’hui même, (j’en atteste et mon père et cet enfant) le messager des dieux, Mercure, envoyé par Jupiter, est venu du haut des airs m’apporter ses ordres divins. Oui, j’ai vu le dieu lui-même dans son éblouissante lumière, je l’ai vu entrer dans ces murs, et sa voix tonne encore à mon oreille. (4, 360) Cessez donc, ô reine, d’irriter vos douleurs et les miennes par ces plaintes furieuses : je suis en Italie les destins qui m’y entraînent. »<BR>
+<BR>
+Didon en l’écoutant détournait la tête d’horreur : enfin, roulant çà et là des yeux égarés, elle le mesure tout entier de ses regards silencieux, et dans sa rage éclate ainsi : « Perfide, non, tu n’as pas eu pour mère une déesse ; non, tu n’es pas du sang de Dardanus : l’affreux Caucase t’a enfanté dans ses plus durs rochers, et les tigresses de l’Hyrcanie t’ont donné leurs mamelles à sucer. Car qu’ai-je à dissimuler ? quelle plus grande injure ai-je à attendre de toi ? Le barbare a-t-il gémi de mes douleurs ? a-t-il seulement tourné vers moi les yeux ? (4, 370) a-t-il pleuré, vaincu par mes larmes ? a-t-il eu pitié de son amante ? Qu’ai je de pire à souffrir ? Non, non, la puissante fille de Saturne et Jupiter lui-même ne voient pas d’un œil tranquille tant de perfidie. Il n’y a donc plus de bonne foi ! L’ingrat ! rejeté par les flots sur mon rivage, naufragé et misérable, je l’ai recueilli ; j’ai voulu, insensée, qu’il eût une part de mon empire ; sa flotte et ses compagnons étaient perdus ; je les ai tirés du naufrage et de la mort. Ah ! toutes les Furies m’enflamment et me transportent ! Le voilà qui me parle d’Apollon, des oracles lyciens, du messager des dieux, envoyé par Jupiter lui-même, et qui lui porte à travers les airs des ordres redoutables : comme si les dieux s’abaissaient à de pareils soins, comme si nos misères les troublaient dans leur repos ! (4, 380) Va, je ne te retiens plus, je ne daigne pas te confondre. Pars, et que les vents te portent dans ton Italie ; cherche ton empire à travers les ondes. Et moi j’espère, si les dieux justes ont quelque pouvoir, que, brisé contre les rochers, tu épuiseras tous les supplices, et que tu invoqueras souvent le nom d’Élise. Absente, je te poursuivrai de mes torches funèbres ; et lorsque la froide mort aura séparé mon âme de mon corps, ombre importune je serai en tout lieu devant toi. Méchant, c’est toi-même qui me vengeras ; et jusque chez les sombres mânes mes oreilles seront réjouies par le bruit de tes malheurs. »<BR>
+<BR>
+À ces mots qu’elle interrompt tout à coup, et comme si elle fuyait la lumière importune, elle s’échappe et se dérobe aux yeux d’Énée, (4, 390) qu’elle laisse tremblant, interdit, et voulant, mais en vain, lui répondre : elle tombe entre les bras de ses femmes, qui la portent sur sa couche superbe, et l’y laissent épuisée et mourante.<BR>
+<BR>
+Énée, une dernière fois, voudrait calmer par de douces paroles les douleurs de la reine, et la détacher de ce violent amour qui l’ébranle encore lui-même, et qui lui fait pousser de secrets gémissements : mais il persiste à exécuter les ordres des dieux, et il va revoir sa flotte. Alors les Troyens, rivalisant d’ardeur, retirent du rivage les hauts navires ; déjà les carènes enduites de poix sont à flot. Ils tirent des forêts des rames encore couvertes de feuillage, des mâts (4, 400) qu’à peine ils ont ébauchés dans l’ardeur de la fuite. On ne voit que Troyens désertant la ville, et se précipitant en foule hors des remparts. Ainsi les fourmis s’empressent, quand, prévoyant l’hiver, elles ravagent un grand amas de blé, et en portent les débris dans leurs magasins : le noir bataillon va à travers champs, et, chargé de son butin, s’avance sous les herbes par un étroit sentier : les unes poussent avec effort d’énormes grains de froment ; les autres, ralliant les plus lentes, châtient leur paresse ; tout le sentier s’agite et s’échauffe. Et toi qui voyais ces apprêts, infortunée Didon, quelles étaient tes pensées, (4, 409) quels tes gémissements, quand du haut de tes tours tu regardais tout ce rivage en tumulte, et devant toi l’immense mer ? quand tu entendais ces mille cris se confondant au loin sur la plage ? Cruel amour, à quoi ne pousses-tu pas le cœur des mortels ? Voilà cette superbe reine forcée de nouveau à recourir aux larmes, à essayer encore des prières, à abaisser son âme suppliante sous la loi de l’amour ; et cela pour ne pas mourir avant d’avoir tout tenté vainement.<BR>
+<BR>
+« Anna, dit-elle à sa sœur, tu vois comme on s’agite partout, sur le rivage : de tous côtés accourent les Troyens ; déjà la voile appelle les vents, et les matelots joyeux ont couronné les poupes des navires. Si j’avais pu m’attendre à ce coup terrible, (4, 420) j’aurais eu, ma sœur, la force de le supporter. Pourtant je veux de toi un seul et dernier effort ; fais-le, Anna, pour ta malheureuse sœur. Le perfide avait pour toi seule un tendre respect ; et même il te confiait ses plus secrètes pensées ; toi seule tu savais les doux chemins de son cœur, les moments propices pour aller à lui. Va, ma sœur, va trouver en suppliante cet ennemi superbe. Je n’ai point à Aulis conjuré avec les Grecs l’extermination des Troyens ; je n’ai point envoyé mes flottes contre Pergame ; je n’ai point arraché au tombeau les restes d’Anchise, ni dispersé sa cendre. Pourquoi ferme-t-il ses oreilles inhumaines à mes paroles ? Pourquoi se précipiter ainsi ? Qu’il accorde au moins cette grâce dernière à sa malheureuse amante : (4, 430) qu’il attende que la fuite lui soit plus facile, les vents plus favorables. Je ne réclame plus l’ancienne foi de notre hyménée, qu’il a trahie ; je ne veux le priver ni de son beau Latium, ni de son glorieux empire. Je demande un vain délai, un peu de repos, quelque relâche à mon amour, le temps de me laisser vaincre et m’accoutumer à ma triste fortune. J’attends, chère Anna, de ta pitié cette grâce dernière ; si tu me l’accordes, ma mort seule mettra le comble à ma reconnaissance. »<BR>
+<BR>
+Telles étaient ses prières et ses plaintes : en vain sa sœur désolée les porte et les reporte au prince troyen : les pleurs ne le touchent plus, les reproches ne l’ébranlent pas ; (4, 440) les destins l’ont endurci ; un dieu bouche les oreilles du sensible Énée. Tel un chêne au cœur robuste est battu deçà et delà par les aquilons des Alpes, qui s’efforcent de le déraciner ; ils accourent en sifflant ; le tronc est ébranlé, et les feuilles dispersées jonchent au loin la terre : mais l’arbre demeure ferme sur son roc ; et autant sa tête s’élève dans les airs, autant ses racines plongent dans le noir Tartare. Ainsi le héros est assailli de tous côtés par les prières et les sanglots ; son âme en ressent les profondes secousses, mais ne s’en ébranle pas ; et autour de lui coulent vainement les larmes.<BR>
+<BR>
+(4, 450) Alors la malheureuse Didon, épouvantée de sa destinée, appelle la mort ; elle est lasse de voir la voûte des cieux. Tout la pousse à quelque dessein funeste ; tout la dégoûte de la lumière : voici qu’apportant ses offrandes sur les autels, elle voit, ô prodige affreux ! la liqueur sacrée devenir noire, et le vin des libations se changer en un sang abominable. Elle ne dit à personne, pas même à sa sœur, cette vision effrayante. Il y avait dans son palais un temple de marbre consacré aux mânes de son premier époux, et que, dans son zèle pieux et magnifique, elle parait sans cesse des plus blanches toisons et de fraîches guirlandes de feuillage. (4, 460) Il lui semble, à l’heure où la nuit enveloppe la terre de son ombre, qu’elle entend s’échapper du sanctuaire des cris étranges, et la voix de son époux qui l’appelle. Souvent aussi le hibou, seul au sommet de son palais, redit sa plainte funèbre, et traîne en longs gémissements sa voix prophétique. D’anciennes et terribles prédictions, d’épouvantables avertissements des dieux, la glacent d’horreur : Énée lui-même, le cruel Énée la poursuit dans ses songes enflammés ; et il lui semble qu’elle est toujours seule et laissée à elle-même, qu’elle erre seule et sans suite sur une longue route, qu’elle cherche ses Tyriens à travers de vastes solitudes. Ainsi Penthée dans ses fureurs voit accourir à lui cent Euménides, (4, 470) et deux soleils dans les cieux, deux Thèbes lui apparaître à la fois. Ainsi sur nos théâtres le fils d’Agamemnon, Oreste, se démène agité par les Furies, alors qu’il fuit sa mère armée de torches flamboyantes et de noirs serpents, et qu’il voit s’asseoir et l’attendre au seuil du temple les divinités vengeresses.<BR>
+<BR>
+Quand donc, vaincue par la douleur, elle se fut donnée aux Furies, et qu’elle eut résolu de mourir, elle avise en elle-même au temps et à la manière de se délivrer de la vie : alors composant son visage pour mieux cacher son dessein, et rappelant sur son front la sérénité et l’espérance, elle aborde sa triste sœur, et lui dit : « Félicite-moi, ma sœur ; j’ai trouvé le moyen de ramener à moi l’infidèle, ou de me dégager moi-même de mon amour. (4, 470) Aux extrémités de l’Océan, là où le soleil s’abîme dans les flots, s’étendent les régions les plus reculées de l’Éthiopie ; c’est là que le grand Atlas soutient sur ses épaules l’axe resplendissant des cieux étoilés. De là est venue jusqu’en nos contrées une prétresse de la nation des Massyliens, gardienne du temple des Hespérides : elle-même nourrissait de miel liquide et de pavots assoupissants le dragon qui veillait avec elle sur l’arbre aux rameaux sacrés. Cette magicienne se vante de pouvoir, par ses paroles enchanteresses, délier à son gré les cœurs de leurs tourments, ou leur inspirer les cuisants soucis de l’amour. Elle arrête le cours des fleuves, force les astres à reculer ; (4, 490) elle rappelle les mânes de leur nuit éternelle : à sa voix, tu entendras la terre mugir sous ses pieds, tu verras les frênes descendre des montagnes. J’en atteste les dieux, et toi-même, Anna, et ta tête si chère : c’est malgré moi que j’ai recours à l’art magique. Fais donc élever secrètement un bûcher dans l’intérieur de mon palais et sous la voûte des cieux ; qu’on y place les armes du Troyen, ces armes que l’impie a laissées suspendues à sa couche, et toute sa dépouille, et ce lit conjugal où j’ai péri : la prêtresse veut que j’anéantisse tout ce qui me reste du plus odieux des hommes. » Elle dit, et la pâleur se répand sur son visage. (4, 500) Cependant Anna ne s’imagine pas que Didon couvre des apprêts d’un sacrifice les apprêts de sa mort ; l’idée ne lui vient pas d’un si grand désespoir, ni qu’elle ait à redouter pour sa sœur rien de plus funeste que la mort de Sichée. Elle exécute donc ses ordres.<BR>
+<BR>
+Après qu’on a élevé au fond du palais un immense bûcher où sont entassés le sapin et l’yeuse, la reine orne de guirlandes l’enceinte sacrée, et y suspend des couronnes d’un feuillage funèbre. Elle fait placer au haut du bûcher la dépouille de son amant, son épée qu’il a laissée, son image et le lit nuptial, sachant bien, hélas ! pour qui sont ces apprêts. Les autels sont dressés ; et la prêtresse, les cheveux épars, (4, 510) appelle d’une voix tonnante toutes les divinités infernales, l’Érèbe, le Chaos, la triple Hécate, Diane aux trois visages. En même temps elle répandait des eaux funèbres, pour simuler celles de l’Averne : elle avait coupé au lever de la lune, avec une faux d’airain des herbes naissantes, dont elle exprimait les sucs noirs et le lait impur : elle y joint l’hippomane, arraché du front du coursier naissant, et dérobé à son avide mère. Didon elle-même, portant dans ses mains pieuses un gâteau sacré, s’approche des autels, un pied nu, et laissant flotter sa robe sans ceinture : au moment de mourir, elle atteste les dieux et les astres qui savent sa destinée ; (4, 520) et s’il est quelque divinité juste et sensible aux douleurs des amants trahis, elle la supplie de la venger.<BR>
+<BR>
+Il était nuit ; les mortels fatigués goûtaient par toute la terre le doux sommeil ; dans les forêts, sur la mer orageuse, tout était assoupi ; c’était l’heure où les astres au milieu de leur cours glissent à travers les cieux ; où les troupeaux dans les champs, les oiseaux aux ailes peintes, les poissons au fond des lacs, les bêtes fauves qui peuplent les buissons épineux, se taisent dans la nuit silencieuse, et, livrés aux langueurs du repos, endorment leurs douleurs et oublient leurs maux. Didon seule veille et se plaint, et jamais (4, 530) ne s’abandonne au sommeil, jamais ne laisse venir sous ses paupières et dans son cœur les douces ténèbres de la nuit ; ses tourments en redoublent, sa passion renaissante se réveille plus furieuse, et son âme flotte au milieu des orages qu’y soulèvent la colère et l’amour. Un moment enfin elle se recueille, et roule ces pensées dans son cœur : « Que faire, hélas ? Irai-je encore rechercher mes premiers prétendants et leurs railleries ? Irai-je en suppliante mendier l’hymen de ces rois Numides, dont j’ai tant de fois dédaigné les poursuites ? Suivrai-je donc les flottes d’Ilion, et recevrai-je, comme la dernière des esclaves, les ordres des Troyens ? En effet, j’ai tant à m’applaudir d’avoir soulagé leur infortune ; et il leur reste de mes anciens bienfaits un si profond souvenir ! (4, 540) Mais quand je le voudrais, le souffriraient-ils ? me recevraient-ils, moi qui leur suis odieuse, dans leurs vaisseaux superbes ? Ah ! tu ne connais donc pas, malheureuse, tu ne sens donc pas encore les perfidies de la race parjure de Laomédon ? Quoi ! seule et fugitive je suivrais ces matelots triomphants ! j’entraînerais avec moi mes Tyriens et toute la foule de mes peuples ; et ceux qu’avec tant de peine j’ai arrachés de Sidon, j’irais encore les jeter sur les mers, et livrer aux vents ma voile aventureuse ! Non ; meurs, comme tu l’as mérité, et que le fer te délivre de ta misère. C’est toi, ma sœur, qui, vaincue par mes larmes, et caressant mes fureurs, m’as accablée de tous ces maux, et livrée à ce cruel ennemi. (4, 550) Que n’ai-je pu, ignorant l’hymen, vivre dans ma première et farouche innocence, et ne jamais connaître les tourments que j’endure ! Ah ! je n’ai pas gardé la foi promise à la cendre de Sichée ! » Telles étaient les plaintes qui s’échappaient de son cœur, brisé par la douleur.<BR>
+<BR>
+Énée, toujours ferme dans sa résolution fatale, avait tout préparé pour son départ, et goûtait les douceurs du sommeil sur la poupe de son vaisseau. Tout à coup il croit revoir en songe le même dieu qui s’est déjà montré à lui : c’est Mercure ; ce sont ses traits, son air, sa voix, ses blonds cheveux ; il a les mêmes grâces divines de la jeunesse. Énée l’entend qui le presse de nouveau par ces paroles : (4, 560) « Eh quoi ! fils d’une déesse, tu dors en cet instant suprême ; tu dors, et tu ne vois pas les périls qui tout à l’heure t’environneront ! Insensé, tu n’entends pas souffler les zéphyrs qui t’appellent ? Didon, résolue à mourir, médite dans son cœur quelque ruse et quelque horrible forfait, et les plus furieux transports l’agitent. Tu ne précipites pas ta fuite, quand tu le peux encore ? Bientôt tu verras cent vaisseaux armés fondre en tumulte sur la mer ; tu verras briller sur les flots les torches de l’incendie, et tout le rivage bouillonner dans les flammes, si l’Aurore te retrouve encore sur la plage africaine. Va, pars ; crains tout de l’humeur mobile et changeante (4, 570) d’une femme. » À ces mots, il s’enfonce dans l’ombre de la nuit, et disparaît.<BR>
+<BR>
+Enée, épouvanté de cette vision soudaine, s’arrache au sommeil, et du geste et de la voix enflamme ses compagnons : « À l’œuvre, matelots, et qu’on se précipite ! rameurs, à vos bancs, et déployons nos voiles. Un dieu pour la seconde fois descend du haut des airs, et me presse de fuir, et de couper les câbles. Qui que tu sois, grand dieu, nous te suivons, et, joyeux, nous obéissons encore à tes ordres. Sois-nous propice et doux, et fais luire pour nous dans le ciel des astres favorables. » Il dit, et, tirant du fourreau sa foudroyante épée, (4, 580) il abat les amarres d’un coup du fer tranchant. La même ardeur transporte tous les Troyens ; on se précipite, on s’entraîne sur les eaux ; le rivage est déserté, la mer disparaît sous les voiles, et l’onde écume sous l’effort vigoureux des bras qui la sillonnent.<BR>
+<BR>
+Déjà l’Aurore, abandonnant la couche embaumée de Tithon, répandait sur toute la terre sa lumière matinale, lorsque la reine, du haut des tours où elle veille, regardant l’horizon qui blanchit, voit la flotte troyenne voguer à pleines voiles, le rivage désert, le port abandonné et silencieux. Alors frappant trois et quatre fois son beau sein, (4, 590) et arrachant ses blonds cheveux : « Grand Jupiter, s’écrie-t-elle, il partira donc, ce lâche étranger ! il partira, et il aura insulté à mon empire ! Et mes Tyriens n’ont pas encore pris les armes ; et de toute la ville on ne s’élance pas à sa poursuite, on n’a pas encore traîné sur les flots ses vaisseaux dissipés ? Partez, volez, la flamme à la main, la voile au vent, et au large les rames... Mais que dis-je ? où suis-je ? et quelle fureur a renversé mes esprits ? Malheureuse Didon, c’est à présent que les perfidies de l’ingrat te touchent : il les fallait pressentir, quand tu lui donnais la moitié de ton sceptre. Voilà donc cette foi, cette main qui me répondait de ses serments ; le voilà cet homme pieux qu’on dit porter partout avec lui les dieux de sa patrie, ce fils qui s’est courbé sous un père accablé du poids des années. (4, 600) L’infâme ! je n’ai pu le saisir, le déchirer de mes mains, et semer sur les ondes ses lambeaux palpitants ; je n’ai pu massacrer ses compagnons, égorger Ascagne lui-même, et de mes mains lui en apprêter un horrible festin ? Mais la fortune du combat eût été douteuse : eh bien, elle l’eût été ! Résolue à mourir, qu’avais-je à craindre ! J’aurais porté la torche dans son camp, j’aurais rempli ses vaisseaux de flammes, j’aurais exterminé et le fils, et le père, et toute sa race, et moi-même après elle. Soleil, qui embrasses de tes regards toutes les actions des humains, et toi, Junon, témoin et complice de mes malheurs ; Hécate, pour qui les carrefours des grandes villes retentissent de hurlements nocturnes ; (4, 610) et vous, Furies vengeresses, vous tous, dieux d’Élise mourante, écoutez sa prière, et faites que mes vœux tournent au juste châtiment des parjures. S’il faut que cette tête maudite touche au port et aborde sur la terre d’Italie, si c’est là le terme de ses courses, si tel est l’arrêt de Jupiter, que du moins le perfide, assailli par vingt nations belliqueuses, chassé de ses frontières, arraché aux embrassements d’Iule, implore, des secours étrangers, et voie mourir d’une mort lamentable ses plus chers compagnons ; et quand il se sera soumis aux conditions d’une paix inique, qu’alors même il ne jouisse ni de son empire tant désiré, ni de la lumière du jour, (4, 620) mais qu’il meure avant le temps, et que son corps, privé de sépulture, gise sur l’arène. Voilà mon dernier vœu, voilà le dernier cri qui m’échappe avec mon sang. Et vous, ô mes Tyriens, exercez vos haines contre ses descendants et toute sa race future, et rendez cet honneur suprême à ma cendre : qu’entre les deux peuples il n’y ait ni amour ni alliance. Sors enfin, sors de mes froids ossements, toi, mon vengeur, toi qui, le fer et la flamme à la main, poursuivras partout les enfants de Dardanus. Que dès maintenant et à jamais, qu’en tout temps les deux peuples armés se rencontrent : rivages contre rivages, flots contre flots, fer contre fer, qu’ils se cherchent et se combattent, eux et leurs derniers neveux. »<BR>
+<BR>
+(4, 630) Elle dit, et, roulant dans son âme mille projets furieux, elle cherche le moyen le plus prompt de rompre la trame de ses jours odieux. Elle appelle Barcé, nourrice de Sichée, son époux ; car la sienne avait laissé ses froides cendres dans l’antique Tyr. « Chère nourrice, lui dit-elle, fais venir ici ma sœur Anna ; dis-lui qu’elle aille en toute hâte se plonger dans une eau pure, qu’elle amène les victimes, et qu’elle porte sur les autels les objets sacrés des expiations marquées par la prêtresse. Toi-même orne ta tête de saintes bandelettes. Je veux achever le sacrifice que j’ai offert au roi du Styx et pour lequel j’ai déjà tout préparé ; je veux finir mes tourments, (4, 640) et livrer moi-même à la flamme l’image du Troyen. » Elle dit, et dans son empressement la vieille Barcé se hâtait d’un pas tremblant. Cependant la reine, dans un dernier transport, et comme possédée de la fureur de mourir, la prunelle égarée et sanglante, les joues tremblantes et livides, et déjà pâle de la pâleur de la mort, se précipite vers le fond du palais, monte en désespérée au haut du bûcher, et tire du fourreau l’épée du Troyen, cette épée, hélas ! qui n’était point destinée à cet usage. Après qu’elle eut regardé ce qui lui restait d’Ilion, ces vêtements, et ce lit tant connu, (4, 650) elle suspendit un moment ses larmes et ses pensées, se pencha sur la couche nuptiale, et laissa échapper ces dernières paroles : « Chères dépouilles, tant que le destin et les dieux l’ont permis, recevez mon âme et délivrez-moi de mes peines. J’ai vécu, et j’ai fourni la carrière que m’avait marquée la fortune ; et maintenant mon ombre descendra glorieuse aux enfers. J’ai fondé une ville superbe, j’ai vu s’élever mes murailles ; j’ai vengé mon époux, j’ai puni un frère assassin. Heureuse, hélas ! trop heureuse, si les vaisseaux troyens n’eussent jamais touché ces rivages ! » Elle dit, et, collant ses lèvres sur sa couche : « Mourir sans vengeance ! (4, 660) mais mourons : oui, oui, ce m’est encore doux de descendre ainsi chez les morts. Que le cruel voie, du haut de sa poupe, cette flamme qui va me consumer ; qu’il en repaisse ses yeux, et qu’il emporte avec lui ce funeste présage de ma mort. »<BR>
+<BR>
+À ces mots, qu’elle achevait à peine, ses femmes la voient tomber sous le fer et l’épée encore fumante dans ses mains ensanglantées. Un cri lamentable éclate dans tout le palais ; la Renommée court en furieuse répandre la nouvelle dans la ville bouleversée : on n’entend partout que gémissements, que lamentations, que hurlements de femmes éplorées ; l’air retentit de lugubres clameurs. On dirait que Carthage s’écroule renversée par l’ennemi qui s’y précipite, (4, 670) ou l’antique cité de Tyr, et que les flammes déchaînées s’élancent en tourbillons au-dessus des demeures des hommes et des temples des dieux.<BR>
+<BR>
+À cette nouvelle, Anna se sent défaillir : bientôt elle accourt épouvantée, se déchirant le visage, se meurtrissant le sein, et arrive à travers la foule jusqu’à sa sœur mourante, qu’elle appelle encore par son nom. « Ma sœur, il est donc vrai, tu me trompais ! Voilà donc ce que me préparaient ce bûcher, ces feux, ces autels ! Abandonnée par toi, m’en plaindrai-je assez ? As-tu donc méprisé ta sœur que tu n’as pas voulu qu’elle t’accompagnât chez les morts ? Tu m’aurais appelée aux mêmes destins ; le même fer, le même coup, la même heure nous eût enlevées toutes les deux. (4, 680) Et c’est donc moi qui de mes mains élevais ce bûcher, moi qui invoquais les dieux de la patrie, pour être loin de toi, cruelle, quand tu mourais ? Oui, ma sœur, tu m’as tuée, et toi et ce peuple, et le sénat, et cette ville… Vite, une eau pure, que je lave ses blessures ! et s’il erre encore sur sa bouche un dernier souffle, que je le recueille avec mes lèvres. » En parlant ainsi, elle avait franchi les degrés du bûcher, et, tenant embrassée Didon expirante, elle la réchauffait sur son sein, et étanchait en gémissant le sang noir de sa blessure. Didon, tâchant de rouvrir ses yeux appesantis, retombe défaillante : le sang bouillonne en sifflant au fond de sa blessure : (4, 690) trois fois, se soulevant avec effort et s’appuyant sur son coude, elle se dresse ; trois fois elle retombe sur sa couche ; ses regards errants cherchent encore la lumière des cieux ; elle la retrouve, et soupire.<BR>
+<BR>
+Alors la puissante Junon, ayant pitié de cette longue douleur et de ce laborieux trépas, envoya Iris du haut de l’Olympe, pour dégager cette âme en lutte des membres qui l’enchaînaient. Car Didon ne mourant pas d’une mort méritée et par l’arrêt des destins, mais d’un coup prématuré, et par de tristes et soudaines fureurs, Proserpine ne lui avait point encore enlevé le cheveu fatal, et n’avait pas encore dévoué sa tête aux ténèbres de l’Orcus. (4, 700) Iris donc, traversant les cieux sur ses ailes humides de rosée, et se teignant de mille couleurs sous les rayons opposés du soleil, descend du haut des airs, et s’arrête sur la tête de Didon : « Je porte, dit-elle, à Pluton ce cheveu sacré, et par son ordre je te délivre de ce corps. » Elle dit, et de sa main coupe le cheveu fatal : en ce moment la vie échappe à Didon avec la chaleur, et son âme s’exhale dans les airs.<BR>
+</section>
+  
+  
+</div>
+
+<script>var langue1 = 'LAT';
+
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 1;
+
+$(function() {
+
+  cacheLangue(1);
+
+  for (var i = 1; i < 2; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  //var elLangue = document.getElementById("boutonLangue");
+
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  });
+
+function changeLangue() {
+
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+
+    numCourant = saufNum;
+    for (var i = 1; i < 2; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+
+    for (var i = 1; i < 2; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+}
+
+function cacheFr(saufNum) {
+
+    for (var i = 1; i < 2; i++) {
+
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+
+    }
+
+    for (var i = 1; i < 2; i++) {
+
+        var idEl = '#FR' + i;
+
+        $(idEl).hide();
+
+    }
+}
+
+function cacheLat(saufNum) {
+
+    for (var i = 1; i < 2; i++) {
+
+        if (i != saufNum) {
+
+            var idEl = '#FR' + i;
+
+            $(idEl).hide();
+
+        }
+
+        if (i == saufNum) {
+
+            var idEl = '#FR' + i;
+
+            $(idEl).show();
+
+        }
+
+    }
+
+    for (var i = 1; i < 2; i++) {
+
+        var idEl = '#LAT' + i;
+
+        $(idEl).hide();
+
+    }
+
+}
+
+</script> 
+
+ </body>

@@ -1,0 +1,116 @@
+ <div class = "corpsTexte"><p class = "marge"><span id="elemMenu1">1</span>  &nbsp;&nbsp;<span id="elemMenu2">2</span>  &nbsp;&nbsp;<span id="elemMenu3">3</span>  &nbsp;&nbsp;<span id="elemMenu4">4</span>  &nbsp;&nbsp;</p><section id ="LAT1">I<BR/>  Cimon, Miltiadis filius, Atheniensis, duro admodum initio usus est adulescentiae. Nam cum pater eius litem aestimatam populo solvere non potuisset ob eamque causam in vinclis publicis decessisset, Cimon eadem custodia tenebatur neque legibus Atheniensium emitti poterat, nisi pecuniam, qua pater multatus erat, solvisset. <verset=2> Habebat autem matrimonio sororem germanam suam nomine Elpinicen, non magis amore quam more ductus. Namque Atheniensibus licet eodem patre natas uxores ducere. <verset=3> Huius coniugii cupidus Callias quidam, non tam generosus quam pecuniosus, qui magnas pecunias ex metallis fecerat, egit cum Cimone, ut eam sibi uxorem daret: id si impetrasset, se pro illo pecuniam soluturum. <verset=4> Is cum talem condicionem aspernaretur, Elpinice negavit se passuram Miltiadis progeniem in vinclis publicis interire, quoniam prohibere posset, seque Calliae nupturam, si ea, quae polliceretur, praestitisset.
+</section><section id ="FR1">1<BR/> La première jeunesse de Cimon l’Athénien, fils de Miltiade, fut extrêmement dure; son père n’ayant pu payer l’amende à laquelle le peuple l’avait condamné, et étant mort en prison, il y fut détenu lui-même, et les lois ne permettaient pas qu’il recouvrât sa liberté avant d’avoir acquitté cette amende. Il avait épousé sa soeur, nommée Elpinicé, suivant en cela sa propre inclination autant que l’usage du pays; car il est permis aux Athéniens d’épouser leur soeur de père. Un certain Callias, qui s’était enrichi dans les mines et qui avait moins de naissance que d’argent, désirant posséder Elpinicé, proposa à Cimon de payer pour lui, s’il voulait la lui céder pour épouse. Cimon rejetant cette offre avec mépris, Elpinicé protesta qu’elle ne laisserait point éteindre dans les fers la race de Miltiade, alors qu’elle pouvait l’empêcher, et qu’elle s’unirait à Callias, s’il remplissait sa promesse.
+</section><section id ="LAT2">II<BR/>  Tali modo custodia liberatus Cimon celeriter ad principatum pervenit. Habebat enim satis eloquentiae, summam liberalitatem, magnam prudentiam cum iuris civilis tum rei militaris, quod cum patre a puero in exercitibus fuerat versatus. Itaque hic et populum urbanum in sua tenuit potestate et apud exercitum plurimum valuit auctoritate. <verset=2> Primum imperator apud flumen Strymona magnas copias Thracum fugavit, oppidum Amphipolim constituit eoque X milia Atheniensium in coloniam misit. Idem iterum apud Mycalen Cypriorum et Phoenicum ducentarum navium classem devictam cepit eodemque die pari fortuna in terra usus est: <verset=3> namque hostium navibus captis statim ex classe copias suas eduxit barbarorumque maximam vim uno concursu prostravit. <verset=4> Qua victoria magna praeda potitus cum domum reverteretur, quod iam nonnullae insulae propter acerbitatem imperii defecerant, bene animatas confirmavit, alienatas ad officium redire coegit. <verset=5> Scyrum, quam eo tempore Dolopes incolebant, quod contumacius se gesserant, vacuefecit, sessores veteres urbe insulaque eiecit, agros civibus divisit. Thasios opulentia fretos suo adventu fregit. His ex manubiis arx Athenarum, qua ad meridiem vergit, est ornata.
+</section><section id ="FR2">2<BR/> Cimon, devenu libre de cette manière, parvint rapidement aux premières magistratures. Il avait en effet assez d’éloquence, une extrême générosité, une grande connaissance du droit civil et de l’art militaire, car il avait vécu dans les camps avec son père depuis son enfance. Aussi domina-t-il complètement ses concitoyens, et eut-il beaucoup d’autorité dans les armées. Élevé au commandement, il mit d’abord en fuite, sur les bords du fleuve Strymon, les nombreuses troupes des Thraces. Il fonda la ville d’Amphipolis, et y envoya une colonie de dix mille Athéniens. Il défit encore, près de Mycale, la flotte des Cypriens et des Phéniciens, composée de deux cents voiles, et la captura. Le même jour, il eut sur terre et sur mer un égal succès: car, dès qu’il se fut emparé des vaisseaux ennemis, il débarqua ses troupes, et renversa d’un seul choc une armée innombrable de barbares. Cette victoire lui procura un riche butin. Comme quelques îles s’étaient révoltées contre Athènes, à cause de la dureté de son gouvernement, en revenant dans ses foyers, il affermit dans leurs dispositions celles qui étaient bien intentionnées, et fit rentrer dans leur devoir celles qui s’en étaient écartées. Scyros, alors habitée par les Dolopes, ayant montré trop d’obstination et d’insolence, il la dépeupla, chassa de la ville et de l’île tous les anciens habitants, et distribua les terres à ses concitoyens. Les Thasiens, qui se confiaient dans leurs richesses, furent terrassés par sa présence. Le côté méridional de la citadelle d’Athènes fut orné de leurs dépouilles.
+</section><section id ="LAT3">III<BR/>  Quibus rebus cum unus in civitate maxime floreret, incidit in eandem invidiam, quam pater suus ceterique Atheniensium principes. Nam testarum suffragiis, quod illi `ostrakismon' vocant, X annorum exsilio multatus est. <verset=2> Cuius facti celerius Athenienses quam ipsum paenituit. Nam cum ille animo forti invidiae ingratorum civium cessisset bellumque Lacedaemonii Atheniensibus indixissent, confestim notae eius virtutis desiderium consecutum est. <verset=3> Itaque post annum quintum, quam expulsus erat, in patriam revocatus est. Ille, quod hospitio Lacedaemoniorum utebatur, satius existimans contendere Lacedaemonem, sua sponte est profectus pacemque inter duas potentissimas civitates conciliavit. <verset=4> Post, neque ita multo, Cyprum cum ducentis navibus imperator missus, cum eius maiorem partem insulae devicisset, in morbum implicitus in oppido Citio est mortuus.
+</section><section id ="FR3">3<BR/> Élevé par tant d’exploits au-dessus de tous ses concitoyens, Cimon fut en butte à la même haine qui avait poursuivi son père et les autres grands hommes d’Athènes. Il se vit condamné à un exil de dix ans, par le jugement appelé ostracisme. Les Athéniens en eurent plus de regret que lui-même. Les Spartiates leur ayant déclaré la guerre, après que Cimon eut courageusement supporté leur envie et leur ingratitude, ils regrettèrent sa valeur, qu’ils connaissaient, et le rappelèrent, cinq ans après, de son exil. Cimon, qui jouissait de l’hospitalité chez les Spartiates, pensant que les deux peuples gagneraient plus à vivre d’intelligence qu’à se combattre, partit de lui-même pour Lacédémone, et ménagea la paix entre ces deux puissantes cités. Peu de temps après, il fut envoyé contre l’île de Chypre avec deux cents vaisseaux. Il en avait déjà réduit la plus grande partie, lorsqu’il fut attaqué d’une maladie dont il mourut dans la ville de Citium.
+</section><section id ="LAT4">IV<BR/>  Hunc Athenienses non solum in bello, sed etiam in pace diu desideraverunt. Fuit enim tanta liberalitate, cum compluribus locis praedia hortosque haberet, ut numquam in eis custodem imposuerit fructus servandi gratia, ne quis impediretur, quo minus eius rebus, quibus quisque vellet, frueretur. <verset=2> Semper eum pedissequi cum nummis sunt secuti ut, si quis opis eius indigeret, haberet, quod statim daret, ne differendo videretur negare. Saepe, cum aliquem offensum fortuna videret minus bene vestitum, suum amiculum dedit. <verset=3> Cotidie sic cena ei coquebatur, ut, quos invocatos vidisset in foro, omnis devocaret; quod facere nullo die praetermittebat. Nulli fides eius, nulli opera, nulli res familiaris defuit; multos locupletavit; complures pauperes mortuos, qui unde efferrentur, non reliquissent, suo sumptu extulit. <verset=4> Sic se gerendo, minime est mirandum, si et vita eius fuit secura et mors acerba.
+
+</section><section id ="FR4">4<BR/> Les Athéniens le regrettèrent longtemps, non seulement dans la guerre, mais dans la paix. Il était, en effet, si libéral, qu’ayant en plusieurs endroits des terres et des jardins, il ne faisait jamais garder ses fruits, pour n’empêcher personne d’en jouir à volonté. Les serviteurs qui le suivaient avaient toujours de l’argent sur eux, afin que, si quelqu’un avait besoin de ses secours, il pût l’assister sur-le-champ, craignant qu’un délai ne fût regardé comme un refus. Plus d’une fois, ayant rencontré un citoyen peu fortuné et mal vêtu, il lui donna son manteau. Il avait toujours une table assez abondante pour inviter tous ceux qu’il trouvait sur la place publique et qui n’étaient point priés ailleurs; c’est ce qu’il faisait chaque jour. Son crédit, ses soins, sa fortune ne manquaient à personne. II enrichit plusieurs citoyens. Il fit ensevelir à ses frais beaucoup de pauvres, qui n’avaient pas laissé de quoi payer leurs funérailles. Avec cette conduite, il ne faut nullement être surpris si sa vie fut si tranquille, et sa mort suivie de tant de regrets.
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 4;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 5; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script>

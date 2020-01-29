@@ -1,0 +1,36 @@
+<resources>
+    <color name="fond_gris">#2fddd8d8</color>
+    <color name="fond_gris_clair">#EEEEEE</color>
+    <color name="fond_grisfonce">#CCCCCC</color>
+    <color name="bleu">#2277CC</color>
+    <color name="bleufonce">#1144AA</color>
+    <color name="transparent">#00000000</color>
+    <color name="blanc">#FFFFFF</color>
+    <color name="vert">#88CC77</color>
+    <color name="vertfonce">#1B5532</color>
+    <color name="gris_tres_fonce">#766677</color>
+    <!-- Base application theme. -->
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:textColorPrimary">@android:color/black</item>
+        <item name="actionMenuTextAppearance">@style/AppTheme.Menu</item>
+    </style>
+
+    <style name="AppTheme.Menu" parent="Base.TextAppearance.AppCompat.Menu">
+        <item name="android:capitalize">none</item>
+    </style>
+
+    <style name="AppTheme.MenuTextStyle" parent="TextAppearance.AppCompat.Widget.ActionBar.Menu">
+        <item name="android:capitalize">none</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+    <style name="mCustomTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>

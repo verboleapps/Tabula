@@ -1,0 +1,5 @@
+!! la db doit etre copie ds le repertoire database de l'appli sur le device
+obtenu par : File dbPath = context.getDatabasePath(databaseName);
+NE PAS utiliser myContext.getFilesDir().getPath() + "/databases/"; car le met ds dossier files de l'appli sur le device
+
+obligatoire de faire une migration meme si premiere fois que installe l'appli avec Room

@@ -1,0 +1,114 @@
+<div class = "corpsTexte"><p class = "marge"><span id="elemMenu1">1</span>  &nbsp;&nbsp;<span id="elemMenu2">2</span>  &nbsp;&nbsp;<span id="elemMenu3">3</span>  &nbsp;&nbsp;</p><section id ="LAT1">I<BR/>  ARISTIDES, Lysimachi filius, Atheniensis, aequalis fere fuit Themistocli. Itaque cum eo de principatu contendit; namque obtrectarunt inter se. <verset=2> In his autem cognitum est, quanto antestaret eloquentia innocentiae. Quamquam enim adeo excellebat Aristides abstinentia, ut unus post hominum memoriam, quem quidem nos audierimus, cognomine Iustus sit appellatus, tamen a Themistocle collabefactus, testula illa exsilio decem annorum multatus est. <verset=3> Qui quidem cum intellegeret reprimi concitatam multitudinem non posse cedensque animadvertisset quendam scribentem, ut patria pelleretur, quaesisse ab eo dicitur, quare id faceret aut quid Aristides commisisset, cur tanta poena dignus duceretur. <verset=4> Cui ille respondit se ignorare Aristiden, sed sibi non placere, quod tam cupide elaborasset, ut praeter ceteros Iustus appellaretur. <verset=5> Hic X annorum legitimam poenam non pertulit. Nam postquam Xerxes in Graeciam descendit, sexto fere anno, quam erat expulsus, populi scito in patriam restitutus est.
+</section><section id ="FR1">1<BR/> L’Athénien Aristide, fils de Lysimaque, était à peu près du même âge que Thémistocle; aussi lui disputa-t-il le premier rang dans la cité. Ils s’accusèrent mutuellement; mais on vit, dans leur rivalité, combien l’éloquence a d’avantage sur la vertu. Quoique Aristide eût acquis par son intégrité le surnom de Juste, titre dont jamais personne, que je sache, n’avait été honoré avant lui, il fut renversé par Thémistocle, et condamné par l’ostracisme à un bannissement de dix années. Sentant l’impossibilité de contenir la multitude soulevée, il céda à l’orage. On dit que, voyant un citoyen notifier son exil, il lui demanda pourquoi il agissait de la sorte, et quel crime avait commis Aristide pour être jugé digne d’une peine si rigoureuse. Cet homme lui répondit qu’il ne connaissait point Aristide, mais qu’il était choqué de ses efforts ambitieux pour se faire appeler Juste de préférence à tous ses concitoyens. Aristide ne subit pas entièrement les dix années d’exil portées par la loi. Six ans après, lors de la descente de Xerxès dans la Grèce, il fut rappelé dans sa patrie par un plébiscite. Déjà il avait assisté à la bataille navale de Salamine, avant que sa peine lui fût remise.
+</section><section id ="LAT2">II<BR/>  Interfuit autem pugnae navali apud Salamina, quae facta est prius, quam poena liberaretur. Idem praetor fuit Atheniensium apud Plataeas in proelio, quo Mardonius fusus barbarorumque exercitus interfectus est. <verset=2> Neque aliud est ullum huius in re militari illustre factum quam huius imperii memoria, iustitiae vero et aequitatis et innocentiae multa, in primis quod eius aequitate factum est, cum in communi classe esset Graeciae simul cum Pausania, quo duce Mardonius erat fugatus, ut summa imperii maritimi ab Lacedaemoniis transferretur ad Athenienses. <verset=3> Namque ante id tempus et mari et terra: duces erant Lacedaemonii. Tum autem et intemperantia Pausaniae et iustitia factum est Aristidis, ut omnes fere civitates Graeciae ad Atheniensium societatem se applicarent et adversus barbaros hos duces deligerent sibi.
+</section><section id ="FR2">2<BR/> II fut mis aussi, comme stratège, à la tête des Athéniens, dans la journée de Platées, où Mardonius fut défait, et les barbares taillés en pièces. Ce commandement est le seul grand fait militaire de sa vie; mais combien d’autres traits signalent son intégrité et sa justice! Le principal est que, lorsqu’il se trouva sur la flotte commune des Grecs, avec Pausanias, qui battit Mardonius, le commandement maritime fut transporté des Spartiates aux Athéniens. Les premiers avaient également commandé jusque-là sur mer et sur terre; mais alors le caractère emporté de Pausanias et la modération d’Aristide déterminèrent presque tous les peuples de la Grèce à s’unir aux Athéniens et à les mettre à leur tête contre les barbares, afin d’être plus en état de les repousser, s’ils tentaient jamais une nouvelle guerre.
+</section><section id ="LAT3">III<BR/>  Quos quo facilius repellerent, si forte bellum renovare conarentur, ad classis aedificandas exercitusque comparandos quantum pecuniae quaeque civitas daret, Aristides delectus est, qui constitueret, eiusque arbitrio quadringena et sexagena talenta quotannis Delum sunt collata. Id enim commune aerarium esse voluerunt. Quae omnis pecunia postero tempore Athenas translata est. <verset=2> Hic qua fuerit abstinentia, nullum est certius indicium, quam quod, cum tantis rebus praefuisset, in tanta paupertate decessit, ut, qui efferretur, vix reliquerit. <verset=3> Quo factum est, ut filiae eius publice alerentur et de communi aerario dotibus datis collocarentur. Decessit autem fere post annum quartum, quam Themistocles Athenis erat expulsus.
+
+</section><section id ="FR3">3<BR/> Aristide fut chargé de régler la taxe que chaque ville devait fournir pour la construction des flottes et pour la levée des troupes. Ce fut d’après son avis qu’on déposa tous les ans à Delphes quatre cent soixante talents, dont on fit le trésor commun de la Grèce. Tout cet argent fut depuis transporté à Athènes. La preuve la plus certaine de l’intégrité d’Aristide, c’est qu’après avoir présidé à de si grandes opérations, il mourut dans une telle pauvreté qu’il laissa à peine de quoi fournir à ses funérailles. En sorte que ses filles furent nourries, dotées et mariées aux frais du trésor public. Il finit ses jours environ quatre ans après l’expulsion de Thémistocle.
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 3;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 4; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 4; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 4; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 4; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 4; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 4; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 4; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script>

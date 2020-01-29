@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.verbole.dcad.tabula.Dictionnaire">
+
+
+<item
+            android:id="@+id/copy"
+            android:icon="@drawable/abc_ic_menu_copy_mtrl_am_alpha"
+            app:showAsAction="always"
+            android:title="copy"
+        />
+        <item
+            android:id="@+id/share"
+           android:icon="@drawable/abc_ic_menu_share_mtrl_alpha"
+            app:showAsAction="never"
+            android:title="share"
+        />
+</menu>

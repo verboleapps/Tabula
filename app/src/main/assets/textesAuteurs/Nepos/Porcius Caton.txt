@@ -1,0 +1,114 @@
+ <div class = "corpsTexte"><p class = "marge"><span id="elemMenu1">1</span>  &nbsp;&nbsp;<span id="elemMenu2">2</span>  &nbsp;&nbsp;<span id="elemMenu3">3</span>  &nbsp;&nbsp;</p><section id ="LAT1">I<BR/>  M. CATO, ortus municipio Tusculo adulescentulus, priusquam honoribus operam daret, versatus est in Sabinis, quod ibi heredium a patre relictum habebat. Inde hortatu L. Valerii Flacci, quem in consulatu censuraque habuit collegam, ut M. Perpenna censorius narrare solitus est, Romam demigravit in foroque esse coepit. <verset=2> Primum stipendium meruit annorum decem septemque. Q. Fabio M. Claudio consulibus tribunus militum in Sicilia fuit. Inde ut rediit, castra secutus est C. Claudii Neronis, magnique opera eius existimata est in proelio apud Senam, quo cecidit Hasdrubal, frater Hannibalis. <verset=3> Quaestor obtigit P. Africano consuli; cum quo non pro sortis necessitudine vixit: namque ab eo perpetua dissensit vita. <verset=4> Aedilis plebi factus est cum C. Helvio. Praetor provinciam obtinuit Sardiniam, ex qua, quaestor superiore tempore ex Africa decedens, Q. Ennium poetam deduxerat; quod non minoris aestimamus quam quemlibet amplissimum Sardiniensem triumphum.
+</section><section id ="FR1">1<BR/> Caton, né au municipe de Tusculum, étant encore fort jeune, avant de briguer les honneurs, habita dans le pays des Sabins, parce qu’il y avait un petit fonds de terre qui lui avait été laissé par son père. Sur les exhortations de Lucius Valérius Flaccus qu’il eut depuis pour collègue dans le consulat et dans la censure, comme Marcus Perpenna Censorius avait coutume de le raconter, il vint demeurer à Rome, et commença par suivre le barreau. Il fit ses premières armes à l’âge de dix-sept ans. Sous les consuls Quintus Fabius Maxime et Marcus Claudius Marcellus, il fut tribun des soldats en Sicile. Lorsqu’il en fut revenu, il suivit l’armée de Caïus Claudius Néron, et ses services furent d’un grand prix à la bataille donnée à Sena, où périt Hasdrubal, frère d’Hannibal. II échut pour questeur au consul Publius Cornélius Scipion, surnommé l’Africain, avec lequel il ne vécut pas aussi bien que son emploi semblait le commander; car il fut en dissension avec lui toute sa vie. Il fut fait édile du peuple avec Caius Helvius. Étant, préteur, il obtint le gouvernement de la Sardaigne, d’où il avait amené précédemment, lorsqu’il était questeur, en quittant l’Afrique, le poète Quintus Ennius; ce que nous n’estimons pas moins que le plus magnifique triomphe sur les Sardes.
+</section><section id ="LAT2">II<BR/>  Consulatum gessit cum L. Valerio Flacco, sorte provinciam nactus Hispaniam citeriorem, exque ea triumphum deportavit. <verset=2> Ibi cum diutius moraretur, P. Scipio Africanus, consul iterum, cuius in priori consulatu quaestor fuerat, voluit eum de provincia depellere et ipse ei succedere neque hoc per senatum efficere potuit, cum quidem Scipio principatum in civitate obtineret, quod tum non potentia, sed iure res publica administrabatur. Qua ex re iratus senatui, consulatu peracto privatus in urbe mansit. <verset=3> At Cato, censor cum eodem Flacco factus, severe praefuit ei potestati. Nam et in complures nobiles animadvertit et multas res novas in edictum addidit, qua re luxuria reprimeretur, quae iam tum incipiebat pullulare. <verset=4> Circiter annos octoginta, usque ad extremam aetatem ab adulescentia, rei publicae causa suscipere inimicitias non destitit. A multis temptatus non modo nullum detrimentum existimationis fecit, sed, quoad vixit, virtutum laude crevit.
+</section><section id ="FR2">2<BR/> Caton géra le consulat avec Lucius Valérius Flaccus. Le sort lui donna le gouvernement de l’Espagne citérieure, d’où il revint avec le triomphe. Comme il y restait trop longtemps, P. Scipion l’Africain, consul pour la seconde fois, dont il avait été questeur dans son premier consulat, voulut l’expulser de ce gouvernement, et lui succéder lui-même. Mais le sénat n’y prêta point les mains, parce qu’alors la république était administrée par le droit, et non par la puissance. Scipion, irrité de cela, après être sorti de charge, resta dans la ville en simple particulier. Caton, fait censeur avec le même Flaccus, exerça sévèrement cette magistrature; car il punit un grand nombre de nobles, et il ajouta, en forme d’édit, beaucoup de nouveaux règlements aux anciennes ordonnances, à l’effet de réprimer le luxe qui commençait dès lors à faire des progrès. Pendant environ quatre-vingts ans, depuis sa première jeunesse jusqu’au dernier temps de sa vie, il ne cessa point de s’attirer des inimitiés dans l’intérêt de la république. Attaqué par plusieurs mécontents, non seulement il ne perdit rien de sa considération mais, tant qu’il vécut, la gloire de ses vertus augmenta.
+</section><section id ="LAT3">III<BR/>  In omnibus rebus singulari fuit industria. Nam et agricola sollers et peritus iuris consultus et magnus imperator et probabilis orator et cupidissimus litterarum fuit. <verset=2> Quarum studium etsi senior arripuerat, tamen tantum progressum fecit, ut non facile reperiri possit neque de Graecis neque de Italicis rebus, quod ei fuerit incognitum. Ab adulescentia confecit orationes. Senex historias scribere instituit. <verset=3> Earum sunt libri VII. Primus continet res gestas regum populi Romani: secundus et tertius, unde quaeque civitas orta sit Italica; ob quam rem omnes Origines videtur appellasse. In quarto autem bellum Poenicum est primum, in quinto secundum. <verset=4> Atque haec omnia capitulatim sunt dicta. Reliquaque bella pari modo persecutus est usque ad praeturam Servii Galbae, qui diripuit Lusitanos; atque horum bellorum duces non nominavit, sed sine nominibus res notavit. In eisdem exposuit, quae in Italia Hispaniisque aut fierent aut viderentur admiranda. In quibus multa industria et diligentia comparet, nulla doctrina. <verset=5> Huius de vita et moribus plura in eo libro persecuti sumus, quem separatim de eo fecimus rogatu T. Pomponii Attici. Quare studiosos Catonis ad illud volumen delegamus.
+
+</section><section id ="FR3">3<BR/> Il fut, en tout, d’une intelligence et d’une activité singulières: car il était à la fois et habile agriculteur, et versé dans le gouvernement, et jurisconsulte, et grand général, et orateur estimable, et très passionné pour les lettres. Quoiqu’il s’y fût appliqué étant déjà vieux, il y fit, cependant, de si grands progrès, qu’on ne pourrait pas trouver aisément quelque trait, ni d’histoire grecque ni d’histoire italienne, qui lui fût inconnu. Dans sa première jeunesse, il composa des harangues. Devenu vieux, il se mit à écrire des Histoires, dont il existe sept livres. Le premier contient les actions des rois du peuple romain; le second et le troisième marquent d’où est née chaque ville d’Italie, et c’est sans doute pour cela qu’il appela tous ces livres Origines. Dans le quatrième, il renferme la première guerre punique; dans le cinquième, la seconde. Tous ces objets sont racontés sommairement. Il a traité de la même manière les autres guerres des Romains, jusqu’à la préture de Servius Galba, qui pilla les Lusitaniens. Il n’a point nommé les généraux qui eurent la conduite de ces guerres; il a cité les faits, sans mentionner leurs auteurs. Il a exposé dans ces mêmes livres tous les objets merveilleux qu’on voyait en Italie et dans les Espagnes. Dans cet ouvrage, on trouve beaucoup de soin, d’exactitude et d’érudition. Nous avons dit plus de choses de sa vie et de ses moeurs dans le livre que nous avons fait séparément sur lui, à la prière de Titus Pomponius Atticus. Nous y renvoyons donc les amateurs de Caton.
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 3;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 4; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 4; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 4; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 4; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 4; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 4; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 4; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script></body></html>

@@ -1,0 +1,24 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="taille_police_tabulations">13dp</dimen>
+    <dimen name="taille_boutons_toolbar">16sp</dimen>
+    <dimen name="taille_titre_toolbar">18sp</dimen>
+    <dimen name="taille_boutons_toolbar_fleches">18dp</dimen>
+    <dimen name="taille_boutons_toolbar_fleche_retour">40dp</dimen>
+    <dimen name="padding_bouton_langue">4dp</dimen>
+    <dimen name="espace_toolbar_tablet">70dp</dimen>
+    <dimen name="largeur_liste_fichiers">300dp</dimen>
+    <dimen name="taille_police_section">22sp</dimen>
+    <dimen name="taille_police_section_header">28sp</dimen>
+    <dimen name="deltay_popup_window">20dp</dimen>
+    <dimen name="taille_police_menu_aide">28sp</dimen>
+    <dimen name="taille_separateur_menu_aide">40dp</dimen>
+    <dimen name="largeur_liste_mots_dictionnaire">180dp</dimen>
+    <dimen name="taille_police_tv_demande">30sp</dimen>
+    <dimen name="left_margin_listeliste">20dp</dimen>
+    <dimen name="left_margin_listecarte">10dp</dimen>
+    <dimen name="taille_police_boutons_toolbar">15sp</dimen>
+    <dimen name="taille_police_labels_aide">16sp</dimen>
+</resources>

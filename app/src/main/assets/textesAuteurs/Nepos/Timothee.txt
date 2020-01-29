@@ -1,0 +1,117 @@
+ <div class = "corpsTexte"><p class = "marge"><span id="elemMenu1">1</span>  &nbsp;&nbsp;<span id="elemMenu2">2</span>  &nbsp;&nbsp;<span id="elemMenu3">3</span>  &nbsp;&nbsp;<span id="elemMenu4">4</span>  &nbsp;&nbsp;</p><section id ="LAT1">I<BR/>  TIMOTHEUS, Cononis filius, Atheniensis. Hic a patre acceptam gloriam multis auxit virtutibus. Fuit enim disertus, impiger, laboriosus, rei militaris peritus neque minus civitatis regendae. <verset=2> Multa huius sunt praeclare facta, sed haec maxime illustria. Olynthios et Byzantios bello subegit. Samum cepit; in quo oppugnando superiori bello Athenienses mille et CC talenta consumpserant, id ille sine ulla publica impensa populo restituit; adversus Cotum bella gessit ab eoque mille et CC talenta praedae in publicum rettulit. Cyzicum obsidione liberavit. <verset=3> Ariobarzani simul cum Agesilao auxilio profectus est; a quo cum Laco pecuniam numeratam accepisset, ille civis suos agro atque urbibus augeri maluit quam id sumere, cuius partem domum suam ferre posset. Itaque accepit Crithoten et Sestum.
+</section><section id ="FR1">1<BR/> L’Athénien Timothée, fils de Conon, augmenta par bien des qualités personnelles la gloire qu’il avait reçue de son père. Il fut éloquent, actif, laborieux, également habile dans l’art militaire et dans le gouvernement. Il fit beaucoup de choses glorieuses, dont voici les plus brillantes. Il soumit par les armes les Olynthiens et les Byzantins. Il prit Samos, dont le siège, dans la guerre précédente, avait coûté aux Athéniens douze cents talents, et la leur rendit sans aucune dépense publique. Il fit la guerre à Cotys, et versa au trésor public douze cents talents de butin. Il fit lever le siège de Cyzique. Il marcha, conjointement avec Agésilas, au secours d’Ariobarzane. Le Spartiate ayant accepté de l’argent comptant, il aima mieux agrandir le domaine de ses concitoyens en territoires et en villes, que de prendre une somme dont il pouvait faire entrer une partie dans sa maison, et obtint pour eux Crithoté et Sestos.
+</section><section id ="LAT2">II<BR/>  Idem classi praefectus, circumvehens Peloponnesum Laconicen populatus, classem eorum fugavit, Corcyram sub imperium Atheniensium redegit, sociosque idem adiunxit Epirotas, Athamanas, Chaonas omnesque eas gentes, quae mare illud adiacent. <verset=2> Quo facto Lacedaemonii de diutina contentione destiterunt et sua sponte Atheniensibus imperii maritimi principatum concesserunt pacemque his legibus constituerunt, ut Athenienses mari duces essent. Quae victoria tantae fuit Atticis laetitiae, ut tum primum arae Paci publice sint factae eique deae pulvinar sit institutum. <verset=3> Cuius laudis ut memoria maneret, Timotheo publice statuam in foro posuerunt. Qui honos huic uni ante id tempus contigit, ut, cum patri populus statuam posuisset, filio quoque daret. Sic iuxta posita regens filii veterem patris renovavit memoriam.
+</section><section id ="FR2">2<BR/> À la tête de l’armée navale, il longea les côtes du Péloponnèse et dispersa la flotte des Spartiates. Il réduisit Corcyre sous la puissance des Athéniens, et leur donna pour alliés les Épirotes, les Acarnaniens, les Chaoniens, et tous les peuples qui sont situés sur cette mer. Les Lacédémoniens se désistèrent par là de leur longue prétention, cédèrent spontanément aux Athéniens la prééminence maritime, et la suprématie d’Athènes sur mer fut reconnue par le traité qui intervint. Cette victoire causa une si grande joie aux peuples de l’Attique, qu’alors, pour la première fois, on éleva des autels à la Paix et qu’on établit un pulvinar pour cette déesse. Afin que la mémoire de ce glorieux événement fût durable, on dressa, par un décret du peuple, une statue à Timothée sur la place publique. Il était sans exemple jusqu’alors qu’on eût honoré le fils d’une statue, après en avoir érigé une au père. L’image de Timothée, placée auprès de celle de Conon, rajeunit la gloire de ce dernier.
+</section><section id ="LAT3">III<BR/>  Hic cum esset magno natu et magistratus gerere desisset, bello Athenienses undique premi sunt coepti. Defecerat Samus, descierat Hellespontus, Philippus iam tum valens, Macedo, multa moliebatur; cui oppositus Chares cum esset, non satis in eo praesidii putabatur. <verset=2> Fit Menestheus praetor, filius Iphicratis, gener Timothei, et ut ad bellum proficiscatur, decernitur. Huic in consilium dantur viri duo usu sapientiaque praestantes, [quorum consilio uteretur] pater et socer, quod in his tanta erat auctoritas, ut magna spes esset per eos amissa posse recuperari. <verset=3> Hi cum Samum profecti essent et eodem Chares illorum adventu cognito cum suis copiis proficisceretur, ne quid absente se gestum videretur, accidit, cum ad insulam appropinquarent, ut magna tempestas oriretur; quam evitare duo veteres imperatores utile arbitrati suam classem suppresserunt. <verset=4> At ille temeraria usus ratione non cessit maiorum natu auctoritati, velut in sua manu esset fortuna. Quo contenderat, pervenit, eodemque ut sequerentur, ad Timotheum et Iphicratem nuntium misit. Hinc male re gesta, compluribus amissis navibus eo, unde erat profectus, se recipit litterasque Athenas publice misit, sibi proclive fuisse Samum capere, nisi a Timotheo et Iphicrate desertus esset. <verset=5> Populus ater, suspicax ob eamque rem mobilis, adversarius, invidus - etiam potentiae in crimen vocabantur - domum revocat: accusantur proditionis. Hoc iudicio damnatur Timotheus, lisque eius aestimatur centum talentis. Ille odio ingratae civitatis coactus Chalcidem se contulit.
+</section><section id ="FR3">3<BR/> Timothée était avancé en âge et avait cessé de gérer des emplois, quand les Athéniens commencèrent à être pressés de tous côtés par la guerre. Samos avait quitté leur parti; l’Hellespont s’était révolté; Philippe de Macédoine, déjà puissant, méditait plusieurs entreprises. On lui avait opposé Charès; mais on ne croyait pas que ce général pût défendre Athènes avec succès contre ce prince. On fait préteur Ménesthée, fils d’Iphicrate et gendre de Timothée, et l’on décrète qu’il parte pour cette guerre. On lui donne pour conseil deux hommes éminents en expérience et en sagesse, son père et son beau-père, parce qu’ils avaient une si grande autorité, qu’on espérait grandement recouvrer par eux ce qu’on avait perdu. Ils étaient partis pour Samos, et Charès, informé de leur venue, avait marché vers le même endroit avec ses troupes, de peur qu’il ne parût qu’on eût fait quelque chose sans lui. Mais, comme on approchait de l’île, il s’éleva une grande tempête. Les deux vieux généraux crurent sage de l’éviter et arrêtèrent la marche de leur flotte. Charès, suivant une idée téméraire, ne déféra point à l’autorité de ses anciens, et, comme si la fortune eût été sur son bord, il parvint où il voulait aller, et envoya dire à Timothée et Iphicrate de l’y suivre; puis, ayant échoué dans son entreprise et ayant perdu plusieurs vaisseaux, il se retira au même lieu d’où il était parti, et de là écrivit aux magistrats d’Athènes qu’il lui aurait été facile de prendre Samos, s’il n’avait pas été abandonné de Timothée et d’Iphicrate. On leur en fit un crime. Le peuple, ardent, soupçonneux, léger, querelleur, et en outre envieux de la puissance, les rappelle. Ils sont accusés de trahison. Timothée est condamné, et son amende est taxée à cent talents. La haine d’une ville ingrate le força de se retirer à Chalcis.
+</section><section id ="LAT4">IV<BR/>  Huius post mortem cum populum iudicii sui paeniteret, multae novem partis detraxit et decem talenta Cononem, filium eius, ad muri quandam partem reficiendam iussit dare. In quo fortunae varietas est animadversa. Nam quos avus Conon muros ex hostium praeda patriae restituerat, eosdem nepos cum summa ignominia familiae ex sua re familiari reficere coactus est. <verset=2> Timothei autem moderatae sapientisque vitae cum pleraque possimus proferre testimonia, uno erimus contenti, quod ex eo facile conici poterit, quam carus suis fuerit. Cum Athenis adulescentulus causam diceret, non solum amici privatique hospites ad eum defendendum convenerunt, sed etiam in eis Iason, tyrannus Thessaliae, qui illo tempore fuit omnium potentissimus. <verset=3> Hic cum in patria sine satellitibus se tutum non arbitraretur, Athenas sine ullo praesidio venit tantique hospitem fecit, ut mallet se capitis periculum adire quam Timotheo de fama dimicanti deesse. Hunc adversus tamen Timotheus postea populi iussu bellum gessit, patriae sanctiora iura quam hospitii esse duxit. <verset=4> Haec extrema fuit aetas imperatorum Atheniensium, Iphicratis, Chabriae, Timothei: neque post illorum obitum quisquam dux in illa urbe fuit dignus memoria.
+
+</section><section id ="FR4">4<BR/> Après sa mort, le peuple, se repentant de son jugement, réduisit l’amende des neuf dixièmes, et ordonna que son fils Conon donnerait dix talents pour rétablir une certaine partie des murs. Ainsi, par un exemple remarquable des variations de la fortune, les mêmes murailles que Conon avait relevées avec les dépouilles des ennemis, son petit-fils fut forcé de les rétablir sur son propre bien de famille, au grand déshonneur de sa maison. Nous pourrions produire plusieurs preuves de la vie modérée et sage de Timothée. Nous nous bornerons à une seule, parce qu’on en pourra facilement conjecturer combien il fut cher aux siens. Il comparut en justice dans sa première jeunesse, et non seulement ses amis et ses hôtes, simples particuliers, se réunirent pour le défendre, mais il se trouva encore parmi eux le tyran Jason, le prince le plus puissant de ce temps-là. Jason, qui ne se croyait pas en sûreté dans sa patrie sans satellites, vint à Athènes sans aucune escorte, et montra tant d’estime pour son hôte, qu’il aima mieux exposer sa vie que de manquer à Timothée en danger de perdre sa réputation. Cependant Timothée lui fit la guerre dans la suite par l’ordre du peuple, et jugea que les droits de la patrie sont plus sacrés que ceux de l’hospitalité.
+Ce fut là le dernier âge des grands généraux d’Athènes: ils finirent avec Iphicrate, Chabrias et Timothée, et, après leur mort, il n’y eut dans cette ville aucun capitaine digne de mémoire.
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 4;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 5; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script></body></html>

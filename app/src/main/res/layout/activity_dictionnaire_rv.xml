@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <RelativeLayout
+            android:id="@+id/horizontalLA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <SearchView
+                android:id="@+id/barreRecherche"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"
+                android:layout_toStartOf="@+id/relLayButtons"
+                android:layout_toLeftOf="@+id/relLayButtons"
+                android:iconifiedByDefault="false"
+                android:showDividers="none">
+
+            </SearchView>
+
+            <RelativeLayout
+                android:id="@+id/relLayButtons"
+                android:layout_width="90dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="right|end">
+
+                <Button
+                    android:id="@+id/boutonLangue"
+                    android:layout_width="wrap_content"
+                    android:layout_height="36dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_gravity="right|end"
+                    android:layout_marginStart="4dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginEnd="4dp"
+                    android:layout_marginRight="2dp"
+                    android:layout_marginBottom="4dp"
+                    android:background="@drawable/bouton_bord"
+                    android:gravity="center_vertical|center_horizontal|center"
+                    android:lines="1"
+                    android:paddingStart="@dimen/padding_bouton_langue"
+                    android:paddingLeft="@dimen/padding_bouton_langue"
+                    android:paddingEnd="@dimen/padding_bouton_langue"
+                    android:paddingRight="@dimen/padding_bouton_langue"
+                    android:text="@string/menu_textes_langue"
+                    android:textColor="@color/bleu" />
+
+                <Button
+                    android:id="@+id/boutonNewCarte"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    android:layout_width="44dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center_vertical|center_horizontal|center"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginBottom="2dp"
+                    android:background="@android:drawable/ic_input_add"
+                    android:gravity="center_vertical|center_horizontal|center"
+                    android:textColor="@color/bleu" />
+
+            </RelativeLayout>
+
+
+        </RelativeLayout>
+
+
+        <WebView
+            android:id="@+id/webDico"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/horizontalLA"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_gravity="start|top"
+            android:visibility="invisible">
+
+
+        </WebView>
+
+        <ListView
+            android:id="@+id/TableListeMots"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/horizontalLA"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@color/fond_gris_clair"
+            android:visibility="visible" />
+
+        <ListView
+            android:id="@+id/TableListeMotsFR"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/horizontalLA"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@color/blanc"
+            android:visibility="invisible" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerViewMots"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/horizontalLA"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@color/fond_gris_clair"
+            android:visibility="invisible" />
+    </RelativeLayout>
+
+</LinearLayout>

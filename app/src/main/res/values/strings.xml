@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tabula</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail_dictionnaire">Dictionnaire</string>
+    <string name="title_activity_grammaire">Grammaire</string>
+    <string name="title_activity_textes">Textes</string>
+    <string name="title_activity_aide">Aide</string>
+    <string name="title_activity_recherche">Recherche</string>
+    <string name="menu_textes_langue">Latin</string>
+    <string name="menu_textes_langue_fr">Français</string>
+    <string name="action_textes_gauche">◀</string>
+    <string name="action_textes_droite">▶</string>
+    <string name="action_textes_retour">Fermer</string>
+    <string name="action_cartes_retour">Fermer</string>
+    <string name="action_cartes_supprimer">Supprimer</string>
+    <string name="action_cartes_edit">Editer</string>
+    <string name="action_cartes_fermer">Fermer</string>
+    <string name="action_textes_fleche_retour">↩</string>
+</resources>

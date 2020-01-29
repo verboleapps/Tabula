@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/listRowVue"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blanc"
+    android:foregroundGravity="center_vertical"
+    android:gravity="center_vertical"
+    android:minHeight="40dp"
+    android:paddingLeft="15dp"
+    android:paddingTop="0dp"
+    android:paddingRight="0dp"
+    android:paddingBottom="0dp"
+    android:textColor="@android:color/black"
+    android:textSize="@dimen/taille_police_section"
+    tools:context="com.verbole.dcad.tabula.ActivitePrincipale">
+
+</TextView>

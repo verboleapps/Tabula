@@ -1,0 +1,116 @@
+ <div class = "corpsTexte"><p class = "marge"><span id="elemMenu1">1</span>  &nbsp;&nbsp;<span id="elemMenu2">2</span>  &nbsp;&nbsp;<span id="elemMenu3">3</span>  &nbsp;&nbsp;<span id="elemMenu4">4</span>  &nbsp;&nbsp;</p><section id ="LAT1">I<BR/>  Thrasybulus, Lyci filius, Atheniensis. Si per se virtus sine fortuna ponderanda sit, dubito, an hunc primum omnium ponam; illud sine dubio: neminem huic praefero fide, constantia, magnitudine animi, in patriam amore. <verset=2> Nam quod multi voluerunt paucique potuerunt ab uno tyranno patriam liberare, huic contigit, ut a XXX oppressam tyrannis e servitute in libertatem vindicaret. <verset=3> Sed nescio quo modo, cum eum nemo anteiret his virtutibus, multi nobilitate praecucurrerunt. Primum Peloponnesio bello multa hic sine Alcibiade gessit, ille nullam rem sine hoc; quae ille universa naturali quodam bono fecit lucri. <verset=4> Sed illa tamen omnia communia imperatoribus cum militibus et fortuna, quod in proelii concursu abit res a consilio ad vires vimque pugnantium. Itaque iure suo nonnulla ab imperatore miles, plurima vero fortuna vindicat seque hic plus valuisse quam ducis prudentiam vere potest praedicare. <verset=5> Quare illud magnificentissimum factum proprium est Thrasybuli. Nam cum XXX tyranni, praepositi a Lacedaemoniis, servitute oppressas tenerent Athenas, plurimos civis, quibus in bello parserat fortuna, partim patria expulissent, partim interfecissent, plurimorum bona publicata inter se divisissent, non solum princeps, sed etiam solus initio bellum his indixit.
+</section><section id ="FR1">1<BR/> Thrasybule, fils de Lycus, était Athénien. S’il fallait juger du mérite par lui-même, et sans égard à la fortune, je serais tenté de mettre Thrasybule au-dessus de tous les capitaines. Je ne lui préfère assurément personne pour la bonne foi, la constance, la grandeur d’âme, l’amour de la patrie. Plusieurs ont voulu, peu ont pu délivrer leur patrie d’un seul tyran; il lui fut réservé d’affranchir la sienne des trente tyrans qui l’opprimaient. Mais je ne sais comment, tandis que ses vertus ne le cédaient à l’éclat d’aucune autre, plus d’une réputation a éclipsé la sienne. Il fit d’abord, dans la guerre du Péloponnèse, bien des choses sans Alcibiade; Alcibiade n’en fit aucune sans lui: mais, par un certain avantage qui lui était naturel, il les tourna toutes à son profit. Du reste, les généraux partagent tous leurs exploits avec les soldats et la fortune, parce que, dans le choc des armées, le conseil est remplacé par les forces et par l’impétuosité des combattants. Le soldat revendique justement du général quelque portion du succès; la fortune en réclame la plus grande part, et peut se vanter, avec raison, d’avoir plus fait que la prudence du chef. Mais le trait héroïque de Thrasybule n’appartient qu’à lui seul. En effet, les trente tyrans que les Spartiates avaient chargés du gouvernement d’Athènes, ayant opprimé cette ville, banni ou mis à mort une foule de citoyens échappés au hasard des combats, confisqué, pour se les partager entre eux, les biens du plus grand nombre, Thrasybule fut non seulement le premier, mais le seul, qui se déclara ouvertement leur adversaire.
+</section><section id ="LAT2">II<BR/>  Hic enim cum Phylen confugisset, quod est castellum in Attica munitissimum, non plus habuit secum XXX de suis. Hoc initium fuit salutis Actaeorum, hoc robur libertatis clarissimae civitatis. <verset=2> Neque vero hic non contemptus est primo a tyrannis atque eius solitudo. Quae quidem res et illis contemnentibus pernicii et huic despecto saluti fuit. Haec enim illos segnes ad persequendum, hos autem tempore ad comparandum dato fecit robustiores. <verset=3> Quo magis praeceptum illud omnium in animis esse debet, nihil in bello oportere contemni, neque sine causa dici matrem timidi flere non solere. <verset=4> Neque tamen pro opinione Thrasybuli auctae sunt opes. Nam iam tum illis temporibus fortius boni pro libertate loquebantur quam pugnabant. <verset=5> Hinc in Piraeum transiit Munychiamque munivit. Hanc bis tyranni oppugnare sunt adorti ab eaque turpiter repulsi protinus in urbem armis impedimentisque amissis refugerunt. <verset=6> Usus est Thrasybulus non minus prudentia quam fortitudine. Nam cedentes violari vetuit - cives enim civibus parcere aequum censebat -; neque quisquam est vulneratus, nisi qui prior impugnare voluit. Neminem iacentem veste spoliavit, nil attigit nisi arma, quorum indigebat, quaeque ad victum pertinebant. <verset=7> In secundo proelio cecidit Critias, dux tyrannorum, cum quidem exadversus Thrasybulum fortissime pugnaret.
+</section><section id ="FR2">2<BR/> Quand il se réfugia dans Phylé, château très fortifié en Attique, il n’avait avec lui que trente des siens. Tel fut le principe du salut d’Athènes; telle fut la force qui rendit la liberté à cette illustre république. Les tyrans méprisèrent d’abord Thrasybule et le petit nombre de ses gens. Ce mépris leur fut fatal, et salutaire à celui qui en était l’objet; car il retarda la poursuite des uns, et rendit les autres plus forts, en leur donnant le temps de se préparer. Tant doit être gravée dans tous les esprits cette maxime, que, dans la guerre, il ne faut rien négliger; et tant on a raison de dire, qu’on voit rarement pleurer la mère de l’homme qui sait craindre à propos. Cependant les forces de Thrasybule n’augmentèrent pas autant qu’il le pensait; car, dès ce temps-là, les gens de bien parlaient plus courageusement pour la liberté qu’ils ne combattaient pour elle. Thrasybule passa de là au Pirée, et fortifia Munychie. Les tyrans en tentèrent deux fois l’attaque, et deux fois, honteusement repoussés, ils se réfugièrent au plus tôt dans la ville, après avoir perdu armes et bagages. Thrasybule fut aussi modéré que courageux; il défendit de maltraiter ceux qui se rendaient, pensant qu’il était juste que des citoyens épargnent des citoyens. Il n’y eut de blessés que ceux qui voulurent attaquer les premiers. Il ne dépouilla aucun mort; il ne toucha à rien, si ce n’est aux armes, dont il avait besoin, et aux provisions de bouche. Dans la seconde action, Critias, le chef des tyrans, fut tué, en combattant très vaillamment contre Thrasybule.
+</section><section id ="LAT3">III<BR/>  Hoc deiecto Pausanias venit Atticis auxilio, rex Lacedaemoniorum. Is inter Thrasybulum et eos, qui urbem tenebant, fecit pacem his condicionibus: ne qui praeter XXX tyrannos et X, qui postea praetores creati superioris more crudelitatis erant usi, afficerentur exsilio, neve bona publicarentur; rei publicae procuratio populo redderetur. <verset=2> Praeclarum hoc quoque Thrasybuli, quod reconciliata pace, cum plurimum in civitate posset, legem tulit, ne quis ante actarum rerum accusaretur neve multaretur; eamque illi oblivionis appellarunt. <verset=3> Neque vero hanc tantum ferendam curavit, sed etiam, ut valeret, effecit. Nam cum quidam ex iis, qui simul cum eo in exsilio fuerant, caedem facere eorum vellent, cum quibus in gratiam reditum erat publice, prohibuit et id, quod pollicitus erat, praestitit.
+</section><section id ="FR3">3<BR/> Critias abattu, Pausanias, roi de Sparte, vint au secours des Athéniens. Il fit la paix entre Thrasybule et ceux qui occupaient la ville, à condition qu’on ne punirait de l’exil que les trente tyrans et les dix citoyens qui, créés ensuite préteurs, avaient usé de la même cruauté, et qu’on rendrait au peuple l’administration de la république. Thrasybule, après la conclusion de la paix, fit encore une belle action. Alors qu’il était tout puissant dans Athènes, il fit porter une loi qui défendait d’accuser ou de punir personne pour les faits passés; et l’on appela cette loi la loi d’oubli. Non seulement il la publia, mais il la fit exécuter. Quelques-uns de ses compagnons d’exil voulant qu’on massacre ceux avec lesquels on s’était réconcilié, il l’empêcha par autorité publique, et tint la parole qu’il avait donnée.
+</section><section id ="LAT4">IV<BR/>  Huic pro tantis meritis honoris corona a populo data est, facta duabus virgulis oleaginis: quam quod amor civium et non vis expresserat, nullam habuit invidiam magnaque fuit gloria. <verset=2> Bene ergo Pittacus ille, qui in VII sapientum numero est habitus, cum Mytilenaei multa milia iugerum agri ei muneri darent, `Nolite, oro vos, inquit id mihi dare, quod multi invideant, plures etiam concupiscant. Quare ex istis nolo amplius quam centum iugera, quae et meam animi aequitatem et vestram voluntatem indicent. Nam parva munera diutina, locupletia non propria esse consuerunt'. <verset=3> Illa igitur corona contentus Thrasybulus neque amplius requisivit neque quemquam honore se antecessisse existimavit. <verset=4> Hic sequenti tempore cum praetor classem ad Ciliciam appulisset neque satis diligenter in castris eius agerentur vigiliae, a barbaris ex oppido noctu eruptione facta in tabernaculo interfectus est.
+
+</section><section id ="FR4">4<BR/> Pour récompenser de si grands services, le peuple lui décerna une couronne d’honneur, formée de deux petites branches d’olivier. Comme c’était l’amour de ses concitoyens, et non la violence, qui la lui avait fait obtenir, elle n’excita aucune envie, et le couvrit de gloire. C’est donc avec raison que Pittacus, qu’on met au nombre des sept sages, dit aux habitants de Mitylène lorsqu’ils lui offraient plusieurs milliers d’arpents de terre: «Ne me donnez point, je vous prie, ce que plusieurs m’envieraient, et qui serait convoité du plus grand nombre. Je n’accepte que cent de ces arpents, qui marqueront et ma modération et votre bienveillance. En effet, un petit présent se conserve; un présent trop riche ne reste guère.» Thrasybule, content de cette couronne, ne prétendit rien de plus, et pensa qu’aucun citoyen n’avait jamais été plus honoré. Fait préteur dans la suite, et chargé du commandement d’une flotte, il aborda en Cilicie. Comme son camp n’était pas assez diligemment gardé, les barbares firent de nuit une sortie et le tuèrent dans sa tente.
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 4;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 5; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script></body></html>

@@ -1,0 +1,96 @@
+ <div class = "corpsTexte">
+     <section id ="LAT1"><BR/><verset=1> Non dubito fore plerosque, Attice, qui hoc genus scripturae leve et non satis dignum summorum virorum personis iudicent, cum relatum legent, quis musicam docuerit Epaminondam, aut in eius virtutibus commemorari saltasse eum commode scienterque tibiis cantasse. <verset=2> Sed hi erunt fere, qui expertes litterarum Graecarum nihil rectum, nisi quod ipsorum moribus conveniat, putabunt. <verset=3> Hi si didicerint non eadem omnibus esse honesta atque turpia, sed omnia maiorum institutis iudicari, non admirabuntur nos in Graiorum virtutibus exponendis mores eorum secutos. <verset=4> Neque enim Cimoni fuit turpe, Atheniensium summo viro, sororem germanam habere in matrimonio, quippe cum cives eius eodem uterentur instituto. At id quidem nostris moribus nefas habetur. Laudi in Creta ducitur adulescentulis quam plurimos habuisse amatores. Nulla Lacedaemoni vidua tam est nobilis, quae non ad cenam eat mercede conducta. <verset=5> Magnis in laudibus tota fere fuit Graecia victorem Olympiae citari; in scaenam vero prodire ac populo esse spectaculo nemini in eisdem gentibus fuit turpitudini. Quae omnia apud nos partim infamia, partim humilia atque ab honestate remota ponuntur.  <verset=6> Contra ea pleraque nostris moribus sunt decora, quae apud illos turpia putantur. Quem enim Romanorum pudet uxorem ducere in convivium? Aut cuius non mater familias primum locum tenet aedium atque in celebritate versatur? <verset=7> Quod multo fit aliter in Graecia. Nam neque in convivium adhibetur nisi propinquorum, neque sedet nisi in interiore parte aedium, quae gynaeconitis appellatur; quo nemo accedit nisi propinqua cognatione coniunctus.  <verset=8> Sed hic plura persequi cum magnitudo voluminis prohibet tum festinatio, ut ea explicem, quae exorsus sum. Quare ad propositum veniemus et in hoc exponemus libro de vita excellentium imperatorum.
+</section><section id ="FR1"><BR/> Je ne doute pas, Atticus, que la plupart de mes lecteurs ne jugent cet ouvrage frivole et trop peu digne de si grands personnages, lorsqu’ils y liront le nom du maître de musique d’Épaminondas et qu’ils me verront compter au nombre de ses talents sa grâce à danser et son habileté à jouer de la flûte. Mais ces critiques seront en général des personnes étrangères à la littérature grecque, qui ne trouvent de bien que ce qui est conforme à leurs mœurs. Si elles apprenaient que les mêmes choses ne sont pas honorables ou honteuses chez tous les peuples, mais que partout on en juge d’après la tradition des ancêtres, elles ne s’étonneraient pas de me voir peindre fidèlement les mœurs des Grecs quand je retrace leurs vertus. En effet, ce ne fut pas un déshonneur pour Cimon, l’un des plus grands hommes d’Athènes, d’avoir épousé sa sœur germaine, parce que c’était un usage, reçu dans sa patrie, tandis que nos mœurs réprouvent une telle union. À Sparte, il n’y a point de veuve si noble qui ne se livre pour de l’argent. Dans presque toute la Grèce, c’était un grand titre d’honneur que d’être proclamé vainqueur à Olympie; chez ces mêmes nations, il n’y avait point de honte à paraître sur la scène et à se donner en spectacle au peuple. De tous ces usages, les uns, parmi nous, sont réputés infâmes, les autres avilissants et déshonnêtes. Au contraire, nos mœurs admettent comme honorables bien des choses qui en Grèce sont tenues pour honteuses. Quel Romain rougit de conduire sa femme à un banquet? Quelle mère de famille n’occupe dans la maison l’appartement d’honneur et ne fréquente le monde? En Grèce, c’est bien différent: la femme n’est admise qu’aux repas de famille; elle ne se tient que dans la partie la plus reculée de la maison, qui est appelée gynécée, où nul ne peut entrer, hormis les proches parents. Mais de plus longs détails me sont interdits et par la dimension de cet ouvrage et par l’impatience que j’éprouve d’aborder mon sujet. J’entre donc en matière, et je vais raconter dans ce livre la vie des grands capitaines.</p>
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 2; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 2; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 2; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 2; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 2; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 2; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 2; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script></body></html>

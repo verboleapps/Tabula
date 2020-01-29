@@ -1,0 +1,125 @@
+ <div class = "corpsTexte"><p class = "marge"><span id="elemMenu1">1</span>  &nbsp;&nbsp;<span id="elemMenu2">2</span>  &nbsp;&nbsp;<span id="elemMenu3">3</span>  &nbsp;&nbsp;<span id="elemMenu4">4</span>  &nbsp;&nbsp;<span id="elemMenu5">5</span>  &nbsp;&nbsp;</p><section id ="LAT1">I<BR/>  Pausanias Lacedaemonius magnus homo, sed varius in omni genere vitae fuit: nam ut virtutibus eluxit, sic vitiis est obrutus. Huius illustrissimum est proelium apud Plataeas. </verset=2> Namque illo duce Mardonius, satrapes regius, natione Medus, regis gener, in primis omnium Persarum et manu fortis et consilii plenus, cum CC milibus peditum, quos viritim legerat, et XX equitum haud ita magna manu Graeciae fugatus est, eoque ipse dux cecidit proelio. Qua victoria elatus plurima miscere coepit et maiora concupiscere. </verset=3> Sed primum in eo est reprehensus, quod [cum] ex praeda tripodem aureum Delphis posuisset epigrammate scripto, in quo haec erat sententia: suo ductu barbaros apud Plataeas esse deletos, eiusque victoriae ergo Apollini id donum dedisse. </verset=4> Hos versus Lacedaemonii exsculpserunt neque aliud scripserunt quam nomina earum civitatum, quarum auxilio Persae erant victi.
+</section><section id ="FR1">1<BR/> Pausanias, de Sparte, fut un grand homme, sans doute, mais inégal et inconstant dans toute sa conduite. L’éclat de ses vertus fut effacé par ses vices. Sa bataille de Platées est très célèbre; ce fut en effet sous sa conduite que Mardonius, Mède de nation, satrape et gendre de Darius, le plus vaillant et le plus habile des généraux de la Perse, à la tête de deux cent mille hommes de pied, tous gens d’élite, et de vingt mille cavaliers, fut mis en déroute par une armée peu nombreuse, et perdit lui-même la vie dans le combat. Enflé de cette victoire, il commença à former des intrigues et à donner un libre essor à son ambition. La première action dont on le blâma, fut d’avoir fait graver sur un trépied d’or, qui lui était revenu du butin et qu’il avait placé dans le temple de Delphes, une inscription portant que sous sa conduite les barbares avaient été détruits à Platées, et qu’en reconnaissance de cette victoire il avait fait ce présent à Apollon. Les Lacédémoniens rayèrent cette inscription, et gravèrent seulement sur le trépied le nom des villes qui avaient contribué à la défaite des Perses.
+</section><section id ="LAT2">II<BR/>  Post id proelium eundem Pausaniam cum classe communi Cyprum atque Hellespontum miserunt, ut ex his regionibus barbarorum praesidia depelleret. </verset=2> Pari felicitate in ea re usus elatius se gerere coepit maioresque appetere res. Nam cum Byzantio expugnato cepisset complures Persarum nobiles atque in his nonnullos regis propinquos, hos clam Xerxi remisit, simulans ex vinclis publicis effugisse, et cum his Gongylum Eretriensem, qui litteras regi redderet, in quibus haec fuisse scripta Thucydides memoriae prodidit: </verset=3> `Pausanias, dux Spartae, quos Byzantii ceperat, postquam propinquos tuos cognovit, tibi muneri misit seque tecum affinitate coniungi cupit. Quare, si tibi videtur, des ei filiam tuam nuptum. </verset=4> Id si feceris, et Spartam et ceteram Graeciam sub tuam potestatem se adiuvante te redacturum pollicetur. His de rebus si quid geri volueris, certum hominem ad eum mittas face, cum quo colloquatur.' </verset=5> Rex tot hominum salute tam sibi necessariorum magnopere gavisus confestim cum epistula Artabazum ad Pausaniam mittit, in qua eum collaudat petit, ne cui rei pareat ad ea efficienda, quae pollicetur: si perfecerit, nullius rei a se repulsam laturum. </verset=6> Huius Pausanias voluntate cognita alacrior ad rem gerendam factus, in suspicionem cecidit Lacedaemoniorum. Quo facto domum revocatus, accusatus capitis absolvitur, multatur tamen pecunia; quam ob causam ad classem remissus non est.
+</section><section id ="FR2">2<BR/> Après cette bataille, le même Pausanias fut mis à la tête de la flotte commune des Grecs, et envoyé à l’île de Chypre et sur l’Hellespont, pour en chasser les garnisons barbares. Également heureux dans cette expédition, il en devint plus fier et plus ambitieux encore. Après s’être rendu maître de Byzance, il renvoya secrètement à Xerxès plusieurs prisonniers persans d’un rang distingué, et entre autres quelques parents de ce prince, et chercha à faire croire qu’ils s’étaient évadés des prisons publiques. Il fit partir avec eux un certain Gongyle, d’Érétrie, chargé par le roi d’une lettre qui, au rapport de Thucydide, était conçue en ces termes: «Pausanias, chef des Spartiates, ayant reconnu que les prisonniers qu’il a faits à Byzance sont tes parents, te les renvoie à titre de présent. Il désire s’unir à toi par les liens du sang, et te prie, si tu le trouves bon, de lui donner ta fille en mariage. À cette condition, il promet de t’aider à réduire sous ta puissance et la ville de Sparte et toutes les autres cités de la Grèce. Si tu veux donner suite à ces propositions, envoie-moi un homme sûr, avec lequel je puisse conférer». Xerxès, ravi du salut de tant d’hommes qui lui étaient si nécessaires, envoie sur-le-champ Artabaze à Pausanias avec une lettre dans laquelle il le comble de louanges et lui demande de ne rien épargner pour effectuer ses promesses; ajoutant que, s’il réussissait, rien ne lui serait refusé. Pausanias, instruit des dispositions du roi, en devint plus ardent à poursuivre son projet, et se rendit suspect aux Lacédémoniens. Rappelé à Sparte au milieu de ses menées, on le mit en jugement. Il fut absous, condamné cependant à une amende; aussi ne lui rendit-on pas le commandement de la flotte.
+</section><section id ="LAT3">III<BR/>  At ille post non multo sua sponte ad exercitum rediit et ibi non callida, sed dementi ratione cogitata patefecit. Non enim mores patrios solum, sed etiam cultum vestitumque mutavit.
+     </verset=2> Apparatu regio utebatur, veste Medica; satellites Medi et Aegyptii sequebantur, epulabatur more Persarum luxuriosius, quam, qui aderant, perpeti possent.
+     </verset=3> Aditum petentibus conveniundi non dabat, superbe respondebat, crudeliter imperabat. Spartam redire nolebat: Colonas, qui locus in agro Troade est se contulerat: ibi consilia cum patriae tum sibi inimica capiebat.
+     </verset=4> Id postquam Lacedaemonii rescierunt, legatos cum clava ad eum miserunt, in qua more illorum erat scriptum: nisi domum reverteretur, se capitis eum damnaturos. </verset=5> Hoc nuntio commotus, sperans se etiam tum pecunia et potentia instans periculum posse depellere, domum rediit. Huc ut venit, ab ephoris in vincla publica est coniectus; licet enim legibus eorum cuivis ephoro hoc facere regi. Hinc tamen se expedivit; neque eo magis carebat suspicione. Nam opinio manebat eum cum rege habere societatem. </verset=6> Est genus quoddam hominum, quod Hilotae vocatur, quorum magna multitudo agros Lacedaemoniorum colit servorumque munere fungitur. Hos quoque sollicitare spe libertatis existimabatur. </verset=7> Sed quod harum rerum nullum erat apertum crimen, quo argui posset, non putabant de tali tamque claro viro suspicionibus oportere iudicari et exspectandum, dum se ipsa res aperiret.
+</section><section id ="FR3">3<BR/> Il retourna de lui-même peu de temps après à l’armée; et s’y conduisant non en homme adroit, mais en insensé, il y fit connaître ses desseins. Il quitta non seulement les moeurs, mais encore les manières et l’habillement de son pays.
+     Il avait un faste royal, portait l’habit médique, se faisait suivre d’une garde de Mèdes et d’Égyptiens. Sa table, servie dans le goût des Perses, était d’un luxe insupportable à ses convives mêmes.
+     Il était inaccessible à ceux qui voulaient l’approcher; il répondait avec hauteur; il commandait avec dureté. Ne voulant plus retourner à Sparte, il s’était transporté à Colone, ville de la Troade.
+     Là il tramait des complots également funestes à sa patrie et à lui-même. Quand les Lacédémoniens en furent informés, ils lui envoyèrent des députés avec la scytale, sur laquelle, selon leur usage, ils avaient écrit que, s’il ne revenait point, ils le condamneraient à mort. Pausanias, vivement ému de ce message, retourna à Sparte, espérant pouvoir encore écarter ce pressant danger par son argent et sa puissance. À peine y fut-il arrivé que les éphores le firent mettre en prison, les lois donnant à chacun de ces magistrats le pouvoir d’en user de cette sorte à l’égard du roi. Il se tira cependant de cette situation, mais il n’en resta pas moins suspect. On persistait à croire qu’il avait des intelligences avec le roi de Perse. Il est une classe nombreuse d’hommes, appelés ilotes, qui cultivent les terres des Spartiates et leur servent d’esclaves. On soupçonnait encore Pausanias de vouloir les soulever en leur faisant espérer la liberté. Mais comme on n’avait aucune preuve évidente par laquelle on pût se convaincre, on ne crut pas devoir juger, sur de simples soupçons, un homme si considérable et si illustre; mais on résolut d’attendre que le fait se découvrît de lui-même.
+</section><section id ="LAT4">IV<BR/>  Interim Argilius quidam adulescentulus, quem puerum Pausanias amore venerio dilexerat, cum epistulam ab eo ad Artabazum accepisset, eique in suspicionem venisset aliquid in ea de se esse scriptum, quod nemo eorum redisset, qui super tali causa eodem missi erant, vincla epistulae laxavit signoque detracto cognovit, si pertulisset, sibi esse pereundum. </verset=2> Erant in eadem epistula, quae ad ea pertinebant, quae inter regem Pausaniamque convenerant. Has ille litteras ephoris tradidit. </verset=3> Non est praetereunda gravitas Lacedaemoniorum hoc loco. Nam ne huius quidem indicio impulsi sunt, ut Pausaniam comprehenderent, neque prius vim adhibendam putaverunt, quam se ipse indicasset. </verset=4> Itaque huic indici, quid fieri vellent, praeceperunt. Fanum Neptuni est Taenari, quod violari nefas putant Graeci. Eo ille [index] confugit in araque consedit. Hanc iuxta locum fecerunt sub terra, ex quo posset audiri, si quis quid loqueretur cum Argilio. Huc ex ephoris quidam descenderunt. </verset=5> Pausanias ut audivit Argilium confugisse in aram, perturbatus venit eo. Quem cum supplicem dei videret in ara sedentem, quaerit, causae quid sit tam repentini consilii. </verset=6> Huc ille, quid ex litteris comperisset, aperit. Modo magis Pausanias perturbatus orare coepit, ne enuntiaret nec se meritum de illo optime proderet: quod si eam veniam sibi dedisset tantisque implicatum rebus sublevasset, magno ei praemio futurum.
+</section><section id ="FR4">4<BR/> Sur ces entrefaites, un jeune homme, nommé Argilius, fut chargé par Pausanias d’une lettre pour Artabaze. Comme aucun de ceux qui étaient partis avec de pareils messages n’était revenu, il soupçonna qu’il était fait quelque mention de lui. Il délia la lettre, et après l’avoir décachetée, vit que, s’il la portait, c’était fait de lui. Elle contenait d’ailleurs des détails relatifs au traité conclu entre Pausanias et le roi de Perse. Argilius remit cette lettre aux éphores.<BR/>
+Je dois remarquer ici la sage circonspection des magistrats de Sparte; l’indice même fourni par le jeune homme ne les décida point à faire arrêter Pausanias, et ils ne crurent devoir user de rigueur que lorsqu’il se serait découvert lui-même. Ils donnèrent pour cela leurs ordres au dénonciateur. Il y a à Ténare un temple de Neptune, que les Grecs regardent comme inviolable. Argilius s’y réfugia, et s’assit sur l’autel. On avait pratiqué tout auprès une loge souterraine d’où l’on pouvait entendre ceux qui viendraient lui parler. Quelques éphores y descendirent. Dès que Pausanias eut appris qu’Argilius s’était réfugié dans ce temple, il y accourut tout troublé. Le voyant sur l’autel, dans la posture d’un suppliant, il lui demanda la raison d’une démarche si subite. Argilius lui déclara ce qu’il avait appris par la lettre. Pausanias, encore plus effrayé, le prie de ne rien révéler et de ne point trahir son bienfaiteur, lui promettant que, s’il lui rendait ce service et le faisait sortir d’un si cruel embarras, il en serait amplement récompensé.
+</section><section id ="LAT5">V<BR/>  His rebus ephori cognitis satius putarunt in urbe eum comprehendi. Quo cum essent profecti et Pausanias placato Argilio, ut putabat, Lacedaemonem reverteretur, in itinere, cum iam in eo esset, ut comprehenderetur, ex vultu cuiusdam ephori, qui eum admoneri cupiebat, insidias sibi fieri intellexit. </verset=2> Itaque paucis ante gradibus, quam qui eum sequebantur, in aedem Minervae, quae Chalcioicos vocatur, confugit. Hinc ne exire posset, statim ephori valvas eius aedis obstruxerunt tectumque sunt demoliti, quo celerius sub divo interiret. </verset=3> Dicitur eo tempore matrem Pausaniae vixisse eamque iam magno natu, postquam de scelere filii comperit, in primis ad filium claudendum lapidem ad introitum aedis attulisse. </verset=4> Hic cum semianimis de templo elatus esset confestim animam efflavit. Sic Pausanias magnam belli gloriam turpi morte maculavit. </verset=5> Cuius mortui corpus cum eodem nonnulli dicerent inferri oportere, quo ii, qui ad supplicium essent dati, displicuit pluribus, et procul ab eo loco infoderunt, quo erat mortuus. Inde posterius dei Delphici responso erutus atque eodem loco sepultus est, ubi vitam posuerat.
+
+</section><section id ="FR5">5<BR/> Les éphores, ainsi instruits de tout, jugèrent plus à propos de faire arrêter le coupable dans la ville; et ils en prirent le chemin. Pausanias, croyant avoir gagné Argilius, y retournait aussi. Comme on était sur le point de l’arrêter en route, il comprit à la mine d’un éphore, qui voulait l’avertir du danger, qu’on cherchait à le surprendre. II se réfugia donc dans le temple de Minerve appelé Chalcioecus, en devançant de peu ceux qui le poursuivaient. Les éphores en firent aussitôt murer les portes, afin qu’il ne pût en sortir, et on démolit le toit, pour qu’exposé à l’air, il mourût plus vite. On dit que sa mère vivait encore en ce temps-là, et que cette femme, alors très âgée, ayant appris le crime de son fils, s’empressa d’apporter une pierre à l’entrée du temple, pour l’y enfermer. C’est ainsi que Pausanias souilla par l’infamie de sa mort l’éclat de sa vie militaire. À peine l’eut-on tiré du temple, à demi mort, qu’il expira. Quelques-uns disaient qu’il fallait porter son cadavre au même endroit que les corps des suppliciés; mais cet avis fut désapprouvé du plus grand nombre. On l’enterra loin du lieu où il était mort. Dans la suite, il fut exhumé par l’ordre de l’oracle de Delphes, et enseveli dans l’endroit même où il avait cessé de vivre.
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 5;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 6; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 6; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 6; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 6; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 6; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 6; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 6; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script></body></html>

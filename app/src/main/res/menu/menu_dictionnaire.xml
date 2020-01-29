@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.verbole.dcad.tabula.Dictionnaire">
+
+
+    <item
+        android:id="@+id/action_grammaire"
+        android:orderInCategory="100"
+        android:title="@string/title_activity_grammaire"
+        app:showAsAction="always" />
+
+    <!--
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+        -->
+
+
+
+    <item
+        android:id="@+id/action_textes"
+        android:orderInCategory="100"
+        android:title="@string/title_activity_textes"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_aide"
+        android:orderInCategory="100"
+        android:title="@string/title_activity_aide"
+        app:showAsAction="always" />
+</menu>

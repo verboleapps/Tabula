@@ -1,0 +1,114 @@
+ <div class = "corpsTexte"><p class = "marge"><span id="elemMenu1">1</span>  &nbsp;&nbsp;<span id="elemMenu2">2</span>  &nbsp;&nbsp;<span id="elemMenu3">3</span>  &nbsp;&nbsp;</p><section id ="LAT1">I<BR/>  IPHICRATES Atheniensis non tam magnitudine rerum gestarum quam disciplina militari nobilitatus est. Fuit enim talis dux, ut non solum aetatis suae cum primis compararetur, sed ne de maioribus nata quidem quisquam anteponeretur. <verset=2> Multum vero in bello est versatus, saepe exercitibus praefuit; nusquam culpa male rem gessit, semper consilio vicit tantumque eo valuit, ut multa in re militari partim nova attulerit, partim meliora fecerit. Namque ille pedestria arma mutavit. <verset=3> Cum ante illum imperatorem maximis clipeis, brevibus hastis, minutis gladiis uterentur, <verset=4> ille e contrario peltam pro parma fecit - a quo postea peltastae pedites appellantur -, ut ad motus concursusque essent leviores; hastae modum duplicavit, gladios longiores fecit. Idem genus loricarum et pro sertis atque aenis linteas dedit. Quo facto expeditiores milites reddidit: nam pondere detracto, quod aeque corpus tegeret et leve esset, curavit.
+</section><section id ="FR1">1<BR/> L’Athénien Iphicrate dut son illustration moins à la grandeur de ses exploits qu’à sa science militaire. En effet, c’était un si habile capitaine, que non seulement on le comparait aux premiers de son siècle, mais qu’on ne lui préférait même aucun de ses devanciers. Il passa presque toute sa vie dans les camps, et commanda souvent les armées. Nulle part il n’échoua par sa faute, et toujours il vainquit à force d’habileté, car l’art militaire lui doit une foule d’innovations heureuses, ou d’améliorations importantes. II changea les armes de l’infanterie. Avant qu’il ne commande, elle se servait de très grands boucliers, de piques courtes, de petites épées. Iphicrate, au contraire, substitua la pelte à la parme, ce qui fit ensuite appeler peltastes les fantassins; il les rendit ainsi plus légers pour les mouvements et pour les attaques. Il doubla la mesure de la pique; il allongea les épées. Il changea aussi la matière des cuirasses, et, à la place de celles qui étaient faites d’anneaux d’airain, il en donna de lin. Les soldats devinrent ainsi plus lestes; car, en diminuant le poids de leur armure, il leur en procura une qui couvrait également le corps sans l’appesantir.
+</section><section id ="LAT2">II<BR/>  Bellum cum Thracibus gessit; Seuthem, socium Atheniensium, in regnum restituit. Apud Corinthum tanta severitate exercitui praefuit, ut nullae umquam in Graecia neque exercitatiores copiae neque magis dicto audientes fuerint duci; <verset=2> in eamque consuetudinem adduxit, ut, cum proelii signum ab imperatore esset datum, sine ducis opera sic ordinatae consisterent, ut singuli a peritissimo imperatore dispositi viderentur. <verset=3> Hoc exercitu moram Lacedaemoniorum interfecit; quod maxime tota celebratum est Graecia. Iterum eodem bello omnes copias eorum fugavit; quo facto magnam adeptus est gloriam. <verset=4> Cum Artaxerxes Aegyptio regi bellum inferre voluit, Iphicraten ab Atheniensibus ducem petivit, quem praeficeret exercitui conducticio, cuius numerus XII milium fuit, quem quidem sic omni disciplina militari erudivit, ut, quemadmodum quondam Fabiani milites Romani appellati sunt, sic Iphicratenses apud Graecos in summa laude fuerint. <verset=5> Idem subsidio Lacedaemoniis profectus Epaminondae retardavit impetus. Nam nisi eius adventus appropinquasset, non prius Thebani Sparta abscessissent, quam captam incendio delessent.
+</section><section id ="FR2">2<BR/> Il fit la guerre aux Thraces, et rétablit dans son royaume Seuthès, allié des Athéniens. À Corinthe, il commanda l’armée avec une si grande rigidité, qu’il n’y eut jamais dans la Grèce de troupes mieux exercées ni plus obéissantes; il les accoutuma à savoir si bien se mettre d’elles-mêmes en bataille, que chaque soldat semblait avoir été rangé par le plus habile capitaine. Ce fut avec cette armée qu’il surprit et enleva la fameuse mora des Lacédémoniens, action qui fut grandement célébrée dans toute la Grèce. Il mit en fuite une seconde fois toutes leurs troupes dans la même guerre, et il acquit par cet exploit une grande gloire. Artaxerxès, voulant attaquer le roi d’Égypte, demanda Iphicrate aux Athéniens, pour le mettre à la tête de l’armée étrangère à sa solde, qui était de dix mille hommes. Il les instruisit dans toutes les parties de la discipline militaire; et, comme autrefois les soldats romains formés par Fabius furent nommés les Fabiens, les soldats Iphicratiens furent très illustres chez les Grecs. Ayant marché au secours des Lacédémoniens, il arrêta l’impétuosité d’Épaminondas; car sans son approche les Thébains ne se seraient point retirés de devant Sparte qu’ils ne l’eussent prise et détruite par le feu.
+</section><section id ="LAT3">III<BR/>  Fuit autem et animo magno et corpore imperatoriaque forma, ut ipso aspectu cuivis iniceret admirationem sui, <verset=2> sed in labore nimis remissus parumque patiens, ut Theopompus memoriae prodidit; bonus vero civis fideque magna. Quod cum in aliis rebus declaravit tum maxime in Amyntae Macedonis liberis tuendis. Namque Eurydice, mater Perdiccae et Philippi, cum his duobus pueris Amynta mortuo ad Iphicraten confugit eiusque opibus defensa est. <verset=3> Vixit ad senectutem placatis in se suorum civium animis. Causam capitis semel dixit, bello sociali, simul cum Timotheo, eoque iudicio est absolutus. <verset=4> Menesthea filium reliquit ex Thraessa natum, Coti regis filia. Is cum interrogaretur, utrum pluris, patrem matremne, faceret, 'Matrem' inquit. Id cum omnibus mirum videretur, 'At' ille 'merito' inquit 'facio. Nam pater, quantum in se fuit, Thraecem me genuit, contra ea mater Atheniensem.'
+
+</section><section id ="FR3">3<BR/> Iphicrate était d’un grand courage; d’une haute stature et d’un extérieur fait pour le commandement; en sorte que son seul aspect inspirait l’admiration pour sa personne. Mais il était trop mou dans le travail et peu patient, comme l’a écrit Théopompe; bon citoyen d’ailleurs et plein de loyauté. C’est ce qu’il montra dans plusieurs circonstances, entre autres en protégeant les enfants du Macédonien Amyntas: car Eurydice, mère de Perdiccas et de Philippe, se réfugia chez Iphicrate avec ses deux enfants encore en bas âge, après la mort d’Amyntas, et trouva en lui un protecteur. II vécut jusqu’à un âge avancé, en conservant l’affection de ses concitoyens. Il n’eut qu’une seule fois à repousser une accusation capitale, dans la guerre sociale, conjointement avec Timothée, et fut absous dans ce procès. Il laissa d’une Thrace, fille du roi Cotys, un fils nommé Ménesthée. Comme on demandait à celui-ci qui de son père ou de sa mère il estimait davantage, il répondit que c’était sa mère. Tout le monde s’étonnant de cette réponse: «C’est avec justice, reprit-il, que je parle ainsi: car mon père, autant qu’il a été en lui, m’a fait naître Thrace; ma mère, au contraire, Athénien.»
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 3;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 4; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 4; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 4; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 4; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 4; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 4; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 4; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script></body></html>

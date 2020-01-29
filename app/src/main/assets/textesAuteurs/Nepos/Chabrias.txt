@@ -1,0 +1,116 @@
+ <div class = "corpsTexte"><p class = "marge"><span id="elemMenu1">1</span>  &nbsp;&nbsp;<span id="elemMenu2">2</span>  &nbsp;&nbsp;<span id="elemMenu3">3</span>  &nbsp;&nbsp;<span id="elemMenu4">4</span>  &nbsp;&nbsp;</p><section id ="LAT1">I<BR/>  CHABRIAS Atheniensis. Hic quoque in summis habitus est ducibus resque multas memoria dignas gessit. Sed ex his elucet maxime inventum eius in proelio, quod apud Thebas fecit, cum Boeotiis subsidio venisset. <verset=2> Namque in eo victoria fidentem summum ducem Agesilaum, fugatis iam ab eo conducticiis catervis, reliquam phalangem loco vetuit cedere obnixoque genu scuto, proiecta hasta impetum excipere hostium docuit. Id novum Agesilaus contuens progredi non est ausus suosque iam incurrentes tuba revocavit. <verset=3> Hoc usque eo tota Graecia fama celebratum est, ut illo statu Chabrias sibi statuam fieri voluerit, quae publice ei ab Atheniensibus in foro constituta est. Ex quo factum est, ut postea athletae ceterique artifices iis statibus in statuis ponendis uterentur, in quibus victoriam essent adepti.
+</section><section id ="FR1">1<BR/> L’Athénien Chabrias fut aussi placé parmi les plus grands capitaines, et fit beaucoup de choses dignes de mémoire; mais la plus brillante est le stratagème qu’il imagina dans la bataille qu’il donna près de Thèbes, lorsqu’il fut venu au secours des Béotiens. Le grand capitaine Agésilas comptait déjà sur la victoire, car il avait mis en déroute les troupes mercenaires; Chabrias défendit au reste de son infanterie de céder le terrain; et mettant un genou en terre appuyé contre son bouclier, et présentant la pique en avant, il lui apprit à soutenir le choc des ennemis. Agésilas, surpris de cette nouvelle manoeuvre, n’osa pas avancer, et rappela par le son de la trompette ses gens qui allaient déjà charger. Ce trait fut si célébré dans toute la Grèce, que Chabrias voulut que la statue qui lui serait élevée sur la place publique, par un décret du peuple athénien, fût dans cette attitude. D’où il arriva qu’ensuite les athlètes et les artistes de tous les genres firent donner aux statues qu’on leur dressait la pose qu’ils avaient au moment de leur victoire.
+</section><section id ="LAT2">II<BR/>  Chabrias autem multa in Europa bella administravit, cum dux Atheniensium esset; in Aegypto sua sponte gessit. Nam Nectenebin adiutum profectus regnum ei constituit. <verset=2> Fecit idem Cypri, sed publice ab Atheniensibus Euagorae adiutor datus, neque prius inde discessit, quam totam insulam bello devinceret; qua ex re Athenienses magnam gloriam sunt adepti. <verset=3> Interim bellum inter Aegyptios et Persas conflatum est. Athenienses cum Artaxerxe societatem habebant, Lacedaemonii cum Aegyptiis; a quibus magnas praedas Agesilaus, rex eorum, faciebat. Id intuens Chabrias, cum in re nulla Agesilao cederet, sua sponte eos adiutum profectus Aegyptiae classi praefuit, pedestribus copiis Agesilaus.
+</section><section id ="FR2">2<BR/> Chabrias eut la conduite de plusieurs guerres en Europe comme général des Athéniens. Il en fit spontanément d’autres en Égypte. Il alla au secours de Nectanabis et l’affermit sur le trône. Il fit la même chose à Cypre, mais en vertu d’un décret des Athéniens, qui le donnèrent comme aide à Évagoras; et il n’en partit point qu’il n’eût soumis toute l’île par les armes: exploit par lequel les Athéniens acquirent une grande gloire. Sur ces entrefaites, la guerre fut allumée entre les Égyptiens et les Perses. Les Athéniens étaient unis avec Artaxerxès, les Spartiates avec les Égyptiens, de qui Agésilas leur roi tirait de grandes sommes. Chabrias considérant cet avantage, et ne cédant en rien à Agésilas, alla de lui-même à leur secours: il commanda l’armée navale égyptienne, et Agésilas, les troupes de terre.
+</section><section id ="LAT3">III<BR/>  Tum praefecti regis Persae legatos miserunt Athenas questum, quod Chabrias adversum regem bellum gereret cum Aegyptiis. Athenienses diem certam Chabriae praestituerunt, quam ante domum nisi redisset, capitis se illum damnaturos denuntiarunt. Hoc ille nuntio Athenas rediit neque ibi diutius est moratus, quam fuit necesse. <verset=2> Non enim libenter erat ante oculos suorum civium, quod et vivebat laute et indulgebat sibi liberalius, quam ut invidiam vulgi posset effugere. <verset=3> Est enim hoc commune vitium in magnis liberisque civitatibus, ut invidia gloriae comes sit et libenter de his detrahant, quos eminere videant altius; neque animo aequo pauperes alienam opulentium intuuntur fortunam. Itaque Chabrias, cum ei licebat, plurimum aberat. <verset=4> Neque vero solus ille aberat Athenis libenter, sed omnes fere principes fecerunt idem, quod tantum se ab invidia putabant futuros, quantum a conspectu suorum recesserint. Itaque Conon plurimum Cypri vixit, Iphicrates in Thraecia, Timotheus Lesbo, Chares Sigeo; dissimilis quidem Chares horum et factis et moribus, sed tamen Athenis et honoratus et potens.
+</section><section id ="FR3">3<BR/> Les généraux du roi de Perse envoyèrent alors des ambassadeurs à Athènes, pour se plaindre de ce que Chabrias faisait la guerre contre ce prince avec les Égyptiens. Les Athéniens mirent en demeure Chabrias, et lui signifièrent que, s’il ne revenait pas avant le jour marqué, ils le condamneraient à mort. Sur ce message, il revint à Athènes, et il n’y resta pas plus longtemps qu’il n’était nécessaire: car il n’était pas volontiers devant les yeux de ses concitoyens, parce qu’il vivait trop splendidement et se livrait trop largement à ses goûts pour pouvoir échapper à l’envie de la multitude. C’est en effet un vice commun dans les villes grandes et libres, que l’envie y est la compagne de la gloire, qu’on y médit volontiers de ceux qu’on voit s’élever trop haut, et que les pauvres n’y envisagent pas tranquillement la fortune des riches, qui leur est étrangère. C’est pourquoi Chabrias s’absentait souvent d’Athènes, autant qu’il lui était possible et il n’était pas le seul qui aimât à s’en absenter. Presque tous les principaux citoyens de cette ville firent de même, parce qu’ils pensaient que s’éloigner des regards de leurs concitoyens, c’était s’éloigner de l’envie. Ainsi Conon vécut-il le plus souvent à Cypre. Iphicrate en Thrace, Timothée à Lesbos, Charès à Sigée. À la vérité, ce dernier différait des trois autres par les actions et par les moeurs, il fut pourtant honoré et puissant dans Athènes.
+</section><section id ="LAT4">IV<BR/>  Chabrias autem periit bello sociali tali modo. Oppugnabant Athenienses Chium. Erat in classe Chabrias privatus, sed omnes, qui in magistratu erant, auctoritate anteibat, eumque magis milites quam, qui praeerant, aspiciebant. <verset=2> Quae res ei maturavit mortem. Nam dum primus studet portum intrare gubernatoremque iubet eo dirigere navem, ipse sibi perniciei fuit. Cum enim eo penetrasset, ceterae non sunt secutae. Quo facto circumfusus hostium concursu cum fortissime pugnaret, navis rostro percussa coepit sidere. <verset=3> Hinc refugere cum posset, si se in mare deiecisset, quod suberat classis Atheniensium, quae exciperet natantis, perire maluit quam armis abiectis navem relinquere, in qua fuerat vectus. Id ceteri facere noluerunt; qui nando in tutum pervenerunt. At ille praestare honestam mortem existimans turpi vitae, comminus pugnans telis hostium interfectus est.
+
+</section><section id ="FR4">4<BR/> Chabrias périt dans la guerre sociale; voici comment. Les Athéniens assiégeaient Chio. Chabrias était sur la flotte en simple particulier; mais il y précédait en autorité tous ceux qui avaient des grades, et les soldats le considéraient plus que ceux qui commandaient. Cette distinction hâta sa mort. Comme il désirait entrer le premier dans le port, et qu’il ordonnait au pilote d’y diriger son vaisseau, il fut lui-même cause de sa perte. Après qu’il eut pénétré, les autres vaisseaux ne le suivirent point. Enveloppé de la multitude des ennemis, il combattait avec la plus grande valeur, quand son vaisseau, frappé d’un coup d’éperon, coula bas, tandis qu’il pouvait s’en retirer en se lançant dans la mer, parce que la flotte des Athéniens était proche et qu’elle l’aurait recueilli, il aima mieux périr que de jeter ses armes et d’abandonner le vaisseau qui l’avait porté. Les autres ne voulurent pas faire de même: ils se sauvèrent à la nage. Chabrias, pensant qu’une mort honnête est préférable à une vie honteuse, soutint de près le choc de l’ennemi et fut percé de traits.
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 4;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 5; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script>

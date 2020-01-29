@@ -1,0 +1,114 @@
+ <div class = "corpsTexte"><p class = "marge"><span id="elemMenu1">1</span>  &nbsp;&nbsp;<span id="elemMenu2">2</span>  &nbsp;&nbsp;<span id="elemMenu3">3</span>  &nbsp;&nbsp;</p><section id ="LAT1">I<BR/>  Hi fere fuerunt Graecae gentis duces, qui memoria digni videantur, praeter REGES. Namque eos attingere noluimus, quod omnium res gestae separatim sunt relatae. Neque tamen hi admodum sunt multi. <verset=2> Lacedaemonius autem Agesilaus nomine, non potestate fuit rex, sicut ceteri Spartani. Ex iis vero, qui dominatum imperio tenuerunt, excellentissimi fuerunt, ut nos iudicamus, Persarum Cyrus et Darius, Hystaspi filius; quorum uterque privatus virtute regnum est adeptus. Prior horum apud Massagetas in proelio cecidit; Darius senectute diem obiit supremum. <verset=3> Tres sunt praeterea eiusdem generis: Xerxes et duo Artaxerxae, Macrochir cognomine et Mnemon. Xerxi maxime est illustre, quod maximis post hominum memoriam exercitibus terra marique bellum intulit Graeciae. <verset=4> At Macrochir praecipuam habet laudem amplissimae pulcherrimaeque corporis formae, quam incredibili ornavit virtute belli: namque illo Perses nemo manu fuit fortior. Mnemon autem iustitiae fama floruit. Nam cum matris suae scelere amisisset uxorem, tantum indulsit dolori, ut eum pietas vinceret. <verset=5> Ex his duo eodem nomine morbo naturae debitum reddiderunt; tertius ab Artabano praefecto ferro interemptus est.
+</section><section id ="FR1">1<BR/> Ce sont à peu près là les capitaines grecs qui nous ont paru dignes de mémoire, à l’exception des rois: car nous n’avons pas voulu toucher à leur histoire, parce qu’il n’en est point dont la vie n’ait été racontée séparément. Ils ne sont cependant pas fort nombreux. Le Lacédémonien Agésilas fut roi de nom et n’eut pas le pouvoir, ainsi que tous les autres rois spartiates. De ceux qui régnèrent par l’autorité, les plus distingués furent, à notre avis, chez les Perses, Cyrus et Darius fils d’Hystaspe. L’un et l’autre, d’abord simples particuliers, acquirent la royauté par leur mérite. Le premier fut tué dans une bataille chez les Massagètes: Darius mourut de vieillesse. Il y a eu encore trois autres célèbres rois de la même nation: Xerxès et les deux Artaxerxès, Longue-Main [Macrochir] et Mnémon. L’action la plus illustre de Xerxès, c’est d’avoir porté la guerre dans la Grèce, par terre et par mer, avec les armées les plus nombreuses qu’on eût vues de mémoire d’homme. La principale gloire de Longue-Main fut sa majestueuse et belle prestance, qu’il releva par une valeur guerrière incroyable: car aucun Persan ne fut plus brave que lui. Il brilla aussi par sa réputation de justice. Ayant, en effet, perdu son épouse par le crime de sa mère, il se livra bien à sa douleur, mais de manière qu’il la fit céder à la piété filiale. De ces rois, les deux du même nom payèrent le tribut à la nature, en mourant de maladie; le troisième fut égorgé par Artaban, son lieutenant.
+</section><section id ="LAT2">II<BR/>  Ex Macedonum autem gente duo multo ceteros antecesserunt rerum gestarum gloria: Philippus, Amyntae filius, et Alexander Magnus. Horum alter Babylone morbo consumptus est: Philippus Aegiis a Pausania, cum spectatum ludos iret, iuxta theatrum occisus est. <verset=2> Unus Epirotes, Pyrrhus, qui cum populo Romano bellavit. Is cum Argos oppidum oppugnaret in Peloponneso, lapide ictus interiit. Unus item Siculus, Dionysius prior. Nam et manu fortis et belli peritus fuit et, id quod in tyranno non facile reperitur, minime libidinosus, non luxuriosus, non avarus, nullius denique rei cupidus nisi singularis perpetuique imperii ob eamque rem crudelis. Nam dum id studuit munire, nullius pepercit vitae, quem eius insidiatorem putaret. <verset=3> Hic cum virtute tyrannidem sibi peperisset, magna retinuit felicitate. Maior enim annos LX natus decessit florente regno neque in tam multis annis cuiusquam ex sua stirpe funus vidit, cum ex tribus uxoribus liberos procreasset multique ei nati essent nepotes.
+</section><section id ="FR2">2<BR/> De la nation des Macédoniens, deux rois ont précédé de beaucoup tous les autres par la gloire de leurs exploits: Philippe, fils d’Amyntas, et Alexandre le Grand. L’un d’eux mourut de maladie à Babylone; Philippe fut tué à Égée par Pausanias, comme il allait assister aux jeux. Le seul roi célèbre d’Épire fut Pyrrhus, qui fit la guerre avec les Romains. Pendant qu’il assiégeait la ville d’Argos, dans le Péloponnèse, il périt, frappé d’un coup de pierre. Il y en eut de même un seul de Sicile, le premier Denys. Il fut, en effet, brave, savant dans la guerre; et, ce qui ne se trouve pas facilement dans un tyran, point débauché, point présomptueux, point avare. Enfin il ne connut point de passion, hors celle de gouverner seul et toujours; et, pour cette raison, il fut cruel. Car, en s’appliquant à affermir sa domination, il n’épargna la vie d’aucun de ceux qu’il soupçonnait de lui dresser des embûches. Ce prince, après s’être acquis la tyrannie par son courage, la retint avec un grand bonheur, et mourut âgé de plus de soixante ans, au sein d’un royaume florissant. Dans un espace de tant d’années, il ne vit la mort d’aucune personne de sa race, quoiqu’il eût eu des enfants de trois femmes, et qu’il lui fût né beaucoup de petit-fils.
+</section><section id ="LAT3">III<BR/>  Fuerunt praeterea magni reges ex amicis Alexandri Magni, qui post obitum eius imperia ceperunt, in his Antigonus et huius filius Demetrius, Lysimachus, Seleucus, Ptolemaeus. <verset=2> Ex his Antigonus in proelio, cum adversus Seleucum et Lysimachum dimicaret, occisus est. Pari leto affectus est Lysimachus ab Seleuco; namque societate dissoluta bellum inter se gesserunt. <verset=3> At Demetrius, cum filiam suam Seleuco in matrimonium dedisset neque eo magis fida inter eos amicitia manere potuisset, captus bello in custodia socer generi periit a morbo. <verset=4> Neque ita multo post Seleucus a Ptolemaeo Cerauno dolo interfectus est, quem ille a patre expulsum Alexandrea, alienarum opum indigentem receperat. Ipse autem Ptolemaeus, cum vivus filio regnum tradidisset, ab illo eodem vita privatus dicitur. <verset=5> De quibus quoniam satis dictum putamus, non incommodum videtur non praeterire Hamilcarem et Hannibalem, quos et animi magnitudine et calliditate omnes in Africa natos praestitisse constat.
+
+</section><section id ="FR3">3<BR/> Il y eut aussi de grands rois parmi les amis d’Alexandre, qui, après sa mort, s’emparèrent de ses États. Du nombre furent Antigone et son fils Démétrius, Lysimaque, Séleucus et Ptolémée. Antigone, combattant contre Séleucus et Lysimaque, fut tué dans la bataille, Lysimaque reçut de Séleucus le même genre de mort; car, leur alliance dissoute, ils se firent la guerre entre eux. Démétrius avait donné sa fille en mariage à Séleucus; leur amitié n’en fut pas pour cela plus durable, et le beau-père, pris dans un combat, mourut de maladie dans la prison du gendre. Peu de temps après, Séleucus fut tué en trahison par Ptolémée Céranne, qu’il avait recueilli lorsqu’il eut été chassé d’Alexandrie par son père et qu’il eut besoin des secours d’autrui. Pour Ptolémée lui-même, après avoir remis de son vivant le royaume à son fils, il fut, dit-on, privé de la vie par ce même fils. Comme nous pensons en avoir assez dit sur ces rois, on nous saura gré peut-être de ne point passer sous silence Hamilcar et Hannibal, qui ont assurément éclipsé en grandeur d’âme et en habileté tous les capitaines nés en Afrique.
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 3;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 4; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 4; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 4; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 4; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 4; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 4; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 4; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script></body></html>

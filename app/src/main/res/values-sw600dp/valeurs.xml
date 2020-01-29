@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="taille_police_webvues">14</integer>
+    <bool name="is_tablet">true</bool>
+    <bool name="is_inferieur400dp">false</bool>
+</resources>

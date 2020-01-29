@@ -1,0 +1,189 @@
+ <div class = "corpsTexte"><p class = "marge"><a id="elemMenu1" href="#">1</a> <a id="elemMenu2" href="#">2</a> <a id="elemMenu3" href="#">3</a> <a id="elemMenu4" href="#">4</a> <a id="elemMenu5" href="#">5</a> <a id="elemMenu6" href="#">6</a> <a id="elemMenu7" href="#">7</a> <a id="elemMenu8" href="#">8</a> <a id="elemMenu9" href="#">9</a> <a id="elemMenu10" href="#">10</a> <a id="elemMenu11" href="#">11</a> </p><section id ="LAT1">I<BR/>
+Rubellio et Fufio consulibus, quorum utrique Geminus cognomentum erat, Iulia Augusta mortem obiit, aetate s extrema, nobilitatis per Claudiam familiam et adoptione Liviorum Iuliorumque clarissimae. primum ei matrimonium et liberi fuere cum Tiberio Nerone, qui bello Perusino profugus pace inter Sex. Pompeium ac triumviros pacta in urbem rediit. exim Caesar cupidine formae aufert marito, incertum an invitam, adeo properus ut ne spatio quidem ad enitendum dato penatibus suis gravidam induxerit. nullam posthac subolem edidit sed sanguini Augusti per coniunctionem Agrippinae et Germanici adnexa communis pronepotes habuit. sanctitate domus priscum ad morem, comis ultra quam antiquis feminis probatum, mater impotens, uxor facilis et cum artibus mariti, simulatione filii bene composita. funus eius modicum, testamen tum diu inritum fuit. Iaudata est pro rostris a G. Caesare pronepote qui mox rerum potitus est.
+</section><section id ="FR1">1<BR/>
+
+Sous les consuls Rubellius et Fufius, surnommés tous deux Géminus, mourut, dans un âge très avancé, Julia Augusta<note=1>, héritière de la noblesse des Claudes, réunie par adoption à celle des Livius et des Jules. Elle fut mariée d’abord à Tibérius Néro<note=2> qui s’enfuit de sa patrie dans la guerre de Pérouse<note=3> et y revint lorsque la paix fut faite entre Sext. Pompée et les triumvirs. Déjà mère et enceinte de nouveau, César, épris de sa beauté, l’enleva à son mari (on ne sait si ce fut malgré elle); et, dans son impatience, il en fit son épouse, sans attendre même qu’elle fût accouchée. Il n’eut pas d’enfants de ce dernier mariage; mais l’union d’Agrippine et de Germanicus mêla son sang à celui d’Auguste<note=4>, et lui donna des arrière-petits-fils communs avec ce prince. Elle fut pure dans ses mœurs comme aux anciens jours, prévenante au-delà de ce qui semblait permis aux femmes d’autrefois, mère impérieuse, épouse complaisante, le caractère enfin le mieux assorti à la politique de son époux, à la dissimulation de son fils. Ses funérailles furent modestes, son testament longtemps négligé. Elle fut louée à la tribune par Caïus César, son arrière-petit-fils, qui depuis parvint à l’empire.
+<dl class="cache">
+<dd><a href="#lien_1"><span id="ancrage_1">1.</span></a> C’est le nom que portait Livie, depuis que, par le testament d’Auguste, elle avait été adoptée dans la famille des Jules.</dd>
+<dd><a href="#lien_2"><span id="ancrage_2">2.</span></a> Lorsque César Octavien se fit céder Livie par son mari Tibérius Claudius Néro, elle était déjà mère de Tibère, et, de plus, enceinte de Drusus.</dd>
+<dd><a href="#lien_3"><span id="ancrage_3">3.</span></a> Contre L. Antonius, frère du triumvir.</dd>
+<dd><a href="#lien_4"><span id="ancrage_4">4.</span></a> Germanicus était petit-fils de Livie, et Agrippine, petite-fille d’Auguste: les enfants qui naquirent d’eux descendaient donc au même degré d’Auguste et de Livie.</dd>
+</dl>
+
+</section><section id ="LAT2">II<BR/>
+At Tiberius, quod supremis in matrem officiis defuisset, nihil mutata amoenitate vitae, magnitudinem negotiorum per litteras excusavit honoresque memoriae eius ab senatu large decretos quasi per modestiam imminuit, paucis admodum receptis et addito ne caelestis religio decerneretur: sic ipsam maluisse. quin et parte eiusdem epistulae increpuit amicitias muliebris, Fufium consulem oblique perstringens. is gratia Augustae floruerat, aptus adliciendis feminarum animis, dicax idem et Tiberium acerbis facetiis inridere solitus quarum apud praepotentis in longum memoria est.
+</section><section id ="FR2">2<BR/>
+
+Tibère, qui n’avait point interrompu le cours de ses plaisirs pour rendre à sa mère les derniers devoirs, s’en excusa, par lettre, sur la grandeur des affaires; et, parmi les honneurs dont le sénat s’était montré libéral pour la mémoire d’Augusta, il retrancha les uns, comme par modestie, reçut un très petit nombre des autres, ajoutant qu’on s’abstînt de décerner l’apothéose; que telle était la volonté de sa mère. Il s’éleva même dans un endroit de sa lettre contre ces amitiés qu’on lie avec les femmes; censure indirecte qui s’adressait au consul Fufius, dont la fortune était l’ouvrage d’Augusta. Fufius était doué des agréments qui attirent ce sexe; du reste, diseur de bons mots, et se permettant sur Tibère de ces plaisanteries mordantes dont les hommes puissants conservent un long souvenir.
+
+
+</section><section id ="LAT3">III<BR/>
+Ceterum ex eo praerupta iam et urgens dominatio: nam incolumi Augusta erat adhuc perfugium, quia Tiberio inveteratum erga matrem obsequium neque Seianus audebat auctoritati parentis antire: tunc velut frenis exoluti proruperunt missaeque in Agrippinam ac Neronem litterae quas pridem adlatas et cohibitas ab Augusta credidit vulgus: haud enim multum post mortem eius recitatae sunt. verba inerant quaesita asperitate: sed non arma, non rerum novarum studium, amores iuvenum et impudicitiam nepoti obiectabat. in nurum ne id quidem confingere ausus, adrogantiam oris et contumacem animum incusavit, magno senatus pavore ac silentio, donec pauci quis nulla ex honesto spes (et publica mala singulis in occasionem gratiae trahuntur) ut referretur postulavere, promptissimo Cotta Messalino cum atroci sententia. sed aliis a primoribus maximeque a magistratibus trepidahatur: quippe Tiberius etsi infense invectus cetera ambigua reliquerat.
+</section><section id ="FR3">3<BR/>
+
+Depuis ce moment, la domination devint emportée et violente. Du vivant d’Augusta, il restait encore un refuge: le prince gardait à sa mère un respect d’habitude, et Séjan n’osait opposer son crédit à l’autorité maternelle. Délivrés de ce frein, ils s’abandonnèrent à leur rage. Une lettre fut adressée au sénat contre Agrippine et Néron. On crut qu’envoyée depuis longtemps elle avait été arrêtée par Augusta; car elle fut lue peu de jours après sa mort. Elle contenait des expressions d’une amertume étudiée. Au reste, il n’y était question ni de révolte, ni de complots. Tibère imputait à son petit-fils des amours infâmes et l’oubli de sa propre pudeur. Quant à sa bru, n’osant même calomnier ses mœurs, il lui reprochait un air hautain et une âme rebelle. La peur et le silence régnaient dans le sénat. Enfin, quelques-uns de ces hommes qui n’attendent rien des moyens honnêtes (et l’ambition particulière sait tourner à son profit les malheurs publics ) demandèrent qu’on délibérât. Déjà Messalinus Cotta, plus empressé que les autres, proposait un avis cruel: mais le reste des grands tremblait, et surtout les magistrats; car Tibère, malgré la violence de son invective, avait laissé sa volonté douteuse.
+
+
+</section><section id ="LAT4">IV<BR/>
+Fuit in senatu Iunius Rusticus, componendis patrum actis delectus a Caesare eoque meditationes eius introspicere creditus. is fatali quodam motu (neque enim ante specimen constantiae dederat) seu prava sollertia, dum imminentium oblitus incerta pavet, inserere se dubitantibus ac monere consules ne relationem inciperent; disserebatque brevibus momentis summa verti: posse quandoque domus Germanici exitium paenitentiae esse seni. simul populus effgies Agrippinae ac Neronis gerens circumsistit curiam faustisque in Caesarem ominibus falsas litteras et principe invito exitium domui eius intendi clamitat. ita nihil triste illo die patratum. ferebantur etiam sub nominibus consularium fictae in Seianum sententiae, exercentibus plerisque per occultum atque eo procacius libidinem ingeniorum. unde illi ira violentior et materies criminandi: spretum dolorem principis ab senatu, descivisse populum; audiri lam et legi novas contiones, nova patrum consulta: quid reliquum nisi ut caperent ferrum et, quorum imagines pro vexillis secuti forent, duces imperatoresque deligerent?
+</section><section id ="FR4">4<BR/>
+
+Un sénateur, nommé Junius Rusticus, était chargé par le prince de tenir le journal des actes du sénat, et on le croyait initié aux pensées de Tibère. Cet homme, entraîné sans doute par un mouvement involontaire (car il n’avait donné jusqu’alors aucune preuve de courage), ou par une fausse politique qui, l’aveuglant sur un danger présent, l’effrayait d’un avenir incertain, se joint aux indécis, et engage les consuls à ne pas commencer la délibération. Il représente qu’un instant peut tout changer, et que, par respect pour le nom de Germanicus, il faut laisser au vieux prince le temps de se repentir. Cependant le peuple, portant les images d’Agrippine et de Néron, entoure le sénat, et, au milieu de ses acclamations et de ses vœux pour Tibère, il ne cesse de crier que la lettre est fausse et que c’est contre la volonté du prince qu’on trame la perte de sa maison. Aucune résolution cruelle ne fut donc prise ce jour-là. On fit même circuler, sous le nom de quelques consulaires, de prétendues opinions prononcées contre Séjan: satires où des auteurs inconnus exerçaient sans contrainte la malignité de leur esprit. La colère du favori en devint plus violente, et ses calomnies eurent un prétexte de plus: "Le sénat, selon lui, méprisait les douleurs du prince. Le peuple était en pleine révolte; déjà on entendait, on lisait les harangues et les sénatus-consultes d’un nouveau gouvernement. Que leur restait-il à faire, sinon de tirer l’épée, et de choisir pour chefs et pour empereurs ceux dont les images leur servaient d’étendards? "
+
+</section><section id ="LAT5">V<BR/>
+Igitur Caesar repetitis adversum nepotem et nurum probris increpitaque per edictum plebe, questus apud patres quod fraude unius senatoris imperatoria maiestas elusa publice foret, integra tamen sibi cuncta postulavit. nec ultra deliberatum quo minus non quidem extrema decernerent (id enim vetitum), sed paratos ad ultionem vi principis impediri testarentur ...
+</section><section id ="FR5">5<BR/>
+
+Tibère renouvela donc ses invectives contre son petit-fils et sa bru. II blâma le peuple par un édit, et se plaignit au sénat que les conseils perfides d’un seul homme eussent attiré un affront public à la majesté impériale. Il demanda cependant que tout fût réservé à sa décision. Le sénat ne balança plus, non pas à ordonner les dernières rigueurs (on l’avait défendu), mais à déclarer que prêt à venger l’empereur, il était retenu par sa volonté suprême<note=5>…
+<dl class="cache">
+<dd><a href="#lien_5"><span id="ancrage_5">5.</span></a> Ici commence une lacune qui embrasse le reste de l’année courante la suivante tout entière, et au moins dix mois de la troisième</dd>
+</dl>
+
+
+</section><section id ="LAT6">VI<BR/> ... Quattuor et quadraginta orationes super ea re habitae, ex quis ob metum paucae, plures adsuetudine ... 'mihi pudorem aut Seiano invidiam adlaturum censui. versa est fortuna et ille quidem qui collegam et generum adsciverat sibi ignoscit: ceteri quem per dedecora fovere cum scelere insectantur. miserius sit ob amicitiam accusari an amicum accusare haud discreverim. non crudelitatem, non clementiam cuiusquam experiar sed liber et mihi ipsi probatus antibo periculum. vos obtestor ne memoriam nostri per maerorem quam laeti retineatis, adiciendo me quoque iis qui fine egregio publica mala effugerunt.'
+</section><section id ="FR6">6<BR/>
+
+On entendit à ce sujet<note=6> quarante-quatre discours, dont quelques-uns étaient dictés par la crainte, un plus grand nombre par l’habitude de flatter… "J’ai pensé que ce serait attirer la honte sur moi ou l’envie sur Séjan ... La fortune est changée, et celui qui avait choisi cet homme pour collègue et pour gendre<note=7> se pardonne son erreur; les autres, après lui avoir prodigué un vil encens, lui déclarent une guerre impie… Est-on plus à plaindre, accusé à cause de l’amitié, que dénonciateur de son ami? Je ne le déciderai pas. Du reste, je n’éprouverai ni la rigueur ni la clémence de personne. Libre et jouissant de ma propre estime, je préviendrai le danger. Et vous qui m’entendez, au lieu de donner des pleurs à ma mémoire, bénissez mes destins, et mettez-moi au nombre de ceux qui, par une fin honorable, ont échappé aux malheurs publics."
+<dl class="cache">
+<dd><a href="#lien_6"><span id="ancrage_6">6.</span></a> Probablement la conjuration de Séjan.</dd>
+<dd><a href="#lien_7"><span id="ancrage_7">7.</span></a> Tibère avait fait Séjan consul avec lui, et l’avait trompé par l’espoir d’une alliance.</dd>
+</dl>
+
+</section><section id ="LAT7">VII<BR/> Tunc singulos, ut cuique adsistere, adloqui animus erat, retinens aut dimittens partem diei absumpsit, multoque adhuc coetu et cunctis intrepidum vultum eius spectantibus, cum superesse tempus novissimis crederent, gladio quem sinu abdiderat incubuit. neque Caesar ullis criminibus aut probris defunctum insectatus est, cum in Blaesum multa foedaque incusavisset.
+</section><section id ="FR7">7<BR/>
+
+Ensuite il passa une partie du jour à s’entretenir avec ses amis, permettant à chacun de se retirer quand il voulait ou de rester auprès de lui. Ils l’entouraient encore en grand nombre et admiraient l’intrépidité de son visage, sans penser que l’heure suprême dût arriver sitôt, lorsqu’il se laissa tomber sur une épée qu’il avait cachée sous sa robe. Tibère ne flétrit sa mémoire d’aucune imputation, quoiqu’il eût cruellement outragé celle de Blésus.
+
+</section><section id ="LAT8">VIII<BR/> Relatum inde de P. Vitellio et Pomponio Secundo. illum indices arguebant claustra aerarii, cui praefectus erat, et militarem pecuniam rebus novis obtulisse; huic a Considio praetura functo obiectabatur Aelii Galli amicitia, qui punito Seiano in hortos Pomponii quasi fidissimum ad sub sidium perfugisset. neque aliud periclitantibus auxilii quam in fratrum constantia fuit qui vades extitere. mox crebris prolationibus spem ac metum iuxta gravatus Vitellius petito per speciem studiorum scalpro levem ictum venis intulit vitamque aegritudine animi finivit. at Pomponius multa morum elegantia et ingenio inlustri, dum adversam fortunam aequus tolerat, Tiberio superstes fuit.
+</section><section id ="FR8">8<BR/>
+
+On instruisit ensuite le procès de P. Vitellius et de Pomponius Sécundus. Le premier était accusé d’avoir offert à la conjuration les clefs de l’épargne, dont il était préfet, ainsi que le trésor de la guerre. L’ancien préteur Considius reprochait au second l’amitié d’Élius Gallus, qui, après le supplice de Séjan, avait choisi les jardins de Pomponius comme l’asile le plus sûr où il pût se réfugier. Les accusés ne trouvèrent d’appui que dans le dévouement de leurs frères, qui se firent leurs cautions. L’affaire fut souvent remise, et Vitellius, également fatigué d’espérer et de craindre, demanda un canif comme s’il eût voulu écrire, et s’en piqua légèrement les veines. Quelque temps après, le chagrin termina sa vie. Pomponius, qui joignait une grande élégance de mœurs à un esprit distingué, supporta courageusement l’infortune et survécut à Tibère.
+
+</section><section id ="LAT9">IX<BR/> Placitum posthac ut in reliquos Seiani liberos adverteretur, vanescente quamquam plebis ira ac plerisque per priora supplicia lenitis. igitur portantur in carcerem, filius imminentium intellegens, puella adeo nescia ut crebro interrogaret quod ob delictum et quo traheretur; neque facturam ultra et posse se puerili verbere moneri. tradunt temporis eius auctores, quia triumvirali supplicio adfici virginem inauditum habebatur, a carnifice laqueum iuxta compressam; exim oblisis faucibus id aetatis corpora in Gemonias abiecta.
+</section><section id ="FR9">9<BR/>
+
+On résolut ensuite de sévir contre les derniers enfants de Séjan, quoique la colère du peuple commençât à s’amortir, et que les premiers supplices eussent calmé les esprits. On les porte à la prison: le fils prévoyait sa destinée; la fille la soupçonnait si peu que souvent elle demanda quelle était sa faute, en quel lieu on la traînait, ajoutant qu’elle ne le ferait plus, qu’on pouvait la châtier comme on châtie les enfants. Les auteurs de ce temps rapportent que l’usage semblant défendre qu’une vierge subît la peine des criminels, le bourreau la viola auprès du lacet fatal. Puis il les étrangla l’un et l’autre, et les corps de deux enfants furent jetés aux Gémonies!
+
+
+</section><section id ="LAT10">X<BR/> Per idem tempus Asia atque Achaia exterritae sunt acri magis quam diuturno rumore, Drusum Germanici filium apud Cycladas insulas mox in continenti visum. et erat iuvenis haud dispari aetate, quibusdam Caesaris libertis velut adgnitus; per dolumque comitantibus adliciebantur ignari fama nominis et promptis Graecorum animis ad nova et mira: quippe elapsum custodiae pergere ad paternos exercitus, Aegyptum aut Syriam invasurum, fingebant simul credebantque. iam iuventutis concursu, iam publicis studiis frequentabatur, laetus praesentibus et inanium spe, cum auditum id Poppaeo Sabino: is Macedoniae tum intentus Achaiam quoque curabat. igitur quo vera seu falsa antiret Toronaeum Thermaeumque sinum praefestinans, mox Euboeam Aegaei maris insulam et Piraeum Atticae orae, dein Corinthiense litus angustiasque Isthmi evadit; marique alio Nicopolim Romanam coloniam ingressus, ibi demum cognoscit sollertius interrogatum quisnam foret dixisse M. Silano genitum et multis sectatorum dilapsis ascendisse navem tamquam Italiam peteret. scripsitque haec Tiberio neque nos originem finemve eius rei ultra comperimus.
+</section><section id ="FR10">10<BR/>
+
+Vers le même temps, une alarme assez vive, mais qui dura peu, effraya l’Asie et l’Achaïe. Le bruit courut que Drusus, fils de Germanicus, avait été vu aux îles Cyclades, puis sur le continent. Il y parut en effet un jeune homme à peu près de son âge, que quelques affranchis de Tibère feignaient de reconnaître, et qu’ils accompagnaient par ruse. D’autres le suivaient de bonne foi, séduits par l’éclat de son nom et cet amour du merveilleux et de la nouveauté si naturel aux Grecs. Échappé de sa prison, il allait disait-on, rejoindre les armées de son père et s’emparer de l’Égypte et de la Syrie: et les inventeurs de cette fable y croyaient les premiers. Déjà il voyait la jeunesse accourir sur ses pas, et les villes lui adresser des hommages publics, succès qui l’enivraient de chimériques espérances lorsque la nouvelle de ce mouvement parvint à Poppéus Sabinus. Ce général, occupé alors en Macédoine, n’en veillait pas moins sur l’Achaïe. Vraies ou fausses, il voulut aller au-devant des prétentions de cet homme: il passe rapidement les golfes de Torone et de Thermes, l’île d’Eubée dans la mer Égée, le Pirée dans l’Attique, côtoie le rivage de Corinthe, traverse l’Isthme, et, se rembarquant sur une autre mer<note=8>, il arrive à Nicopolis<note=9>, colonie romaine, où il apprend que, pressé par d’adroites questions, l’imposteur s’était dit fils de M. Silanus, et que, abandonné de presque tous ses partisans, il était monté sur un vaisseau comme pour aller en Italie. Sabinus en instruisit Tibère. Du reste, je n’ai pu découvrir ni l’origine ni l’issue de cette entreprise.
+<dl class="cache">
+<dd><a href="#lien_8"><span id="ancrage_8">8.</span></a> Le golfe Corinthique, dans la mer Ionienne.</dd>
+<dd><a href="#lien_9"><span id="ancrage_9">9.</span></a> Aujourd’hui Preveza Vecchia, sur le golfe de l’Aria.</dd>
+</dl>
+
+
+</section><section id ="LAT11">XI<BR/> Exitu anni diu aucta discordia consulum erupit. nam Trio, facilis capessendis inimicitiis et foro exercitus, ut segnem Regulum ad opprimendos Seiani ministros oblique perstrinxerat: ille nisi lacesseretur modestiae retinens non modo rettudit collegam sed ut noxium coniurationis ad disquisitionem trahebat. multisque patrum orantibus ponerent odia in perniciem itura, mansere infensi ac minitantes donec magistratu abirent.
+</section><section id ="FR11">11<BR/>
+
+À la fin de l’année, la mésintelligence des consuls, longtemps accrue dans le silence, éclata. Trion, exercé aux combats de la parole et toujours prêt à défier les haines, avait indirectement accusé Régulus de négligence à poursuivre les complices de Séjan. Régulus, modéré quand on ne le provoquait pas, non seulement repoussa l’attaque; mais il voulut poursuivre son collègue comme complice lui-même de la conjuration. En vain beaucoup de sénateurs les priaient de calmer des inimitiés qui tourneraient à leur ruine: ils continuèrent de se haïr et de se menacer jusqu’à la fin de leur magistrature.
+
+<br />
+
+</section></div><script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 11;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 12; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 12; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 12; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 12; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 12; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 12; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 12; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script>

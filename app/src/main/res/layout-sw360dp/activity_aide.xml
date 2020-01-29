@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.verbole.dcad.tabula.ActivitePrincipale2">
+
+    <androidx.appcompat.widget.Toolbar xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/toolbar_fragment_aide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bord_fond_action_barre"
+        android:gravity="center_horizontal|center"
+        android:paddingBottom="0dp"
+        android:paddingEnd="0dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingStart="0dp"
+        android:paddingTop="0dp"
+
+        app:contentInsetEnd="0dp"
+        app:contentInsetLeft="0dp"
+        app:contentInsetRight="0dp"
+        app:contentInsetStart="0dp">
+
+        <include
+            layout="@layout/action_bar_aide"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp" />
+    </androidx.appcompat.widget.Toolbar>
+
+
+<RelativeLayout
+    android:id="@+id/relLayAide"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fond_gris"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    tools:context="com.verbole.dcad.tabula.Aide">
+
+    <WebView
+        android:id="@+id/webVueAide"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+    </WebView>
+    <ListView
+        android:id="@+id/listeVueDicos"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:divider="@color/transparent"
+        android:dividerHeight="4dp" />
+
+    <RelativeLayout
+        android:id="@+id/relLayOptionsFC"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/blanc">
+
+
+        <TextView
+            android:id="@+id/labelSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:gravity="center_horizontal"
+            android:text="montrer :"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/taille_police_labels_aide" />
+
+        <ToggleButton
+            android:id="@+id/switchOptionFC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/labelSwitch"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:background="@color/fond_gris_clair"
+            android:textOff="Mot"
+            android:textOn="Définition" />
+
+        <TextView
+            android:id="@+id/labelNbMax"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/switchOptionFC"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="40dp"
+            android:text="nombre de cartes"
+            android:textColor="@android:color/black" />
+
+
+        <EditText
+            android:id="@+id/tvNbMaxFC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/labelNbMax"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:ems="5"
+            android:gravity="center_horizontal"
+            android:inputType="numberSigned"
+            android:text="20" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/listeVueAide"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="false"
+        android:layout_centerVertical="false"
+        android:background="@color/fond_grisfonce"
+        android:divider="@color/transparent" />
+
+
+
+
+
+
+</RelativeLayout>
+</LinearLayout>

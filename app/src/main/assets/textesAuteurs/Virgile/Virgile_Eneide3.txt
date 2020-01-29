@@ -1,0 +1,943 @@
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+</head>
+
+ <body>
+
+ <div class = "corpsTexte">
+
+<section id ="LAT1">
+LIBER III.<BR>
+<BR>
+Postquam res Asiae Priamique evertere gentem<BR>
+immeritam visum superis, ceciditque superbum<BR>
+Ilium et omnis humo fumat Neptunia Troia,<BR>
+diversa exsilia et desertas quaerere terras<BR>
+auguriis agimur divum, classemque sub ipsa (3,5)<BR>
+Antandro et Phrygiae molimur montibus Idae,<BR>
+incerti quo fata ferant, ubi sistere detur,<BR>
+contrahimusque viros. vix prima inceperat aestas<BR>
+et pater Anchises dare fatis vela iubebat,<BR>
+litora cum patriae lacrimans portusque relinquo (3,10)<BR>
+et campos ubi Troia fuit. feror exsul in altum<BR>
+cum sociis natoque penatibus et magnis dis.<BR>
+<BR>
+Terra procul vastis colitur Mauortia campis<BR>
+(Thraces arant) acri quondam regnata Lycurgo,<BR>
+hospitium antiquum Troiae sociique penates (3,15)<BR>
+dum fortuna fuit. feror huc et litore curvo<BR>
+moenia prima loco fatis ingressus iniquis<BR>
+Aeneadasque meo nomen de nomine fingo.<BR>
+sacra Dionaeae matri divisque ferebam<BR>
+auspicibus coeptorum operum, superoque nitentem (3,20)<BR>
+caelicolum regi mactabam in litore taurum.<BR>
+forte fuit iuxta tumulus, quo cornea summo<BR>
+virgulta et densis hastilibus horrida myrtus.<BR>
+accessi viridemque ab humo convellere silvam<BR>
+conatus, ramis tegerem ut frondentibus aras, (3,25)<BR>
+horrendum et dictu video mirabile monstrum.<BR>
+nam quae prima solo ruptis radicibus arbos<BR>
+vellitur, huic atro liquuntur sanguine guttae<BR>
+et terram tabo maculant. mihi frigidus horror<BR>
+membra quatit gelidusque coit formidine sanguis. (3,30)<BR>
+rursus et alterius lentum convellere vimen<BR>
+insequor et causas penitus temptare latentis;<BR>
+ater et alterius sequitur de cortice sanguis.<BR>
+multa movens animo Nymphas venerabar agrestis<BR>
+Gradivumque patrem, Geticis qui praesidet arvis, (3,35)<BR>
+rite secundarent visus omenque levarent.<BR>
+tertia sed postquam maiore hastilia nisu<BR>
+adgredior genibusque adversae obluctor harenae,<BR>
+(eloquar an sileam?) gemitus lacrimabilis imo<BR>
+auditur tumulo et vox reddita fertur ad auris: (3,40)<BR>
+'quid miserum, Aenea, laceras? iam parce sepulto,<BR>
+parce pias scelerare manus. non me tibi Troia<BR>
+externum tulit aut cruor hic de stipite manat.<BR>
+heu fuge crudelis terras, fuge litus auarum:<BR>
+nam Polydorus ego. hic confixum ferrea texit (3,45)<BR>
+telorum seges et iaculis increvit acutis.'<BR>
+tum vero ancipiti mentem formidine pressus<BR>
+obstipui steteruntque comae et vox faucibus haesit.<BR>
+<BR>
+Hunc Polydorum auri quondam cum pondere magno<BR>
+infelix Priamus furtim mandarat alendum (3,50)<BR>
+Threicio regi, cum iam diffideret armis<BR>
+Dardaniae cingique urbem obsidione videret.<BR>
+ille, ut opes fractae Teucrum et Fortuna recessit,<BR>
+res Agamemnonias victriciaque arma secutus<BR>
+fas omne abrumpit: Polydorum obtruncat, et auro (3,55)<BR>
+ui potitur. quid non mortalia pectora cogis,<BR>
+auri sacra fames! postquam pavor ossa reliquit,<BR>
+delectos populi ad proceres primumque parentem<BR>
+monstra deum refero, et quae sit sententia posco.<BR>
+omnibus idem animus, scelerata excedere terra, (3,60)<BR>
+linqui pollutum hospitium et dare classibus Austros.<BR>
+ergo instauramus Polydoro funus, et ingens<BR>
+aggeritur tumulo tellus; stant Manibus arae<BR>
+caeruleis maestae vittis atraque cupresso,<BR>
+et circum Iliades crinem de more solutae; (3,65)<BR>
+inferimus tepido spumantia cymbia lacte<BR>
+sanguinis et sacri pateras, animamque sepulcro<BR>
+condimus et magna supremum voce ciemus.<BR>
+<BR>
+Inde ubi prima fides pelago, placataque venti<BR>
+dant maria et lenis crepitans vocat Auster in altum, (3,70)<BR>
+deducunt socii navis et litora complent;<BR>
+provehimur portu terraeque urbesque recedunt.<BR>
+sacra mari colitur medio gratissima tellus<BR>
+Nereidum matri et Neptuno Aegaeo,<BR>
+quam pius Arquitenens oras et litora circum (3,75)<BR>
+errantem Mycono e celsa Gyaroque revinxit,<BR>
+immotamque coli dedit et contemnere ventos.<BR>
+huc feror, haec fessos tuto placidissima portu<BR>
+accipit; egressi veneramur Apollinis urbem.<BR>
+rex Anius, rex idem hominum Phoebique sacerdos, (3,80)<BR>
+vittis et sacra redimitus tempora lauro<BR>
+occurrit; veterem Anchisen agnovit amicum.<BR>
+iungimus hospitio dextras et tecta subimus.<BR>
+<BR>
+Templa dei saxo venerabar structa vetusto:<BR>
+'da propriam, Thymbraee, domum; da moenia fessis (3,85)<BR>
+et genus et mansuram urbem; serva altera Troiae<BR>
+Pergama, reliquias Danaum atque immitis Achilli.<BR>
+quem sequimur? quoue ire iubes? ubi ponere sedes?<BR>
+da, pater, augurium atque animis inlabere nostris.'<BR>
+vix ea fatus eram: tremere omnia visa repente, (3,90)<BR>
+liminaque laurusque dei, totusque moveri<BR>
+mons circum et mugire adytis cortina reclusis.<BR>
+summissi petimus terram et vox fertur ad auris:<BR>
+'Dardanidae duri, quae vos a stirpe parentum<BR>
+prima tulit tellus, eadem vos ubere laeto (3,95)<BR>
+accipiet reduces. antiquam exquirite matrem.<BR>
+hic domus Aeneae cunctis dominabitur oris<BR>
+et nati natorum et qui nascentur ab illis.'<BR>
+haec Phoebus; mixtoque ingens exorta tumultu<BR>
+laetitia, et cuncti quae sint ea moenia quaerunt, (3,100)<BR>
+quo Phoebus vocet errantis iubeatque reverti.<BR>
+tum genitor veterum volvens monimenta virorum<BR>
+'audite, o proceres,' ait 'et spes discite vestras.<BR>
+Creta Iovis magni medio iacet insula ponto,<BR>
+mons Idaeus ubi et gentis cunabula nostrae. (3,105)<BR>
+centum urbes habitant magnas, uberrima regna,<BR>
+maximus unde pater, si rite audita recordor,<BR>
+Teucrus Rhoeteas primum est advectus in oras,<BR>
+optavitque locum regno. nondum Ilium et arces<BR>
+Pergameae steterant; habitabant vallibus imis. (3,110)<BR>
+hinc mater cultrix Cybeli Corybantiaque aera<BR>
+Idaeumque nemus, hinc fida silentia sacris,<BR>
+et iuncti currum dominae subiere leones.<BR>
+ergo agite et divum ducunt qua iussa sequamur:<BR>
+placemus ventos et Cnosia regna petamus. (3,115)<BR>
+nec longo distant cursu: modo Iuppiter adsit,<BR>
+tertia lux classem Cretaeis sistet in oris.'<BR>
+sic fatus meritos aris mactavit honores,<BR>
+taurum Neptuno, taurum tibi, pulcher Apollo,<BR>
+nigram Hiemi pecudem, Zephyris felicibus albam. (3,120)<BR>
+<BR>
+Fama volat pulsum regnis cessisse paternis<BR>
+Idomenea ducem, desertaque litora Cretae,<BR>
+hoste vacare domum sedesque astare relictas.<BR>
+linquimus Ortygiae portus pelagoque volamus<BR>
+bacchatamque iugis Naxon viridemque Donusam, (3,125)<BR>
+Olearon niveamque Paron sparsasque per aequor<BR>
+Cycladas, et crebris legimus freta concita terris.<BR>
+nauticus exoritur vario certamine clamor:<BR>
+hortantur socii Cretam proavosque petamus.<BR>
+prosequitur surgens a puppi ventus euntis, (3,130)<BR>
+et tandem antiquis Curetum adlabimur oris.<BR>
+ergo avidus muros optatae molior urbis<BR>
+Pergameamque voco, et laetam cognomine gentem<BR>
+hortor amare focos arcemque attollere tectis.<BR>
+<BR>
+Iamque fere sicco subductae litore puppes, (3,135)<BR>
+conubiis arvisque novis operata iuventus,<BR>
+iura domosque dabam, subito cum tabida membris<BR>
+corrupto caeli tractu miserandaque venit<BR>
+arboribusque satisque lues et letifer annus.<BR>
+linquebant dulcis animas aut aegra trahebant (3,140)<BR>
+corpora; tum sterilis exurere Sirius agros,<BR>
+arebant herbae et victum seges aegra negabat.<BR>
+rursus ad oraclum Ortygiae Phoebumque remenso<BR>
+hortatur pater ire mari veniamque precari,<BR>
+quam fessis finem rebus ferat, unde laborum (3,145)<BR>
+temptare auxilium iubeat, quo vertere cursus.<BR>
+<BR>
+Nox erat et terris animalia somnus habebat:<BR>
+effigies sacrae divum Phrygiique penates,<BR>
+quos mecum a Troia mediisque ex ignibus urbis<BR>
+extuleram, visi ante oculos astare iacentis (3,150)<BR>
+in somnis multo manifesti lumine, qua se<BR>
+plena per insertas fundebat luna fenestras;<BR>
+tum sic adfari et curas his demere dictis:<BR>
+'quod tibi delato Ortygiam dicturus Apollo est,<BR>
+hic canit et tua nos en ultro ad limina mittit. (3,155)<BR>
+nos te Dardania incensa tuaque arma secuti,<BR>
+nos tumidum sub te permensi classibus aequor,<BR>
+idem venturos tollemus in astra nepotes<BR>
+imperiumque urbi dabimus. tu moenia magnis<BR>
+magna para longumque fugae ne linque laborem. (3,160)<BR>
+mutandae sedes. non haec tibi litora suasit<BR>
+Delius aut Cretae iussit considere Apollo.<BR>
+est locus, Hesperiam Grai cognomine dicunt,<BR>
+terra antiqua, potens armis atque ubere glaebae;<BR>
+Oenotri coluere viri; nunc fama minores (3,165)<BR>
+Italiam dixisse ducis de nomine gentem.<BR>
+hae nobis propriae sedes, hinc Dardanus ortus<BR>
+Iasiusque pater, genus a quo principe nostrum.<BR>
+surge age et haec laetus longaeuo dicta parenti<BR>
+haud dubitanda refer: Corythum terrasque requirat (3,170)<BR>
+Ausonias; Dictaea negat tibi Iuppiter arva.'<BR>
+talibus attonitus visis et voce deorum<BR>
+(nec sopor illud erat, sed coram agnoscere vultus<BR>
+velatasque comas praesentiaque ora videbar;<BR>
+tum gelidus toto manabat corpore sudor) (3,175)<BR>
+corripio e stratis corpus tendoque supinas<BR>
+ad caelum cum voce manus et munera libo<BR>
+intemerata focis. perfecto laetus honore<BR>
+Anchisen facio certum remque ordine pando.<BR>
+agnovit prolem ambiguam geminosque parentis, (3,180)<BR>
+seque novo veterum deceptum errore locorum.<BR>
+tum memorat: 'nate, Iliacis exercite fatis,<BR>
+sola mihi talis casus Cassandra canebat.<BR>
+nunc repeto haec generi portendere debita nostro<BR>
+et saepe Hesperiam, saepe Itala regna vocare. (3,185)<BR>
+sed quis ad Hesperiae venturos litora Teucros<BR>
+crederet? aut quem tum vates Cassandra moveret?<BR>
+cedamus Phoebo et moniti meliora sequamur.'<BR>
+sic ait, et cuncti dicto paremus ovantes.<BR>
+hanc quoque deserimus sedem paucisque relictis (3,190)<BR>
+vela damus vastumque cava trabe currimus aequor.<BR>
+<BR>
+Postquam altum tenuere rates nec iam amplius ullae<BR>
+apparent terrae, caelum undique et undique pontus,<BR>
+tum mihi caeruleus supra caput astitit imber<BR>
+noctem hiememque ferens, et inhorruit unda tenebris. (3,195)<BR>
+continuo venti volvunt mare magnaque surgunt<BR>
+aequora, dispersi iactamur gurgite vasto;<BR>
+involvere diem nimbi et nox umida caelum<BR>
+abstulit, ingeminant abruptis nubibus ignes,<BR>
+excutimur cursu et caecis erramus in undis. (3,200)<BR>
+ipse diem noctemque negat discernere caelo<BR>
+nec meminisse viae media Palinurus in unda.<BR>
+tris adeo incertos caeca caligine soles<BR>
+erramus pelago, totidem sine sidere noctes.<BR>
+quarto terra die primum se attollere tandem (3,205)<BR>
+visa, aperire procul montis ac volvere fumum.<BR>
+vela cadunt, remis insurgimus; haud mora, nautae<BR>
+adnixi torquent spumas et caerula verrunt.<BR>
+servatum ex undis Strophadum me litora primum<BR>
+excipiunt. Strophades Graio stant nomine dictae (3,210)<BR>
+insulae Ionio in magno, quas dira Celaeno<BR>
+Harpyiaeque colunt aliae, Phineia postquam<BR>
+clausa domus mensasque metu liquere priores.<BR>
+tristius haud illis monstrum, nec saevior ulla<BR>
+pestis et ira deum Stygiis sese extulit undis. (3,215)<BR>
+virginei volucrum vultus, foedissima ventris<BR>
+proluvies uncaeque manus et pallida semper<BR>
+ora fame.<BR>
+huc ubi delati portus intravimus, ecce<BR>
+laeta boum passim campis armenta videmus (3,220)<BR>
+caprigenumque pecus nullo custode per herbas.<BR>
+inruimus ferro et divos ipsumque vocamus<BR>
+in partem praedamque Iovem; tum litore curvo<BR>
+exstruimusque toros dapibusque epulamur opimis.<BR>
+at subitae horrifico lapsu de montibus adsunt (3,225)<BR>
+Harpyiae et magnis quatiunt clangoribus alas,<BR>
+diripiuntque dapes contactuque omnia foedant<BR>
+immundo; tum vox taetrum dira inter odorem.<BR>
+rursum in secessu longo sub rupe cavata<BR>
+[arboribus clausam circum atque horrentibus umbris] (3,230)<BR>
+instruimus mensas arisque reponimus ignem;<BR>
+rursum ex diverso caeli caecisque latebris<BR>
+turba sonans praedam pedibus circumvolat uncis,<BR>
+polluit ore dapes. sociis tunc arma capessant<BR>
+edico, et dira bellum cum gente gerendum. (3,235)<BR>
+haud secus ac iussi faciunt tectosque per herbam<BR>
+disponunt ensis et scuta latentia condunt.<BR>
+ergo ubi delapsae sonitum per curva dedere<BR>
+litora, dat signum specula Misenus ab alta<BR>
+aere cavo. invadunt socii et nova proelia temptant, (3,240)<BR>
+obscenas pelagi ferro foedare volucris.<BR>
+sed neque vim plumis ullam nec vulnera tergo<BR>
+accipiunt, celerique fuga sub sidera lapsae<BR>
+semesam praedam et vestigia foeda relinquunt.<BR>
+una in praecelsa consedit rupe Celaeno, (3,245)<BR>
+infelix vates, rumpitque hanc pectore vocem;<BR>
+'bellum etiam pro caede boum stratisque iuvencis,<BR>
+Laomedontiadae, bellumne inferre paratis<BR>
+et patrio Harpyias insontis pellere regno?<BR>
+accipite ergo animis atque haec mea figite dicta, (3,250)<BR>
+quae Phoebo pater omnipotens, mihi Phoebus Apollo<BR>
+praedixit, vobis Furiarum ego maxima pando.<BR>
+Italiam cursu petitis ventisque vocatis:<BR>
+ibitis Italiam portusque intrare licebit.<BR>
+sed non ante datam cingetis moenibus urbem (3,255)<BR>
+quam vos dira fames nostraeque iniuria caedis<BR>
+ambesas subigat malis absumere mensas.'<BR>
+dixit, et in silvam pennis ablata refugit.<BR>
+at sociis subita gelidus formidine sanguis<BR>
+deriguit: cecidere animi, nec iam amplius armis, (3,260)<BR>
+sed votis precibusque iubent exposcere pacem,<BR>
+sive deae seu sint dirae obscenaeque volucres.<BR>
+et pater Anchises passis de litore palmis<BR>
+numina magna vocat meritosque indicit honores:<BR>
+'di, prohibete minas; di, talem avertite casum (3,265)<BR>
+et placidi servate pios.' tum litore funem<BR>
+deripere excussosque iubet laxare rudentis.<BR>
+tendunt vela Noti: fugimus spumantibus undis<BR>
+qua cursum ventusque gubernatorque vocabat.<BR>
+iam medio apparet fluctu nemorosa Zacynthos (3,270)<BR>
+Dulichiumque Sameque et Neritos ardua saxis.<BR>
+effugimus scopulos Ithacae, Laertia regna,<BR>
+et terram altricem saevi exsecramur Ulixi.<BR>
+mox et Leucatae nimbosa cacumina montis<BR>
+et formidatus nautis aperitur Apollo. (3,275)<BR>
+hunc petimus fessi et parvae succedimus urbi;<BR>
+ancora de prora iacitur, stant litore puppes.<BR>
+<BR>
+Ergo insperata tandem tellure potiti<BR>
+lustramurque Iovi votisque incendimus aras,<BR>
+Actiaque Iliacis celebramus litora ludis. (3,280)<BR>
+exercent patrias oleo labente palaestras<BR>
+nudati socii: iuvat evasisse tot urbes<BR>
+Argolicas mediosque fugam tenuisse per hostis.<BR>
+interea magnum sol circumvolvitur annum<BR>
+et glacialis hiems Aquilonibus asperat undas. (3,285)<BR>
+aere cavo clipeum, magni gestamen Abantis,<BR>
+postibus adversis figo et rem carmine signo:<BR>
+Aeneas haec de Danais victoribus arma;<BR>
+linquere tum portus iubeo et considere transtris.<BR>
+certatim socii feriunt mare et aequora verrunt: (3,290)<BR>
+protinus aerias Phaeacum abscondimus arces<BR>
+litoraque Epiri legimus portuque subimus<BR>
+Chaonio et celsam Buthroti accedimus urbem.<BR>
+<BR>
+Hic incredibilis rerum fama occupat auris,<BR>
+Priamiden Helenum Graias regnare per urbis (3,295)<BR>
+coniugio Aeacidae Pyrrhi sceptrisque potitum,<BR>
+et patrio Andromachen iterum cessisse marito.<BR>
+obstipui, miroque incensum pectus amore<BR>
+compellare virum et casus cognoscere tantos.<BR>
+progredior portu classis et litora linquens, (3,300)<BR>
+sollemnis cum forte dapes et tristia dona<BR>
+ante urbem in luco falsi Simoentis ad undam<BR>
+libabat cineri Andromache manisque vocabat<BR>
+Hectoreum ad tumulum, viridi quem caespite inanem<BR>
+et geminas, causam lacrimis, sacraverat aras. (3,305)<BR>
+ut me conspexit venientem et Troia circum<BR>
+arma amens vidit, magnis exterrita monstris<BR>
+deriguit visu in medio, calor ossa reliquit,<BR>
+labitur, et longo vix tandem tempore fatur:<BR>
+'verane te facies, verus mihi nuntius adfers, (3,310)<BR>
+nate dea? vivisne? aut, si lux alma recessit,<BR>
+Hector ubi est?' dixit, lacrimasque effudit et omnem<BR>
+implevit clamore locum. vix pauca furenti<BR>
+subicio et raris turbatus vocibus hisco:<BR>
+'vivo equidem vitamque extrema per omnia duco; (3,315)<BR>
+ne dubita, nam vera vides.<BR>
+heu! quis te casus deiectam coniuge tanto<BR>
+excipit, aut quae digna satis fortuna revisit,<BR>
+Hectoris Andromache? Pyrrhin conubia servas?'<BR>
+deiecit vultum et demissa voce locuta est: (3,320)<BR>
+'o felix una ante alias Priameia virgo,<BR>
+hostilem ad tumulum Troiae sub moenibus altis<BR>
+iussa mori, quae sortitus non pertulit ullos<BR>
+nec victoris heri tetigit captiva cubile!<BR>
+nos patria incensa diversa per aequora vectae (3,325)<BR>
+stirpis Achilleae fastus iuvenemque superbum<BR>
+servitio enixae tulimus; qui deinde secutus<BR>
+Ledaeam Hermionen Lacedaemoniosque hymenaeos<BR>
+me famulo famulamque Heleno transmisit habendam.<BR>
+ast illum ereptae magno flammatus amore (3,330)<BR>
+coniugis et scelerum furiis agitatus Orestes<BR>
+excipit incautum patriasque obtruncat ad aras.<BR>
+morte Neoptolemi regnorum reddita cessit<BR>
+pars Heleno, qui Chaonios cognomine campos<BR>
+Chaoniamque omnem Troiano a Chaone dixit, (3,335)<BR>
+Pergamaque Iliacamque iugis hanc addidit arcem.<BR>
+sed tibi qui cursum venti, quae fata dedere?<BR>
+aut quisnam ignarum nostris deus appulit oris?<BR>
+quid puer Ascanius? superatne et vescitur aura?<BR>
+quem tibi iam Troia— (3,340)<BR>
+ecqua tamen puero est amissae cura parentis?<BR>
+ecquid in antiquam virtutem animosque virilis<BR>
+et pater Aeneas et avunculus excitat Hector?'<BR>
+talia fundebat lacrimans longosque ciebat<BR>
+incassum fletus, cum sese a moenibus heros (3,345)<BR>
+Priamides multis Helenus comitantibus adfert,<BR>
+agnoscitque suos laetusque ad limina ducit,<BR>
+et multum lacrimas verba inter singula fundit.<BR>
+procedo et parvam Troiam simulataque magnis<BR>
+Pergama et arentem Xanthi cognomine rivum (3,350)<BR>
+agnosco, Scaeaeque amplector limina portae;<BR>
+nec non et Teucri socia simul urbe fruuntur.<BR>
+illos porticibus rex accipiebat in amplis:<BR>
+aulai medio libabant pocula Bacchi<BR>
+impositis auro dapibus, paterasque tenebant. (3,355)<BR>
+<BR>
+Iamque dies alterque dies processit, et aurae<BR>
+vela vocant tumidoque inflatur carbasus Austro:<BR>
+his vatem adgredior dictis ac talia quaeso:<BR>
+'Troiugena, interpres divum, qui numina Phoebi,<BR>
+qui tripodas Clarii et laurus, qui sidera sentis (3,360)<BR>
+et volucrum linguas et praepetis omina pennae,<BR>
+fare age (namque omnis cursum mihi prospera dixit<BR>
+religio, et cuncti suaserunt numine divi<BR>
+Italiam petere et terras temptare repostas;<BR>
+sola novum dictuque nefas Harpyia Celaeno (3,365)<BR>
+prodigium canit et tristis denuntiat iras<BR>
+obscenamque famem), quae prima pericula vito?<BR>
+quidve sequens tantos possim superare labores?'<BR>
+hic Helenus caesis primum de more iuvencis<BR>
+exorat pacem divum vittasque resolvit (3,370)<BR>
+sacrati capitis, meque ad tua limina, Phoebe,<BR>
+ipse manu multo suspensum numine ducit,<BR>
+atque haec deinde canit divino ex ore sacerdos:<BR>
+<BR>
+'Nate dea (nam te maioribus ire per altum<BR>
+auspiciis manifesta fides; sic fata deum rex (3,375)<BR>
+sortitur voluitque vices, is vertitur ordo),<BR>
+pauca tibi e multis, quo tutior hospita lustres<BR>
+aequora et Ausonio possis considere portu,<BR>
+expediam dictis; prohibent nam cetera Parcae<BR>
+scire Helenum farique vetat Saturnia Iuno. (3,380)<BR>
+principio Italiam, quam tu iam rere propinquam<BR>
+vicinosque, ignare, paras invadere portus,<BR>
+longa procul longis via dividit invia terris.<BR>
+ante et Trinacria lentandus remus in unda<BR>
+et salis Ausonii lustrandum navibus aequor (3,385)<BR>
+infernique lacus Aeaeaeque insula Circae,<BR>
+quam tuta possis urbem componere terra.<BR>
+signa tibi dicam, tu condita mente teneto:<BR>
+cum tibi sollicito secreti ad fluminis undam<BR>
+litoreis ingens inventa sub ilicibus sus (3,390)<BR>
+triginta capitum fetus enixa iacebit,<BR>
+alba solo recubans, albi circum ubera nati,<BR>
+is locus urbis erit, requies ea certa laborum.<BR>
+nec tu mensarum morsus horresce futuros:<BR>
+fata viam invenient aderitque vocatus Apollo. (3,395)<BR>
+has autem terras Italique hanc litoris oram,<BR>
+proxima quae nostri perfunditur aequoris aestu,<BR>
+effuge; cuncta malis habitantur moenia Grais.<BR>
+hic et Narycii posuerunt moenia Locri,<BR>
+et Sallentinos obsedit milite campos (3,400)<BR>
+Lyctius Idomeneus; hic illa ducis Meliboei<BR>
+parva Philoctetae subnixa Petelia muro.<BR>
+quin ubi transmissae steterint trans aequora classes<BR>
+et positis aris iam vota in litore solves,<BR>
+purpureo velare comas adopertus amictu, (3,405)<BR>
+ne qua inter sanctos ignis in honore deorum<BR>
+hostilis facies occurrat et omina turbet.<BR>
+hunc socii morem sacrorum, hunc ipse teneto;<BR>
+hac casti maneant in religione nepotes.<BR>
+ast ubi digressum Siculae te admoverit orae (3,410)<BR>
+ventus, et angusti rarescent claustra Pelori,<BR>
+laeva tibi tellus et longo laeva petantur<BR>
+aequora circuitu; dextrum fuge litus et undas.<BR>
+haec loca vi quondam et vasta convulsa ruina<BR>
+(tantum aevi longinqua valet mutare vetustas) (3,415)<BR>
+dissiluisse ferunt, cum protinus utraque tellus<BR>
+una foret: venit medio vi pontus et undis<BR>
+Hesperium Siculo latus abscidit, arvaque et urbes<BR>
+litore diductas angusto interluit aestu.<BR>
+dextrum Scylla latus, laevum implacata Charybdis (3,420)<BR>
+obsidet, atque imo barathri ter gurgite vastos<BR>
+sorbet in abruptum fluctus rursusque sub auras<BR>
+erigit alternos, et sidera verberat unda.<BR>
+at Scyllam caecis cohibet spelunca latebris<BR>
+ora exsertantem et navis in saxa trahentem. (3,425)<BR>
+prima hominis facies et pulchro pectore virgo<BR>
+pube tenus, postrema immani corpore pistrix<BR>
+delphinum caudas utero commissa luporum.<BR>
+praestat Trinacrii metas lustrare Pachyni<BR>
+cessantem, longos et circumflectere cursus, (3,430)<BR>
+quam semel informem vasto vidisse sub antro<BR>
+Scyllam et caeruleis canibus resonantia saxa.<BR>
+praeterea, si qua est Heleno prudentia vati,<BR>
+si qua fides, animum si veris implet Apollo,<BR>
+unum illud tibi, nate dea, proque omnibus unum (3,435)<BR>
+praedicam et repetens iterumque iterumque monebo,<BR>
+Iunonis magnae primum prece numen adora,<BR>
+Iunoni cane vota libens dominamque potentem<BR>
+supplicibus supera donis: sic denique victor<BR>
+Trinacria finis Italos mittere relicta. (3,440)<BR>
+huc ubi delatus Cumaeam accesseris urbem<BR>
+divinosque lacus et Averna sonantia silvis,<BR>
+insanam vatem aspicies, quae rupe sub ima<BR>
+fata canit foliisque notas et nomina mandat.<BR>
+quaecumque in foliis descripsit carmina virgo (3,445)<BR>
+digerit in numerum atque antro seclusa relinquit:<BR>
+illa manent immota locis neque ab ordine cedunt.<BR>
+verum eadem, verso tenuis cum cardine ventus<BR>
+impulit et teneras turbavit ianua frondes,<BR>
+numquam deinde cavo volitantia prendere saxo (3,450)<BR>
+nec revocare situs aut iungere carmina curat:<BR>
+inconsulti abeunt sedemque odere Sibyllae.<BR>
+hic tibi ne qua morae fuerint dispendia tanti,<BR>
+quamvis increpitent socii et vi cursus in altum<BR>
+vela vocet, possisque sinus implere secundos, (3,455)<BR>
+quin adeas vatem precibusque oracula poscas<BR>
+ipsa canat vocemque volens atque ora resolvat.<BR>
+illa tibi Italiae populos venturaque bella<BR>
+et quo quemque modo fugiasque ferasque laborem<BR>
+expediet, cursusque dabit venerata secundos. (3,460)<BR>
+haec sunt quae nostra liceat te voce moneri.<BR>
+vade age et ingentem factis fer ad aethera Troiam.'<BR>
+<BR>
+Quae postquam vates sic ore effatus amico est,<BR>
+dona dehinc auro gravia ac secto elephanto<BR>
+imperat ad navis ferri, stipatque carinis (3,465)<BR>
+ingens argentum Dodonaeosque lebetas,<BR>
+loricam consertam hamis auroque trilicem,<BR>
+et conum insignis galeae cristasque comantis,<BR>
+arma Neoptolemi. sunt et sua dona parenti.<BR>
+addit equos, additque duces, (3,470)<BR>
+remigium supplet, socios simul instruit armis.<BR>
+<BR>
+Interea classem velis aptare iubebat<BR>
+Anchises, fieret vento mora ne qua ferenti.<BR>
+quem Phoebi interpres multo compellat honore:<BR>
+'coniugio, Anchisa, Veneris dignate superbo, (3,475)<BR>
+cura deum, bis Pergameis erepte ruinis,<BR>
+ecce tibi Ausoniae tellus: hanc arripe velis.<BR>
+et tamen hanc pelago praeterlabare necesse est:<BR>
+Ausoniae pars illa procul quam pandit Apollo.<BR>
+vade,' ait 'o felix nati pietate. quid ultra (3,480)<BR>
+provehor et fando surgentis demoror Austros?'<BR>
+nec minus Andromache digressu maesta supremo<BR>
+fert picturatas auri subtemine vestis<BR>
+et Phrygiam Ascanio chlamydem (nec cedit honore)<BR>
+textilibusque onerat donis, ac talia fatur: (3,485)<BR>
+'accipe et haec, manuum tibi quae monimenta mearum<BR>
+sint, puer, et longum Andromachae testentur amorem,<BR>
+coniugis Hectoreae. cape dona extrema tuorum,<BR>
+o mihi sola mei super Astyanactis imago.<BR>
+sic oculos, sic ille manus, sic ora ferebat; (3,490)<BR>
+et nunc aequali tecum pubesceret aevo.'<BR>
+hos ego digrediens lacrimis adfabar obortis:<BR>
+'vivite felices, quibus est fortuna peracta<BR>
+iam sua: nos alia ex aliis in fata vocamur.<BR>
+vobis parta quies: nullum maris aequor arandum, (3,495)<BR>
+arva neque Ausoniae semper cedentia retro<BR>
+quaerenda. effigiem Xanthi Troiamque videtis<BR>
+quam vestrae fecere manus, melioribus, opto,<BR>
+auspiciis, et quae fuerit minus obvia Grais.<BR>
+si quando Thybrim vicinaque Thybridis arva (3,500)<BR>
+intraro gentique meae data moenia cernam,<BR>
+cognatas urbes olim populosque propinquos,<BR>
+Epiro Hesperiam (quibus idem Dardanus auctor<BR>
+atque idem casus), unam faciemus utramque<BR>
+Troiam animis: maneat nostros ea cura nepotes.' (3,505)<BR>
+<BR>
+Prouehimur pelago vicina Ceraunia iuxta,<BR>
+unde iter Italiam cursusque brevissimus undis.<BR>
+sol ruit interea et montes umbrantur opaci;<BR>
+sternimur optatae gremio telluris ad undam<BR>
+sortiti remos passimque in litore sicco (3,510)<BR>
+corpora curamus, fessos sopor inrigat artus.<BR>
+necdum orbem medium Nox Horis acta subibat:<BR>
+haud segnis strato surgit Palinurus et omnis<BR>
+explorat ventos atque auribus aera captat;<BR>
+sidera cuncta notat tacito labentia caelo, (3,515)<BR>
+Arcturum pluviasque Hyadas geminosque Triones,<BR>
+armatumque auro circumspicit Oriona.<BR>
+postquam cuncta videt caelo constare sereno,<BR>
+dat clarum e puppi signum; nos castra movemus<BR>
+temptamusque viam et velorum pandimus alas. (3,520)<BR>
+<BR>
+Iamque rubescebat stellis Aurora fugatis<BR>
+cum procul obscuros collis humilemque videmus<BR>
+Italiam. Italiam primus conclamat Achates,<BR>
+Italiam laeto socii clamore salutant.<BR>
+tum pater Anchises magnum cratera corona (3,525)<BR>
+induit implevitque mero, divosque vocavit<BR>
+stans celsa in puppi:<BR>
+'di maris et terrae tempestatumque potentes,<BR>
+ferte viam vento facilem et spirate secundi.'<BR>
+crebrescunt optatae aurae portusque patescit (3,530)<BR>
+iam propior, templumque apparet in arce Minervae;<BR>
+vela legunt socii et proras ad litora torquent.<BR>
+portus ab Euroo fluctu curvatus in arcum,<BR>
+obiectae salsa spumant aspergine cautes,<BR>
+ipse latet: gemino demittunt bracchia muro (3,535)<BR>
+turriti scopuli refugitque ab litore templum.<BR>
+quattuor hic, primum omen, equos in gramine vidi<BR>
+tondentis campum late, candore nivali.<BR>
+et pater Anchises 'bellum, o terra hospita, portas:<BR>
+bello armantur equi, bellum haec armenta minantur. (3,540)<BR>
+sed tamen idem olim curru succedere sueti<BR>
+quadripedes et frena iugo concordia ferre:<BR>
+spes et pacis' ait. tum numina sancta precamur<BR>
+Palladis armisonae, quae prima accepit ovantis,<BR>
+et capita ante aras Phrygio velamur amictu, (3,545)<BR>
+praeceptisque Heleni, dederat quae maxima, rite<BR>
+Iunoni Argiuae iussos adolemus honores.<BR>
+<BR>
+Haud mora, continuo perfectis ordine votis<BR>
+cornua velatarum obuertimus antemnarum,<BR>
+Graiugenumque domos suspectaque linquimus arva. (3,550)<BR>
+hinc sinus Herculei (si vera est fama) Tarenti<BR>
+cernitur, attollit se diva Lacinia contra,<BR>
+Caulonisque arces et navifragum Scylaceum.<BR>
+tum procul e fluctu Trinacria cernitur Aetna,<BR>
+et gemitum ingentem pelagi pulsataque saxa (3,555)<BR>
+audimus longe fractasque ad litora voces,<BR>
+exsultantque vada atque aestu miscentur harenae.<BR>
+et pater Anchises 'nimirum hic illa Charybdis:<BR>
+hos Helenus scopulos, haec saxa horrenda canebat.<BR>
+eripite, o socii, pariterque insurgite remis.' (3,560)<BR>
+haud minus ac iussi faciunt, primusque rudentem<BR>
+contorsit laevas proram Palinurus ad undas;<BR>
+laevam cuncta cohors remis ventisque petivit.<BR>
+tollimur in caelum curvato gurgite, et idem<BR>
+subducta ad Manis imos desedimus unda. (3,565)<BR>
+ter scopuli clamorem inter cava saxa dedere,<BR>
+ter spumam elisam et rorantia vidimus astra.<BR>
+interea fessos ventus cum sole reliquit,<BR>
+ignarique viae Cyclopum adlabimur oris.<BR>
+<BR>
+Portus ab accessu ventorum immotus et ingens (3,570)<BR>
+ipse: sed horrificis iuxta tonat Aetna ruinis,<BR>
+interdumque atram prorumpit ad aethera nubem<BR>
+turbine fumantem piceo et candente favilla,<BR>
+attollitque globos flammarum et sidera lambit;<BR>
+interdum scopulos avulsaque viscera montis (3,575)<BR>
+erigit eructans, liquefactaque saxa sub auras<BR>
+cum gemitu glomerat fundoque exaestuat imo.<BR>
+fama est Enceladi semustum fulmine corpus<BR>
+urgeri mole hac, ingentemque insuper Aetnam<BR>
+impositam ruptis flammam exspirare caminis, (3,580)<BR>
+et fessum quotiens mutet latus, intremere omnem<BR>
+murmure Trinacriam et caelum subtexere fumo.<BR>
+noctem illam tecti silvis immania monstra<BR>
+perferimus, nec quae sonitum det causa videmus.<BR>
+nam neque erant astrorum ignes nec lucidus aethra (3,585)<BR>
+siderea polus, obscuro sed nubila caelo,<BR>
+et lunam in nimbo nox intempesta tenebat.<BR>
+<BR>
+Postera iamque dies primo surgebat Eoo<BR>
+umentemque Aurora polo dimoverat umbram,<BR>
+cum subito e silvis macie confecta suprema (3,590)<BR>
+ignoti nova forma viri miserandaque cultu<BR>
+procedit supplexque manus ad litora tendit.<BR>
+respicimus. dira inluvies immissaque barba,<BR>
+consertum tegimen spinis: at cetera Graius,<BR>
+et quondam patriis ad Troiam missus in armis. (3,595)<BR>
+isque ubi Dardanios habitus et Troia vidit<BR>
+arma procul, paulum aspectu conterritus haesit<BR>
+continuitque gradum; mox sese ad litora praeceps<BR>
+cum fletu precibusque tulit: 'per sidera testor,<BR>
+per superos atque hoc caeli spirabile lumen, (3,600)<BR>
+tollite me, Teucri. quascumque abducite terras:<BR>
+hoc sat erit. scio me Danais e classibus unum<BR>
+et bello Iliacos fateor petiisse penatis.<BR>
+pro quo, si sceleris tanta est iniuria nostri,<BR>
+spargite me in fluctus vastoque immergite ponto; (3,605)<BR>
+si pereo, hominum manibus periisse iuvabit.'<BR>
+dixerat et genua amplexus genibusque volutans<BR>
+haerebat. qui sit fari, quo sanguine cretus,<BR>
+hortamur, quae deinde agitet fortuna fateri.<BR>
+ipse pater dextram Anchises haud multa moratus (3,610)<BR>
+dat iuveni atque animum praesenti pignore firmat.<BR>
+ille haec deposita tandem formidine fatur:<BR>
+'sum patria ex Ithaca, comes infelicis Ulixi,<BR>
+nomine Achaemenides, Troiam genitore Adamasto<BR>
+paupere (mansissetque utinam fortuna!) profectus. (3,615)<BR>
+hic me, dum trepidi crudelia limina linquunt,<BR>
+immemores socii vasto Cyclopis in antro<BR>
+deseruere. domus sanie dapibusque cruentis,<BR>
+intus opaca, ingens. ipse arduus, altaque pulsat<BR>
+sidera (di talem terris avertite pestem!) (3,620)<BR>
+nec visu facilis nec dictu adfabilis ulli;<BR>
+visceribus miserorum et sanguine vescitur atro.<BR>
+vidi egomet duo de numero cum corpora nostro<BR>
+prensa manu magna medio resupinus in antro<BR>
+frangeret ad saxum, sanieque aspersa natarent (3,625)<BR>
+limina; vidi atro cum membra fluentia tabo<BR>
+manderet et tepidi tremerent sub dentibus artus—<BR>
+haud impune quidem, nec talia passus Ulixes<BR>
+oblitusue sui est Ithacus discrimine tanto.<BR>
+nam simul expletus dapibus vinoque sepultus (3,630)<BR>
+cervicem inflexam posuit, iacuitque per antrum<BR>
+immensus saniem eructans et frusta cruento<BR>
+per somnum commixta mero, nos magna precati<BR>
+numina sortitique vices una undique circum<BR>
+fundimur, et telo lumen terebramus acuto (3,635)<BR>
+ingens quod torva solum sub fronte latebat,<BR>
+Argolici clipei aut Phoebeae lampadis instar,<BR>
+et tandem laeti sociorum ulciscimur umbras.<BR>
+sed fugite, o miseri, fugite atque ab litore funem<BR>
+rumpite. (3,640)<BR>
+nam qualis quantusque cavo Polyphemus in antro<BR>
+lanigeras claudit pecudes atque ubera pressat,<BR>
+centum alii curva haec habitant ad litora vulgo<BR>
+infandi Cyclopes et altis montibus errant.<BR>
+tertia iam lunae se cornua lumine complent (3,645)<BR>
+cum vitam in silvis inter deserta ferarum<BR>
+lustra domosque traho vastosque ab rupe Cyclopas<BR>
+prospicio sonitumque pedum vocemque tremesco.<BR>
+victum infelicem, bacas lapidosaque corna,<BR>
+dant rami, et vulsis pascunt radicibus herbae. (3,650)<BR>
+omnia conlustrans hanc primum ad litora classem<BR>
+conspexi venientem. huic me, quaecumque fuisset,<BR>
+addixi: satis est gentem effugisse nefandam.<BR>
+vos animam hanc potius quocumque absumite leto.'<BR>
+<BR>
+Vix ea fatus erat summo cum monte videmus (3,655)<BR>
+ipsum inter pecudes vasta se mole moventem<BR>
+pastorem Polyphemum et litora nota petentem,<BR>
+monstrum horrendum, informe, ingens, cui lumen ademptum.<BR>
+trunca manum pinus regit et vestigia firmat;<BR>
+lanigerae comitantur oves; ea sola voluptas (3,660)<BR>
+solamenque mali.<BR>
+postquam altos tetigit fluctus et ad aequora venit,<BR>
+luminis effossi fluidum lavit inde cruorem<BR>
+dentibus infrendens gemitu, graditurque per aequor<BR>
+iam medium, necdum fluctus latera ardua tinxit. (3,665)<BR>
+nos procul inde fugam trepidi celerare recepto<BR>
+supplice sic merito tacitique incidere funem,<BR>
+vertimus et proni certantibus aequora remis.<BR>
+sensit, et ad sonitum vocis vestigia torsit.<BR>
+verum ubi nulla datur dextra adfectare potestas (3,670)<BR>
+nec potis Ionios fluctus aequare sequendo,<BR>
+clamorem immensum tollit, quo pontus et omnes<BR>
+contremuere undae, penitusque exterrita tellus<BR>
+Italiae curvisque immugiit Aetna cavernis.<BR>
+at genus e silvis Cyclopum et montibus altis (3,675)<BR>
+excitum ruit ad portus et litora complent.<BR>
+cernimus astantis nequiquam lumine torvo<BR>
+Aetnaeos fratres caelo capita alta ferentis,<BR>
+concilium horrendum: quales cum vertice celso<BR>
+aeriae quercus aut coniferae cyparissi (3,680)<BR>
+constiterunt, silva alta Iovis lucusve Dianae.<BR>
+praecipitis metus acer agit quocumque rudentis<BR>
+excutere et ventis intendere vela secundis.<BR>
+contra iussa monent Heleni, Scyllamque Charybdinque<BR>
+inter, utrimque viam leti discrimine parvo, (3,685)<BR>
+ni teneam cursus: certum est dare lintea retro.<BR>
+ecce autem Boreas angusta ab sede Pelori<BR>
+missus adest: vivo praetervehor ostia saxo<BR>
+Pantagiae Megarosque sinus Thapsumque iacentem.<BR>
+talia monstrabat relegens errata retrorsus (3,690)<BR>
+litora Achaemenides, comes infelicis Ulixi.<BR>
+<BR>
+Sicanio praetenta sinu iacet insula contra<BR>
+Plemyrium undosum; nomen dixere priores<BR>
+Ortygiam. Alpheum fama est huc Elidis amnem<BR>
+occultas egisse vias subter mare, qui nunc (3,695)<BR>
+ore, Arethusa, tuo Siculis confunditur undis.<BR>
+iussi numina magna loci veneramur, et inde<BR>
+exsupero praepingue solum stagnantis Helori.<BR>
+hinc altas cautes proiectaque saxa Pachyni<BR>
+radimus, et fatis numquam concessa moveri (3,700)<BR>
+apparet Camerina procul campique Geloi,<BR>
+immanisque Gela fluvii cognomine dicta.<BR>
+arduus inde Acragas ostentat maxima longe<BR>
+moenia, magnanimum quondam generator equorum;<BR>
+teque datis linquo ventis, palmosa Selinus, (3,705)<BR>
+et vada dura lego saxis Lilybeia caecis.<BR>
+hinc Drepani me portus et inlaetabilis ora<BR>
+accipit. hic pelagi tot tempestatibus actus<BR>
+heu, genitorem, omnis curae casusque levamen,<BR>
+amitto Anchisen. hic me, pater optime, fessum (3,710)<BR>
+deseris, heu, tantis nequiquam erepte periclis!<BR>
+nec vates Helenus, cum multa horrenda moneret,<BR>
+hos mihi praedixit luctus, non dira Celaeno.<BR>
+hic labor extremus, longarum haec meta viarum,<BR>
+hinc me digressum vestris deus appulit oris. (3,715)<BR>
+<BR>
+Sic pater Aeneas intentis omnibus unus<BR>
+fata renarrabat divum cursusque docebat.<BR>
+conticuit tandem factoque hic fine quievit.<BR>
+</section>
+
+<section id ="FR1">
+LIVRE III.<BR>
+<BR>
+(3, 1) « Il avait plu aux dieux de ruiner le grand empire de l’Asie, de détruire Priam et sa race innocente : le superbe Ilion était tombé, et Troie, ouvrage de Neptune, fumait ensevelie tout entière dans la cendre. Alors, poussés par les présages des dieux, nous cherchons çà et là des lieux d’exil et des terres désertes ; sous les hauteurs d’Antandre, au pied même du mont Ida, nous construisons une flotte, incertains sur quel bord nous porteront les destins, où nous pourrons enfin nous fixer. Nous rassemblons les restes d’un peuple fugitif. L’été s’ouvrait à peine, quand mon père Anchise nous ordonna de mettre à la voile. (3, 10) Alors je quitte en pleurant les rivages de ma patrie, le port, et les champs où fut Troie : exilé, la mer m’emporte moi et mes compagnons, mon fils et mes pénates, et les grands dieux de la Phrygie.<BR>
+<BR>
+« Bien loin de Troie s’étend une vaste contrée, chère au dieu Mars ; les Thraces la cultivent ; jadis y régna le cruel Lycurgue. Troie, tant que dura sa haute fortune, vit ses pénates et ceux de la Thrace unis par les liens d’une antique hospitalité. C’est là que me portent les vagues et mes funestes destins ; je jette sur la rive sinueuse des mers les fondements d’une ville nouvelle ; et déjà ses habitants ont pris de mon nom le nom d’Énéades. Cependant j’offrais un sacrifice à Vénus ma mère, (3, 20) et aux dieux dont les auspices président aux ouvrages commencés des mortels, et j’immolais au maître tout-puissant de l’Olympe un superbe taureau sur le rivage. Près de là était un tertre où le souple cornouiller et le myrte dressaient leurs tiges serrées. Je m’approche, et j’essaye d’arracher de terre quelques arbrisseaux verdoyants, pour couvrir les autels d’un frais feuillage. Soudain un prodige épouvantable s’offre à mes yeux. Du premier arbrisseau que j’arrache du sol, en rompant ses racines, coulent des gouttes d’un sang noir ; la terre en est toute souillée : je tressaille d’horreur ; (3, 30) un froid mortel a glacé mes sens. J’essaye encore d’arracher la tige flexible d’un second arbrisseau, et de pénétrer les causes profondes de cet affreux mystère ; un sang noir jaillit encore de l’écorce déchirée. Agité de mille pensées, j’invoquais les nymphes des bois, et Mars qui préside aux campagnes des Gètes, suppliant ces divinités de tourner à bien ce prodige, et de nous rendre légers ces présages. Mais tandis que, redoublant de force, je tente de déraciner un troisième arbrisseau, et qu’appuyant mes genoux sur le tertre je lutte contre l’arène (parlerai-je ou me tairai-je ?), du fond du tertre une voix lamentable (3, 40) se fait entendre, et ces accents plaintifs viennent frapper mon oreille : "Énée, pourquoi déchires-tu un malheureux ? Épargne ma tombe, et ne souille pas tes mains pures. Troyen comme toi, je ne te suis point étranger ; ce sang que tu vois couler de cette tige est le mien. Ah ! fuis cette terre cruelle, fuis ce rivage avare. Je suis Polydore, percé en ce lieu de mille traits ; leurs pointes aiguës m’accablent encore ; elles ont germé dans cette terre en moisson homicide." À ces mots je sentis mon âme oppressée par l’anxiété et la terreur ; je demeurai interdit ; mes cheveux se dressèrent sur ma tête, ma voix expira sur mes lèvres.<BR>
+<BR>
+(3, 49) « J’avais reconnu Polydore : jadis le malheureux Priam, se défiant de la fortune des armes dardaniennes, et voyant Troie cernée de tous côtés, l’avait secrètement envoyé, avec beaucoup d’or, au roi de Thrace, pour qu’il prît soin de son enfance. Cet hôte perfide, dès que la puissance troyenne eut été brisée, et que la fortune se fut retirée d’Ilion, suivit le parti d’Agamemnon et ses armes victorieuses, viola tous les droits sacrés, assassina Polydore, et s’empara violemment de ses trésors. À quoi ne pousses-tu pas les cœurs mortels, exécrable soif de l’or ? Revenu de ma première épouvante, j’allai raconter aux principaux de la nation, et à mon père le premier, ces prodiges divins, et je leur demandai conseil. (3, 60) Tous furent d’avis qu’il fallait s’éloigner de cette terre sacrilège, quitter ces bords où l’hospitalité avait été souillée, et livrer de nouveau la voile aux vents. Cependant nous rendons à Polydore les honneurs suprêmes, et la terre entassée par nos mains s’élève pour lui en immense tombeau. De lugubres autels, parés de bandelettes bleues et de cyprès au feuillage funéraire, se dressent pour les dieux Mânes ; alentour les femmes d’IIion pleurent, les cheveux épars selon la coutume. Nous portons sur le tombeau et y répandons des coupes écumantes d’un lait tiède, et le sang sacré des victimes ; nous renfermons l’âme de Polydore dans son sépulcre, et, appelant son ombre à haute voix, nous la saluons d’un dernier adieu.<BR>
+<BR>
+« Dès que nous pûmes nous fier à la mer, que les vents apaisés (3, 70) eurent aplani le liquide espace, et que le doux frémissement de l’auster nous eut invités à cingler au large, nos compagnons mirent les navires à flot, et remplirent le rivage de leur foule empressée. Nous partons ; le port, le rivage et les villes ont déjà fui sous nos regards. Au milieu des mers s’élève une île, terre sacrée et chérie entre toutes de la mère des Néréides et de Neptune Égéen : c’est Délos ; longtemps errante, elle flottait de rivage en rivage, quand le dieu qui porte l’arc, la fixant d’une main reconnaissante entre la haute Mycone et Cyare, voulut qu’elle fût immobile et qu’elle bravât les vents. Nous voguons vers ces parages, et l’île reçoit nos vaisseaux lassés dans sa baie sûre et tranquille. Nous prenons terre, et nous saluons pieusement la ville d’Apollon. (3, 80) Anius, roi de ces peuples et grand prêtre de Phébus, le front ceint à la fois du bandeau royal et du laurier sacré, vient à notre rencontre, et reconnaît Anchise, son vieil ami ; nous touchons de nos mains amies sa main hospitalière, et nous entrons dans son palais.<BR>
+<BR>
+« J’allai adorer Apollon dans son temple, bâti d’un marbre antique : "Dieu de Thymbrée, m’écriai-je, donne à mon peuple errant et fatigué une demeure fixe, des murailles, une ville pour s’y établir et s’y perpétuer ; sauve en nous une autre Pergame ; sauve les restes de Troie échappés aux Grecs et à l’impitoyable Achille ! Qui devons-nous suivre, grand dieu ? Où nous ordonnes-tu de porter et de fixer nos pas ? Éclaire-nous par quelque signe, et fais couler ton divin esprit dans les nôtres."<BR>
+<BR>
+(3, 90) « À peine avais-je prononcé ces mots, que tout parut trembler autour de nous, et le temple, et le laurier du dieu ; le mont s’ébranle au loin, le sanctuaire s’entr’ouvre, et le trépied mugit. Nous nous prosternons, et voici l’oracle qui vient frapper nos oreilles : "Enfants de Dardanus, endurcis aux maux, la terre qui a vu naître vos premiers parents vous recevra dans son sein, joyeuse de vous revoir ; cherchez votre ancienne mère. Là dominera sur toutes les terres la maison d’Énée, et les enfants de ses enfants, et ceux qui naîtront d’eux." Ainsi parle Apollon ; soudain la joie éclate parmi nous en transports tumultueux ; (3, 100) et tous de nous demander quels sont ces murs où Apollon appelle nos destins errants, et nous ordonne de revenir. Alors mon père, déroulant à nos yeux les fastes des temps antiques : "Écoutez, dit-il, ô nobles Troyens, et connaissez vos espérances. Au milieu de la mer est l’île de Crète, où s’élève le mont Ida, berceau du grand Jupiter et de notre race. Là sont de florissants royaumes et cent villes immenses. Ce fut de là, si je me souviens bien de ce qui m’a été raconté, que notre aïeul Teucer vint pour la première fois aborder au promontoire de Rhétée, et choisir un lieu pour y fonder un empire : Ilion et la citadelle (3, 110) de Pergame n’étaient pas encore debout ; les peuples habitaient le fond des vallées. C’est de Crète que nous vinrent et Cybèle et son culte, et l’airain frémissant des Corybantes, et la religion qui a consacré le bois de l’Ida, et le sévère silence des mystères de la déesse, et ces lions subjugués qui traînent son char. Courage donc, et suivons la route que nous tracent les dieux. Apaisons les vents, et cinglons vers les royaumes de Gnose : la distance qui nous en sépare n’est pas longue ; que Jupiter seulement nous soit favorable, et la troisième Aurore verra notre flotte à l’ancre sur le rivage de la Crète." Ayant parlé ainsi, il immola sur les autels les victimes consacrées, un taureau à Neptune ; à toi, bel Apollon, un taureau ; (3, 120) une brebis noire aux Vents orageux, une blanche aux heureux Zéphyrs.<BR>
+<BR>
+« Cependant le bruit court qu’Idoménée, chassé du royaume de ses pères, a fui ; que les rivages de la Crète sont abandonnés des Grecs, que le pays est vide d’ennemis, et que des demeures toutes prêtes nous y attendent. Nous quittons le port d’Ortigie ; nous volons sur la mer ; nous voyons Naxos et ses sommets foulés par les Bacchantes, la verte Donyse, Oléaros, la blanche Paros, les Cyclades semées çà et là sur les flots, et nous côtoyons mille terres au milieu des eaux resserrées. Nos matelots poussent à l’envi un cri d’allégresse : "Gagnons, se disent-ils en s’animant les uns les autres, gagnons la Crète, cette terre de nos aïeux." (3, 130) Le vent, qui s’élève en poupe, nous pousse au large ; enfin nous abordons tranquillement aux antiques rivages des Curètes. Dans mon ardeur impatiente, je jette les fondements de ma ville tant désirée ; je l’appelle Pergamée, et j’exhorte la colonie nouvelle, que réjouit ce nom troyen, à aimer ses foyers, et à élever de ses mains la citadelle. Déjà nos vaisseaux, pour la plupart, avaient été mis à sec sur le rivage ; déjà la jeunesse troyenne, tout entière à la culture de ses nouveaux champs, se livrait aux douces espérances de l’hymen ; je donnais à tous des lois, des demeures, quand tout à coup une corruption funeste, amenée par les vapeurs infectes de l’air, fondit sur les hommes, les arbres, les moissons : l’année en fut frappée de mort. (3, 140) Tous exhalaient le doux souffle de la vie, ou traînaient leurs corps mourants ; la canicule en feu brûlait les campagnes stériles ; les herbes étaient desséchées, et l’été sans épis refusait aux hommes leur nourriture. Alors mon père m’exhorte à repasser la mer, à consulter de nouveau l’oracle de Délos, à supplier le dieu de nous dire dans sa pitié quelle fin il donnera aux maux qui nous lassent, où il veut que nous cherchions un soulagement à tant de peines, où il veut que se tournent nos courses incertaines.<BR>
+<BR>
+« Il était nuit, et le sommeil pesait sur tout ce qui respire. Alors les images sacrées de mes dieux, et nos pénates phrygiens, que j’avais sauvés des flammes d’Ilion et emportés avec moi, (3, 150) réapparurent dans mon sommeil et se dressèrent devant moi : je les voyais resplendir à la pleine lumière de la lune, qui me versait à travers mes fenêtres ses douces clartés. Il me sembla qu’ils me parlaient, et qu’ils calmaient mes chagrins en m’adressant ces mots : "Ce qu’Apollon te dirait à Délos, il te le dit ici par notre voix ; et c’est lui qui nous envoie vers toi : nous sommes ces mêmes dieux qui, après l’incendie de Troie, avons suivi tes armes exilées, qui avons traversé avec toi et sur tes vaisseaux les espaces orageux des mers ; c’est nous qui élèverons jusqu’aux astres le nom de tes descendants, qui donnerons à leur ville l’empire du monde : à de si grands hommes il faut d’aussi grandes murailles ; (3, 160) ne laisse pas s’interrompre le long travail de ta fuite. Tu dois changer de demeures : ce n’est point ce rivage que le dieu de Délos marquait à tes destins ; ce n’est point en Crète qu’il t’ordonnait de te fixer. Il est un lieu (les Grecs le nomment Hespérie, une terre antique, au sein fécond et puissante par ses armes : jadis les Œnotriens l’habitèrent ; aujourd’hui, nous dit-on, leurs descendants l’ont appelée Italie, du nom de leur chef. Là sont nos vraies demeures ; c’est de là que sont sortis Dardanus, et Jasius, auteur de votre race. Debout donc, et cours joyeux redire nos paroles à ton vieux père désabusé. Cherchez les pays de Corythus et les terres (3, 171) ausoniennes : Jupiter te défend de t’arrêter dans les champs de Dictée." « Cette apparition et la voix de mes dieux me frappèrent d’un saint étonnement ; ce n’était point un songe ; ils étaient devant moi, je reconnaissais leurs visages, leurs têtes, et leurs bandeaux sacrés ; tout me les montrait présents. Une sueur froide coulait de tous mes membres. Je m’élance de ma couche ; j’élève vers le ciel mes mains et ma voix suppliante, et je répands le vin pur des libations sur mon foyer. Heureux de cet hommage rendu à mes dieux, je cours annoncer à mon père et le prodige et ses merveilleuses circonstances. (3, 180) Anchise alors reconnaît que notre double origine et les deux branches de la famille troyenne l’ont trompé, et qu’il a confondu les lieux antiques marqués par l’oracle. "Ô mon fils, me dit-il, toi qu’agitent les mauvais destins d’Ilion, la seule Cassandre me prédisait les événements qui s’accomplissent pour nous : il m’en souvient, elle annonçait à ma race un empire prédestiné ; elle l’appelait tantôt l’Hespérie, tantôt les royaumes d’Italus. Mais qui aurait cru que les Troyens dussent jamais venir sur les rivages de l’Hespérie ? Et qui dans ces temps malheureux était touché des prédictions de Cassandre ? Cédons à Phébus, et, dociles aux dieux, laissons-nous conduire mieux par leurs mains." Il dit, et tous, applaudissant à ses paroles, (3, 190) nous lui obéissons à l’envi. Nous abandonnons encore cette terre, et, n’y laissant qu’un petit nombre des nôtres, nous mettons à la voile, et nous lançons encore nos vaisseaux creux à travers la vaste mer.<BR>
+<BR>
+« Quand nous eûmes gagné le large, que toute terre eut disparu à nos yeux, et que nous ne vîmes partout que le ciel, partout que l’onde, voici qu’une nuée bleuâtre s’arrêta sur nos têtes, portant dans ses flancs la nuit et l’orage, et répandant sur les eaux sa ténébreuse horreur. Tout à coup les vents bouleversent la mer, et de grandes vagues s’élèvent ; dispersés, l’onde nous ballotte dans ses vastes gouffres. Les nuages ont enveloppé le jour dans leurs plis ténébreux, la nuit humide nous a dérobé les cieux. (3, 200) Nous sommes jetés hors de notre route, et nous errons en aveugles sur les eaux. Palinure lui-même dit qu’il ne peut plus distinguer le jour de la nuit, ni reconnaître sa route au milieu des mers. Pendant trois jours d’épaisses ténèbres ou d’une incertaine lumière, nous errons sur les flots ; nous errons pendant trois nuits sans étoiles. Enfin le quatrième jour la terre parut s’élever du sein des eaux, découvrir de loin ses montagnes, et rouler la fumée. Alors nos voiles tombent ; nous nous levons sur nos rames ; nos matelots impatients tourmentent de leurs bras nerveux l’onde écumante, et en balayent la verte surface. Échappé aux flots, les Strophades me reçurent dans leurs baies hospitalières. (3, 210) Les Grecs appellent Strophades ces îles de la mer Ionienne qu’habitent la cruelle Céléno et les autres Harpies, depuis que le palais de Phinée leur a été fermé, et que la peur les a chassées de sa table royale. Jamais monstres plus horribles, jamais fléau plus redoutable, suscité par la colère des dieux, ne s’éleva des ondes du Styx. Affreux oiseaux, ils ont les traits d’une vierge, les mains armées de griffes, le visage toujours pâle et creusé par la faim, avec un ventre d’où sont rejetés sans cesse d’immondes et indigestes débris.<BR>
+<BR>
+« À peine sommes-nous entrés dans le port et avons-nous touché le rivage, que (3, 220) nous voyons épars dans les riantes campagnes des troupeaux de bœufs, et des chèvres qui erraient à l’abandon au milieu des herbages. Le fer à la main, nous nous jetons sur ces animaux, appelant les dieux et Jupiter lui-même à partager cette proie inespérée. Alors nous dressons des lits de gazon sur le rivage, et nous nous rassasions de ces mets succulents. Mais voici que du haut des monts les Harpies fondent sur nous d’un effroyable vol, battant des ailes et poussant de grands cris : elles pillent nos mets, souillent tout de leur toucher immonde, et mêlent des cris sinistres à d’abominables odeurs. Alors nous nous retirons dans un lieu enfoncé, sous une roche creuse, (3, 230) et partout environnée d’arbres qui la couvrent de leurs ombres profondes. Là nous dressons nos tables et rallumons le feu de nos autels. Mais d’un autre bout de l’horizon et du fond de repaires ténébreux une nouvelle troupe s’élance, voltige autour de nos tables en déployant ses ailes et ses pieds crochus, et souille nos mets de sa bouche fétide. Je dis alors à mes compagnons de prendre les armes, et de faire une rude guerre à cette race exécrable. On m’obéit : les épées toutes nues sont cachées sous l’herbe ; l’herbe couvre les boucliers invisibles. Bientôt les monstres ailés s’abattent sur le rivage avec des cris aigus ; Misène, du haut d’un roc où je l’ai posté, sonne (3, 240) de la trompette : c’est le signal ; mes compagnons se précipitent, et, s’essayant à ce combat nouveau, tâchent de percer avec le fer ces obscènes oiseaux de la mer. Mais leur plumage, impénétrable aux coups, amortit la pointe des traits ; et, fuyant à travers les airs d’une fuite rapide, l’horrible troupe abandonne sa proie à demi-rongée, et laisse des traces impures de son passage. Cependant l’une d’elles, Céléno, prophétesse de malheur, s’arrêta sur la pointe d’un haut rocher, et nous fit entendre ces funestes paroles : "Race de Laomédon, n’est-ce pas assez d’avoir égorgé nos bœufs, abattu nos taureaux ? et prétends-tu encore nous faire la guerre, et chasser les innocentes Harpies du royaume de leurs pères ? (3, 250) Écoutez donc, Troyens, et que mes paroles se fixent dans vos esprits : ce que le père tout-puissant des dieux a révélé à ApolIon et qu’Apollon m’a révélé, moi, la plus redoutable des Furies, je vous le déclare. Vous courez en Italie ; les Vents, que vous n’invoquez pas en vain, vous y pousseront, et vous entrerez dans les ports ausoniens. Mais vous ne pourrez pas entourer de murailles la ville que vous devez y bâtir, avant qu’une faim cruelle, juste punition des violences exercées contre nous, ne vous ait forcés de dévorer jusqu’à vos tables."<BR>
+<BR>
+« Elle dit, et, prenant son vol, elle s’alla cacher dans la forêt voisine. Alors une soudaine terreur glace notre sang dans nos veines ; (3, 260) nous sentons nos courages tomber ; ce n’est plus les armes à la main, c’est par des vœux et des prières que nous sommes résolus à demander la paix, et à fléchir les Harpies, qu’elles soient des déesses, qu’elles soient de funestes et immondes oiseaux. Anchise, étendant vers le ciel ses mains vénérables, invoque les grands dieux, et ordonne qu’on leur sacrifie : "Grands dieux, s’écrie-t-il, écartez de nos têtes ces menaces sinistres, détournez un tel malheur, et dans votre clémence sauvez des hommes pieux !" Alors il ordonne de couper les câbles qui retiennent les vaisseaux à la rive, et de lâcher tous les cordages détendus. Les vents enflent nos voiles ; nous fuyons sur l’onde écumante, là où nous appellent et le pilote et les souffles favorables. (3, 270) Déjà apparaissent au-dessus des flots Zacynthe et ses grands bois, Dulichium, Saraos, et Néritos avec ses hauts rochers. Nous fuyons bien loin des écueils d’Ithaque, du royaume de Laërte, et nous exécrons la terre qui a nourri le cruel Ulysse. Bientôt se montrent à nos regards les sommets nuageux de Leucate, et le promontoire d’Apollon, si redouté des matelots. Nous y abordons pourtant, las de naviguer, et nous entrons dans l’humble cité du dieu. On jette l’ancre, nos vaisseaux se rangent immobiles le long du rivage.<BR>
+<BR>
+« Enfin, contre toute espérance, nous prenons terre sur ces bords. Nous sacrifions à Jupiter, nous chargeons de vœux ses autels, (3, 280) et nous célébrons nos jeux troyens sur le rivage d’Actium. Nos jeunes gens exercent à la lutte, comme aux jours de la patrie troyenne, leurs membres ruisselants d’huile : on se réjouit d’avoir échappé à tant de villes grecques, et de s’être frayé une route au milieu de tant d’ennemis. Cependant le soleil achevait de parcourir le vaste cercle de l’année ; le glacial hiver et les aquilons commençaient à irriter les mers. Un bouclier d’airain, que portait autrefois le grand Abas, est attaché par mes mains aux portes du temple, et je grave au-dessous ces mots : Énée a enlevé ces armes aux Grecs victorieux. En même temps j’ordonne à nos rameurs de quitter le port, et de se ranger sur leurs bancs. (3, 290) Tous battent la mer à l’envi et balayent sa surface azurée. Bientôt les hautes tours des Phéaciens disparaissent dans les nuages ; déjà nous côtoyons les rivages de l’Épire, nous relâchons dans le port de Chaonie, et nous montons vers la haute ville de Buthrote.<BR>
+<BR>
+« Là d’incroyables bruits viennent étonner nos oreilles : on nous dit qu’Hélénus, fils de Priam, régnait sur des villes grecques ; qu’il avait épousé la veuve de Pyrrhus dont il tenait le sceptre, et qu’un dernier hymen avait mis la triste Andromaque dans les bras d’un Troyen. J’en demeurai dans la stupeur, et mon âme se sentit enflammée de l’ardent désir de voir et d’entretenir Hélénus, et d’apprendre de lui d’aussi grands événements. (3, 300) Laissant donc mes vaisseaux à l’ancre sur le rivage, je m’avance dans les terres. Ce jour-là même Andromaque, hors des murs de la ville, dans un bois sacré et près des rives d’un faux Simoïs, faisait de solennelles libations à la cendre d’Hector, offrant à son premier époux les mets et les tristes dons des morts : elle évoquait ses mânes près d’un tombeau vide formé de vert gazon, et leur avait consacré deux autels, causes de ses intarissables larmes. Dès qu’elle m’aperçut venant à elle, et qu’elle vit reluire autour de moi des armes troyennes, éperdue et glacée d’épouvante comme à la vue d’un soudain prodige, elle tomba ; la vie abandonna ses membres. Enfin, ayant recouvré ses esprits, elle me parla ainsi : (3, 310) "Est-ce bien vous que je vois, fils de Vénus ? Est-ce bien vous qui venez à moi ? Vivez-vous ? ou, si la douce lumière du ciel s’est retirée de vous, où est mon Hector ?" Elle dit, verse un torrent de larmes, et remplit tout le bois de ses gémissements. Ému de tant de douleur, je lui réponds à peine, et, dans mon trouble, je laisse échapper ces mots entrecoupés : "Oui, je vis, et je traîne ma vie à travers toutes les extrémités ; n’en doutez point, c’est Énée que vous voyez. Mais vous, hélas ! quel coup du sort vous a fait descendre de ce haut rang d’épouse d’Hector ? Quelle autre fortune, digne et de vous et de lui, a pu vous visiter ? La veuve d’Hector, Andromaque, partage-t-elle la couche de Pyrrhus ?"<BR>
+<BR>
+(3, 320) « Elle baissa la tète, et, d’une voix humble, me répondit en ces termes : "Ô ! heureuse entre toutes la vierge, fille de Priam, forcée de mourir sur le tombeau de son ennemi et sous les hauts remparts d’Ilion ! Elle n’a point subi les arrêts injurieux du sort ; elle n’est point entrée captive dans le lit d’un vainqueur et d’un maître. Mais moi, après l’incendie de Troie, traînée sur toutes les mers, j’ai supporté l’insolent amour d’un jeune orgueilleux, du fils d’Achille ; j’ai enfanté dans la servitude. Bientôt, courant à Sparte sur les pas de la fille d’Hélène, et poursuivant un hymen lacédémonien, Pyrrhus me jeta, moi esclave, dans les bras de son esclave Hélénus. (3, 330) Mais Oreste, brûlant d’une flamme insensée pour son amante qu’il se voit ravir, Oreste, agité par les Furies vengeresses, attaque son rival à l’improviste, et le massacre au pied des autels, devant les dieux de l’Épire. Par la mort de Néoptolème, une partie de son royaume échut en partage à Hélénus, qui, du nom du Troyen Chaon, a appelé Chaonie tout le pays qui est sous ses lois. Il a aussi donné les noms de Pergame et d’Ilion à cette citadelle qu’il a bâtie sur ces hauteurs. Mais vous, prince, quels vents, quels destins ont poussé ici votre course ? Quel dieu vous a fait aborder sur nos rivages, inconnus pour vous ? Et votre cher Ascagne, vit-il encore et voit-il la lumière ? (3, 340) Il vous est né lorsque Troie.... L’enfant regrette-t-il quelquefois sa mère qui n’est plus ? Sent-il déjà son cœur s’exciter aux antiques vertus et au courage viril, par l’exemple de son père Enée et de son oncle Hector ?"<BR>
+<BR>
+« Elle parlait ainsi dans les larmes, les sanglots et les vains regrets, quand le Troyen Hélénus, environné d’une foule nombreuse, s’avança hors des murs de la ville au-devant de nous. Il reconnaît ses concitoyens, nous conduit jusque dans l’enceinte des murs, et mêle à chaque mot qu’il nous dit une larme de joie. Je m’avance, et là je retrouve une petite Troie, et la faible image de la grande (3, 350) Pergame : ce ruisseau desséché s’appelle le Xanthe ; je baise le seuil de la porte de Scée. Mes compagnons aussi jouissent comme moi de ces lieux amis. Le roi les recevait sous ses vastes portiques : au milieu de sa cour, assis à des tables splendides que chargeaient les mets, ils répandaient en l’honneur de Bacchus le vin des libations, et vidaient joyeusement les coupes.<BR>
+<BR>
+« Un jour, puis un autre s’écoulent au milieu de ces fêtes : les vents appellent nos voiles, qui déjà s’enflent sous la puissante haleine de l’auster. Alors je m’adresse au roi, prêtre et devin, et je l’interroge en ces termes : "Enfant de Troie, vous l’interprète des dieux, vous à qui l’esprit d’Apollon se fait sentir (3, 360) et dans le trépied sacré, et dans les lauriers de Claros, et dans les astres des cieux ; vous pour qui l’oiseau a son langage, l’aile qui fend l’air ses présages, parlez, je vous écoute. Partout la religion m’annonce un terme heureux à ma course ; et tous les dieux m’ont conseillé de gagner l’Italie, et de pénétrer jusqu’en ses champs reculés. La seule Harpie Céléno nous annonce un prodige horrible, nous menace du courroux funeste des dieux, et de la plus hideuse famine. Lesquels de ces périls éviterai-je les premiers ? Qu’ai-je à faire pour surmonter d’aussi grandes épreuves ?"<BR>
+<BR>
+« Alors Hélénus immole, selon la coutume, des taureaux (3, 370) aux dieux, pour se les rendre propices ; il détache les bandelettes qui ceignent sa tête sacrée, et me conduit tout tremblant à ton saint nom, ô Phébus, dans ton redoutable sanctuaire. Alors le prêtre du dieu laisse tomber de sa bouche inspirée cet oracle : "Fils de Vénus, oui, c’est sous les plus grands des auspices (ils éclatent à ma vue) que tu cours à travers les mers : ainsi le souverain des dieux dispose du destin des mortels, et en déroule les vicissitudes ; ainsi tout se succède dans un ordre éternel. J’aurais à te révéler beaucoup de choses qui rendraient plus sûres pour toi et plus hospitalières les mers que tu vas parcourir, les ports de l’Ausonie où tu vas t’arrêter ; mais je te dirai les moins secrets de ces mystères : les Parques empêchent (3, 380) Hélénus de savoir le reste, et la fille de Saturne lui défend de parler. Et d’abord cette Italie que tu crois voisine de nos rivages, ces ports où, dans ton ignorance, tu te prépares déjà à entrer à pleines voiles, sont séparés de toi par d’infinis espaces, par de longues et infranchissables routes. Il faudra que ta rame se courbe sous les flots trinacriens, que tes vaisseaux fendent les ondes salées de la mer ausonienne, que tu visites les lacs de l’enfer et les infidèles bords de l’île de Circé, avant que tu puisses fonder ta nouvelle cité dans une terre tranquille. Je te dirai les signes qui te guideront : toi, grave-les dès à présent dans ta mémoire. Un jour que, triste et solitaire, tu chemineras le long d’un fleuve, (3, 390) une laie se présentera à ta vue sous les chênes de la rive : blanche, étendue sur l’arêne, tu la trouveras nourrissant trente enfants d’une égale blancheur, et les ramassant autour de ses mamelles. Là sera le lieu marqué pour ta ville, là le terme fortuné de tes travaux. Ne redoute point ces tables que tu dois dévorer un jour : les destins dénoueront pour toi cet oracle ambigu, et tu n’invoqueras pas en vain Apollon. Mais fuis ces terres, fuis cette côte de l’Italie voisine de nos rivages, et que baignent les flots de notre mer ! Là toutes les villes sont habitées par les perfides Grecs ; là les Locriens ont jeté les fondements de Narycium, (3, 400) là les champs de Salente sont occupés par les soldats du Lyctien Idoménée ; là le chef mélibéen Philoctète a flanqué de murs l’humble Pétilie. Mais aussitôt que ta flotte portée au delà des mers aura jeté l’ancre sur le rivage, et qu’y dressant des autels tu payeras ton hommage aux dieux sauveurs, souviens-toi de couvrir ta tête d’un voile de pourpre, de peur qu’au milieu des feux sacrés et de la pompe divine un visage ennemi ne se présente à toi et ne trouble les présages. Retenez, tes compagnons et toi, cet usage des sacrifices, et que la tradition sainte en soit perpétuée par tes pieux descendants. (3, 410) Mais lorsque les vents, te poussant au large, t’auront porté vers les côtes de la Sicile, et que tu verras s’élargir devant toi l’étroite barrière de Pélore, cingle vers la gauche, et par un long circuit gagne de ce côté et les mers et la terre ; fuis tout ce qui s’étend à droite, et l’onde et les rivages. Ces continents, dit-on, rompus par l’effort des eaux, se sont séparés dans un vaste et soudain déchirement : tant la longue durée des siècles peut causer de changements ! Les deux terres n’en formaient qu’une : la mer vint tout à coup se jeter au travers, sépara les régions de l’Hespérie de celles de la Sicile, et, s’ouvrant un étroit passage entre les deux rives, baigna deçà et delà les villes et les campagnes. (3, 420) Deux monstres, Scylla à droite, à gauche l’implacable Charybde, assiègent le rivage : trois fois Charybde absorbe les vastes flots précipités dans ses gouffres sans fond ; trois fois elle les rejette vers les cieux, et les lance contre les astres. Mais Scylla, emprisonnée dans les ténébreux abîmes d’une caverne, avance la tête hors de son repaire, et attire les vaisseaux contre ses rochers. Son visage est d’un homme ; elle a le sein ravissant d’une vierge ; baleine énorme par le reste de son corps, sa queue se termine en dauphin, et ses flancs sont d’un loup. (3, 429) Il vaut mieux t’éloigner, tourner lentement le promontoire de Pachynum, et, prolongeant ta course, décrire un vaste circuit, que de voir une seule fois dans son antre béant l’affreuse Scylla, et ces rochers retentissant des rauques hurlements des chiens. Enfin, si Hélénus n’a pas en vain la science de l’avenir, si tu as quelque confiance dans l’interprète d’Apollon, et si sa vérité sainte remplit mon cœur, je te donnerai, fils de Vénus, ce conseil, le plus important de tous. Oui, je ne saurais trop te le dire et te le redire, avant tout rends-toi Junon propice par tes prières ; n’épargne ni les vœux ni les dons des suppliants, pour vaincre le courroux de la puissante reine des dieux : ce n’est qu’après l’avoir fléchie que, (3, 440) laissant derrière toi la Sicile, tu t’élanceras en vainqueur dans les champs ausoniens. Quand tes vaisseaux t’auront porté là, et que tu seras arrivé à la ville de Cumes, tu visiteras ces lacs divins, le Lucrin et l’Averne, et leurs forêts retentissantes, et la prêtresse inspirée qui, sous son rocher caverneux, chante les destins des mortels, et confie à des feuilles légères les caractères sacrés de ses paroles fatidiques. Tous les oracles que la vierge a tracés sur ces feuilles sont rangés par elle en un ordre certain, et laissés au fond de l’antre, qui se ferme sur eux. Là ils restent immobiles, et rien n’en trouble l’arrangement. Mais si, la porte tournant sur ses gonds, le vent vient à remuer ces fragiles empreintes et à les disperser, (3, 450) la Sibylle alors dédaigne de ressaisir ses oracles voltigeant dans son antre, de rappeler les mots à leur place, d’en rassembler le sens ; et qui vient consulter la prêtresse s’en retourne sans réponse, et maudit l’antre de la Sibylle. Cependant ne sois pas avare d’un temps qui ne sera point perdu pour toi : en vain tes compagnons impatients accusent ta lenteur ; en vain la mer appelle et entraîne tes voiles, et tu pourrais les livrer au souffle heureux des vents : que rien ne t’arrête ; va trouver la Sibylle, implore ses oracles ; qu’elle-même te parle, qu’elle-même laisse échapper de sa bouche complaisante ses sons prophétiques. Elle te dira les peuples divers de l’Italie, et tes guerres futures, et comment tu fuiras ou surmonteras les travaux qui t’y attendent ; (3, 460) invoque-la pieusement, elle secondera tes courses aventureuses. Voilà ce que ma voix mortelle pouvait te révéler : va, cours, et, par tes hauts faits, porte au ciel les grands destins de Troie."<BR>
+<BR>
+« Hélénus, après m’avoir parlé ainsi d’une bouche amie, ordonne que des présents d’or et d’ivoire soient portés sur mes navires ; il y entasse l’argent ciselé, les vases d’airain de Dodone, une riche cuirasse où l’or s’entrelace à triple maille, un casque brillant avec son aigrette flottante : c’étaient les armes de Pyrrhus. Mon père aussi a sa part des présents ; (3, 470) Hélénus y ajoute des chevaux et des guides, recrute pour nous des rameurs, fournit des armes à mes compagnons.<BR>
+<BR>
+« Cependant Anchise donna l’ordre d’appareiller, et de s’abandonner sans retard au vent favorable. L’interprète d’Apollon, touché pour le vieillard d’un pieux respect, lui parle en ces termes : "Mortel chéri des dieux, vous le digne et glorieux époux de Vénus, vous deux fois arraché aux ruines de Pergame, la voici devant vous cette terre de l’Ausonie ; saisissez-la à pleines voiles. Et cependant il vous faudra côtoyer longtemps ses rivages ; vous êtes encore loin de cette partie de l’Italie qu’Apollon vous découvre par ses oracles. (3, 480) Partez, heureux père du plus pieux des fils ! qu’ai-je à prolonger cet entretien, et pourquoi retarderais-je les autans qui s’élèvent ?" Andromaque aussi, qu’attriste ce moment suprême du départ, nous apporte ses présents, à moi des vêtements chamarrés d’or, à Ascagne un manteau phrygien : elle ne le cède pas à Hélénus en magnificence ; elle charge mon fils des plus riches tissus, et lui parle ainsi : "Reçois, cher enfant, ces ouvrages de mes mains ; qu’ils te fassent te souvenir de moi, et qu’ils attestent longtemps l’amitié qu’eut pour toi la veuve d’Hector ; prends-les, ce sont les derniers présents des tiens, toi la seule image qui me reste de mon Astyanax ! (3, 490) Il avait ces yeux, ces mains, cet air ; il aurait ton âge, il grandirait avec toi !" En m’éloignant, je leur disais, les yeux pleins de larmes : "Vivez heureux, vous qui avez enfin fixé le cours de votre fortune ! Nous, nous sommes jetés de destins en destins ; vous, vous avez le repos ; vous n’avez point de mers à sillonner, pas de champs ausoniens toujours reculant devant vous, et toujours à chercher ; vous voyez ici une image du Xanthe, et une autre Troie que vos mains se sont faite : puisse-t-elle subsister sous de meilleurs auspices, et n’être plus exposée à la fureur des Grecs ! (3, 500) Si jamais j’entre dans le Tibre et dans les campagnes voisines du Tibre, si je vois s’élever les murs promis à ma nation, nos villes et nos peuples, unis par la naissance et par les mêmes infortunes, ceux de l’Épire et de l’Hespérie, qui tous ont Dardanus pour père, ne feront un jour qu’une seule Troie, n’auront qu’un même esprit. Puissent ces sentiments animer nos derniers neveux !"<BR>
+<BR>
+« Enfin nous nous avançons en mer ; nous côtoyons les hauteurs de Céraunium, d’où le trajet en Italie est rapide et court. Cependant ie soleil se précipite dans les flots, et les monts se couvrent d’ombres épaisses. Le sort partage aux rameurs leurs travaux ; enfin nous nous couchons près de l’onde sur le sein de cette terre tant désirée ; étendus çà et là sur la grève aride, (3, 511) nous rafraîchissons nos corps fatigués, et le sommeil nous verse ses douces langueurs. La Nuit, menée par les Heures, n’atteignait pas encore le milieu de sa carrière, quand le diligent Palinure se lève, explore les vents, a l’oreille à tous les souffles de l’air. Il observe les astres glissant sous un ciel silencieux, l’Ourse, les deux Trions, les Hyades pluvieuses, Orion resplendissant au loin dans son armure d’or. Après qu’il a vu les cieux partout fermes et sereins, il donne du haut de la poupe le signal retentissant de l’airain ; nous levons le camp, (3, 520) nous cherchons encore une route sur les eaux, et déployons aux vents les ailes de nos vaisseaux.<BR>
+<BR>
+« Déjà l’Aurore avait fait fuir les étoiles et rougissait l’horizon de ses feux, quand de loin nous vîmes des collines encore obscures et l’Italie poindre au-dessus des eaux. "Italie, Italie !" s’écrie le premier Achate. "Italie !" répondent nos compagnons en saluant la terre par mille cris d’allégresse. Alors mon père Anchise couronne de feuillage une vaste coupe, la remplit de vin, et, debout sur la poupe, adresse cette prière aux dieux : "Dieux des mers et de la terre, maîtres souverains des tempêtes, donnez-nous encore un vent propice, encore un souffle heureux." (3, 530) Il dit, et l’air fraîchit dans nos voiles frissonnantes ; nos vœux sont comblés ; le port se découvre de plus près ; un temple de Minerve apparaît sur les hauteurs. Nos compagnons plient les voiles, et tournent les proues vers le rivage. Creusé à l’orient, le port se recourbe en arc ; deux rochers le cachent en s’avançant dans la mer ; battus par les rafales écumeuses, et pareils à deux tours, ils projettent au loin leurs bras et ferment par un double mur la baie tranquille : le temple, à notre approche, paraît s’enfuir du rivage. Je pris terre, et, pour premier présage, je vis quatre chevaux, blancs comme la neige, qui paissaient dans la plaine. Alors Anchise : "C’est la guerre, ô terre hospitalière, la guerre que tu portes ; (3, 540) les coursiers sont armés pour la guerre ; ceux-ci nous menacent de la guerre. Mais pourtant ces mêmes coursiers s’accoutument à courber la tête sous un char, et à porter ensemble et le joug et le frein : c’est une espérance de paix. " Il dit, et nous d’implorer la puissance révérée de Pallas à l’armure sonnante, de Pallas qui la première accueillait nos vaisseaux triomphants. Prosternés devant ses autels, nous couvrons nos têtes d’un voile phrygien, et, suivant les graves conseils d’Hélénus, nous brûlons en l’honneur de Junon Argienne l’encens des sacrifices.<BR>
+<BR>
+« Ces saints devoirs accomplis, nos voiles tournent soudain sur les longs bras des antennes ; (3, 550) nous quittons ce rivage suspect, habité par des Grecs. De là nous voyons le golfe, et les murs de Tarente, bâtie, dit-on, par Hercule. Sur l’autre bord s’élève le temple de Junon Lacinienne ; plus loin les hauts remparts de Colon, et Sylacée sur ses rochers fameux par les naufrages. Alors nous voyons de loin sortir des flots les cimes de l’Etna ; nous entendons l’immense gémissement de la mer, le bruit lointain des rochers battus par les vagues, la voix des flots qui se brisent contre les rivages : nous voyons bondir le fond des mers, et le sable bouillonner avec les ondes. Alors Anchise : "La voilà sans doute cette Charybde ; voilà ces écueils, ces horribles rochers qu’Hélénus nous annonçait par ses oracles. (3, 560) Dégagez-nous, amis, et tous ensemble courbez-vous sur vos rames." Tous ont obéi, et Palinure le premier a tourné vers la gauche la proue gémissante : toute la flotte gouverne à gauche, rames et voilure au vent. Mais voilà qu’une vague courbée en montagne nous enlève jusqu’aux nues ; et, l’onde s’abaissant, nous descendons dans les gouffres des mânes. Trois fois les rochers poussèrent un effroyable cri sous leurs cavités profondes ; trois fois nous vîmes les flots lancer dans les airs leur écume brisée, et la rosée amère dégoutter des astres. Cependant les vents et le soleil abandonnent nos voiles fatiguées, et, ne sachant plus quelle route tenir, les courants nous portent sur les côtes des Cyclopes.<BR>
+<BR>
+(3, 570) « Là s’ouvre à l’abri des vents un vaste port ; l’eau y dort immobile ; mais près de là tonne l’Etna au milieu de ses ruines épouvantables. Tantôt il pousse dans les airs un nuage noir, mêlé d’épais tourbillons de fumée et de cendres blanches, et il élève des bouffées de flammes qui vont toucher la voûte étoilée ; tantôt il vomit en grondant des rochers énormes, ses entraiIles arrachées, rejette à flots pressés et lance au ciel avec un sourd gémissement des pierres liquéfiées, et, partout débordant, bouillonne dans ses profonds abîmes. On dit que sur le corps d’Encelade à demi consumé par la foudre pèse à jamais la masse entière de la montagne ; l’Etna la surcharge encore de son poids immense, (3, 580) l’Etna qui souffle la flamme de ses fournaises rompues : chaque fois que le géant se retourne sur ses flancs fatigués, toute la Trinacrie tremble et murmure, et les cieux se voilent d’une épaisse fumée. Durant toute cette nuit, cachés dans les forêts, nous ressentîmes ces mouvements prodigieux : nous ignorions la cause de si grands bruits. Pas un astre ne luisait dans le ciel, pas un faible rayon ne venait de la voûte étherée ; ce n’étaient que nuages sombres ; une nuit sinistre enveloppait la lune de sa ténébreuse atmosphère.<BR>
+<BR>
+« Cependant le jour commençait à poindre à l’orient, et l’Aurore avait dissipé l’ombre humide des cieux, (3, 590) quand tout à coup du fond des bois un inconnu d’une figure étrange, le corps décharné, l’air pitoyable, s’avance vers nous, et tend vers le rivage des mains suppliantes : une barbe épaisse descend sur sa poitrine ; de sales et hideux lambeaux, que rattachent quelques épines, le couvrent à peine ; le reste annonce un Grec : il était venu jadis, avec les armées de sa patrie, sous les remparts de Troie. Dès qu’il eut vu de loin des vêtements et des armes troyennes, il s’arrêta un moment, frappé d’épouvante, et retint ses pas tremblants ; bientôt il se précipite vers le rivage, et s’écrie, avec des larmes et des prières : "Par ces astres, par ces dieux que j’atteste, (3, 600) par cet air que nous respirons tous, ôtez-moi de ces lieux, Troyens ! emmenez-moi partout où vous voudrez, je serai content. Je suis Grec, je l’avoue, et l’un de ceux qui sont venus, le fer à la main, attaquer les pénates d’Ilion. Si mon crime est si grand à vos yeux, déchirez le corps d’un ennemi, plongez-moi dans la vaste mer. Si je meurs, il me sera doux de mourir de la main des hommes." En disant ces mots, il embrassait nos genoux, et, se jetant à nos pieds, il y restait attaché. Nous l’engageons à nous dire son nom, sa famille, et quelle fortune l’agite. (3, 610) Anchise le premier, sans attendre qu’il nous réponde, tend la main au malheureux jeune homme, et, par ce gage d’un tendre intérêt, rassure ses esprits. Enfin, remis de sa frayeur, le Grec poursuit en ces termes :<BR>
+<BR>
+"Ma patrie est l’île d’Ithaque ; je suis un des compagnons du malheureux Ulysse ; mon nom est Achéménide : Adamaste, mon père, étant pauvre (plût au ciel que je me fusse contenté de son humble fortune !), je partis pour le siège de Troie. Quand mes compagnons s’échappèrent de ces retraites cruelles, dans leur épouvante ils ne songèrent pas à moi, et me laissèrent dans la vaste caverne de Polyphème : horrible demeure ! immense et ténébreuse, elle est partout souillée d’un sang fétide et de chairs palpitantes. Le monstre (dieux puissants, délivrez la terre d’un tel fléau !), aussi haut que les nues, frappe les astres de son front : (3, 621) on n’ose le regarder ; toute voix se tait devant lui. Les entrailles des malheureux humains, le sang des cadavres, voilà sa nourriture. Je l’ai vu moi-même, étendu dans le fond de son antre, saisir avec son immense main deux des nôtres, les écraser contre un rocher, leurs entrailles rejaillir, et dans leur sang nager le seuil de la caverne : je l’ai vu manger leurs membres tout dégouttants, leurs chairs ruisselantes ; j’ai entendu crier sous ses dents leurs os encore tièdes. Ce ne fut pas impunément : Ulysse ne le souffrit pas, et le roi d’Ithaque ne s’oublia point dans une telle extrémité. (3, 630) Le monstre, gorgé de carnage et enseveli dans le vin, avait laissé fléchir sa tête appesantie, et s’était allongé dans son antre de toute l’immensité de son corps, rejetant, durant son sommeil, le sang et le vin mêlés aux débris de ses affreux repas. Nous invoquons les dieux ; le sort assigne à chacun sa place ; tous nous nous répandons autour du géant, et, à l’aide d’un pieu aiguisé, nous crevons le seul œil qu’il avait à demi-caché sous son front menaçant : œil énorme ! on eût dit un bouclier d’Argos, ou le disque brillant du soleil. Enfin nous vengeons avec joie les mânes de nos compagnons. Mais vous, fuyez, malheureux Troyens ! fuyez, coupez les câbles qui vous retiennent à la rive ; (3, 641) c’est peu que Polyphème, retiré dans son antre profond, y tienne ses brebis enfermées et presse leurs ruisselantes mamelles ; cent autres Cyclopes, comme lui géants effroyables, habitent le long de ces rivages, errent sur ces hautes montagnes. La lune a trois fois rassemblé sa pleine lumière, depuis que je traîne ma misérable vie dans ces forêts, au milieu des bêtes farouches et dans leurs repaires désolés, et que du fond d’un roc caverneux je regarde au loin les vastes Cyclopes, j’écoute en frissonnant et le bruit de leurs pas et les sons effrayants de leurs voix. Des baies sauvages, des cornouilles pierreuses, (3, 650) des racines que j’arrache, voilà ma triste nourriture. Je parcourais des yeux les lointains espaces, quand j’ai vu cingler vers ces rivages vos vaisseaux : quels qu’ils fussent, amis ou ennemis, je me suis abandonné à eux : c’est assez que j’aie échappé à l’effroyable race de ces monstres : ôtez-moi plutôt la vie ; que je meure par vous de mille morts."<BR>
+<BR>
+« Il achevait à peine ces mots, quand nous voyons sur la cime des monts se mouvoir dans sa masse énorme l’affreux pâtre lui-même, Polyphème, au milieu de ses troupeaux, qu’il menait vers la rive accoutumée : monstre horrible, informe, immense, aveugle ! Un pin dépouillé de ses rameaux guide sa main et assure ses pas : (3, 660) ses brebis chargées de laine l’accompagnent, ses brebis, son seul plaisir, sa seule consolation dans ses maux. Quand il eut touché les flots profonds et qu’il fut entré dans la mer, il lava l’orbite encore dégouttant de sang de son œil éteint ; il grinçait les dents, frémissait de douleur ; et déjà il marchait à grands pas dans la mer, que l’onde mouillait à peine ses flancs démesurés. Tremblants, nous précipitons notre fuite au large, après avoir recueilli le Grec suppliant, et qui avait bien mérité de nous ; les câbles sont coupés en silence ; et, penchés à l’envi sur nos rames, nous balayons la plaine liquide. Polyphème nous entend, et, au bruit de nos mouvements, tourne vers nous ses pas. (3, 670) Mais quand il voit qu’il ne peut nous atteindre, ni suivre dans leur course les ondes ioniennes, il pousse un cri immense : la mer et toutes ses vagues en tremblèrent ; l’Italie entière en fut épouvantée ; l’Etna même en mugit dans ses cavernes profondes. À ce cri, toute la race des Cyclopes sort de ses forêts, descend des hautes montagnes, se précipite vers le port, et remplit le rivage. De loin nous voyons debout sur la rive, et nous menaçant en vain de leurs regards, ces fils de l’Etna : ils portaient jusqu’au ciel leurs fronts audacieux : troupe horrible ! Tels sur le sommet des monts se dressent (3, 680) dans les airs les chênes, les cyprès, les hautes forêts de Jupiter, les bois sacrés de Diane. Pressés du vif aiguillon de la peur, nous tourmentons nos câbles au hasard, nous déployons nos voiles à tous les souffles favorables. Mais l’avis d’Hélénus nous revient à l’esprit ; nous craignons de nous engager, à peine de périr, entre Charybde et Scylla : nous sommes résolus à faire voile en arrière, quand tout à coup Borée vient à souffler de l’étroit promontoire de Pélore, et nous porte bien au delà des roches vives de Pantagie, de la baie de Mégare, et de la basse péninsule de Thapsus. (3, 690) Achéménide, notre Grec, nous montrait ces rivages divers, qu’il revoyait en repassant sur les traces errantes du malheureux Ulysse.<BR>
+<BR>
+« Dans le golfe de Sicile, en face de l’orageux Plemmyre, est une île que ses premiers habitants ont appelée Ortygie. On dit que l’Alphée qui arrose les champs d’Élide a poussé secrètement sa course sous les mers ; l’Alphée qui maintenant, ô Aréthuse, confond avec les eaux de ta source ses ondes siciliennes. Nous adorons (ainsi l’ordonne Anchise) les puissances suprêmes de ces lieux, et bientôt je passe les vallons que le fleuve Hélore engraisse de ses eaux stagnantes. Nous rasons les pics allongés de Pachynum et ses rochers qui s’avancent dans les flots. (3, 700) De loin nous apparaissent, et Camarine à qui les destins ont défendu de déplacer ses fondements, et les campagnes qu’arrose le Gélas, et Géla, ville immense à qui le fleuve a donné son nom. La haute Acragas étale à nos yeux dans le lointain ses murailles prodigieuses ; Acragas, autrefois la cité nourricière des coursiers magnanimes. Le vent s’élève, et je te passe à ton tour, terre des palmiers, heureuse Sélinunte, et vous, durs écueils de Lilybée, pièges invisibles des mers. Enfin Drépane me reçoit dans son port, et sur son triste rivage : là, battu par tant de rudes tempêtes, je perds, hélas ! ma seule consolation dans mes maux, mon vieux père (3, 710) Anchise. Oui, c’est là que tu me quittes, à ce premier terme de mes fatigues, ô toi le meilleur des pères, toi que j’avais en vain arraché à de si grands périls. Ni Hélénus, qui m’avait prédit tant d’effroyables coups, ni la cruelle Céléno, ne m’avaient annoncé le plus cruel de tous. Là cessaient mes travaux ; j’avais atteint le terme de mes longues courses. C’était de là que je faisais voile vers l’Italie, quand un dieu, grande reine, m’a porté sur vos rivages. »<BR>
+<BR>
+C’est ainsi qu’Énée, au milieu des Tyriens attentifs, seul élevant la voix, racontait ses destinées et ses courses vagabondes. Enfin il se tut, et suspendit là son récit.<BR>
+</section>
+
+</div>
+
+<script>var langue1 = 'LAT';
+
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 1;
+
+$(function() {
+
+  cacheLangue(1);
+
+  for (var i = 1; i < 2; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  //var elLangue = document.getElementById("boutonLangue");
+
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  });
+
+function changeLangue() {
+
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+
+    numCourant = saufNum;
+    for (var i = 1; i < 2; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+
+    for (var i = 1; i < 2; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+}
+
+function cacheFr(saufNum) {
+
+    for (var i = 1; i < 2; i++) {
+
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+
+    }
+
+    for (var i = 1; i < 2; i++) {
+
+        var idEl = '#FR' + i;
+
+        $(idEl).hide();
+
+    }
+}
+
+function cacheLat(saufNum) {
+
+    for (var i = 1; i < 2; i++) {
+
+        if (i != saufNum) {
+
+            var idEl = '#FR' + i;
+
+            $(idEl).hide();
+
+        }
+
+        if (i == saufNum) {
+
+            var idEl = '#FR' + i;
+
+            $(idEl).show();
+
+        }
+
+    }
+
+    for (var i = 1; i < 2; i++) {
+
+        var idEl = '#LAT' + i;
+
+        $(idEl).hide();
+
+    }
+
+}
+
+</script> 
+
+ </body>

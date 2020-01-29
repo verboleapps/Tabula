@@ -1,0 +1,337 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 2,
+    "identityHash": "01be559b6ce42ce958bf482774aa233a",
+    "entities": [
+      {
+        "tableName": "BASELATIN",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`Numero` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `num` INTEGER NOT NULL, `mot` TEXT, `mot1` TEXT, `motsimple` TEXT NOT NULL, `motmin` TEXT NOT NULL, `lemme1` TEXT NOT NULL, `lemme2` TEXT NOT NULL, `lemme3` TEXT NOT NULL, `lemme4` TEXT NOT NULL, `motsimpleR` TEXT NOT NULL, `lemme1R` TEXT NOT NULL, `lemme2R` TEXT NOT NULL, `lemme3R` TEXT NOT NULL, `lemme4R` TEXT NOT NULL, `POS` TEXT NOT NULL, `nombre` TEXT NOT NULL, `genre` TEXT NOT NULL, `decl1` INTEGER NOT NULL, `decl2` INTEGER NOT NULL, `type` TEXT NOT NULL, `AgeFreq` TEXT, `refs` TEXT, `refVar` INTEGER NOT NULL, `NumTableOrig` INTEGER NOT NULL, `dico` TEXT)",
+        "fields": [
+          {
+            "fieldPath": "Numero",
+            "columnName": "Numero",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "num",
+            "columnName": "num",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "mot",
+            "columnName": "mot",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "mot1",
+            "columnName": "mot1",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "motsimple",
+            "columnName": "motsimple",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "motmin",
+            "columnName": "motmin",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lemme1",
+            "columnName": "lemme1",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lemme2",
+            "columnName": "lemme2",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lemme3",
+            "columnName": "lemme3",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lemme4",
+            "columnName": "lemme4",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "motsimpleR",
+            "columnName": "motsimpleR",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lemme1R",
+            "columnName": "lemme1R",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lemme2R",
+            "columnName": "lemme2R",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lemme3R",
+            "columnName": "lemme3R",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lemme4R",
+            "columnName": "lemme4R",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "POS",
+            "columnName": "POS",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "nombre",
+            "columnName": "nombre",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "genre",
+            "columnName": "genre",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "decl1",
+            "columnName": "decl1",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "decl2",
+            "columnName": "decl2",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "type",
+            "columnName": "type",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "AgeFreq",
+            "columnName": "AgeFreq",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "refs",
+            "columnName": "refs",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "refVar",
+            "columnName": "refVar",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "NumTableOrig",
+            "columnName": "NumTableOrig",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "dico",
+            "columnName": "dico",
+            "affinity": "TEXT",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "Numero"
+          ],
+          "autoGenerate": true
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "BASEENTREES",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`_id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `num` INTEGER NOT NULL, `entreemin` TEXT, `entree` TEXT, `dico` TEXT)",
+        "fields": [
+          {
+            "fieldPath": "_id",
+            "columnName": "_id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "num",
+            "columnName": "num",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "entreemin",
+            "columnName": "entreemin",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "entree",
+            "columnName": "entree",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "dico",
+            "columnName": "dico",
+            "affinity": "TEXT",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "_id"
+          ],
+          "autoGenerate": true
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "INFLEXION",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`Numero` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `pos` TEXT, `decl1` INTEGER NOT NULL, `decl2` INTEGER NOT NULL, `cas` TEXT, `genre` TEXT, `type` TEXT, `temps` TEXT, `voix` TEXT, `mode` TEXT, `personne` TEXT, `nombre` TEXT, `numrad` INTEGER NOT NULL, `terme` TEXT, `age` TEXT, `freq` TEXT)",
+        "fields": [
+          {
+            "fieldPath": "Numero",
+            "columnName": "Numero",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "pos",
+            "columnName": "pos",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "decl1",
+            "columnName": "decl1",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "decl2",
+            "columnName": "decl2",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "cas",
+            "columnName": "cas",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "genre",
+            "columnName": "genre",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "type",
+            "columnName": "type",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "temps",
+            "columnName": "temps",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "voix",
+            "columnName": "voix",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "mode",
+            "columnName": "mode",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "personne",
+            "columnName": "personne",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "nombre",
+            "columnName": "nombre",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "numrad",
+            "columnName": "numrad",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "terme",
+            "columnName": "terme",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "age",
+            "columnName": "age",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "freq",
+            "columnName": "freq",
+            "affinity": "TEXT",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "Numero"
+          ],
+          "autoGenerate": true
+        },
+        "indices": [],
+        "foreignKeys": []
+      }
+    ],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, \"01be559b6ce42ce958bf482774aa233a\")"
+    ]
+  }
+}

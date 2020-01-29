@@ -1,0 +1,116 @@
+ <div class = "corpsTexte"><p class = "marge"><span id="elemMenu1">1</span>  &nbsp;&nbsp;<span id="elemMenu2">2</span>  &nbsp;&nbsp;<span id="elemMenu3">3</span>  &nbsp;&nbsp;<span id="elemMenu4">4</span>  &nbsp;&nbsp;</p><section id ="LAT1">I<BR/>  HAMILCAR, Hannibalis filius, cognomine Barca, Carthaginiensis, primo Poenico bello, sed temporibus extremis, admodum adulescentulus in Sicilia praeesse coepit exercitui. <verset=2> Cum ante eius adventum et mari et terra male res gererentur Carthaginiensium, ipse, ubi adfuit, numquam hosti cessit neque locum nocendi dedit saepeque e contrario occasione data lacessivit semperque superior discessit. Quo facto, cum paene omnia in Sicilia Poeni amisissent, ille Erycem sic defendit, ut bellum eo loco gestum non videretur. <verset=3> Interim Carthaginienses classe apud insulas Aegatis a C. Lutatio, consule Romanorum, superati statuerunt belli facere finem eamque rem arbitrio permiserunt Hamilcaris. Ille etsi flagrabat bellandi cupiditate, tamen paci serviundum putavit, quod patriam, exhaustam sumptibus, diutius calamitates belli ferre non posse intellegebat, <verset=4> sed ita, ut statim mente agitaret, si paulum modo res essent refectae, bellum renovare Romanosque armis persequi, donicum aut virtute vicissent aut victi manus dedissent <verset=5> Hoc consilio pacem conciliavit; in quo tanta fuit ferocia, cum Catulus negaret bellum compositurum, nisi ille cum suis, qui Erycem tenuerunt, armis relictis Sicilia decederent, ut succumbente patria ipse periturum se potius dixerit, quam cum tanto flagitio domum rediret. Non enim suae esse virtutis arma a patria accepta adversus hostis adversariis tradere. Huius pertinaciae cessit Catulus.
+</section><section id ="FR1">1<BR/> Hamilcar, fils d’Hannibal, surnommé Barcas, était Carthaginois. Il commença fort jeune à commander l’armée en Sicile, vers les derniers temps de la première guerre punique. Tandis que, avant son arrivée dans cette île, les affaires des Carthaginois y allaient mal et sur mer et sur terre, aussitôt qu’il y fut présent , il ne céda jamais à l’ennemi, ni ne lui donna lieu de lui nuire; souvent, au contraire, il le provoqua, lorsqu’il en eut l’occasion, et sortit toujours vainqueur du combat. Aussi, quand les Carthaginois avaient presque tout perdu en Sicile, il défendit Éryx de manière qu’il ne semblait point que la guerre eût été faite près de là. Cependant les Carthaginois ayant été vaincus dans un combat naval, aux îles Égates, par Caius Lutatius, consul romain, ils résolurent de mettre fin à la guerre, et laissèrent Hamilcar maître des négociations. Quoique celui-ci brûlât du désir de combattre, il crut cependant qu’il fallait s’attacher à la paix, parce qu’il sentait que sa patrie, épuisée de dépenses, ne pouvait pas supporter plus longtemps la calamité de la guerre; mais au même moment il méditait si les affaires se rétablissaient tant soit peu, de renouveler la guerre, et de poursuivre les Romains par les armes jusqu’à ce qu’ils eussent triomphé à force de valeur, ou que, vaincus, ils eussent demandé quartier. Ce fut dans cette disposition qu’il négocia la paix. Il en traita avec tant de fierté que, Catulus lui déclarant «qu’il ne terminerait point la guerre, à moins que lui, Hamilcar, et ceux des siens qui avaient occupé Éryx ne sortent de la Sicile en mettant bas les armes;» il répondit, «que, bien qu’il vît sa patrie succomber, il périrait plutôt que de retourner chez lui avec une si grande infamie; qu’en effet, il n’était pas digne de son courage de livrer aux ennemis de sa patrie les armes qu’il en avait reçues contre eux.» Catulus dut céder à son obstination.
+</section><section id ="LAT2">II<BR/>  At ille ut Carthaginem venit, multo aliter, ac sperarat, rem publicam se habentem cognovit. Namque diuturnitate externi mali tantum exarsit intestinum bellum, ut numquam in pari periculo fuerit Carthago, nisi cum deleta est. <verset=2> Primo mercennarii milites, qui adversus Romanos fuerant, desciverunt; quorum numerus erat XX milium. Hi totam abalienarunt Africam, ipsam Carthaginem oppugnarunt. <verset=3> Quibus malis adeo sunt Poeni perterriti, ut etiam auxilia ab Romanis petierint eaque impetrarint. Sed extremo, cum prope iam ad desperationem pervenissent, Hamilcarem imperatorem fecerunt. <verset=4> Is non solum hostis a muris Carthaginis removit, cum amplius C milia facta essent armatorum, sed etiam eo compulit, ut locorum angustiis clausi plures fame quam ferro interirent. Omnia oppida abalienata, in his Uticam atque Hipponem, valentissima totius Africae, restituit patriae. <verset=5> Neque eo fuit contentus, sed etiam finis imperii propagavit, tota Africa tantum otium reddidit, ut nullum in ea bellum videretur multis annis fuisse.
+</section><section id ="FR2">2<BR/> Sitôt qu’il fut arrivé à Carthage, il trouva la république dans un état bien différent de ce qu’il attendait: car, à cause de la longue durée de la lutte extérieure, il s’y alluma une guerre intestine, si forte que Carthage ne fut jamais dans un pareil danger, si ce n’est quand elle fut détruite. D’abord les soldats soudoyés, qui avaient servi contre les Romains, se révoltèrent; et leur nombre était de vingt mille. Ils soulevèrent toute l’Afrique et assiégèrent Carthage même. Les Carthaginois furent tellement épouvantés de ces désastres, qu’ils demandèrent des secours aux Romains; et ils les obtinrent. Mais à la fin, étant presque réduits au désespoir, ils firent Hamilcar général. Non seulement celui-ci repoussa les ennemis des murs de Carthage, tandis qu’ils étaient montés au nombre de plus de cent mille hommes armés, mais encore il les réduisit, au point qu’enfermés dans des défilés, il en périt plus par la faim que par le fer. Il rendit à sa patrie toutes les villes révoltées, entre autres Utique et Hippone, les plus puissantes de l’Afrique. Non content de cela, il étendit même les bornes de l’empire, et rétablit dans toute l’Afrique un si grand calme, qu’il semblait qu’il n’y avait eu aucune guerre depuis bien des années.
+</section><section id ="LAT3">III<BR/>  Rebus his ex sententia peractis, fidenti animo atque infesto Romanis, quo facilius causam bellandi reperiret, effecit, ut imperator cum exercitu in Hispaniam mitteretur, eoque secum duxit filium Hannibalem annorum novem. <verset=2> Erat praeterea cum eo adulescens illustris, formosus, Hasdrubal; quem nonnulli diligi turpius, quam par erat, ab Hamilcare loquebantur. Non enim maledici tanto viro deesse poterant. Quo factum est, ut a praefecto morum Hasdrubal cum eo vetaretur esse. Huic ille filiam suam in matrimonium dedit, quod moribus eorum non poterat interdici socero genero. <verset=3> De hoc ideo mentionem fecimus, quod Hamilcare occiso ille exercitui praefuit resque magnas gessit et princeps largitione vetustos pervertit mores Carthaginiensium eiusdemque post mortem Hannibal ab exercitu accepit imperium.
+</section><section id ="FR3">3<BR/> Ces expéditions terminées à souhait, plein de confiance en lui-même et toujours acharné contre les Romains, pour qu’il trouvât plus facilement une cause de guerre, il fit en sorte d’être envoyé comme général, avec une armée en Espagne; et il y mena son fils Hannibal, âgé de neuf ans. Il avait, en outre, avec lui, un jeune homme illustre et d’une grande beauté, nommé Hasdrubal. Hamilcar lui donna sa fille en mariage. Nous avons mentionné cet Hasdrubal, parce qu’après qu’Hamilcar eut été tué, il commanda l’armée et fit de grandes choses; ce fut lui aussi qui pervertit le premier par des largesses les moeurs anciennes des Carthaginois; après sa mort Hannibal reçut de l’armée le commandement.
+</section><section id ="LAT4">IV<BR/>  At Hamilcar posteaquam mare transiit in Hispaniamque venit, magnas res secunda gessit fortuna; maximas bellicosissimasque gentes subegit; equis, armis, viris, pecunia totam locupletavit Africam. <verset=2> Hic cum in Italiam bellum inferre meditaretur, nono anno, postquam in Hispaniam venerat, in proelio pugnans adversus Vettones occisus est. <verset=3> Huius perpetuum odium erga Romanos maxime concitasse videtur secundum bellum Poenicum. Namque Hannibal, filius eius, assiduis patris obtestationibus eo est perductus, ut interire quam Romanos non experiri mallet.
+
+</section><section id ="FR4">4<BR/> Après qu’Hamilcar eut passé la mer, et qu’il fut arrivé en Espagne, il y fit de grands exploits, avec l’aide de la fortune: il soumit des nations très puissantes et très belliqueuses; il enrichit toute l’Afrique de chevaux, d’armes et d’argent. Comme il méditait de porter la guerre en Italie, la neuvième année après qu’il était venu en Espagne, il fut tué en se battant contre les Vettons. Sa haine perpétuelle contre les Romains paraît avoir principalement suscité la seconde guerre punique; car Hannibal son fils, grâce aux instances continuelles de son père, en vint à mieux aimer périr que de ne pas se mesurer avec les Romains.
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 4;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 5; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script></body></html>

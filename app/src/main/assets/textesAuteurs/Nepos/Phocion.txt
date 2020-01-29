@@ -1,0 +1,116 @@
+ <div class = "corpsTexte"><p class = "marge"><span id="elemMenu1">1</span>  &nbsp;&nbsp;<span id="elemMenu2">2</span>  &nbsp;&nbsp;<span id="elemMenu3">3</span>  &nbsp;&nbsp;<span id="elemMenu4">4</span>  &nbsp;&nbsp;</p><section id ="LAT1">I<BR/>  PHOCION Atheniensis etsi saepe exercitibus praefuit summosque magistratus cepit, tamen multo eius notior integritas vitae quam rei militaris labor. Itaque huius memoria est nulla, illius autem magna fama, ex quo cognomine Bonus est appellatus. <verset=2> Fuit enim perpetuo pauper, cum divitissimus esse posset propter frequentis delatos honores potestatesque summas, quae ei a populo dabantur. <verset=3> Hic cum a rege Philippo munera magnae pecuniae repudiaret legatique hortarentur accipere simulque admonerent, si ipse his facile careret, liberis tamen suis prospiceret, quibus difficile esset in summa paupertate tantam paternam tueri gloriam, <verset=4> his ille 'Si mei similes erunt, idem hic' inquit 'agellus illos alet, qui me ad hanc dignitatem perduxit; sin dissimiles sunt futuri, nolo meis impensis illorum ali augerique luxuriam.'
+</section><section id ="FR1">1<BR/> Quoique l’Athénien Phocion ait souvent été à la tête des armées, et qu’il ait rempli les plus grandes magistratures, cependant l’intégrité de sa vie est beaucoup plus connue que ses travaux militaires. On ne fait donc aucune mention de ceux-ci, mais on célèbre beaucoup celle-là, pour laquelle il fut appelé l’homme de bien. Car il fut perpétuellement pauvre, tandis qu’il pouvait être très riche, à cause des fréquents honneurs qui lui avaient été conférés et des charges considérables qui lui étaient données par le peuple. Comme il refusait de grands présents en argent de la part du roi Philippe, et que les envoyés de ce prince pour l’engager à les accepter, lui représentaient que, s’il s’en passait facilement lui-même, il devait cependant avoir égard à ses enfants, auxquels il serait difficile, dans une extrême pauvreté, de soutenir la gloire de leur père, Phocion leur dit: «S’ils sont semblables à moi, ce même petit champ, qui m’a conduit à cette considération, les nourrira; et s’ils ne me ressemblent pas, je ne veux point leur fournir de ressources pour alimenter et accroître leur dérèglement.»
+</section><section id ="LAT2">II<BR/>  Idem cum prope ad annum octogesimum prospera pervenisset fortuna, extremis temporibus magnum in odium pervenit suorum civium, <verset=2> primo quod cum Demade de urbe tradenda Antipatro consenserat eiusque consilio Demosthenes cum ceteris, qui bene de re publica meriti existimabantur, populi scito in exsilium erant expulsi. Neque in eo solum offenderat, quod patriae male consuluerat, sed etiam quod amicitiae fidem non praestiterat. <verset=3> Namque auctus adiutusque a Demosthene eum, quem tenebat, ascenderat gradum, cum adversus Charetem eum subornaret; ab eodem in iudiciis, cum capitis causam diceret, defensus aliquotiens, liberatus discesserat. Hunc non solum in periculis non defendit, sed etiam prodidit. <verset=4> Concidit autem maxime uno crimine, quod, cum apud eum summum esset imperium populi et Nicanorem, Cassandri praefectum, insidiari Piraeo Atheniensium a Dercylo moneretur idemque postularet, ut provideret, ne commeatibus civitas privaretur, huic audiente populo Phocion negavit esse periculum seque eius rei obsidem fore pollicitus est. <verset=5> Neque ita multo post Nicanor Piraeo est potitus, sine quo Athenae omnino esse non possunt. Ad quem recuperandum cum populus armatus concurrisset, ille non modo neminem ad arma vocavit, sed ne armatis quidem praeesse voluit.
+</section><section id ="FR2">2<BR/> La fortune lui ayant été prospère presque jusqu’à l’âge de quatre-vingts ans, il devint, dans les derniers temps de sa vie, très odieux à ses concitoyens: premièrement, parce qu’il était convenu avec Démade de livrer la ville d’Athènes à Antipater; et, en second lieu, parce que, sur son conseil, Démosthène et tous les autres citoyens qu’on jugeait bien mériter de la république avaient été exilés par un décret du peuple. Et il n’avait pas seulement offensé les esprits en ce qu’il avait mal servi la patrie à cet égard, mais encore en ce qu’il n’avait pas été fidèle à l’amitié: car c’était par la protection et à l’aide de Démosthène, qui le soutenait sous main contre Charès, qu’il était monté au degré d’élévation qu’il occupait; défendu en divers temps par le même Démosthène, dans des affaires où il s’agissait de sa vie, il en était sorti acquitté. Phocion non seulement ne le protégea point dans ses dangers, mais encore le livra. Une accusation lui fut surtout fatale: tandis qu’il gouvernait la république, Dercylle l’avertit que Nicanor, lieutenant de Cassandre, cherchait à surprendre le Pirée, sans lequel Athènes ne peut absolument pas exister; et le même Dercylle le requérait de pourvoir à ce que la ville ne fût pas privée de vivres: Phocion lui répondit qu’il n’existait point de danger, et qu’il était garant de tout. Cependant, peu de temps après, Nicanor se rendit maître du Pirée. Le peuple étant accouru armé pour reprendre le Pirée, non seulement Phocion n’appela personne aux armes, mais il ne voulut pas même se mettre à la tête de ceux qui étaient armés.
+</section><section id ="LAT3">III<BR/>  Erant eo tempore Athenis duae factiones, quarum una populi causam agebat, altera optimatium. In hac erat Phocion et Demetrius Phalereus. Harum utraque Macedonum patrociniis utebatur. Nam populares Polyperchonti favebant, optimates cum Cassandro sentiebant. <verset=2> Interim a Polyperchonte Cassandrus Macedonia pulsus est. Quo facto populus superior factus statim duces adversariae factionis capitis damnatos patria propulit, in his Phocionem et Demetrium Phalereum, deque ea re legatos ad Polyperchontem misit, qui ab eo peterent, ut sua decreta confirmaret. <verset=3> Huc eodem profectus est Phocion. Quo ut venit, causam: apud Philippum regem verbo, re ipsa quidem apud Polyperchontem iussus est dicere: namque is tum regis rebus praeerat. <verset=4> Hic ab Agnone accusatus, quod Piraeum Nicanori prodidisset, ex consilii sententia in custodiam coniectus, Athenas deductus est, ut ibi de eo legibus fieret iudicium.
+</section><section id ="FR3">3<BR/> Il y avait alors à Athènes deux factions, dont l’une soutenait la cause du peuple, l’autre celle des grands. Dans celle-ci étaient Phocion et Démétrius de Phalère: l’une et l’autre s’appuyait sur la protection des Macédoniens. Car le parti populaire favorisait Polysperchon; les grands étaient pour Cassandre. Cependant celui-ci fut chassé de la Macédoine par Polysperchon, le peuple, devenu par là le plus fort, bannit aussitôt de leur patrie les chefs de la faction contraire, condamnés à perdre la tête, et parmi eux Phocion et Démétrius de Phalère; et il envoya à cette occasion des ambassadeurs à Polysperchon, pour le prier de confirmer ses décrets. Phocion partit pour le même endroit. Quand il y fut arrivé, il reçut ordre de plaider sa cause, en apparence auprès du roi Philippe, mais en réalité auprès de Polysperchon; car ce dernier était alors à la tête des affaires du roi. Accusé par Agnonide d’avoir livré le Pirée à Nicanor, il fut jeté en prison par sentence du conseil, et traduit à Athènes, pour que son procès lui fût fait selon les lois.
+</section><section id ="LAT4">IV<BR/>  Huc ut perventum est, cum propter aetatem pedibus iam non valeret vehiculoque portaretur, magni concursus sunt facti, cum alii, reminiscentes veteris famae, aetatis misererentur, plurimi vero ira exacuerentur propter proditionis suspicionem Piraei maximeque, quod adversus populi commoda in senectute steterat. <verset=2> Quare ne perorandi quidem ei data est facultas et dicendi causam. Inde iudicio legitimis quibusdam confectis damnatus, traditus est undecimviris, quibus ad supplicium more Atheniensium publice damnati tradi solent. <verset=3> Hic cum ad mortem duceretur, obvius ei fuit Euphiletus, quo familiariter fuerat usus. Is cum lacrimans dixisset 'O quam indigna perpeteris, Phocion!' huic ille 'At non inopinata' inquit: 'hunc enim exitum plerique clari viri habuerunt Athenienses'. <verset=4> In hoc tantum feit odium multitudinis, ut nemo ausus sit eum liber sepelire. Itaque a servis sepultus est.
+
+</section><section id ="FR4">4<BR/> Dès qu’on fut arrivé, Phocion étant porté sur une voiture parce qu’il ne pouvait déjà plus aller à pied à cause de son grand âge, il se fit un grand concours de peuple. Les uns, se rappelant son ancienne réputation, avaient pitié de sa vieillesse; mais le plus grand nombre était enflammé de colère, parce qu’on le soupçonnait d’avoir livré le Pirée, et surtout parce que, dans sa vieillesse, il s’était déclaré contre les intérêts du peuple. C’est pourquoi on ne lui donna pas même la faculté de parler et de plaider sa cause. Ayant été ensuite condamné par les juges, après quelques formalités légales, il fut livré aux Onze, auxquels, selon l’usage des Athéniens, ceux qui sont condamnés pour trahison ont coutume d’être remis. Pendant qu’il était conduit à la mort, Emphylète, avec, qui il avait été lié d’amitié, se présenta devant lui. Ce citoyen lui ayant dit, les larmes aux yeux: «Ah! Phocion, quel indigne traitement!» il lui répondit: «Je n’en suis point surpris; car c’est la fin qu’ont eue la plupart des grands hommes d’Athènes.» La haine de la multitude contre lui fut si forte, qu’aucune personne libre n’osa lui rendre les derniers devoirs. Il fut donc enseveli par des esclaves.
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 4;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 5; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script></body></html>

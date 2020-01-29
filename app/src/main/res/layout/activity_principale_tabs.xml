@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mTabHost"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/vertfonce">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tabLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:tabBackground="@color/vertfonce"
+            app:tabGravity="fill"
+            app:tabIndicator="@android:drawable/bottom_bar"
+            app:tabIndicatorColor="@android:color/holo_blue_bright"
+            app:tabIndicatorFullWidth="true"
+            app:tabIndicatorGravity="bottom"
+            app:tabIndicatorHeight="6dp"
+            app:tabInlineLabel="true"
+            app:tabPaddingEnd="4dp"
+            app:tabPaddingStart="4dp"
+            app:tabMode="scrollable"
+            app:tabTextAppearance="@style/mCustomTabText"
+            app:tabTextColor="@color/blanc">
+
+
+        </com.google.android.material.tabs.TabLayout>
+
+    </FrameLayout>
+
+    <com.verbole.dcad.tabula.ViewPagerSimple
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

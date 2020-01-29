@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <CheckBox
+        android:id="@+id/checkBoxListeListes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        app:layout_constraintBaseline_toBaselineOf="@+id/boutonListeListes"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <EditText
+        android:id="@+id/etListeListes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/left_margin_listeliste"
+        android:imeOptions="actionDone"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:singleLine="true"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/taille_police_section"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toRightOf="@+id/checkBoxListeListes" />
+
+    <TextView
+        android:id="@+id/tvListeListes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/left_margin_listeliste"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/taille_police_section"
+        app:layout_constraintBaseline_toBaselineOf="@+id/boutonListeListes"
+        app:layout_constraintLeft_toRightOf="@+id/checkBoxListeListes" />
+
+    <ImageView
+        android:id="@+id/boutonListeListes"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+
+        android:tint="@android:color/black"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_infos" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relLay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:background="@drawable/bordure_section_header_document"
+    android:orientation="horizontal"
+    android:padding="1dp"
+    tools:context="com.verbole.dcad.tabula.ActivitePrincipale">
+
+    <TextView
+        android:id="@+id/sectionHeaderVue"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_weight="1"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/taille_police_section_header" />
+
+</LinearLayout>

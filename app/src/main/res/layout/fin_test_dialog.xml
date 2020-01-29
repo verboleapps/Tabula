@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/fond_gris_clair">
+
+    <TextView
+        android:id="@+id/fin_test_score_tv"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="score"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/taille_police_section"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <Button
+        android:id="@+id/boutonDialogQuitter"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="2dp"
+        android:background="@color/blanc"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="Quitter"
+        app:layout_constraintEnd_toStartOf="@+id/boutonDialogRecommencer"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fin_test_score_tv" />
+
+
+    <Button
+        android:id="@+id/boutonDialogRecommencer"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="5dp"
+
+        android:background="@color/blanc"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="Recommencer"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/boutonDialogQuitter"
+        app:layout_constraintTop_toBottomOf="@+id/fin_test_score_tv" />
+
+
+</androidx.constraintlayout.ConstraintLayout>

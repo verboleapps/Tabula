@@ -1,0 +1,117 @@
+ <div class = "corpsTexte"><p class = "marge"><span id="elemMenu1">1</span>  &nbsp;&nbsp;<span id="elemMenu2">2</span>  &nbsp;&nbsp;<span id="elemMenu3">3</span>  &nbsp;&nbsp;<span id="elemMenu4">4</span>  &nbsp;&nbsp;</p><section id ="LAT1">I<BR/>  LYSANDER Lacedaemonius magnam reliquit sui famam, magis felicitate quam virtute partam. Atheniensis enim in Peloponnesios sexto et vicesimo anno bellum gerentes confecisse apparet. Id qua ratione consecutus sit, haud latet. <verset=2> Non enim virtute sui exercitus, sed immodestia factum est adversariorum, qui, quod dicto audientes imperatoribus suis non erant, dispalati in agris relictis navibus in hostium venerunt potestatem. Quo facto Athenienses se Lacedaemoniis dediderunt. <verset=3> Hac victoria Lysander elatus, cum antea semper factiosus audaxque fuisset, sic sibi indulsit, ut eius opera in maximum odium Graeciae Lacedaemonii pervenerint. <verset=4> Nam cum hanc causam Lacedaemonii dictitassent sibi esse belli, ut Atheniensium impotentem dominationem refringerent, postquam apud Aegos flumen Lysander classis hostium est potitus, nihil aliud molitus est, quam ut omnes civitates in sua teneret potestate, cum id se Lacedaemoniorum causa facere simularet. <verset=5> Namque undique, qui Atheniensium rebus studuissent, eiectis, decem delegerat in unaquaque civitate, quibus summum imperium potestatemque omnium rerum committeret. Horum in numerum nemo admittebatur, nisi qui aut eius hospitio contineretur aut se illius fore proprium fide confirmarat.
+</section><section id ="FR1">1<BR/> Lysandre, de Sparte, a laissé une grande réputation qu’il a due à sa fortune plus qu’à son mérite. On sait qu’il défit entièrement les Athéniens, dans la vingt-sixième année de la guerre du Péloponnèse; mais on ignore de quelle manière. Ce succès fut l’effet, non de la valeur de ses troupes, mais de l’indiscipline des Athéniens qui, n’obéissant point à leurs chefs et ayant quitté leurs vaisseaux pour se disperser dans les campagnes, tombèrent entre les mains de l’ennemi. Dès lors Athènes fut forcée de se rendre. Lysandre, enflé de cette victoire, avant laquelle il avait toujours été factieux et plein d’audace, se livra tellement à son caractère, qu’il fit des Lacédémoniens l’horreur de la Grèce. Ces derniers avaient souvent dit qu’ils prenaient les armes pour briser le despotisme des Athéniens; mais, quand Lysandre se fut emparé de leur flotte à Ægos-Potamos, il ne travailla qu’à mettre toutes les villes sous sa propre dépendance, en feignant d’agir pour les Lacédémoniens. Après en avoir chassé tous les partisans des Athéniens, il avait choisi, dans chacune, dix citoyens auxquels il avait confié le pouvoir suprême, n’admettant dans ce nombre de magistrats que des gens qui lui étaient attachés par les liens de l’hospitalité, ou qui lui avaient fait le serment d’être à lui. Ce décemvirat établi dans toutes les villes, tout s’y fit à sa volonté.
+</section><section id ="LAT2">II<BR/>  Ita decemvirali potestate in omnibus urbibus constituta ipsius nutu omnia gerebantur. Cuius de crudelitate ac perfidia satis est unam rem exempli gratia proferre, ne de eodem plura enumerando defatigemus lectores. <verset=2> Victor ex Asia cum reverteretur Thasumque divertisset, quod ea civitas praecipua fide fuerat erga Athenienses - proinde ac si non iidem firmissimi solerent esse amici, qui constantes fuissent inimici - pervertere eam concupivit. <verset=3> Vidit autem, nisi in eo occultasset voluntatem, futurum, ut Thasii dilaberentur consulerentque rebus suis ***
+</section><section id ="FR2">2<BR/> Pour ne pas fatiguer le lecteur du détail de ses cruautés et de ses perfidies, je me borne à en rapporter un seul exemple. En revenant de l’Asie, il se détourna vers Thasos. Parce que cette ville avait signalé sa fidélité pour les Athéniens, comme si les ennemis les plus constants devenaient ordinairement les plus fermes amis, il désira la renverser de fond en comble. Il vit que, s’il ne cachait pas son dessein, les Thasiens lui échapperaient par la fuite et se mettraient en sûreté. En conséquence .... 
+
+</section><section id ="LAT3">III<BR/>  Itaque hi decemviralem illam potestatem ab illo constitutam sustulerunt. Quo dolore incensus iniit consilia reges Lacedaemoniorum tollere. Sed sentiebat id se sine ope deorum facere non posse, quod Lacedaemonii omnia ad oracula referre consuerant. Primum Delphicum corrumpere est conatus. Cum id non potuisset, Dodonam adortus est. Hinc quoque repulsus dixit se vota suscepisse, quae Iovi Hammoni solveret, existimans se Afros facilius corrupturum. <verset=3> Hac spe cum profectus esset in Africam, multum eum antistites Iovis fefellerunt. Nam non solum corrumpi non potuerunt, sed etiam legatos Lacedaemonem miserunt, qui Lysandrum accusarent, quod sacerdotes fani corrumpere conatus esset. <verset=4> Accusatus hoc crimine iudicumque absolutus sententiis, Orchomeniis missus subsidio occisus est a Thebanis apud Haliartum. <verset=5> Quam vere de eo foret iudicatum, oratio indicio fuit, quae post mortem in domo eius reperta est, in qua suadet Lacedaemoniis, ut regia potestate dissoluta ex omnibus dux deligatur ad bellum gerendum, sed sic scripta, ut deum videretur congruere sententiae, quam ille se habiturum pecunia fidens non dubitabat. Hanc ei scripsisse Cleon Halicarnassius dicitur.
+</section><section id ="FR3">3<BR/> Les Lacédémoniens abolirent donc la puissance décemvirale qu’il avait établie. Lysandre, outré de ressentiment, forma le projet de détruire la royauté dans Lacédémone. Sentant qu’il ne pouvait l’exécuter sans le secours des dieux, parce que les Spartiates avaient coutume de référer tout aux oracles, il tâcha d’abord de corrompre les prêtres de Delphes. N’ayant pu en venir à bout, il tenta ceux de Dodone. Rebuté aussi de ce côté, il dit qu’il avait fait à Jupiter Ammon un voeu dont il devait s’acquitter, s’imaginant qu’il aurait moins de peine à gagner les prêtres africains. Il partit pour l’Afrique dans cette espérance; mais les principaux ministres du temple de Jupiter trompèrent beaucoup son attente. Non seulement ils furent incorruptibles, mais ils envoyèrent encore des députés à Lacédémone pour accuser Lysandre d’avoir essayé de séduire leurs prêtres. Appelé en justice pour ce crime, il fut absous par ses juges. On l’envoya au secours d’Orchomène. Il fut tué par les Thébains auprès d’Haliarte. Une harangue trouvée dans sa maison, après sa mort, justifia l’idée qu’on avait de lui. Il y conseille aux Lacédémoniens d’abolir la puissance royale, et de choisir, parmi tous les citoyens, un général chargé de faire la guerre. Cette pièce était d’ailleurs tournée de manière qu’elle paraissait s’accorder avec la décision divine, qu’il ne doutait pas d’obtenir à prix d’argent. On dit que c’est Cléon d’Halicarnasse qui l’avait composée.
+</section><section id ="LAT4">IV<BR/>  Atque hoc loco non est praetereundum factum Pharnabazi, satrapis regii. Nam cum Lysander praefectus classis in bello multa crudeliter avareque fecisset deque his rebus suspicaretur ad cives suos esse perlatum, petiit a Pharnabazo, ut ad ephoros sibi testimonium daret, quanta sanctitate bellum gessisset sociosque tractasset, deque ea re accurate scriberet: magnam enim eius auctoritatem in ea re futuram. <verset=2> Huic ille liberaliter pollicetur; librum grandem verbis multis conscripsit, in quibus summis eum effert laudibus. Quem cum legisset probassetque, dum signatur, alterum pari magnitudine, tanta similitudine, ut discerni non posset, signatum subiecit, in quo accuratissime eius avaritiam perfidiamque accusarat. <verset=3> [Hunc] Lysander, domum cum redisset, postquam de suis rebus gestis apud maximum magistratum, quae voluerat, dixerat, testimonii loco librum a Pharnabazo datum tradidit. Hunc summoto Lysandro cum ephori cognossent, ipsi legendum dederunt. Ita ille imprudens ipse suus fuit accusator.
+
+</section><section id ="FR4">4<BR/> Il ne faut point omettre ici le trait de Pharnabaze, satrape du roi de Perse. Lysandre, commandant la flotte, avait commis, dans le cours de la guerre, beaucoup d’actes d’avarice et de cruauté. Soupçonnant qu’on avait informé de ces faits les Lacédémoniens, il pria Pharnabaze de lui donner pour les éphores une attestation de la manière intègre avec laquelle il avait fait la guerre et traité les alliés, et de s’étendre sur ce point dans sa lettre, parce que son autorité serait d’un grand poids à cet égard. Pharnabaze lui promet tout son zèle; il écrit une longue lettre où il le comble d’éloges, et la lit à Lysandre qui s’en montre satisfait. Mais le satrape, en la fermant, en substitue une autre toute cachetée, du même volume et d’une forme si semblable, qu’il était impossible de la distinguer de la première. Il faisait dans celle-ci le détail le plus exact de son avarice et de sa perfidie. Lysandre, retourné à Sparte, après avoir rendu le compte qu’il lui plut de sa conduite au premier magistrat, lui remit, comme un certificat, la lettre de Pharnabaze. Les éphores, l’ayant fait retirer, en prirent connaissance et la lui donnèrent ensuite à lire. Il fut ainsi, sans le savoir, son propre accusateur.
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 4;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 5; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 5; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 5; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script></body></html>

@@ -1,0 +1,118 @@
+ <div class = "corpsTexte"><p class = "marge"><span id="elemMenu1">1</span>  &nbsp;&nbsp;<span id="elemMenu2">2</span>  &nbsp;&nbsp;<span id="elemMenu3">3</span>  &nbsp;&nbsp;<span id="elemMenu4">4</span>  &nbsp;&nbsp;<span id="elemMenu5">5</span>  &nbsp;&nbsp;</p><section id ="LAT1">I<BR/>  CONON Atheniensis Peloponnesio bello accessit ad rem publicam, in eoque eius opera magni fuit. Nam et praetor pedestribus exercitibus praefuit et praefectus classis magnas res mari gessit. Quas ob causas praecipuus ei honos habitus est. Namque omnibus unus insulis praefuit; in qua potestate Pheras cepit, coloniam Lacedaemoniorum. <verset=2> Fuit etiam extremo Peloponnesio bello praetor, cum apud Aegos flumen copiae Atheniensium a Lysandro sunt devictae. Sed tum afuit, eoque peius res administrata est. Nam et prudens rei militaris et diligens erat imperator. <verset=3> Itaque nemini erat his temporibus dubium, si adfuisset, illam Atheniensis calamitatem accepturos non fuisse.
+</section><section id ="FR1">1<BR/> Conon, d’Athènes, entra dans les affaires publiques pendant la guerre du Péloponnèse, dans laquelle il rendit de grands services. Il commanda les armées de terre en qualité de préteur, et, à la tête des forces navales, il fit de grandes choses sur mer. Ses exploits lui valurent une distinction particulière; on le nomma gouverneur unique de toutes les îles. Durant son gouvernement, il prit Phères, colonie de Lacédémone. Il fut aussi préteur sur la fin de la guerre du Péloponnèse, lorsque les troupes des Athéniens furent défaites par Lysandre, près du fleuve Ægos. Mais il était alors absent, et l’affaire en fut conduite plus mal, car il était général habile et rigide sur la discipline. Aussi tout le monde pensait en ce temps-là que, s’il avait été présent, les Athéniens n’auraient pas éprouvé cette disgrâce.
+</section><section id ="LAT2">II<BR/>  Rebus autem afflictis, cum patriam obsideri audisset, non quaesivit, ubi ipse tuto viveret, sed unde praesidio posset esse civibus suis. Itaque contulit se ad Pharnabazum, satrapem Ioniae et Lydiae eundemque generum regis et propinquum; apud quem ut multum gratia valeret, multo labore multisque effecit periculis. <verset=2> Nam eum Lacedaemonii Atheniensibus devictis in societate non manerent, quam cum Artaxerxe fecerant, Agesilaumque bellatum misissent in Asiam, maxime impulsi a Tissapherne, qui ex intimis regis ab amicitia eius defecerat et cum Lacedaemoniis coierat societatem, hunc adversus Pharnabazus habitus est imperator, re quidem vera exercitui praefuit Conon, eiusque omnia arbitrio gesta sunt. <verset=3> Hic multum ducem summum Agesilaum impedivit saepeque eius consiliis obstitit; neque vero non fuit apertum, si ille non fuisset, Agesilaum Asiam Tauro tenus regi fuisse erepturum. <verset=4> Qui posteaquam domum a suis civibus revocatus est, quod Boeotii et Athenienses Lacedaemoniis bellum indixerant, Conon nihilo setius apud praefectos regis versabatur hisque omnibus magno erat usui.
+</section><section id ="FR2">2<BR/> Les affaires ainsi ruinées, ayant appris que sa patrie était assiégée, il ne chercha point une retraite où il pourrait vivre lui-même en sûreté, mais un lieu d’où il pourrait secourir ses concitoyens. Il se rendit donc auprès de Pharnabaze, satrape d’Ionie et de Lydie, et en même temps gendre et parent du roi de Perse. Pour gagner ses bonnes grâces, il n’épargna ni peines ni dangers. Les Lacédémoniens, après la défaite des Athéniens, avaient rompu l’alliance qu’ils avaient faite avec Artaxerxès, et avaient envoyé Agésilas faire la guerre en Asie, sur les sollicitations pressantes de Tissapherne, l’un des intimes du roi, qui s’était détaché de son amitié, et s’était ligué avec les Spartiates; Pharnabaze eut le titre de général des troupes opposées à Agésilas, mais en effet Conon les commanda, et tout se fit d’après sa volonté. Il embarrassa beaucoup cet excellent capitaine, et souvent fit obstacle à ses plans; et il est clair que, s’il n’eût pas été dans l’armée, Agésilas aurait enlevé au roi l’Asie jusqu’au mont Taurus. Après que les Spartiates eurent rappelé leur général, parce que les Béotiens et les Athéniens avaient déclaré la guerre à Lacédémone, Conon n’en resta pas moins auprès des généraux du roi, et leur fut à tous très utile.
+</section><section id ="LAT3">III<BR/>  Defecerat a rege Tissaphernes, neque id tam Artaxerxi quam ceteris erat apertum. Multis enim magnisque meritis apud regem, etiam cum in officio non maneret, valebat. Neque id erat mirandum, si non facile ad credendum adducebatur, reminiscens eius se opera Cyrum fratrem superasse. <verset=2> Huius accusandi gratia Conon a Pharnabazo ad regem missus, posteaquam venit, primum ex more Persarum ad chiliarchum, qui secundum gradum imperii tenebat, Tithrausten, accessit seque ostendit cum rege colloqui velle. Nemo enim sine hoc admittitur. <verset=3> Huic ille 'Nulla' inquit 'mora est; sed tu delibera, utrum colloqui malis an per litteras agere, quae cogitas. Necesse est enim, si in conspectum veneris, venerari te regem' - quod 'proskynesin' illi vocant -. 'Hoc si tibi grave est, per me nihilo setius editis mandatis conficies, quod studes'. <verset=4> Tum Conon 'Mihi vero' inquit 'non est grave quemvis honorem habere regi; sed vereor, ne civitati meae sit opprobrio, si, cum ex ea sim profectus, quae ceteris gentibus imperare consuerit, potius barbarorum quam illius more fungar.' Itaque, quae huic volebat, scripta tradidit.
+</section><section id ="FR3">3<BR/> Tissapherne avait abandonné Artaxerxès; mais ce prince croyait moins que tout autre à sa défection. Par ses grands et nombreux services il avait encore du crédit auprès du roi, alors même qu’il ne restait plus dans le devoir. Il n’est pas étonnant qu’Artaxerxès ne se portât pas facilement à le croire coupable, en se rappelant que c’était par son moyen qu’il avait vaincu son frère Cyrus. Conon, envoyé vers lui par Pharnabaze pour l’accuser, s’adressa d’abord, suivant l’usage des Perses, au chiliarque nommé Tithraustès, officier qui occupait la seconde place de l’empire, et lui exposa qu’il désirait conférer avec le roi: car on n’a point d’audience sans le chiliarque. «Rien ne s’y oppose, lui dit celui-ci; mais examine si tu aimes mieux lui exposer de vive voix ce que tu as dans l’esprit, ou avoir recours à une lettre. Si tu parais en présence du roi, il est nécessaire que tu te prosternes devant lui. S’il t’en coûte de te soumettre à cet usage, confie-moi ta mission, tu n’en atteindras pas moins sûrement ton but. — Il ne me répugne point, lui répondit Conon, de rendre au roi tous les hommages qui lui sont dus; mais je crains d’avilir ma patrie, qui est accoutumée à commander aux autres peuples, si je suis plutôt les usages des étrangers que les siens.» Il lui remit donc par écrit ce qu’il voulait.
+</section><section id ="LAT4">IV<BR/>  Quibus cognitis rex tantum auctoritate eius motus est, ut et Tissaphernem hostem iudicarit et Lacedaemonios bello persequi iusserit et ei permiserit, quem vellet, eligere ad dispensandam pecuniam. Id arbitrium Conon negavit sui esse consilii, sed ipsius, qui optime suos nosse deberet; sed se suadere, Pharnabazo id negotii daret. <verset=2> Hinc, magnis muneribus donatus, ad mare est missus, ut Cypriis et Phoenicibus ceterisque maritimis civitatibus navis longas imperaret classemque, qua proxima aestate mare tueri posset, compararet, dato adiutore Pharnabazo, sicut ipse voluerat. <verset=3> Id ut Lacedaemoniis est nuntiatum, non sine cura rem administrant, quod maius bellum imminere arbitrabantur, quam si cum barbaro solum contenderent. Nam ducem fortem, prudentem regis opibus praefuturum ac secum dimicaturum videbant, quem neque consilio neque copiis superare possent. <verset=4> Hac mente magnam contrahunt classem; proficiscuntur Pisandro duce. Hos Conon apud Cnidum adortus magno proelio fugat, multas naves capit, complures deprimit. Qua victoria non solum Athenae, sed etiam cuncta Graecia, quae sub Lacedaemoniorum fuerat imperio, liberata est. <verset=5> Conon cum parte navium in patriam venit, muros dirutos a Lysandro utrosque, et Piraei et Athenarum, reficiendos curat pecuniaeque quinquaginta talenta, quae a Pharnabazo acceperat, civibus suis donat.
+</section><section id ="FR4">4<BR/> Le roi, en ayant pris connaissance, fut si ému de son témoignage, qu’il déclara Tissapherne ennemi de l’État, ordonna de poursuivre par les armes les Lacédémoniens, et permit à Conon de choisir qui il voudrait pour trésorier de l’armée. Conon lui dit que ce n’était pas à lui, mais au roi même, qui devait très bien connaître les siens, à faire ce choix; toutefois il lui conseillait de donner ce soin à Pharnabaze. Après avoir reçu de grands présents, il fut envoyé sur les côtes, pour imposer aux Cypriens, aux Phéniciens et aux autres États maritimes, une réquisition de galères, et pour équiper une flotte avec laquelle il pût garder la mer l’été suivant; Pharnabaze lui avait été donné pour collègue, comme il l’avait lui-même voulu. Les Lacédémoniens, apprenant cette nouvelle, se disposèrent avec inquiétude à la lutte, parce qu’ils se ,jugeaient menacés d’une plus grande guerre que s’ils n’avaient eu à combattre qu’un barbare. Ils voyaient qu’un général courageux et prudent serait à la tête des forces du roi et savaient qu’ils ne pouvaient avoir sur lui l’avantage de l’habileté ni celui du nombre. Ils rassemblent donc une grande flotte, et partent sous la conduite de Pisandre. Conon, les attaquant près de Cnide, les met en fuite après un rude combat, leur prend plusieurs vaisseaux, et en coule à fond un plus grand nombre. Par cette victoire, non seulement Athènes, mais encore toute la Grèce, qui avait été sous la domination maritime des Spartiates, fut délivrée. Conon revient dans sa patrie avec une partie des vaisseaux, fait rétablir en même temps les murs du Pirée et ceux d’Athènes, ruinés par Lysandre, et donne à ses concitoyens cinquante talents qu’il avait reçus de Pharnabaze.
+</section><section id ="LAT5">V<BR/>  Accidit huic, quod ceteris mortalibus, ut inconsideratior in secunda quam in adversa esset fortuna. Nam classe Peloponnesiorum devicta cum ultum se iniurias patriae putaret, plura concupivit, quam efficere potuit. <verset=2> Neque tamen ea non pia et probanda fuerunt, quod potius patriae opes augeri quam regis maluit. Nam cum magnam auctoritatem sibi pugna illa navali, quam apud Cnidum fecerat, constituisset, non solum inter barbaros, sed etiam omnes Graeciae civitates, clam dare operam coepit, ut Ioniam et Aeoliam restitueret Atheniensibus. <verset=3> Id cum minus diligenter esset celatum, Tiribazus, qui Sardibus praeerat, Cononem evocavit, simulans ad regem eum se mittere velle magna de re. Huius nuntio parens cum venisset, in vincla coniectus est; in quibus aliquamdiu fuit. <verset=4> Inde nonnulli eum ad regem abductum ibique [eum] perisse scriptum reliquerunt: contra ea Dinon historicus, cui nos plurimum de Persicis rebus credimus, effugisse scripsit; illud addubitat, utrum Tiribazo sciente an imprudente sit factum.
+
+</section><section id ="FR5">5<BR/> Il arriva à Conon ce qui arrive à tous les hommes, d’être plus inconsidéré dans le bonheur que dans l’adversité. Croyant avoir vengé les injures de sa patrie, après avoir défait la flotte du Péloponnèse, il forma plus de voeux qu’il n’en put réaliser. Cependant ces voeux n’étaient ni impies ni blâmables, puisqu’il aimait mieux augmenter la puissance de sa patrie que celle du roi de Perse. Comme il s’était acquis une grande autorité par cette bataille navale qu’il avait livrée près de Cnide, non seulement parmi les barbares, mais encore parmi tous les peuples de la Grèce, il travailla sourdement à rendre aux Athéniens l’Ionie et l’Éolie. Mais ce dessein ne put être caché avec assez de soin, et Téribaze, qui commandait à Sardes, l’appela auprès de lui, feignant de vouloir lui confier une importante mission auprès du roi. Conon obéit à ce message; mais en arrivant, il fut jeté dans une prison, où il resta quelque temps. Quelques-uns ont écrit qu’il fut conduit à la cour et qu’il y périt. Mais l’historien Dinon auquel j’ajoute beaucoup de foi sur les affaires des Perses, dit au contraire qu’il s’enfuit. Il doute seulement si ce fut au su de Téribaze ou à son insu.
+
+</section></div>
+<script>var langue1 = 'LAT';
+var langue2 = 'FR';
+
+var texteLangue1 = 'Latin';
+var texteLangue2 = 'Français';
+
+var numCourant = 1;
+var dernierePage = 5;
+
+$(function() {
+  cacheLangue(1);
+  for (var i = 1; i < 6; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  
+  //var elLangue = document.getElementById("boutonLangue");
+  //elLangue.addEventListener("touchstart",changeLangue,false);
+  
+  });
+
+function changeLangue() {
+    var temp = langue1;
+    langue1 = langue2;
+    langue2 = temp;
+    
+    temp = texteLangue1;
+    texteLangue1 = texteLangue2;
+    texteLangue2 = temp;
+    
+    //$('.langue').html(texteLangue1);
+    cacheLangue(numCourant);
+    
+}
+
+function enAvant() {
+    if (numCourant < dernierePage) {
+        numCourant += 1;
+        cacheLangue(numCourant);
+    }
+}
+function enArriere() {
+    if (numCourant > 1) {
+        numCourant -= 1;
+        cacheLangue(numCourant);
+    }
+}
+
+function cacheLangue(saufNum) {
+    numCourant = saufNum;
+    for (var i = 1; i < 6; i++) {
+        if (i != saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#' + langue1 + i;
+            $(idEl).show();
+        }
+    }
+    
+    for (var i = 1; i < 6; i++) {
+        var idEl = '#' + langue2 + i;
+        $(idEl).hide();
+    }
+    
+}
+
+function cacheFr(saufNum) {
+    for (var i = 1; i < 6; i++) {
+        if (i != saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#LAT' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 6; i++) {
+        var idEl = '#FR' + i;
+        $(idEl).hide();
+    }
+    
+}
+function cacheLat(saufNum) {
+    for (var i = 1; i < 6; i++) {
+        if (i != saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).hide();
+        }
+        if (i == saufNum) {
+            var idEl = '#FR' + i;
+            $(idEl).show();
+        }
+    }
+    for (var i = 1; i < 6; i++) {
+        var idEl = '#LAT' + i;
+        $(idEl).hide();
+    }
+    
+}
+
+
+
+
+
+</script></body></html>
