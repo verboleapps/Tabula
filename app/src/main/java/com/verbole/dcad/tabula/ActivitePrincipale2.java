@@ -150,6 +150,7 @@ public class ActivitePrincipale2 extends AppCompatActivity implements TabLayout.
 
     @Override
     public void onTabUnselected(TabLayout.Tab tab) {
+        //hideSoftKeyBoard();
         if (tab.getPosition() == 0) {
             String tag = viewPagerAdapter.mFragmentTags.get(0);
             FragmentDictView frd = (FragmentDictView) getSupportFragmentManager().findFragmentByTag(tag);
@@ -172,6 +173,7 @@ public class ActivitePrincipale2 extends AppCompatActivity implements TabLayout.
     }
 
     private void hideSoftKeyBoard() {
+        Log.d(ActivitePrincipale2.TAG,TAG + "hide soft kb");
         InputMethodManager imm = (InputMethodManager) getApplicationContext().getSystemService(Context.INPUT_METHOD_SERVICE);
         if (imm != null) {
             if(imm.isAcceptingText()) { // verify if the soft keyboard is open
@@ -187,13 +189,16 @@ public class ActivitePrincipale2 extends AppCompatActivity implements TabLayout.
                     }
                 }
                 else {
-                    //Log.d(ActivitePrincipale2.TAG, TAG + "view focus null ");
+                   // Log.d(ActivitePrincipale2.TAG, TAG + "view focus null ");
                 }
 
             }
+            else {
+               // Log.d(ActivitePrincipale2.TAG, TAG + " imm not accepting text");
+            }
         }
         else {
-            Log.d(ActivitePrincipale2.TAG,TAG + "input method manager null ...");
+           // Log.d(ActivitePrincipale2.TAG,TAG + "input method manager null ...");
         }
 
     }

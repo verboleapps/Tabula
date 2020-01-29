@@ -363,11 +363,12 @@ Log.d(TAG,"versionDB : " + String.valueOf(DATABASE_VERSION));
             while (cursor.moveToNext())
             {
                 String mot = cursor.getString(0);
+                String motsimple = cursor.getString(1);
                 String def = cursor.getString(2);
               //  def = def.replaceAll("([ ,.;->])" + motRecherche + "([ ,.;:?!-<])","$1<span class=\"highlight\">" + motRecherche + "</span>$2");
                // Log.d(TAG,"bd dict 429 mot : " + mot);
                 if (!def.isEmpty()) {
-                    ResultatFTS resfts = new ResultatFTS(mot,motRecherche,def,"G");
+                    ResultatFTS resfts = new ResultatFTS(mot,motsimple,motRecherche,def,"G");
                     res.add(resfts);
                     compte += 1;
                     /*

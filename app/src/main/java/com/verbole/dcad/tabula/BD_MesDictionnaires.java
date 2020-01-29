@@ -370,10 +370,10 @@ public class BD_MesDictionnaires extends SQLiteOpenHelper {
 
         String query = "select mot, def from PeigneInd where def MATCH '" + mr + "'";
         if (motRecherche.contains("-")) {
-            query = "select mot, motsimple, def from PeigneInd where def MATCH '\"" + mr + "\"'";
+            query = "select mot, def from PeigneInd where def MATCH '\"" + mr + "\"'";
         }
         if (motRecherche.contains("'")) {
-            query = "select mot, motsimple, def from PeigneInd where def MATCH \"" + mr + "\"";
+            query = "select mot, def from PeigneInd where def MATCH \"" + mr + "\"";
         }
         preparePourQuery();
 
@@ -453,12 +453,13 @@ public class BD_MesDictionnaires extends SQLiteOpenHelper {
             while (cursor.moveToNext())
             {
                 String mot = cursor.getString(0);
+                String motsimple = cursor.getString(1);
                 String def = cursor.getString(2);
                 def = parseDefinitionSuckau(def);
 
                 // Log.d(TAG,"bd dict 429 mot : " + mot);
                 if (!def.isEmpty()) {
-                    ResultatFTS resfts = new ResultatFTS(mot,motRecherche,def,"S");
+                    ResultatFTS resfts = new ResultatFTS(mot,motsimple,motRecherche,def,"S");
                     res.add(resfts);
                     compte += 1;
                     /*

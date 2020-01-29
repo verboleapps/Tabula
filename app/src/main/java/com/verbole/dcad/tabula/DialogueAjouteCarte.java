@@ -21,6 +21,7 @@ public class DialogueAjouteCarte {
         activite = activity;
     }
 
+
     public void createDial(String formeAChercher) {
         final String entTemp = formeAChercher;
 
@@ -91,6 +92,66 @@ public class DialogueAjouteCarte {
                 builder.setNegativeButton("Annuler",null);
                 AlertDialog ad = builder.create();
                 ad.setTitle("Nouvelle liste :");
+                ad.show();
+            }
+        });
+
+
+        myDialog.show();
+
+    }
+
+    public void createDial(EnregDico entree) {
+
+        final FlashCardsDB FCdb;
+        FCdb = FlashCardsDB.getInstance(mContext); //new FlashCardsDB(mContext);
+        FCdb.openDataBase();
+        final List<String> ls = FCdb.listeListes(1);
+        String[] liste = new String[ls.size()];
+        ls.toArray(liste);
+
+
+        final AlertDialog.Builder myDialog =
+                new AlertDialog.Builder(activite);
+        myDialog.setTitle("Selectionnez une liste : ");
+
+        myDialog.setItems(liste, new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
+
+                String nomListe = ls.get(i);
+                Carte c = creeCarte(entree.mot,entree.POS,""); // motOrig;
+                FCdb.ajouteCarteAListe(c,nomListe);
+                dialogInterface.dismiss();
+            }
+        });
+
+        myDialog.setNegativeButton("Fermer", null);
+        myDialog.setPositiveButton("Nouvelle Liste", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
+                //Log.d("===","new list");
+
+                //Dialog dd = new Dialog(getActivity());
+                //dd.setTitle("yo dialog 2");
+                final EditText et = new EditText(mContext);
+                AlertDialog.Builder builder = new AlertDialog.Builder(activite);
+                builder.setView(et);
+
+                builder.setPositiveButton("Valider",new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog,int id) {
+                        String input = et.getText().toString();
+                        if (!input.isEmpty()) {
+                            creeNewListe(input, ls, FCdb);
+                            createDial(entree);
+                        }
+
+                    }
+                });
+
+                builder.setNegativeButton("Annuler",null);
+                AlertDialog ad = builder.create();
+                ad.setTitle("Nouvelle Liste :");
                 ad.show();
             }
         });
@@ -201,7 +262,7 @@ public class DialogueAjouteCarte {
 
                 String posT = "";
 
-                Carte c = creeCarte(resultat.mot,resultat.POS,""); // motOrig;
+                Carte c = creeCarte(resultat.motsimple,resultat.POS,""); // motOrig;
                 posT = c.pos;
                 if (c.pos.equals("VPAR")) {
                     posT = "ADJ";

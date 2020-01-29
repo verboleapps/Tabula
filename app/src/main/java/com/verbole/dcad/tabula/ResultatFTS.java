@@ -11,6 +11,7 @@ import java.util.List;
 public class ResultatFTS //implements Comparable<ResultatFTS>
 {
     String mot;
+    String motsimple;
     String def;
     String motRecherche;
     String POS;
@@ -20,6 +21,7 @@ public class ResultatFTS //implements Comparable<ResultatFTS>
 
     public ResultatFTS() {
         this.mot = "";
+        this.motsimple = "";
         this.def = "";
         this.motRecherche = "";
         this.POS = "";
@@ -30,6 +32,18 @@ public class ResultatFTS //implements Comparable<ResultatFTS>
 
     public ResultatFTS(String mot, String motRecherche, String def, String dico) {
         this.mot = mot;
+        this.motsimple = mot;
+        this.def = def;
+        this.motRecherche = motRecherche;
+        this.POS = "";
+        defCourte = "";
+        classement = "";
+        this.dico = dico;
+    }
+
+    public ResultatFTS(String mot, String motsimple, String motRecherche, String def, String dico) {
+        this.mot = mot;
+        this.motsimple = motsimple;
         this.def = def;
         this.motRecherche = motRecherche;
         this.POS = "";
@@ -46,6 +60,7 @@ public class ResultatFTS //implements Comparable<ResultatFTS>
         res.classement = this.classement;
         res.defCourte = this.defCourte;
         res.mot = this.mot;
+        res.motsimple = this.motsimple;
         res.motRecherche = this.motRecherche;
         return res;
     }

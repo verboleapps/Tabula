@@ -477,8 +477,8 @@ public class FragmentDictViewModel extends AndroidViewModel  {
                                 test = true;
                             }
                             if (test) {
-                                if (item.def.length() > 100) {
-                                    int psmot = Math.max(pos,100); // + 20;
+                                if (item.def.length() > 150) {
+                                    int psmot = Math.max(pos,150); // + 20;
                                     item.defCourte = item.def.substring(0,psmot);
                                 }
                                 else {
@@ -499,8 +499,8 @@ public class FragmentDictViewModel extends AndroidViewModel  {
                             }
                         }
                         else {
-                            if (item.def.length() > 100) {
-                                item.defCourte = item.def.substring(0,100);
+                            if (item.def.length() > 150) {
+                                item.defCourte = item.def.substring(0,150);
                             }
                             else {
                                 item.defCourte = item.def;

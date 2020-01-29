@@ -43,7 +43,7 @@ public class StyleEntreesListe {
         SpannableString res;
         if (!defCourte.isEmpty()) {
             if (entree.dico.equals("G")) {
-                txtlab = mot + " (" + nomDict + ")" + "\n" + defCourte;
+                txtlab = mot + " (" + nomDict + ") " + defCourte; //"\n" + defCourte
             }
             if (entree.dico.equals("S")) {
                 txtlab = mot + defCourte;
@@ -52,9 +52,9 @@ public class StyleEntreesListe {
                 txtlab = mot + ", " + defCourte;
             }
             if (defCourte.length() < entree.def.length()) {
-                txtlab += "...";
+                //txtlab += "...";
             }
-            txtlab = txtlab.replaceAll("<[a-z]*...","...");
+          //  txtlab = txtlab.replaceAll("<[a-z]*...","...");
             //ss1.setSpan(new RelativeSizeSpan(2f), 0,5, 0); // set size
             //ss1.setSpan(new ForegroundColorSpan(Color.RED), 0, 5, 0);// set color
             res = new SpannableString(txtlab);

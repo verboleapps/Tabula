@@ -27,6 +27,7 @@ public class MiseEnForme {
     String POSselectionne = "";
 
     int indiceCourant = 0;
+    EnregDico enregistrementCourant = new EnregDico();
 
 
     public MiseEnForme(Context context) {
@@ -153,6 +154,8 @@ https://stackoverflow.com/questions/8474821/how-to-get-the-android-path-string-t
         //flex.db.rechercheEntreesDsBase(mot, "motsimple");
 
         if (listeEntrees.size() > 0) {
+            EnregDico enr0 = (EnregDico) listeEntrees.get(0);
+            enregistrementCourant = enr0.copie();
             res = chargeListeEntrees(listeEntrees, largeurFenetre,taillePoliceBase);
         }
 
@@ -602,6 +605,18 @@ https://stackoverflow.com/questions/8474821/how-to-get-the-android-path-string-t
             res += entree.def + "</p>";
         }
 
+        return res;
+    }
+
+    EnregDico rechercheEntree(String mot) {
+        EnregDico res = new EnregDico();
+        ArrayList listeEntrees = flex.rechercheEntreesDsBase(mot, "","motsimple");
+        //flex.db.rechercheEntreesDsBase(mot, "motsimple");
+
+        if (listeEntrees.size() > 0) {
+            res = (EnregDico) listeEntrees.get(0);
+            enregistrementCourant = res.copie();
+        }
         return res;
     }
 
@@ -1677,6 +1692,9 @@ https://stackoverflow.com/questions/8474821/how-to-get-the-android-path-string-t
                 i += 1;
             }
             c += 1;
+        }
+        if (res.size() > 0) {
+            enregistrementCourant = res.get(0).mot;
         }
         return res;
     }
