@@ -332,6 +332,7 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
             passageEtat(anc,etat);
 
             int nbListes = aradListes.list.size();//listeListes.size();
+            aradListes.miseAJourListes();
             for (int i = 0; i < nbListes; i++) {
                 updateBoutons(i);
             }
