@@ -12404,7 +12404,9 @@ et sicut catulus leonis habitans in abditis.
 
 eripe animam meam ab impio ;
 
-frameam tuam 14 ab inimicis manus tuæ.
+frameam tuam
+
+<BR>14 ab inimicis manus tuæ.
 
 Domine, a paucis de terra divide eos in vita eorum ;
 
@@ -15164,7 +15166,9 @@ et illic iter quo ostendam illi salutare Dei.
 
 </section><section id ="LAT50">Psalmus 50<BR>
 
-<BR>1 In finem. Psalmus David, 2 cum venit ad eum Nathan propheta, quando intravit ad Bethsabee.
+<BR>1 In finem. Psalmus David,
+
+<BR>2 cum venit ad eum Nathan propheta, quando intravit ad Bethsabee.
 
 <BR>3 Miserere mei, Deus, secundum magnam misericordiam tuam ;
 
@@ -15246,7 +15250,9 @@ tunc imponent super altare tuum vitulos.
 
 </section><section id ="LAT51">Psalmus 51<BR>
 
-<BR>1 In finem. Intellectus David, 2 cum venit Doëg Idumæus, et nuntiavit Sauli : Venit David in domum Achimelech.
+<BR>1 In finem. Intellectus David,
+
+<BR>2 cum venit Doëg Idumæus, et nuntiavit Sauli : Venit David in domum Achimelech.
 
 <BR>3 Quid gloriaris in malitia,
 
@@ -15328,7 +15334,9 @@ exsultabit Jacob, et lætabitur Israël.
 
 </section><section id ="LAT53">Psalmus 53<BR>
 
-<BR>1 In finem, in carminibus. Intellectus David, 2 cum venissent Ziphæi, et dixissent ad Saul : Nonne David absconditus est apud nos ?
+<BR>1 In finem, in carminibus. Intellectus David,
+
+<BR>2 cum venissent Ziphæi, et dixissent ad Saul : Nonne David absconditus est apud nos ?
 
 <BR>3 Deus, in nomine tuo salvum me fac,
 
@@ -15582,7 +15590,9 @@ et incurvaverunt animam meam.
 
 Foderunt ante faciem meam foveam,
 
-et inciderunt in eam. 8 Paratum cor meum, Deus, paratum cor meum ;
+et inciderunt in eam.
+
+<BR>8 Paratum cor meum, Deus, paratum cor meum ;
 
 cantabo, et psalmum dicam.
 
@@ -15712,7 +15722,9 @@ et depone eos, protector meus, Domine :
 
 et comprehendantur in superbia sua.
 
-Et de execratione et mendacio annuntiabuntur 14 in consummatione :
+Et de execratione et mendacio annuntiabuntur
+
+<BR>14 in consummatione :
 
 in ira consummationis, et non erunt.
 
@@ -15720,7 +15732,9 @@ Et scient quia Deus dominabitur Jacob, et finium terræ.
 
 <BR>15 Convertentur ad vesperam, et famem patientur ut canes :
 
-et circuibunt civitatem. 16 Ipsi dispergentur ad manducandum ;
+et circuibunt civitatem.
+
+<BR>16 Ipsi dispergentur ad manducandum ;
 
 si vero non fuerint saturati, et murmurabunt.
 
@@ -15740,7 +15754,9 @@ Deus meus, misericordia mea.
 
 </section><section id ="LAT59">Psalmus 59<BR>
 
-<BR>1 In finem, pro his qui immutabuntur, in tituli inscriptionem ipsi David, in doctrinam, 2 cum succendit Mesopotamiam Syriæ et Sobal, et convertit Joab, et percussit Idumæam in valle Salinarum duodecim millia.
+<BR>1 In finem, pro his qui immutabuntur, in tituli inscriptionem ipsi David, in doctrinam,
+
+<BR>2 cum succendit Mesopotamiam Syriæ et Sobal, et convertit Joab, et percussit Idumæam in valle Salinarum duodecim millia.
 
 <BR>3 Deus, repulisti nos, et destruxisti nos ;
 
@@ -15808,7 +15824,9 @@ intende orationi meæ.
 
 in petra exaltasti me.
 
-Deduxisti me, 4 quia factus es spes mea :
+Deduxisti me,
+
+<BR>4 quia factus es spes mea :
 
 turris fortitudinis a facie inimici.
 
@@ -15892,7 +15910,9 @@ divitiæ si affluant, nolite cor apponere.
 
 duo hæc audivi :
 
-quia potestas Dei est, 13 et tibi, Domine, misericordia :
+quia potestas Dei est,
+
+<BR>13 et tibi, Domine, misericordia :
 
 quia tu reddes unicuique juxta opera sua.
 
@@ -16128,7 +16148,9 @@ et eduxisti nos in refrigerium.
 
 <BR>13 Introibo in domum tuam in holocaustis ;
 
-reddam tibi vota mea 14 quæ distinxerunt labia mea :
+reddam tibi vota mea
+
+<BR>14 quæ distinxerunt labia mea :
 
 et locutum est os meum in tribulatione mea.
 
@@ -16626,7 +16648,9 @@ Deus, ne derelinquas me,
 
 donec annuntiem brachium tuum generationi omni quæ ventura est,
 
-potentiam tuam, 19 et justitiam tuam, Deus, usque in altissima ;
+potentiam tuam,
+
+<BR>19 et justitiam tuam, Deus, usque in altissima ;
 
 quæ fecisti magnalia, Deus : quis similis tibi ?
 
@@ -17064,7 +17088,9 @@ et reliquiæ cogitationis diem festum agent tibi.
 
 omnes qui in circuitu ejus affertis munera :
 
-terribili, 13 et ei qui aufert spiritum principum :
+terribili,
+
+<BR>13 et ei qui aufert spiritum principum :
 
 terribili apud reges terræ.
 
@@ -18368,7 +18394,9 @@ et dixisti : Convertimini, filii hominum.
 
 tamquam dies hesterna quæ præteriit :
 
-et custodia in nocte 5 quæ pro nihilo habentur,
+et custodia in nocte
+
+<BR>5 quæ pro nihilo habentur,
 
 eorum anni erunt.
 
@@ -18402,7 +18430,9 @@ quoniam supervenit mansuetudo, et corripiemur.
 
 <BR>11 Quis novit potestatem iræ tuæ,
 
-et præ timore tuo iram tuam 12 dinumerare ?
+et præ timore tuo iram tuam
+
+<BR>12 dinumerare ?
 
 Dexteram tuam sic notam fac,
 
@@ -18732,7 +18762,9 @@ et nos populus pascuæ ejus, et oves manus ejus.
 
 <BR>8 Hodie si vocem ejus audieritis,
 
-nolite obdurare corda vestra 9 sicut in irritatione,
+nolite obdurare corda vestra
+
+<BR>9 sicut in irritatione,
 
 secundum diem tentationis in deserto,
 
@@ -18912,7 +18944,9 @@ orbis terrarum, et qui habitant in eo.
 
 <BR>8 Flumina plaudent manu ;
 
-simul montes exsultabunt 9 a conspectu Domini :
+simul montes exsultabunt
+
+<BR>9 a conspectu Domini :
 
 quoniam venit judicare terram.
 
@@ -18994,7 +19028,9 @@ atria ejus in hymnis :
 
 confitemini illi.
 
-Laudate nomen ejus, 5 quoniam suavis est Dominus,
+Laudate nomen ejus,
+
+<BR>5 quoniam suavis est Dominus,
 
 in æternum misericordia ejus,
 
@@ -19006,7 +19042,9 @@ et usque in generationem et generationem veritas ejus.
 
 Misericordiam et judicium cantabo tibi, Domine ;
 
-psallam, 2 et intelligam in via immaculata : quando venies ad me ?
+psallam,
+
+<BR>2 et intelligam in via immaculata : quando venies ad me ?
 
 Perambulabam in innocentia cordis mei, in medio domus meæ.
 
@@ -19014,7 +19052,9 @@ Perambulabam in innocentia cordis mei, in medio domus meæ.
 
 facientes prævaricationes odivi ;
 
-non adhæsit mihi 4 cor pravum ;
+non adhæsit mihi
+
+<BR>4 cor pravum ;
 
 declinantem a me malignum non cognoscebam.
 
@@ -20018,7 +20058,9 @@ et convallem tabernaculorum dimetiar.
 
 et Ephraim susceptio capitis mei.
 
-Juda rex meus ; 10 Moab lebes spei meæ :
+Juda rex meus ;
+
+<BR>10 Moab lebes spei meæ :
 
 in Idumæam extendam calceamentum meum ;
 
@@ -21576,7 +21618,9 @@ Qui confidunt in Domino, sicut mons Sion :
 
 non commovebitur in æternum,
 
-qui habitat 2 in Jerusalem.
+qui habitat
+
+<BR>2 in Jerusalem.
 
 Montes in circuitu ejus ;
 
