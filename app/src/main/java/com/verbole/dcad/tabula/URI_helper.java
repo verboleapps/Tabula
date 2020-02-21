@@ -4,6 +4,7 @@ import android.content.ContentUris;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.DatabaseUtils;
+import android.database.SQLException;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Environment;
@@ -137,6 +138,10 @@ public class URI_helper {
                 column
         };
 
+        if (uri == null) {
+            return "";
+        }
+
         try {
             cursor = context.getContentResolver().query(uri, projection, selection, selectionArgs,
                     null);
@@ -147,11 +152,13 @@ public class URI_helper {
                 final int column_index = cursor.getColumnIndexOrThrow(column);
                 return cursor.getString(column_index);
             }
+        }   catch (SQLException e) {
+                e.printStackTrace();
         } finally {
             if (cursor != null)
                 cursor.close();
         }
-        return null;
+        return "";
     }
 
     public static String getPath(final Context context, final Uri uri) {
@@ -169,7 +176,7 @@ public class URI_helper {
 */
 
 
-        Log.d(TAG,"uri p path : " + uri.toString() + " - authority : " + uri.getAuthority());
+        Log.d(ActivitePrincipale2.TAG,TAG + " uri p path : " + uri.toString() + " - authority : " + uri.getAuthority());
 
         // DocumentProvider
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
@@ -196,12 +203,7 @@ public class URI_helper {
                 // DownloadsProvider
                 else if (isDownloadsDocument(uri)) {
     //===================================== hack semble fonctionner ??????????????                //
-                    /* etait :
-                    final Uri contentUri = ContentUris.withAppendedId(
-                                    Uri.parse("content://downloads/public_downloads"), Long.valueOf(id));
-                            return getDataColumn(context, contentUri, null, null);
-                         plante a ancienne ligne 201 :  Long.valueOf(id) : id n'est pas un Long
-                     */ // devient :
+
                     final String id = DocumentsContract.getDocumentId(uri);
                     Log.d(ActivitePrincipale2.TAG,TAG + " urihelper " + id);
                     try
@@ -214,12 +216,15 @@ public class URI_helper {
                     catch (NumberFormatException e) {
                         e.printStackTrace();
                         Log.d(ActivitePrincipale2.TAG,TAG + " erreur ? " + e);
+
                     }
 
                     final String[] split = id.split(":");
                     final String type = split[0];
 
-                    return Environment.getExternalStorageDirectory() + "/" + split[1];
+                    String path = split[1];// Environment.getExternalStorageDirectory() + tp; // "/" + split[1];
+
+                    return path;
 
                 }
                 // MediaProvider
@@ -260,7 +265,7 @@ public class URI_helper {
             }
         }
 
-        return null;
+        return "";
     }
 
 

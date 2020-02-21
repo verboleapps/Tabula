@@ -22,7 +22,7 @@ public class GestionFichiers {
     Context myContext;
     String dirName = "Tabula";
 
-    static String TAG = "GestionFichiers";
+    static String TAG = "GestionFichiers ";
 
     public GestionFichiers(Context context) {
         myContext = context;

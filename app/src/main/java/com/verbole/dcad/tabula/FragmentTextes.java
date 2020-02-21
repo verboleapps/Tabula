@@ -65,6 +65,7 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
         View.OnLongClickListener,View.OnClickListener, SelectDocuments {
 
     static final String TAG = "VueDocuments ";
+
     ExpandableListView listeFichiers;
     FrameLayout frameLayListeFichiers; // pour separation avec webvue
     ListView listViewChapitres;
@@ -636,6 +637,33 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
         return false;
     }
 
+    void installeDictGaffiot(Uri uri, String version) {
+        ParseGaffiot pg = new ParseGaffiot();
+
+        AlertDialog.Builder builder = new AlertDialog.Builder(mContext);
+        String titre = "voulez-vous installer le dictionnaire Gaffiot " + version + " ?";
+        if (!mTwoPane) {
+            titre = "voulez-vous installer le dictionnaire Gaffiot ?";
+        }
+        builder.setTitle(titre);
+
+        builder.setCancelable(false);
+        builder.setNegativeButton("non",new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int id) {
+                dialog.cancel();
+            }
+        });
+        builder.setPositiveButton("oui",new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int id) {
+                lanceAsync2(uri);
+                dialog.cancel();
+            }
+        });
+
+        AlertDialog alert = builder.create();
+        alert.show();
+    }
+
     void installeGaffiot(String chemin) {
         ParseGaffiot pg = new ParseGaffiot();
         String version = pg.parseDebutFichier(chemin);
@@ -741,7 +769,9 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
     void lanceAsync(String cheminFichier) {
         new AsyncTaskInstalleDict(this).execute(cheminFichier);
     }
-
+    void lanceAsync2(Uri uri) {
+        new AsyncTaskInstalleDictURI(this).execute(uri);
+    }
 
 
     // listeChapitres si phone
@@ -1424,36 +1454,22 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
     @Override
     public void ouvreDocuments() {
         listeFichiers.collapseGroup(mArrayAdapterTextes.gestionTextes.listeAuteurs.size());
-        File yo = mArrayAdapterTextes.gestionTextes.GF.getDirectoryStorage(getActivity());
-        Uri uri = Uri.fromFile(yo);
 
         /*
-       // String p = mContext.getExternalFilesDir(null).toString() +  File.separator + "Tabula" + File.separator;
-        String p = mContext.getFilesDir().getPath() +  File.separator + "Tabula" + File.separator;
-        Uri uri4 = new Uri.Builder()
-                .scheme(BuildConfig.APPLICATION_ID)
-                .authority(mContext.getApplicationContext().getPackageName() + ".provider")
-                .path(p)
-                .build();
-        //Uri uri4 = //FileProvider.getUriForFile(mContext, mContext.getApplicationContext().getPackageName() + ".provider", yo);
-
-        Log.d(TAG,"uri : " + uri4.toString() + " authority " + uri4.getAuthority());
-        String p01 = mContext.getApplicationContext().getPackageName() + ".provider" + "/" + p;
-        Uri uriyo = Uri.parse(p01);
-        Log.d(TAG,"uriyo : " + uriyo + " orig : " + p01);
-
-        //openDirectory(uri);
-        String p1 = Environment.getExternalStorageDirectory().getPath()
-                +  File.separator + "Tabula" + File.separator;
-
-        Uri uri22 = Uri.parse(p1);
-
-        Uri uri2 = Uri.parse(mContext.getApplicationContext().getPackageName() + ".provider" + "/" + p1);
-
-        Log.d(TAG,"uri2 : " + uri2.toString() + " orig : " + p1);
-        String p2 = mContext.getFilesDir().getPath() +  File.separator + "Tabula" + File.separator;
-*/
+        File yo = mArrayAdapterTextes.gestionTextes.GF.getDirectoryStorage(getActivity());
+        Uri uri = Uri.fromFile(yo);
         openFile(uri);
+        */
+
+     //   Uri uriFile = MonFileProvider.getUriForFile(getContext(),AUTHORITY,yo);
+        //Intent intent = new Intent(Intent.ACTION_OPEN_DOCUMENT, uriFile);
+        //intent.addCategory(Intent.CATEGORY_OPENABLE);
+
+        Uri uriFile = Uri.parse("content://com.verbole.dcad.tabula.provider/tabula/"); //MonFileProvider.CONTENT_URI;
+        Intent intent = new Intent(Intent.ACTION_OPEN_DOCUMENT, uriFile);
+
+        intent.addCategory(Intent.CATEGORY_OPENABLE);
+        startActivityForResult(intent, 1);
     }
 
     /*  appelle activite browse document */
@@ -1466,30 +1482,24 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
 
         // Optionally, specify a URI for the file that should appear in the
         // system file picker when it loads.
-
         if (Build.VERSION.SDK_INT <
                 Build.VERSION_CODES.O) {
-            //intent.putExtra("path",pickerInitialUri.toString());
+            intent.putExtra("path",pickerInitialUri.toString());
         } else {
             intent.putExtra(DocumentsContract.EXTRA_INITIAL_URI, pickerInitialUri);
         }
-
         intent.setType("*/*");
-
         startActivityForResult(intent, 1);
     }
 
 
-
-
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
-        //super.onActivityResult(requestCode,resultCode,data);
-Log.d(ActivitePrincipale2.TAG,TAG + " !!!!! ===== retester avec UriHelper get path et installe Gaffiot a partir de " +
-        "Buffered Reader + voir lire debut fichier ==============");
+        super.onActivityResult(requestCode,resultCode,data);
+
         if (resultCode == Activity.RESULT_OK) {
 
             Uri uri = data.getData();
-            Log.d(TAG," activity result: " + uri.toString());
+            Log.d(ActivitePrincipale2.TAG,TAG + " activity result: " + uri.toString());
             String dernpart = uri.getLastPathSegment();
             String nomFichier = dernpart;
             if (dernpart.contains("/")) {
@@ -1510,16 +1520,6 @@ Log.d(ActivitePrincipale2.TAG,TAG + " !!!!! ===== retester avec UriHelper get pa
 
                 try {
                     InputStream inputStream = getActivity().getContentResolver().openInputStream(uri);
-                    /*
-                    int sizeAvailable = inputStream.available(); //fis.available();
-                    int size = Math.min(sizeAvailable,1024);
-                    byte[] buffer = new byte[size];
-
-                    inputStream.read(buffer);
-                    inputStream.close();
-
-                    cf = new String(buffer);
-                    */
 
                     BufferedReader r = new BufferedReader(new InputStreamReader(inputStream));
                     StringBuilder total = new StringBuilder(inputStream.available());
@@ -1534,12 +1534,9 @@ Log.d(ActivitePrincipale2.TAG,TAG + " !!!!! ===== retester avec UriHelper get pa
                 cf = cf.replace("HTML","html");
                 cf = cf.replace("BODY","body");
                 cf = cf.replace("HEAD","head");
-
                 cf = cf.replace("META","meta");
 
                 //MiseEnForme.afficheGrosLog(cf,TAG);
-
-                //Log.d(TAG,"string length : " + cf.length());
 
                 chargeHtmlString(cf,nomFichier,true);
 
@@ -1548,7 +1545,14 @@ Log.d(ActivitePrincipale2.TAG,TAG + " !!!!! ===== retester avec UriHelper get pa
             String path = URI_helper.getPath(getContext(),uri);
 
             if (dernpart.endsWith(".tex")) {
-                installeGaffiot(path);
+                if (path == null) {
+                    path = "";
+                }
+                ParseGaffiot pg = new ParseGaffiot();
+                String version = pg.parseDebutFichier(path);
+                installeDictGaffiot(uri,version);
+
+                //installeGaffiot(path);
             }
             if (dernpart.endsWith(".pdf")) {
                 //nomFichier = mArrayAdapterTextes.gestionTextes.getNomFichierFromPath(path);
@@ -1557,11 +1561,12 @@ Log.d(ActivitePrincipale2.TAG,TAG + " !!!!! ===== retester avec UriHelper get pa
             }
 
 
-            Log.d(TAG,"yo bien recu1 ... dern part : " + dernpart + " path : " + path);
+            Log.d(ActivitePrincipale2.TAG,TAG + "yo bien recu1 ... dern part : " + dernpart + " path : " + path);
         }
 
 
     }
+    /*
     public void openDirectory(Uri uriToLoad) {
         // Choose a directory using the system's file picker.
         Intent intent = new Intent(Intent.ACTION_OPEN_DOCUMENT);
@@ -1583,7 +1588,7 @@ Log.d(ActivitePrincipale2.TAG,TAG + " !!!!! ===== retester avec UriHelper get pa
 
         startActivityForResult(intent, 1);
     }
-
+*/
 
     void changueLangue() {
         String js = "(function() {changeLangue()})()";
@@ -1734,6 +1739,107 @@ Log.d(ActivitePrincipale2.TAG,TAG + " !!!!! ===== retester avec UriHelper get pa
         }
     }
 
+    private InputStream getInputStream(Uri uri) throws IOException {
+        return getActivity().getContentResolver().openInputStream(uri);
+        /*
+        try {
+            inputStream = getActivity().getContentResolver().openInputStream(uri);
+        } catch (IOException exc) {
+            Log.d(ActivitePrincipale2.TAG,TAG + "pb get inputStream : " + exc.toString());
+        }
+
+         */
+    }
+
+
+    private static class AsyncTaskInstalleDictURI extends AsyncTask<Uri,Integer,Integer> implements EcouteInstall {
+        private ProgressDialog dialog;
+        //warning : This AsyncTask class should be static or leaks might occur (anonymous android.os.AsyncTask)
+//https://stackoverflow.com/questions/44309241/warning-this-asynctask-class-should-be-static-or-leaks-might-occur
+        private WeakReference<FragmentTextes> activityReference;
+
+        // only retain a weak reference to the activity
+        AsyncTaskInstalleDictURI(FragmentTextes context) {
+            activityReference = new WeakReference<>(context);
+        }
+
+        @Override
+        protected void onPreExecute() {
+            //Toast.makeText(getApplicationContext(), "init parlos ! ",
+            //      Toast.LENGTH_SHORT).show();
+            dialog = new ProgressDialog(activityReference.get().getActivity());//= ProgressDialog.show(getApplicationContext(), "Please wait..", "Doing stuff..", true);
+            dialog.setMessage("Installation du dictionnaire ...");
+            dialog.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
+            // reset the bar to the default value of 0
+            dialog.setProgress(0);
+            dialog.setMax(72165);
+            //dialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
+            activityReference.get().MeF.flex.bdDics.ecouteInstalle = this;
+            dialog.show();
+        }
+
+        @Override
+        protected Integer doInBackground(Uri ...params) {
+            //do some serious stuff...
+            Uri uri = params[0];
+
+            try {
+                InputStream is = activityReference.get().getInputStream(uri);
+                BufferedReader br = new BufferedReader(new InputStreamReader(is));
+                int res = activityReference.get().MeF.flex.bdDics.installeGaffiotFromBufferedReader(br,"GaffiotInd");
+                if (res > 70000)
+                {
+                    return 1;
+                }
+                return 0;
+
+            } catch (IOException exc) {
+                Log.d(ActivitePrincipale2.TAG,TAG + "pb get inputStream : " + exc.toString());
+            }
+
+
+            return 0;
+        }
+
+        @Override
+        protected void onProgressUpdate(Integer... values) {
+
+            dialog.setProgress(values[0]);
+        }
+
+        @Override
+        protected void onPostExecute(Integer result) {
+
+            //signal.countDown();
+            dialog.dismiss();
+            Toast toast;
+            if (result == 0) {
+                toast = Toast.makeText(activityReference.get().getContext(),"le Dictionnaire n'a pas pu être installé ...",Toast.LENGTH_SHORT);
+                //toast.setDuration(Toast.LENGTH_SHORT);
+                toast.setGravity(Gravity.CENTER_VERTICAL,0,0);
+                toast.show();
+                //toast.setGravity(Gravity.CENTER_VERTICAL, 0, 0)
+            }
+            else {
+                toast = Toast.makeText(activityReference.get().getContext(),"le Dictionnaire Gaffiot a été installé.",Toast.LENGTH_SHORT);
+                //toast.setDuration(Toast.LENGTH_SHORT);
+                toast.setGravity(Gravity.CENTER_VERTICAL,0,0);
+                toast.show();
+                // Toast.makeText(getApplicationContext(), "Dictionary installed sucessfully !",Toast.LENGTH_SHORT).show();
+
+                GestionSettings gs = new GestionSettings(activityReference.get().getActivity());
+                gs.setDicts("PG");
+
+            }
+
+        }
+
+        @Override
+        public void progression(int nombre) {
+            publishProgress(nombre);
+
+        }
+    }
 
 
     public void createDial() {
