@@ -184,9 +184,9 @@ public class FlashCardsDB extends SQLiteOpenHelper {
             cursor.close();
             //  close();
 
-        } catch(SQLiteException sqle){
-            throw sqle;
-
+        } catch(SQLiteException | IllegalStateException exc){
+            //throw sqle;
+            Log.d(ActivitePrincipale2.TAG,TAG + " listelistes - " + exc.toString());
         }
 
         return res;
@@ -265,11 +265,12 @@ public class FlashCardsDB extends SQLiteOpenHelper {
             cursor.close();
             //  close();
 
-        } catch(SQLiteException sqle){
-            throw sqle;
+        } catch(SQLiteException | IllegalStateException exc){
+            //throw sqle;
+            Log.d(ActivitePrincipale2.TAG,TAG + " getnomTable " +  nomListe + " - " + exc.toString());
 
         }
-Log.d(TAG,"getnomTable : " + nomListe + " -> " + res);
+        Log.d(ActivitePrincipale2.TAG,TAG + " getnomTable : " + nomListe + " -> " + res);
         return res;
     }
 
@@ -304,8 +305,9 @@ Log.d(TAG,"getnomTable : " + nomListe + " -> " + res);
             cursor.close();
             //  close();
 
-        } catch(SQLiteException sqle){
-            throw sqle;
+        } catch(SQLiteException | IllegalStateException exc){
+            //throw sqle;
+            Log.d(ActivitePrincipale2.TAG,TAG + " getliste cartes " +  nomListe + " - " + exc.toString());
 
         }
 

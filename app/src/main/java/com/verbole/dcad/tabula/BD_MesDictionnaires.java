@@ -196,9 +196,9 @@ public class BD_MesDictionnaires extends SQLiteOpenHelper {
             cursor.close();
             //  close();
 
-        } catch(SQLiteException sqle){
-            throw sqle;
-
+        } catch(SQLiteException | IllegalStateException exc){
+            //throw sqle;
+            Log.d(ActivitePrincipale2.TAG,TAG + " getDefinitionPeigne " + indice + " - " + exc.toString());
         }
 
         return res;
@@ -242,8 +242,9 @@ public class BD_MesDictionnaires extends SQLiteOpenHelper {
             cursor.close();
             //  close();
 
-        } catch(SQLiteException sqle){
-            throw sqle;
+        } catch(SQLiteException | IllegalStateException exc){
+            //throw sqle;
+            Log.d(ActivitePrincipale2.TAG,TAG + " getDefinitionSuckau " + mot + " - " + exc.toString());
         }
 
         //if (!res.isEmpty()) {//res = "</BR>Gaffiot</BR>" + res}
@@ -410,8 +411,10 @@ public class BD_MesDictionnaires extends SQLiteOpenHelper {
             cursor.close();
             finQuery();
 
-        } catch(SQLiteException sqle){
-            throw sqle;
+        } catch(SQLiteException | IllegalStateException exc){
+            //throw sqle;
+            Log.d(ActivitePrincipale2.TAG,TAG + " fullTextSearchPeigne : " + motRecherche + " - " + exc.toString());
+
         }
 
         //Log.d(TAG,"BDdictionnaire FTS Peigne : " + motRecherche + " - trouves : " + String.valueOf(compte));
@@ -472,8 +475,9 @@ public class BD_MesDictionnaires extends SQLiteOpenHelper {
             cursor.close();
             finQuery();
 
-        } catch(SQLiteException sqle){
-            throw sqle;
+        } catch(SQLiteException | IllegalStateException exc){
+            //throw sqle;
+            Log.d(ActivitePrincipale2.TAG,TAG + "fullTextSearchSuckau : " + motRecherche + " - " + exc.toString());
         }
 
 

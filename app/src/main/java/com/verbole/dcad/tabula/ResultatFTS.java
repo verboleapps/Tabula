@@ -112,9 +112,9 @@ public class ResultatFTS //implements Comparable<ResultatFTS>
         Collections.sort(liste, new Comparator<ResultatFTS>() {
             @Override
             public int compare(ResultatFTS o1, ResultatFTS o2) {
-                String mot1 = o1.motRecherche;
+                String mot1 = o1.motRecherche.toLowerCase();
                 String def1 = o1.classement.toLowerCase();
-                String mot2 = o2.motRecherche;
+                String mot2 = o2.motRecherche.toLowerCase();
                 String def2 = o2.classement.toLowerCase();
 
                 return getRangeOfMotDsTxt(mot1,def1) - getRangeOfMotDsTxt(mot2,def2);

@@ -426,8 +426,9 @@ refs refvar numtableorig dico
             cursor.close();
           //  close();
 
-        } catch(SQLiteException sqle){
-            throw sqle;
+        } catch(SQLiteException | IllegalStateException exc){
+            //throw sqle;
+            Log.d(ActivitePrincipale2.TAG,TAG + " effectueRechercheEnreg " + rechQuery + " - " + exc.toString());
 
         }
 
@@ -741,8 +742,9 @@ refs refvar numtableorig dico
             //     close();
 
 
-        } catch(SQLiteException sqle){
-            throw sqle;
+        } catch(SQLiteException | IllegalStateException exc){
+            //throw sqle;
+            Log.d(ActivitePrincipale2.TAG,TAG + " rechercheDesinence nom " + rechQuery + " - " + exc.toString());
 
         }
 
@@ -1241,8 +1243,9 @@ refs refvar numtableorig dico
             //  close();
 
 
-        } catch(SQLiteException sqle){
-            throw sqle;
+        } catch(SQLiteException | IllegalStateException exc){
+            //throw sqle;
+            Log.d(ActivitePrincipale2.TAG,TAG + " rechercheDesinence num " + rechQuery + " - " + exc.toString());
         }
 
         if (indice < 0) {
@@ -1313,8 +1316,10 @@ refs refvar numtableorig dico
             //  close();
 
 
-        } catch(SQLiteException sqle){
-            throw sqle;
+        } catch(SQLiteException | IllegalStateException exc){
+            //throw sqle;
+            Log.d(ActivitePrincipale2.TAG,TAG + " rechercheDesinence pron " + rechQuery + " - " + exc.toString());
+
         }
 
         if (indice < 0) {
@@ -1420,8 +1425,9 @@ refs refvar numtableorig dico
             }
             cursor.close();
 
-        } catch(SQLiteException sqle){
-            throw sqle;
+        } catch(SQLiteException | IllegalStateException exc){
+            //throw sqle;
+            Log.d(ActivitePrincipale2.TAG,TAG + " effectue recherche des " + query + " - " + exc.toString());
 
         }
         return res;
@@ -1538,8 +1544,9 @@ refs refvar numtableorig dico
             }
             cursor.close();
 
-        } catch(SQLiteException sqle){
-            throw sqle;
+        } catch(SQLiteException | IllegalStateException exc){
+            //throw sqle;
+            Log.d(ActivitePrincipale2.TAG,TAG + " rechercheDesinences " + rechQuery + " - " + exc.toString());
 
         }
         return listeRes;

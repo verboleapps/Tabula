@@ -278,8 +278,9 @@ Log.d(TAG,"versionDB : " + String.valueOf(DATABASE_VERSION));
             cursor.close();
             //  close();
 
-        } catch(SQLiteException sqle){
-            throw sqle;
+        } catch(SQLiteException | IllegalStateException exc){
+            //throw sqle;
+            Log.d(ActivitePrincipale2.TAG,TAG + " getDefinitionGaffiot pb : " + query + " - " + exc.toString());
         }
 
         //if (!res.isEmpty()) {//res = "</BR>Gaffiot</BR>" + res}
@@ -381,8 +382,9 @@ Log.d(TAG,"versionDB : " + String.valueOf(DATABASE_VERSION));
             cursor.close();
             finQuery();
 
-        } catch(SQLiteException sqle){
-            throw sqle;
+        } catch(SQLiteException | IllegalStateException exc){
+            //throw sqle;
+            Log.d(ActivitePrincipale2.TAG,TAG + " fullTextSearchTable : " + motRecherche + " - " + exc.toString());
         }
 
        // Log.d(TAG,"BDdictionnaire FTS Gaffiot : " + motRecherche + " - trouves : " + String.valueOf(compte));
@@ -391,8 +393,8 @@ Log.d(TAG,"versionDB : " + String.valueOf(DATABASE_VERSION));
         return res;
     }
 
-    boolean installeGaffiotFromBufferedReader(BufferedReader br, String nomTable) {
-        boolean resultat = false;
+    int installeGaffiotFromBufferedReader(BufferedReader br, String nomTable) {
+        //boolean resultat = false;
 
         int compte = 0;
         //https://docs.oracle.com/javase/1.5.0/docs/api/java/util/Scanner.html ??
@@ -432,7 +434,7 @@ Log.d(TAG,"versionDB : " + String.valueOf(DATABASE_VERSION));
                 //ligneBuild.append(ligne);
             }
             else {
-                return false;
+                return -1;
             }
             while (!finFichier) {
 
@@ -584,7 +586,7 @@ Log.d(TAG,"versionDB : " + String.valueOf(DATABASE_VERSION));
 
         if (compte > 70000) {
             ecouteInstalle.progression(compte);
-            resultat = true;
+            //resultat = true;
         }
 
 
@@ -592,7 +594,7 @@ Log.d(TAG,"versionDB : " + String.valueOf(DATABASE_VERSION));
         //NSLog(@"path delete %@",filePath);
         //[[NSFileManager defaultManager] removeItemAtPath: filePath error: nil];
 
-        return resultat;
+        return compte;
     }
 
 
@@ -600,22 +602,6 @@ Log.d(TAG,"versionDB : " + String.valueOf(DATABASE_VERSION));
         // voir ce post http://stackoverflow.com/questions/1711631/improve-insert-per-second-performance-of-sqlite
         // pour optimisation
         boolean resultat = false;
-        try {
-            BufferedReader br = new BufferedReader(
-                    //new FileReader(file));
-                    new InputStreamReader(
-                            new BufferedInputStream(
-                                    new FileInputStream(file)
-                            )
-
-                    )
-            );
-        }
-        catch (IOException e) {
-            //You'll need to add proper error handling here
-        } finally {
-
-        }
 
         int compte = 0;
 
@@ -630,6 +616,10 @@ Log.d(TAG,"versionDB : " + String.valueOf(DATABASE_VERSION));
 
                     )
             );
+
+            compte = installeGaffiotFromBufferedReader(br,nomTable);
+            /*
+
 
             dropTable(nomTable);
             createVirtualTable(nomTable);
@@ -807,11 +797,11 @@ Log.d(TAG,"versionDB : " + String.valueOf(DATABASE_VERSION));
             myDataBase.setTransactionSuccessful();
             myDataBase.endTransaction();
             br.close();
+
+             */
         }
         catch (IOException e) {
             //You'll need to add proper error handling here
-        } finally {
-
         }
         
         Log.d(TAG,String.valueOf(compte) + " entrees");
