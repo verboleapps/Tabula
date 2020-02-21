@@ -59,9 +59,9 @@ public class ParseGaffiot {
         }
         catch (IOException e) {
             //You'll need to add proper error handling here
-        } finally {
-
+            Log.d(ActivitePrincipale2.TAG," ParseGaffiot pb parse deb fichier " + e.toString());
         }
+        Log.d(ActivitePrincipale2.TAG," ParseGaffiot deb fichier version : " + version);
         return version;
     }
 /*

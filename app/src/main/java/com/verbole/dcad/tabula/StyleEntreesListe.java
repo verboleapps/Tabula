@@ -43,7 +43,11 @@ public class StyleEntreesListe {
         SpannableString res;
         if (!defCourte.isEmpty()) {
             if (entree.dico.equals("G")) {
-                txtlab = mot + " (" + nomDict + ") " + defCourte; //"\n" + defCourte
+               // txtlab = mot + " (" + nomDict + ") " + defCourte; //"\n" + defCourte
+                txtlab = defCourte; //"\n" + defCourte
+                String t1 = txtlab.substring(0,mot.length());
+                String t2 = txtlab.substring(mot.length(),txtlab.length());
+                txtlab = t1 + " (" + nomDict + ")" + t2;
             }
             if (entree.dico.equals("S")) {
                 txtlab = mot + defCourte;
