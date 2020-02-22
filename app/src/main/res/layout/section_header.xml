@@ -8,7 +8,7 @@
     android:background="@drawable/bordure_section_header_textes"
     android:orientation="horizontal"
     android:padding="1dp"
-    tools:context="com.verbole.dcad.tabula.ActivitePrincipale">
+    tools:context="com.verbole.dcad.tabula.ActivitePrincipale2">
 
     <TextView
         android:id="@+id/sectionHeaderVue"

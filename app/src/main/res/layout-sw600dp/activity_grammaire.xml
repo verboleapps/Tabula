@@ -7,7 +7,7 @@
     android:paddingLeft="0dp"
     android:paddingRight="0dp"
     android:paddingTop="0dp"
-    tools:context="com.verbole.dcad.tabula.ActivitePrincipale">
+    tools:context="com.verbole.dcad.tabula.ActivitePrincipale2">
 
     <WebView
         android:id="@+id/webVueGramm"
