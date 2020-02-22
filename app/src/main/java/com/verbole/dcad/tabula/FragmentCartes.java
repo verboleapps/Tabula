@@ -360,8 +360,12 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
         //Log.d(ActivitePrincipale2.TAG, TAG + "on click " + etat + " " + listViewListes.getHeight() + " " + listViewListes.getWidth());
         if (v == boutonRevient) {
             revient();
+            aradCartes.clearListeEliminations();
+            aradListes.clearListeEliminations();
         }
         if (v == boutonEdit) {
+            aradCartes.clearListeEliminations();
+            aradListes.clearListeEliminations();
             if (etat == ETAT.LISTECARTES || etat == ETAT.LISTECARTESEDIT) {
                 ETAT anc = etat;
                 if (anc == ETAT.LISTECARTES) {
@@ -710,34 +714,30 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
     private class MyCustomAdapterListes extends ArrayAdapter {
         private ArrayList<String> list;
         private Context context;
+        private ArrayList<Integer> listeEliminations = new ArrayList<>();
 
         public MyCustomAdapterListes(Context context, int resource) { //, ArrayList<String> listes
             super(context, resource); //, listes
             this.list = FCdb.listeListes(1);
             this.context = context;
-            Log.d(ActivitePrincipale2.TAG,TAG + "custom adapt liste " + list.size());
+            //Log.d(ActivitePrincipale2.TAG,TAG + "custom adapt liste " + list.size());
         }
 
         public void miseAJourListes() {
             this.list.clear();
             ArrayList<String> l = FCdb.listeListes(1);
             this.list.addAll(l);
+            listeEliminations.clear();
+            //Log.d(ActivitePrincipale2.TAG,TAG + "custom adapt maj liste " + l.size());
+            notifyDataSetChanged();
+        }
+        public void clearListeEliminations() {
+            listeEliminations.clear();
+            notifyDataSetChanged();
+        }
 
-            Log.d(ActivitePrincipale2.TAG,TAG + "custom adapt maj liste " + l.size());
-            notifyDataSetChanged();
-        }
-/*
-        public void miseAJourListes(ArrayList listes) {
-            this.list.clear();
-            for (Object e : listes) {
-                String d = (String) e;
-                this.list.add(d);
-            }
-            Log.d(ActivitePrincipale2.TAG,TAG + "custom adapt maj liste " + listes.size());
-            notifyDataSetChanged();
-        }
-*/
         public void desactivateAll() {
+            listeEliminations.clear();
             for (int i = 0;i < list.size(); i++) {
                 View v = listViewListes.getChildAt(i -
                         listViewListes.getFirstVisiblePosition());
@@ -750,6 +750,10 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
         }
 
         private boolean isOneChecked() {
+            if (listeEliminations.size() > 0) {
+                return true;
+            }
+            /*
             for (int i = 0;i < list.size(); i++) {
                 View v = listViewListes.getChildAt(i -
                         listViewListes.getFirstVisiblePosition());
@@ -760,11 +764,20 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
                     return true;
                 }
             }
+
+             */
             return false;
         }
 
         public void supprime() {
             boolean change = false;
+            for (int pos : listeEliminations) {
+
+                String nl = list.get(pos);
+                FCdb.supprimeListe(nl);
+                Log.d(ActivitePrincipale2.TAG,TAG + " pos " + pos + " a eliminer - " + nl);
+            }
+            /*
             for (int i = 0;i < list.size(); i++) {
                 View v = listViewListes.getChildAt(i -
                         listViewListes.getFirstVisiblePosition());
@@ -778,11 +791,15 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
                     change = true;
                 }
             }
+
+
             if (change) {
                 //ArrayList<String> nl = FCdb.listeListes(1);
                 //miseAJourListes(nl);
-                miseAJourListes();
             }
+
+             */
+            miseAJourListes();
         }
 
         @Override
@@ -894,6 +911,12 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
                 }
             });
 
+            if (listeEliminations.contains(position)) {
+                cb.setChecked(true);
+            }
+            else {
+                cb.setChecked(false);
+            }
 
             cb.setOnClickListener(new View.OnClickListener(){
                 @Override
@@ -901,15 +924,31 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
                     //do something
 
                     if (cb.isChecked()) {
+                        listeEliminations.add(position);
                         boutonSupprimer.setEnabled(true);
                     }
                     else {
+                        if (listeEliminations.contains(position)) {
+                            //listeEliminations.remove(position);
+                            Integer posI = position; // car si int enleve a l'index ...
+                            listeEliminations.remove(posI);
+                        }
+
+                        if (listeEliminations.size() > 0) {
+                            boutonSupprimer.setEnabled(true);
+                        }
+                        else {
+                            boutonSupprimer.setEnabled(false);
+                        }
+                        /*
                         if (isOneChecked()) {
                             boutonSupprimer.setEnabled(true);
                         }
                         else {
                             boutonSupprimer.setEnabled(false);
                         }
+
+                         */
                     }
                     // notifyDataSetChanged();
                 }
@@ -1054,6 +1093,7 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
         private ArrayList<Carte> list = new ArrayList<>();
         private Context context;
         String nomListe = ""; // nom de la liste
+        private ArrayList<Integer> listeEliminations = new ArrayList<>();
 
         public MyCustomAdapterCartes(Context context, int resource, ArrayList<Carte> liste) {
             super(context, resource, liste);
@@ -1067,6 +1107,11 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
                 Carte c = (Carte) e;
                 this.list.add(c);
             }
+            listeEliminations.clear();
+            notifyDataSetChanged();
+        }
+        public void clearListeEliminations() {
+            listeEliminations.clear();
             notifyDataSetChanged();
         }
 
@@ -1078,6 +1123,7 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
             //listeCartes = FCdb.getListeCartes(nomListe);
             miseAJourListe(lct);
             nomListe = nomListeCarte;
+            listeEliminations.clear();
             notifyDataSetChanged();
 
         }
@@ -1092,9 +1138,14 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
                 CheckBox cb = v.findViewById(R.id.checkBoxListeListes);
                 cb.setChecked(false);
             }
+            listeEliminations.clear();
         }
 
         private boolean isOneChecked() {
+            if (listeEliminations.size() > 0) {
+                return true;
+            }
+            /*
             for (int i = 0;i < list.size(); i++) {
                 View v = listViewCartes.getChildAt(i -
                         listViewCartes.getFirstVisiblePosition());
@@ -1104,12 +1155,25 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
                 if (cb.isChecked()) {
                     return true;
                 }
+                if (listeEliminations.contains(i)) {
+                    Log.d(ActivitePrincipale2.TAG,TAG + " yo position " + i + " a eliminer");
+                }
             }
+
+             */
             return false;
         }
 
         public void supprime() {
+
+            for (int pos : listeEliminations) {
+                Carte c = listeCartes.get(pos);
+                Log.d(ActivitePrincipale2.TAG,TAG + " pos " + pos + " a eliminer - " + c.entree);
+                FCdb.deleteCarteFromListe(c,nomListe);
+            }
+            /*
             boolean change = false;
+
             for (int i = 0;i < list.size(); i++) {
                 View v = listViewCartes.getChildAt(i -
                         listViewCartes.getFirstVisiblePosition());
@@ -1127,6 +1191,10 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
                 ArrayList<Carte> nl = FCdb.getListeCartes(nomListe);
                 miseAJourListe(nl);
             }
+
+             */
+            ArrayList<Carte> nl = FCdb.getListeCartes(nomListe);
+            miseAJourListe(nl);
         }
 
         @Override
@@ -1163,6 +1231,7 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
             final CheckBox cb = (CheckBox) view.findViewById(R.id.checkBoxListeListes);
             //final ImageView btLl = view.findViewById(R.id.boutonListeListes);
 
+
             // ????
             if (etat == ETAT.LISTECARTESEDIT) {
                 cb.setVisibility(View.VISIBLE);
@@ -1183,30 +1252,45 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
             });
 
 */
+            if (listeEliminations.contains(position)) {
+                cb.setChecked(true);
+            }
+            else {
+                cb.setChecked(false);
+            }
+
             cb.setOnClickListener(new View.OnClickListener(){
                 @Override
                 public void onClick(View v) {
                     //do something
-
                     if (cb.isChecked()) {
+                        listeEliminations.add(position);
                         boutonSupprimer.setEnabled(true);
                     }
                     else {
-                        if (isOneChecked()) {
+                        if (listeEliminations.contains(position)) {
+                            //listeEliminations.remove(position);
+                            Integer posI = position; // car si int enleve a l'index ...
+                            listeEliminations.remove(posI);
+                        }
+
+                        if (listeEliminations.size() > 0) {
                             boutonSupprimer.setEnabled(true);
                         }
                         else {
                             boutonSupprimer.setEnabled(false);
                         }
                     }
-                    // notifyDataSetChanged();
+
                 }
             });
+//Log.d(ActivitePrincipale2.TAG,TAG + " liste cartes get view " + position);
+
 
             view.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    Log.d("===","item click " + String.valueOf(position));
+                    //Log.d("===","item click " + String.valueOf(position));
                     montreCarte(position);
 
                 }
