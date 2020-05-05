@@ -122,12 +122,12 @@ var langue2 = 'FR';
 
 var texteLangue1 = 'Latin';
 var texteLangue2 = 'Français';
-var dernierePage = 56;
+var dernierePage = 55;
 var numCourant = 1;
 
 $(function() {
   cacheLangue(1);
-  for (var i = 0; i < 57; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
+  for (var i = 0; i < 56; i++) {  (function (i) {var nomEl = 'elemMenu' + i; var el = document.getElementById(nomEl); el.addEventListener("touchstart",function(){cacheLangue(i); }, false); }(i));}
   
   //var elLangue = document.getElementById("boutonLangue");
   //elLangue.addEventListener("touchstart",changeLangue,false);
@@ -163,7 +163,7 @@ function enArriere() {
 
 function cacheLangue(saufNum) {
     numCourant = saufNum;
-    for (var i = 0; i < 57; i++) {
+    for (var i = 0; i < 56; i++) {
         if (i != saufNum) {
             var idEl = '#' + langue1 + i;
             $(idEl).hide();
@@ -174,49 +174,12 @@ function cacheLangue(saufNum) {
         }
     }
     
-    for (var i = 0; i < 57; i++) {
+    for (var i = 0; i < 56; i++) {
         var idEl = '#' + langue2 + i;
         $(idEl).hide();
     }
-    
+    JSInterface.getChapitre(numCourant);
 }
-
-function cacheFr(saufNum) {
-    for (var i = 0; i < 57; i++) {
-        if (i != saufNum) {
-            var idEl = '#LAT' + i;
-            $(idEl).hide();
-        }
-        if (i == saufNum) {
-            var idEl = '#LAT' + i;
-            $(idEl).show();
-        }
-    }
-    for (var i = 0; i < 57; i++) {
-        var idEl = '#FR' + i;
-        $(idEl).hide();
-    }
-    
-}
-function cacheLat(saufNum) {
-    for (var i = 0; i < 57; i++) {
-        if (i != saufNum) {
-            var idEl = '#FR' + i;
-            $(idEl).hide();
-        }
-        if (i == saufNum) {
-            var idEl = '#FR' + i;
-            $(idEl).show();
-        }
-    }
-    for (var i = 0; i < 57; i++) {
-        var idEl = '#LAT' + i;
-        $(idEl).hide();
-    }
-    
-}
-
-
 
 
 

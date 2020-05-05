@@ -185,46 +185,8 @@ function cacheLangue(saufNum) {
         var idEl = '#' + langue2 + i;
         $(idEl).hide();
     }
-    
+    JSInterface.getChapitre(numCourant);
 }
-
-function cacheFr(saufNum) {
-    for (var i = 1; i < 52; i++) {
-        if (i != saufNum) {
-            var idEl = '#LAT' + i;
-            $(idEl).hide();
-        }
-        if (i == saufNum) {
-            var idEl = '#LAT' + i;
-            $(idEl).show();
-        }
-    }
-    for (var i = 1; i < 52; i++) {
-        var idEl = '#FR' + i;
-        $(idEl).hide();
-    }
-    
-}
-function cacheLat(saufNum) {
-    for (var i = 1; i < 52; i++) {
-        if (i != saufNum) {
-            var idEl = '#FR' + i;
-            $(idEl).hide();
-        }
-        if (i == saufNum) {
-            var idEl = '#FR' + i;
-            $(idEl).show();
-        }
-    }
-    for (var i = 1; i < 52; i++) {
-        var idEl = '#LAT' + i;
-        $(idEl).hide();
-    }
-    
-}
-
-
-
 
 
 </script>
