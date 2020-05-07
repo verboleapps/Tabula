@@ -155,7 +155,7 @@ function enAvant() {
     }
 }
 function enArriere() {
-    if (numCourant > 1) {
+    if (numCourant > 0) {
         numCourant -= 1;
         cacheLangue(numCourant);
     }

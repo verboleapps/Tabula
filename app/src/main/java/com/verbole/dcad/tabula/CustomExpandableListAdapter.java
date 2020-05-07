@@ -26,7 +26,7 @@ public class CustomExpandableListAdapter extends BaseExpandableListAdapter {
     ArrayList<Object> textes;
     List<String> sections;
     private LayoutInflater mInflater;
-    GestionTextes gestionTextes;
+    private GestionTextes mGestionTextes;
     int indiceDocuments;
     boolean isFichiers;
     String TAG = "CustExp.ListAdapt.";
@@ -35,11 +35,11 @@ public class CustomExpandableListAdapter extends BaseExpandableListAdapter {
 
     public SelectDocuments interfSelectDocs;
 
-    public CustomExpandableListAdapter(Context context)
+    public CustomExpandableListAdapter(Context context, GestionTextes gestionTextes)
     {
         this.context = context;
         mInflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-        gestionTextes = new GestionTextes(context);
+        mGestionTextes = gestionTextes;
 
         /*
         sections = new ArrayList<>();
@@ -49,7 +49,7 @@ public class CustomExpandableListAdapter extends BaseExpandableListAdapter {
             sections.add(a);
         }
         */
-        sections = gestionTextes.getListeAuteurs();
+        sections = mGestionTextes.getListeAuteurs();
         textes = new ArrayList<>();
         for (String a : sections) {
             List<String> parties = gestionTextes.listeDesPartiesOeuvresAuteur(a);
@@ -74,9 +74,9 @@ public class CustomExpandableListAdapter extends BaseExpandableListAdapter {
     }
 
     void initListeFichiers() {
-        List<String> listF = gestionTextes.getListeNomsFichiers();
+        List<String> listF = mGestionTextes.getListeNomsFichiers();
         if (listF.size() > 0) {
-            if (textes.size() == gestionTextes.listeAuteurs.size()) {
+            if (textes.size() == mGestionTextes.listeAuteurs.size()) {
                 textes.add(listF);
             }
             else {
