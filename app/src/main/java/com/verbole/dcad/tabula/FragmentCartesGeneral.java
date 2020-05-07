@@ -45,7 +45,7 @@ public class FragmentCartesGeneral extends Fragment implements LanceFlashCardLis
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view =  inflater.inflate(R.layout.fragment_cartes_general, container, false);
-        Log.d(ActivitePrincipale2.TAG, TAG + "on create view ");
+      //  Log.d(ActivitePrincipale2.TAG, TAG + "on create view ");
         if (savedInstanceState != null) {
             int temp = savedInstanceState.getInt("etat");
             etat = ETAT_GENERAL.values()[temp];
@@ -67,13 +67,13 @@ public class FragmentCartesGeneral extends Fragment implements LanceFlashCardLis
     @Override
     public void onStart() {
         super.onStart();
-        Log.d(ActivitePrincipale2.TAG, TAG + "on start ");
+      //  Log.d(ActivitePrincipale2.TAG, TAG + "on start ");
     }
 
     @Override
     public void onResume() {
         super.onResume();
-        Log.d(ActivitePrincipale2.TAG, TAG + "on resume ");
+      //  Log.d(ActivitePrincipale2.TAG, TAG + "on resume ");
         if (etat == ETAT_GENERAL.LISTE) {
             lanceFragmentListeCartes();
         }
@@ -96,26 +96,26 @@ public class FragmentCartesGeneral extends Fragment implements LanceFlashCardLis
     @Override
     public void onPause() {
         super.onPause();
-        Log.d(ActivitePrincipale2.TAG, TAG + "on pause ");
+      //  Log.d(ActivitePrincipale2.TAG, TAG + "on pause ");
     }
 
     @Override
     public void onStop() {
         super.onStop();
-        Log.d(ActivitePrincipale2.TAG, TAG + "on stop ");
+       // Log.d(ActivitePrincipale2.TAG, TAG + "on stop ");
 
     }
 
     @Override
     public void onDestroy() {
         super.onDestroy();
-        Log.d(ActivitePrincipale2.TAG, TAG + "on destroy ");
+      //  Log.d(ActivitePrincipale2.TAG, TAG + "on destroy ");
     }
 
     @Override
     public void onDetach() {
         super.onDetach();
-        Log.d(ActivitePrincipale2.TAG, TAG + "on detach ");
+     //   Log.d(ActivitePrincipale2.TAG, TAG + "on detach ");
     }
 
     void reinitListeListes() {
@@ -127,7 +127,7 @@ public class FragmentCartesGeneral extends Fragment implements LanceFlashCardLis
     }
 
     boolean revient() {
-        Log.d(ActivitePrincipale2.TAG,TAG + "revient ? " + etat.toString());
+      //  Log.d(ActivitePrincipale2.TAG,TAG + "revient ? " + etat.toString());
         if (etat == ETAT_GENERAL.FCTEST) {
             etat = ETAT_GENERAL.LISTE;
             lanceFragmentListeCartes();

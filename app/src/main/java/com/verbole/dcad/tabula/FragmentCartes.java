@@ -106,7 +106,7 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view =  inflater.inflate(R.layout.fragment_cartes, container, false);
-        Log.d(ActivitePrincipale2.TAG, TAG + "on create view ");
+       // Log.d(ActivitePrincipale2.TAG, TAG + "on create view ");
         mContext = getContext();
 
         MeF = new MiseEnForme(mContext);
@@ -213,14 +213,14 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
     @Override
     public void onDetach() {
         super.onDetach();
-        Log.d(ActivitePrincipale2.TAG, TAG + "on Detach ");
+       // Log.d(ActivitePrincipale2.TAG, TAG + "on Detach ");
         mListener = null;
     }
 
     @Override
     public void onDestroy() {
         super.onDestroy();
-        Log.d(ActivitePrincipale2.TAG, TAG + "on Destroy ");
+      //  Log.d(ActivitePrincipale2.TAG, TAG + "on Destroy ");
         //MeF.flex.fermeDBs();
         FCdb.close();
     }
@@ -228,13 +228,13 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
     @Override
     public void onStart() {
         super.onStart();
-        Log.d(ActivitePrincipale2.TAG, TAG + "on start ");
+       // Log.d(ActivitePrincipale2.TAG, TAG + "on start ");
     }
 
     @Override
     public void onStop() {
         super.onStop();
-        Log.d(ActivitePrincipale2.TAG, TAG + "on stop ");
+       // Log.d(ActivitePrincipale2.TAG, TAG + "on stop ");
     }
 
     @Override
@@ -242,7 +242,7 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
         super.onPause();
         //MeF.flex.fermeDBs();
         FCdb.close();
-        Log.d(ActivitePrincipale2.TAG, TAG + "on pause ");
+      //  Log.d(ActivitePrincipale2.TAG, TAG + "on pause ");
     }
 
     @Override
@@ -254,7 +254,7 @@ public class FragmentCartes extends Fragment implements View.OnClickListener {
 
         aradListes.miseAJourListes();
 
-        Log.d(ActivitePrincipale2.TAG, TAG + "on resume " + etat + " " + listViewListes.getHeight());
+       // Log.d(ActivitePrincipale2.TAG, TAG + "on resume " + etat + " " + listViewListes.getHeight());
 /*
         if (etat == ETAT.FCTEST) {
             frLay.setVisibility(View.GONE);

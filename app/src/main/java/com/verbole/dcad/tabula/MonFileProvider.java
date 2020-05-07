@@ -1,11 +1,14 @@
 package com.verbole.dcad.tabula;
 
+import android.content.Context;
 import android.database.Cursor;
 import android.database.MatrixCursor;
 import android.net.Uri;
 import android.os.ParcelFileDescriptor;
 import android.provider.OpenableColumns;
+import android.util.Log;
 
+import androidx.annotation.NonNull;
 import androidx.core.content.FileProvider;
 
 import java.io.File;
@@ -31,6 +34,7 @@ public class MonFileProvider extends FileProvider {
     @Override
     public ParcelFileDescriptor openFile(Uri uri, String mode)
             throws FileNotFoundException {
+        Log.d(ActivitePrincipale2.TAG,"FileProvider : open file");
         File root=getContext().getFilesDir();
         File f=new File(root, uri.getPath()).getAbsoluteFile();
 
@@ -103,7 +107,7 @@ public class MonFileProvider extends FileProvider {
         if (projection == null) {
             projection=OPENABLE_PROJECTION;
         }
-
+        Log.d(ActivitePrincipale2.TAG,"FileProvider : query");
         final MatrixCursor cursor=new MatrixCursor(projection, 1);
 
         MatrixCursor.RowBuilder b=cursor.newRow();
@@ -126,6 +130,14 @@ public class MonFileProvider extends FileProvider {
     @Override
     public String getType(Uri uri) {
         return(URLConnection.guessContentTypeFromName(uri.toString()));
+    }
+
+
+    public static Uri getUriForFile(@NonNull Context context, @NonNull String authority,
+                                    @NonNull File file) {
+        Uri uri = FileProvider.getUriForFile(context,authority,file);
+        Log.d(ActivitePrincipale2.TAG,"FileProvider : " + uri.toString());
+        return uri;
     }
 
     protected String getFileName(Uri uri) {
