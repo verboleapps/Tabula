@@ -42,19 +42,29 @@
                 <category android:name="android.intent.category.OPENABLE"/>
             </intent-filter>
 
-
-
         </activity>
 
+               <provider
+                   android:name="com.verbole.dcad.tabula.MonFileProvider"
+                   android:authorities="com.verbole.dcad.tabula.provider"
+                   android:exported="false"
+                   android:grantUriPermissions="true">
+                   <meta-data
+                       android:name="android.support.FILE_PROVIDER_PATHS"
+                       android:resource="@xml/file_paths"/>
+               </provider>
+
+            <!--   bug pour l'instant
         <provider
-            android:name="androidx.core.content.FileProvider"
+            android:name="com.verbole.dcad.tabula.MonDocumentProvider"
             android:authorities="com.verbole.dcad.tabula.provider"
-            android:exported="false"
-            android:grantUriPermissions="true">
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/file_paths"/>
-        </provider>
+            android:exported="true"
+            android:grantUriPermissions="true"
+            android:permission="android.permission.MANAGE_DOCUMENTS">
+            <intent-filter>
+                <action android:name="android.content.action.DOCUMENTS_PROVIDER" />
+            </intent-filter>
+        </provider> -->
 
     </application>
 
