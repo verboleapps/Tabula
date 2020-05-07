@@ -66,8 +66,18 @@ public class WebViewPDF extends WebView //implements GestureDetector.OnGestureLi
         addJavascriptInterface(wAppInt, "JSInterface");
     }
 
+    void loadPDF2(final String filePath) {
+        // loadUrl("file:///android_asset/pdfviewer/index.html?file=" + filePath);
+        loadUrl("file:///android_asset/pdfviewer/web/viewer.html");
+    }
     void loadPDF(final String filePath) {
-        loadUrl("file:///android_asset/pdfviewer/index.html?file=" + filePath);
+        String vp2 = "compressed.tracemonkey-pldi-09.pdf";
+        GestionFichiers gf = new GestionFichiers(context);
+        String viewerhtml = gf.chargeFichiersAssets("pdfviewer/web","viewer","html");
+        viewerhtml = viewerhtml.replace("DEFAULT_URL = 'compressed.tracemonkey-pldi-09.pdf'","DEFAULT_URL = '" + filePath + "'");
+
+        loadDataWithBaseURL("file:///android_asset/pdfviewer/web/viewer.html",viewerhtml,"text/html", "utf-8", null);
+
     }
 
 
@@ -80,119 +90,5 @@ public class WebViewPDF extends WebView //implements GestureDetector.OnGestureLi
         return super.performClick();
     }
 
-    /*
-    void getSelectionWebVue() {
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
 
-            String js2 = "(function (){" +
-                    "var txt = window.getSelection().toString();" +
-                     " JSInterface.getText(txt);" +
-                    " return txt;" +
-                    "})()";
-            // calling the js function
-
-            this.evaluateJavascript(js2,
-                    new ValueCallback<String>() {
-                        @Override
-                        public void onReceiveValue(String value) {
-                            Log.d("on receive value",value);
-                            laForme = value;
-
-                        }
-                    });
-        } else {
-            //vueWebTxt.loadUrl(urltxt);
-
-            //loadUrl("javascript:" + js1);
-        }
-    }
-
-
-    @Override
-    public boolean onTouchEvent(MotionEvent event) {
-
-        this.mDetector.onTouchEvent(event);
-        pointTouche.set((int) event.getX(), (int) event.getY());
-
-        if (resVisible) {
-            resVisible = false;
-            resultat.dismiss();
-        }
-        //Log.d("touche ","=== " + laForme);
-        //getSelectionWebVue();
-
-        switch(event.getAction()){
-            case MotionEvent.ACTION_DOWN:
-             //   _handler.postDelayed(_longPressed, LONG_PRESS_TIME);
-                break;
-            case MotionEvent.ACTION_MOVE:
-                if (resVisible) {
-                    resVisible = false;
-                    resultat.dismiss();
-                }
-              //  _handler.removeCallbacks(_longPressed);
-                break;
-            case MotionEvent.ACTION_UP:
-              //  _handler.removeCallbacks(_longPressed);
-                break;
-        }
-       // return true;
-        return super.onTouchEvent(event);
-    }
-
-    @Override
-    public boolean onDown(MotionEvent event) {
-        //Log.d(DEBUG_TAG,"onDown: " + event.toString());
-        return true;
-    }
-
-
-    @Override
-    public boolean onFling(MotionEvent event1, MotionEvent event2,
-                           float velocityX, float velocityY) {
-        //Log.d(DEBUG_TAG, "onFling: " + event1.toString()+event2.toString());
-        return true;
-    }
-
-    @Override
-    public void onLongPress(MotionEvent event) {
-    }
-
-    @Override
-    public boolean onScroll(MotionEvent e1, MotionEvent e2, float distanceX,
-                            float distanceY) {
-       // Log.d(DEBUG_TAG, "onScroll: " + e1.toString()+e2.toString());
-        return true;
-    }
-
-    @Override
-    public void onShowPress(MotionEvent event) {
-        //Log.d(DEBUG_TAG, "onShowPress: " + event.toString());
-    }
-
-    @Override
-    public boolean onSingleTapUp(MotionEvent event) {
-        //Log.d(DEBUG_TAG, "onSingleTapUp: " + event.toString());
-        if (resVisible) {
-        }
-        return true;
-    }
-
-    public void AfficheResRecherche(String texte) {
-
-        if (resVisible) {resultat.dismiss();}
-
-        webRes.loadDataWithBaseURL(null, texte, "text/html", "utf-8", null);
-
-        if (pointTouche.y > this.getHeight() - 250) {
-            pointTouche.y -= 50;
-        }
-        else {
-            pointTouche.y += 250;
-        }
-
-        resultat.showAtLocation(this, 50, pointTouche.x, pointTouche.y);
-        resVisible = true;
-    }
-*/
 }

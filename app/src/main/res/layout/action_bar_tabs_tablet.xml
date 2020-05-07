@@ -21,20 +21,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-        <Button
-            android:id="@+id/action_revient1"
-            style="@style/Widget.AppCompat.Button.Borderless"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="start|center_vertical"
-            android:enabled="true"
-            android:gravity="center_vertical|start"
-            android:text="@string/action_textes_retour"
-            android:textSize="@dimen/taille_boutons_toolbar"
-            android:visibility="gone"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintLeft_toLeftOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
 
         <ImageView
             android:id="@+id/action_revient"
@@ -50,9 +36,24 @@
             app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/ic_action_menu" />
 
+        <ImageView
+            android:id="@+id/action_bookmark"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start|center_vertical"
+            android:enabled="true"
+            android:gravity="center_vertical|start"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toRightOf="@id/action_revient"
+            app:layout_constraintStart_toEndOf="@id/action_revient"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/bouton_bookmark"
+            />
+
         <TextView
             android:id="@+id/titreTexte"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:minWidth="70dp"
             android:text=""
@@ -60,9 +61,9 @@
             android:textSize="@dimen/taille_titre_toolbar"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toStartOf="@id/action_gauche"
-            app:layout_constraintLeft_toRightOf="@id/action_revient"
+            app:layout_constraintLeft_toRightOf="@id/action_bookmark"
             app:layout_constraintRight_toLeftOf="@id/action_gauche"
-            app:layout_constraintStart_toEndOf="@id/action_revient"
+            app:layout_constraintStart_toEndOf="@id/action_bookmark"
             app:layout_constraintTop_toTopOf="parent" />
 
         <Button

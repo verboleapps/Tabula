@@ -8,6 +8,7 @@ import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.res.Configuration;
 import android.graphics.Color;
 import android.graphics.Point;
 import android.graphics.PorterDuff;
@@ -26,6 +27,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.ConsoleMessage;
 import android.webkit.RenderProcessGoneDetail;
+import android.webkit.ValueCallback;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
@@ -43,7 +45,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.annotation.Nullable;
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.widget.Toolbar;
+import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.core.app.ActivityCompat;
 import androidx.fragment.app.Fragment;
 
@@ -67,12 +71,13 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
     static final String TAG = "VueDocuments ";
 
     ExpandableListView listeFichiers;
-    FrameLayout frameLayListeFichiers; // pour separation avec webvue
+    ConstraintLayout frameLayListeFichiers; // pour separation avec webvue
     ListView listViewChapitres;
     List<String> listeChapitres;
 
     ArrayAdapter aradChapitres;
     CustomExpandableListAdapter mArrayAdapterTextes;
+    GestionTextes mGestionTextes;
 
     WebViewPDF vueWebTxt;
     FrameLayout frameLayWebView;
@@ -89,6 +94,7 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
     String pathFichierCourant = "";
 
     boolean utiliseFileExplorer = false;
+    Button boutonMontreBookmarks;
 
     //WebAppInterface wAppInt;
 
@@ -103,6 +109,7 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
     final int TYPE_TEXTEAUTEUR_CHAPITRES = 2;
     final int TYPE_HTML = 3;
     final int TYPE_PDF = 4;
+    final int TYPE_TXT = 5;
 
     int typeFichier = TYPE_LISTE_FICHIERS;
     // si phone
@@ -118,9 +125,11 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
     float initialScale = -1;
 
     Toolbar mToolBar;
+    Toolbar toolBarBookmarks;
     Button bdroit;
     Button bgauche;
     Button blangue;
+    ImageView boutonBookmark;
     TextView titreTexte;
     ImageView boutonRevient;
 
@@ -128,7 +137,9 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
     long dureeAnimations = 600;
 
     ArrayList resultatsCourants;
+    Uri uriCourante = null;
     private boolean mTwoPane;
+    int scrollY = 0;
 
     @Override
     public Context getContext() {
@@ -143,10 +154,11 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
         mTwoPane = StyleHtml.verifieEcranEstTablette(this.getActivity());
 
         MeF = new MiseEnForme(mContext);
+        mGestionTextes = new GestionTextes(mContext);
 
         listeFichiers = (ExpandableListView) view.findViewById(R.id.listeFichiers);
         if (mArrayAdapterTextes == null) {
-            mArrayAdapterTextes = new CustomExpandableListAdapter(this.getContext());
+            mArrayAdapterTextes = new CustomExpandableListAdapter(this.getContext(),mGestionTextes);
         }
          //new ArrayAdapter(this,android.R.layout.simple_list_item_1,listNomFich);
         listeFichiers.setAdapter(mArrayAdapterTextes);
@@ -155,7 +167,7 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
 
         if (Build.VERSION.SDK_INT <
                 Build.VERSION_CODES.KITKAT) {
-            listeFichiers.expandGroup(mArrayAdapterTextes.gestionTextes.listeAuteurs.size());
+            listeFichiers.expandGroup(mGestionTextes.listeAuteurs.size());
         } else {
             utiliseFileExplorer = true;
             mArrayAdapterTextes.interfSelectDocs = this;
@@ -208,6 +220,7 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
             listViewChapitres.setAdapter(aradChapitres);
             //listViewChapitres.setVisibility(View.INVISIBLE);
             listViewChapitres.setOnItemClickListener(this);
+            toolBarBookmarks = view.findViewById(R.id.toolbar_bookmarks);
         }
 
         mToolBar = view.findViewById(R.id.toolbar_fragment_documents);
@@ -222,6 +235,10 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
         boutonRevient = view.findViewById(R.id.action_revient);
         boutonRevient.setOnClickListener(this);
         titreTexte = view.findViewById(R.id.titreTexte);
+        boutonBookmark = view.findViewById(R.id.action_bookmark);
+        boutonBookmark.setOnClickListener(this);
+        boutonMontreBookmarks = view.findViewById(R.id.bouton_montre_bookmarks);
+        boutonMontreBookmarks.setOnClickListener(this);
 
         mToolBar.setVisibility(View.GONE);
 
@@ -271,6 +288,7 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
         vueWebTxt.setLayerType(View.LAYER_TYPE_SOFTWARE, null);
     }
 
+    //region CYCLE
     @Override
     public void onDestroy() {
         super.onDestroy();
@@ -315,8 +333,14 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
 
         optionsMenu(typeFichier,nomFichierCourant);
 
-        if (typeFichier == TYPE_HTML || typeFichier == TYPE_PDF) {
-            chargeWebVue(nomFichierCourant,pathFichierCourant,false);
+        if (typeFichier == TYPE_HTML || typeFichier == TYPE_PDF || typeFichier == TYPE_TXT) {
+            if (!utiliseFileExplorer) {
+                chargeWebVue(nomFichierCourant,pathFichierCourant,false);
+            }
+            else {
+                chargeWebVueFromUri(uriCourante,true);
+            }
+
             if (mTwoPane) {
                 frameLayListeFichiers.setVisibility(View.INVISIBLE);
             }
@@ -334,6 +358,10 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
                 frameLayListeFichiers.setVisibility(View.INVISIBLE);
             }
             else {
+                // positionCourante est le num de page (donc commence a 0 si preface, 1 sinon)
+                // pour trouver l'item a selectionner ds listView il faut decaler
+                // renvoie position - 1, ou position si partie avec preface ...
+                positionCourante = mGestionTextes.chapitrePourPageOeuvreParSectionIndice(sectionCourante,indiceCourant,positionCourante);
                 chargeTexteAuteurPhone(sectionCourante, indiceCourant, positionCourante, false);
                 listeFichiers.setVisibility(View.INVISIBLE);
                 listViewChapitres.setVisibility(View.INVISIBLE);
@@ -349,7 +377,7 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
 
             // utilite ??
             listeChapitres.clear();
-            List<String> lc = mArrayAdapterTextes.gestionTextes.listeChapitresOeuvreParSectionIndice(sectionCourante,indiceCourant);
+            List<String> lc = mGestionTextes.listeChapitresOeuvreParSectionIndice(sectionCourante,indiceCourant);
             for (String c : lc) {
                 listeChapitres.add(c);
             }
@@ -362,6 +390,7 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
      //   positionCourante = 0;
 
     }
+    //endregion
 
     @Override
     public void onLowMemory() {
@@ -370,66 +399,45 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
         super.onLowMemory();
     }
 
-    void setUpWebView() {
-
-    }
-
-
-
     void optionsMenu(int option, String titre) {
+
         if (option == TYPE_TEXTEAUTEUR) { // texte latin
             mToolBar.setVisibility(View.VISIBLE);
+
+            if (!mTwoPane) {
+                toolBarBookmarks.setVisibility(View.GONE);
+            }
+            else {
+
+            }
             if (StyleHtml.largeurFenetre(this.getActivity()) < 400) {
                 titreTexte.setText(titre);
                 titreTexte.setVisibility(View.GONE);
-                //SpannableString spt = new SpannableString(titre);
-                //spt.setSpan(new RelativeSizeSpan(0.75f),0,titre.length(),0);
-                //titreTexte.setVisibility(View.VISIBLE);
-                //titreTexte.setText(spt);
             }
             else {
                 titreTexte.setText(titre);
                 titreTexte.setVisibility(View.VISIBLE);
             }
-            //MenuItem g = monMenu.getItem(1);
-            //g.setVisible(true);
-            //g.getIcon().setColorFilter(getResources().getColor(R.color.blanc), PorterDuff.Mode.SRC_ATOP);
-            //MenuItem d = monMenu.getItem(3);
-            //d.setVisible(true);
-            //d.getIcon().setColorFilter(getResources().getColor(R.color.blanc), PorterDuff.Mode.SRC_ATOP);
+
             bdroit.setVisibility(View.VISIBLE);
             bdroit.setEnabled(true);
             bgauche.setVisibility(View.VISIBLE);
             bgauche.setEnabled(true);
 
             blangue.setVisibility(View.VISIBLE);
-          //  blangue.setText("Latin");
-          //  langueAffiche = "Latin";
+
             blangue.setText(langueAffiche);
             boutonRevient.setVisibility(View.VISIBLE);
+            boutonBookmark.setVisibility(View.VISIBLE);
 
         }
 
-        if (option == TYPE_HTML) { // autre
+        if (option == TYPE_PDF || option == TYPE_TXT || option == TYPE_HTML) { // autre
             mToolBar.setVisibility(View.VISIBLE);
-            //titreTexte.setText(titre);
-            if (StyleHtml.largeurFenetre(this.getActivity()) < 400) {
-                titreTexte.setText("");
-                titreTexte.setVisibility(View.GONE);
+            if (!mTwoPane) {
+                toolBarBookmarks.setVisibility(View.GONE);
             }
-            else {
-                titreTexte.setText("");
-                titreTexte.setVisibility(View.VISIBLE);
-            }
-            bgauche.setVisibility(View.INVISIBLE);
-            bdroit.setVisibility(View.INVISIBLE);
-            blangue.setVisibility(View.INVISIBLE);
-            boutonRevient.setVisibility(View.VISIBLE);
-
-        }
-        if (option == TYPE_PDF) { // autre
-            mToolBar.setVisibility(View.VISIBLE);
-            //titreTexte.setText(titre);
+            /*
             if (StyleHtml.largeurFenetre(this.getActivity()) < 400) {
                 titreTexte.setText("");
                 titreTexte.setVisibility(View.GONE);
@@ -438,15 +446,23 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
                 titreTexte.setText("");
                 titreTexte.setVisibility(View.GONE);
             }
-            bgauche.setVisibility(View.VISIBLE);
-            bdroit.setVisibility(View.VISIBLE);
-            blangue.setVisibility(View.VISIBLE);
-            blangue.setText(nbPagePDF);
+             */
+            String title = titre;
+            titreTexte.setText(title);
+            bgauche.setVisibility(View.GONE);
+            bdroit.setVisibility(View.GONE);
+            blangue.setVisibility(View.GONE);
+            //blangue.setText(nbPagePDF);
             boutonRevient.setVisibility(View.VISIBLE);
+            boutonBookmark.setVisibility(View.GONE);
 
         }
+
         if (option == TYPE_TEXTEAUTEUR_CHAPITRES) { // autre
             mToolBar.setVisibility(View.VISIBLE);
+            if (!mTwoPane) {
+                toolBarBookmarks.setVisibility(View.GONE);
+            }
             //titreTexte.setText(titre);
             if (StyleHtml.largeurFenetre(this.getActivity()) < 400) {
 
@@ -462,12 +478,18 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
             bdroit.setVisibility(View.GONE);
             blangue.setVisibility(View.INVISIBLE);
             boutonRevient.setVisibility(View.VISIBLE);
+            boutonBookmark.setVisibility(View.GONE);
         }
         if (option == TYPE_LISTE_FICHIERS) {
+            if (!mTwoPane) {
+                toolBarBookmarks.setVisibility(View.VISIBLE);
+            }
             bgauche.setVisibility(View.INVISIBLE);
             bdroit.setVisibility(View.INVISIBLE);
             blangue.setVisibility(View.INVISIBLE);
             mToolBar.setVisibility(View.GONE);
+            boutonBookmark.setVisibility(View.GONE);
+
         }
     }
 
@@ -493,65 +515,12 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
         return true;
     }
 
-
-
-/*
     @Override
-    public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
-
-        inflater.inflate(R.menu.menutextes,menu);
-        monMenu = menu;
-        optionsMenu(2,"");
-
-
-        super.onCreateOptionsMenu(menu,inflater);
-
+    public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+        positionCourante = position; // ??
+        typeFichier = TYPE_TEXTEAUTEUR;
+        chargeTexteAuteurPhone(sectionCourante, indiceCourant, positionCourante, true);
     }
-
-
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-
-        int id = item.getItemId();
-       // popUpVisible = false;
-
-        if (id == android.R.id.home) {
-            Log.d(TAG,"home ????");
-            revient();
-        }
-        /*
-        if (id == R.id.homeAsUp ) {
-            Log.d(TAG,"home as up");
-        }
-
-        if (id == R.id.action_langue) {
-
-            if (item.getTitle().equals("Latin")) {
-                item.setTitle("Français");
-                langueAffiche = "Français";
-            }
-            else {
-                item.setTitle("Latin");
-                langueAffiche = "Latin";
-            }
-            String js = "(function() {changeLangue()})()";
-            webViewEvalJS(js);
-            //return true;
-        }
-        if (id == R.id.action_gauche) {
-            String js = "(function() {enArriere()})()";
-            webViewEvalJS(js);
-        }
-        if (id == R.id.action_droite) {
-            String js = "(function() {enAvant()})()";
-            webViewEvalJS(js);
-        }
-
-        return super.onOptionsItemSelected(item);
-    }
-
-*/
 
 
 
@@ -559,7 +528,7 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
     public boolean onChildClick(ExpandableListView expandableListView, View view, int i, int i1, long l) {
         String nomFich = mArrayAdapterTextes.getChild(i,i1);
         String path = "";
-        int nbauteurs = mArrayAdapterTextes.gestionTextes.listeAuteurs.size();
+        int nbauteurs = mGestionTextes.listeAuteurs.size();
         sectionCourante = i;
         indiceCourant = i1;
         if (i < nbauteurs) {
@@ -567,7 +536,7 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
             if (!mTwoPane) {
                 if (typeFichier == TYPE_LISTE_FICHIERS) {
                     listeChapitres.clear();
-                    List<String> lc = mArrayAdapterTextes.gestionTextes.listeChapitresOeuvreParSectionIndice(i,i1);
+                    List<String> lc = mGestionTextes.listeChapitresOeuvreParSectionIndice(i,i1);
                     for (String c : lc) {
                         listeChapitres.add(c);
                     }
@@ -594,47 +563,112 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
             //tablet
 
             chargeTexteAuteurTablet(sectionCourante, indiceCourant, true);
-            /*
-            path = mArrayAdapterTextes.gestionTextes.fichierPartieOeuvreParSectionIndice(i,i1);
-            String texte = mArrayAdapterTextes.gestionTextes.loadTexteAuteur(path,vueWebTxt.getWidth(),taillePolice);
-            vueWebTxt.loadDataWithBaseURL(null, texte, "text/html", "utf-8", null);
-            typeFichier = TYPE_TEXTEAUTEUR;
-            lanceAnimationMontreWebVueTablet(typeFichier,nomFich);
-           */
+
         }
         else {
             if (!utiliseFileExplorer) {
-                List<String> listf = mArrayAdapterTextes.gestionTextes.getListeNomsFichiers();
+                List<String> listf = mGestionTextes.getListeNomsFichiers();
                 if (listf.size() > i1) {
                     nomFich = listf.get(i1);
-                    List<String> lp = mArrayAdapterTextes.gestionTextes.getListePaths();
+                    List<String> lp = mGestionTextes.getListePaths();
                     final String leChemin = lp.get(i1);
                     pathFichierCourant = leChemin;
                     nomFichierCourant = nomFich;
 
-                    return traiteFichier(leChemin);
+                    if (nomFich.endsWith(".tex")) {
+                        installeGaffiot(leChemin);
+                        //new AsyncTaskInstalleDict(this).execute(leChemin);
+                        return false;
+                    }
+
+                    //String nomFich = mGestionTextes.getNomFichierFromPath(leChemin);
+                    chargeWebVue(nomFich,leChemin,true);
+                    popUpVisible = false;
+                    return false;
 
                 }
             }
-
-
         }
         popUpVisible = false;
      //   menuitemTxt.setVisible(true);
         return false;
     }
 
-    boolean traiteFichier(String chemin) {
-        String nomFich = mArrayAdapterTextes.gestionTextes.getNomFichierFromPath(chemin);
-        if (nomFich.endsWith(".tex")) {
+    void chargeTexteAuteurPhone(int section, int indice, int position, boolean animation) {
+        String nomFich = mArrayAdapterTextes.getChild(section,indice);
+        String path = mGestionTextes.fichierPartieOeuvreParSectionIndice(section,indice);
+        String texte = mGestionTextes.loadTexteAuteur(path,vueWebTxt.getWidth(),taillePolice + 4);
+        texte = texte.replace("<p class = \"marge\">", "<p class = \"cache\"");
+        texte = texte.replace(".corpsTexte {margin-top:30px;}", ".corpsTexte {margin-top:10px;}");
 
-            installeGaffiot(chemin);
-            //new AsyncTaskInstalleDict(this).execute(leChemin);
-            return false;
+
+        if (!langueAffiche.equals("Latin")) {
+            texte = texte.replace("var langue1 = 'LAT';", "var langue1 = 'FR';");
+            texte = texte.replace("var langue2 = 'FR';", "var langue2 = 'LAT';");
+            texte = texte.replace("var texteLangue1 = 'Latin';", "var texteLangue1 = 'Français';");
+            texte = texte.replace("var texteLangue2 = 'Français';", "var texteLangue2 = 'Latin';");
         }
-        chargeWebVue(nomFich,chemin,true);
-        popUpVisible = false;
-        return false;
+
+// position est l'item selectionne ds listView -> commence tjrs a 0
+        // positionCourante est le num de page (donc commence a 0 si preface, 1 sinon)
+        // renvoie position + 1, ou position si partie avec preface ...
+        positionCourante = mGestionTextes.pagePourChapitreOeuvreParSectionIndice(section, indice, position);
+
+        texte = texte.replace("var numCourant = 1;", "var numCourant = " + positionCourante + ";");
+        texte = texte.replace("cacheLangue(1);", "cacheLangue(" + positionCourante + ");");
+
+        vueWebTxt.loadDataWithBaseURL(null, texte, "text/html", "utf-8", null);
+        vueWebTxt.scrollTo(0,0);
+        if (animation) {
+            lanceAnimationMontreWebVuePhone(typeFichier,nomFich);
+        }
+        else {
+            float delta = listViewChapitres.getWidth();
+            listViewChapitres.setTranslationX(delta);
+            listViewChapitres.setVisibility(View.INVISIBLE);
+            listeFichiers.setVisibility(View.INVISIBLE);
+            vueWebTxt.setVisibility(View.VISIBLE);
+            optionsMenu(typeFichier,nomFich);
+        }
+        affichageBoutonsNav(section,indice);
+        updateBoutonBookmark(positionCourante);
+    }
+
+    void chargeTexteAuteurTablet(int section, int indice, boolean animation) {
+        String nomFich = mArrayAdapterTextes.getChild(section,indice);
+        String path = mGestionTextes.fichierPartieOeuvreParSectionIndice(section,indice);
+        String texte = mGestionTextes.loadTexteAuteur(path,vueWebTxt.getWidth(),taillePolice + 4);
+        if (positionCourante == 0) {
+            positionCourante = mGestionTextes.pagePourChapitreOeuvreParSectionIndice(section, indice, positionCourante);
+        }
+        texte = texte.replace("var numCourant = 1;", "var numCourant = " + positionCourante + ";");
+        texte = texte.replace("cacheLangue(1);","cacheLangue(" + positionCourante + ");");
+        //String js = "(function() {cacheLangue(" + positionCourante + ")})()";
+        //webViewEvalJS(js);
+        // }
+        if (!langueAffiche.equals("Latin")) {
+            texte = texte.replace("var langue1 = 'LAT';", "var langue1 = 'FR';");
+            texte = texte.replace("var langue2 = 'FR';", "var langue2 = 'LAT';");
+            texte = texte.replace("var texteLangue1 = 'Latin';", "var texteLangue1 = 'Français';");
+            texte = texte.replace("var texteLangue2 = 'Français';", "var texteLangue2 = 'Latin';");
+        }
+        vueWebTxt.loadDataWithBaseURL(null, texte, "text/html", "utf-8", null);
+        vueWebTxt.scrollTo(0,0);
+
+        typeFichier = TYPE_TEXTEAUTEUR;
+        //optionsMenu(typeFichier,nomFich);
+        if (animation) {
+            lanceAnimationMontreWebVueTablet(typeFichier,nomFich);
+        }
+        else {
+            float delta = -frameLayListeFichiers.getWidth();
+            frameLayListeFichiers.setTranslationX(delta);
+            frameLayListeFichiers.setVisibility(View.INVISIBLE);
+            optionsMenu(typeFichier,nomFich);
+        }
+        affichageBoutonsNav(section,indice);
+        updateBoutonBookmark(positionCourante);
+
     }
 
     void installeDictGaffiot(Uri uri, String version) {
@@ -704,26 +738,27 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
         }
     }
 
-    void chargeHtmlString(String htmlString, String nomFichier, boolean avecAnimation) {
+    void chargeHtmlString(String htmlString, String nomFichier, String encoding, boolean avecAnimation) {
 
         String cf = htmlString;
         String remp = "";
+
         if (htmlString.contains("</body>")) {
             remp = "</body>";
         }
         if (htmlString.contains("< /body>")) {
             remp = "< /body>";
         }
-
-        String scr1 = mArrayAdapterTextes.gestionTextes.scriptJS("jquery341.min.js");
-        String scr2 = mArrayAdapterTextes.gestionTextes.scriptJS("SelectTextScriptINSIDE.js");
+        Log.d(ActivitePrincipale2.TAG,TAG + " charge string ? ");
+        String scr1 = mGestionTextes.scriptJS("jquery341.min.js");
+        String scr2 = mGestionTextes.scriptJS("SelectTextScriptINSIDE.js");
 
         String scriptRemp = "<script src=\"" + scr1 + "\"></script>" + "<script src=\"" + scr2 + "\"></script>";
+
         cf = cf.replace(remp,scriptRemp + remp);
-
-        vueWebTxt.loadDataWithBaseURL(null, cf, "text/html", "utf-8", null);
-
-        typeFichier = TYPE_HTML;
+        //  MiseEnForme.afficheGrosLog(ActivitePrincipale2.TAG, TAG + cf);
+        vueWebTxt.loadDataWithBaseURL(null, cf, "text/html", encoding, null);
+        vueWebTxt.scrollTo(0,0);
         if (avecAnimation) {
             if (mTwoPane) {
                 lanceAnimationMontreWebVueTablet(typeFichier,nomFichier);
@@ -734,36 +769,77 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
         }
     }
 
+
     void chargeWebVue(String nomFichier, String pathFichier, boolean avecAnimation) {
-
-
-        if (nomFichier.endsWith(".pdf") || nomFichier.endsWith(".html")) { // || nomFich.endsWith(".rtf") marche pas
+        Log.d(ActivitePrincipale2.TAG,TAG + "charge web vue " + nomFichier + " path : " + pathFichier);
+        if (nomFichier.endsWith(".pdf") || nomFichier.endsWith(".html") || nomFichier.endsWith(".txt")) { // || nomFich.endsWith(".rtf") marche pas
             if (nomFichier.endsWith("pdf")) {
-
                 chargePDFfile(nomFichier,pathFichier,avecAnimation);
             }
             else {
                 GestionFichiers GF = new GestionFichiers(mContext);
                 String cf = GF.readStringFromPath(pathFichier); // "";
-                /*
-                try {
-                    FileInputStream fis = new FileInputStream (new File(pathFichier));
-                    int size = fis.available();
-                    byte[] buffer = new byte[size];
-                    fis.read(buffer);
-                    fis.close();
-                    cf = new String(buffer);
-                } catch (IOException e) {
-                    e.printStackTrace();
+                if (nomFichier.endsWith(".html")) {
+                    typeFichier = TYPE_HTML;
                 }
-                */
-                chargeHtmlString(cf,nomFichier,avecAnimation);
-
+                if (nomFichier.endsWith(".txt")) {
+                    typeFichier = TYPE_TXT;
+                    //Log.d(ActivitePrincipale2.TAG,TAG + cf);
+                }
+                chargeHtmlString(cf,nomFichier,"utf-8",avecAnimation);
             }
 
         }
     }
 
+    void chargeWebVueFromUri(Uri uri, boolean avecAnimation) {
+        if (uri == null) {
+            return;
+        }
+
+        String dernpart = pathFichierCourant;
+
+        String nomFichier = dernpart;
+        Uri urtp = Uri.parse(nomFichier);
+        nomFichier = urtp.getLastPathSegment();
+
+        if (dernpart.endsWith(".html")) { // || dernpart.endsWith(".rtf")
+            String cf = "";
+            String charsetStr = "utf-8";
+            cf = GestionFichiers.readTextFromUri(getActivity(),uri, false);
+            Log.d(ActivitePrincipale2.TAG,TAG + "fichier html - nom : " + nomFichier);
+
+            cf = cf.replace("HTML","html");
+            cf = cf.replace("BODY","body");
+            cf = cf.replace("HEAD","head");
+            cf = cf.replace("META","meta");
+            typeFichier = TYPE_HTML;
+            chargeHtmlString(cf,nomFichier,charsetStr,true);
+        }
+
+        if (dernpart.endsWith(".txt")) { // || dernpart.endsWith(".rtf")
+            String cf = "";
+            String charsetStr = "utf-8";
+
+            StyleHtml st = new StyleHtml();
+            cf = st.styleHtmlTextesAuteurs(vueWebTxt.getWidth(), taillePolice);
+            cf += " <body> ";
+            //String typeFich = "txt"; //"html";
+            cf += GestionFichiers.readTextFromUri(getActivity(),uri, true);
+            cf += " </body> ";
+            //cf = cf.replace("\n","<BR>");
+            typeFichier = TYPE_TXT;
+            chargeHtmlString(cf,nomFichier,charsetStr,true);
+        }
+
+        if (dernpart.endsWith(".pdf")) {
+            chargePDFfile(nomFichier, pathFichierCourant, true);
+            typeFichier = TYPE_PDF;
+        }
+        // pathFichierCourant = path;
+        // nomFichierCourant = nomFichier;
+        Log.d(ActivitePrincipale2.TAG,TAG + " bien reçu ... dern part : " + dernpart + " path : " + pathFichierCourant);
+    }
 
 
     void lanceAsync(String cheminFichier) {
@@ -774,77 +850,154 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
     }
 
 
-    // listeChapitres si phone
-    @Override
-    public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-        positionCourante = position;
-        typeFichier = TYPE_TEXTEAUTEUR;
-        chargeTexteAuteurPhone(sectionCourante, indiceCourant, positionCourante, true);
+
+
+
+
+
+
+    //region BOOKMARKS
+    boolean isPageDansListeBookmarks(int page) {
+        BookMark bm = new BookMark(sectionCourante,indiceCourant,page,0);
+        GestionSettings gs = new GestionSettings(mContext);
+        return gs.isBookmarkDansListe(bm);
     }
 
-    void chargeTexteAuteurPhone(int section, int indice, int position, boolean animation) {
-        String nomFich = mArrayAdapterTextes.getChild(section,indice);
-        String path = mArrayAdapterTextes.gestionTextes.fichierPartieOeuvreParSectionIndice(section,indice);
-        String texte = mArrayAdapterTextes.gestionTextes.loadTexteAuteur(path,vueWebTxt.getWidth(),taillePolice + 4);
-        texte = texte.replace("<p class = \"marge\">", "<p class = \"cache\"");
-        texte = texte.replace(".corpsTexte {margin-top:30px;}", ".corpsTexte {margin-top:10px;}");
+    void ouvrePageBookmark(BookMark bookmark) {
+        sectionCourante = bookmark.indAuteur;
+        indiceCourant = bookmark.indPartie;
 
+        if (!mTwoPane) {
+            positionCourante = mGestionTextes.chapitrePourPageOeuvreParSectionIndice(sectionCourante,indiceCourant,bookmark.indChapitre);
+            if (typeFichier == TYPE_LISTE_FICHIERS) {
+                String nomFich = mArrayAdapterTextes.getChild(bookmark.indAuteur, bookmark.indPartie);
+                listeChapitres.clear();
+                List<String> lc = mGestionTextes.listeChapitresOeuvreParSectionIndice(bookmark.indAuteur, bookmark.indPartie);
+                for (String c : lc) {
+                    listeChapitres.add(c);
+                }
+                aradChapitres.notifyDataSetChanged();
 
-        if (!langueAffiche.equals("Latin")) {
-            texte = texte.replace("var langue1 = 'LAT';", "var langue1 = 'FR';");
-            texte = texte.replace("var langue2 = 'FR';", "var langue2 = 'LAT';");
-            texte = texte.replace("var texteLangue1 = 'Latin';", "var texteLangue1 = 'Français';");
-            texte = texte.replace("var texteLangue2 = 'Français';", "var texteLangue2 = 'Latin';");
-        }
-
-
-        pageACharger = mArrayAdapterTextes.gestionTextes.pagePourChapitreOeuvreParSectionIndice(section, indice, position);
-        vueWebTxt.loadDataWithBaseURL(null, texte, "text/html", "utf-8", null);
-        if (animation) {
-            lanceAnimationMontreWebVuePhone(typeFichier,nomFich);
+                if (listeChapitres.size() == 1) {
+                    typeFichier = TYPE_TEXTEAUTEUR;
+                    optionsMenu(typeFichier,nomFich);
+                    lanceAnimationMontreListeChapitres();
+                    chargeTexteAuteurPhone(sectionCourante, indiceCourant, positionCourante, false);
+                }
+                else {
+                    typeFichier = TYPE_TEXTEAUTEUR_CHAPITRES;
+                    optionsMenu(typeFichier,nomFich);
+                    lanceAnimationMontreListeChapitres();
+                    typeFichier = TYPE_TEXTEAUTEUR;
+                    chargeTexteAuteurPhone(sectionCourante, indiceCourant, positionCourante, false);
+                }
+                scrollWebVueToBookmScroll(bookmark);
+            }
+            //chargeTexteAuteurPhone(bookmark.indAuteur, bookmark.indPartie, bookmark.indChapitre, false);
         }
         else {
-            float delta = listViewChapitres.getWidth();
-            listViewChapitres.setTranslationX(delta);
-            listViewChapitres.setVisibility(View.INVISIBLE);
-            listeFichiers.setVisibility(View.INVISIBLE);
-            vueWebTxt.setVisibility(View.VISIBLE);
-            optionsMenu(typeFichier,nomFich);
+            positionCourante = bookmark.indChapitre; //mGestionTextes.chapitrePourPageOeuvreParSectionIndice(sectionCourante,indiceCourant,bookmark.indChapitre);
+            chargeTexteAuteurTablet(bookmark.indAuteur, bookmark.indPartie, false);
+            scrollWebVueToBookmScroll(bookmark);
         }
 
     }
-
-    void chargeTexteAuteurTablet(int section, int indice, boolean animation) {
-        String nomFich = mArrayAdapterTextes.getChild(section,indice);
-        String path = mArrayAdapterTextes.gestionTextes.fichierPartieOeuvreParSectionIndice(section,indice);
-        String texte = mArrayAdapterTextes.gestionTextes.loadTexteAuteur(path,vueWebTxt.getWidth(),taillePolice + 4);
-        if (positionCourante > 0) {
-            texte = texte.replace("cacheLangue(1);","cacheLangue(" + positionCourante + ");");
-            //String js = "(function() {cacheLangue(" + positionCourante + ")})()";
-            //webViewEvalJS(js);
-        }
-        if (!langueAffiche.equals("Latin")) {
-            texte = texte.replace("var langue1 = 'LAT';", "var langue1 = 'FR';");
-            texte = texte.replace("var langue2 = 'FR';", "var langue2 = 'LAT';");
-            texte = texte.replace("var texteLangue1 = 'Latin';", "var texteLangue1 = 'Français';");
-            texte = texte.replace("var texteLangue2 = 'Français';", "var texteLangue2 = 'Latin';");
-        }
-        vueWebTxt.loadDataWithBaseURL(null, texte, "text/html", "utf-8", null);
-
-
-        typeFichier = TYPE_TEXTEAUTEUR;
-        //optionsMenu(typeFichier,nomFich);
-        if (animation) {
-            lanceAnimationMontreWebVueTablet(typeFichier,nomFich);
+    void updateBoutonBookmark(int page) {
+        //Log.d(ActivitePrincipale2.TAG,TAG + "update bouton BM ?? " + isPageDansListeBookmarks(page));
+        if (isPageDansListeBookmarks(page)) {
+            setBoutonBookmark(true);
         }
         else {
-            float delta = -frameLayListeFichiers.getWidth();
-            frameLayListeFichiers.setTranslationX(delta);
-            frameLayListeFichiers.setVisibility(View.INVISIBLE);
-            optionsMenu(typeFichier,nomFich);
+            setBoutonBookmark(false);
+        }
+    }
+
+    void setBoutonBookmark(boolean selectionne) {
+        if (selectionne) {
+            boutonBookmark.setImageDrawable(getResources().getDrawable(R.drawable.bookmark));
+        }
+        else {
+            boutonBookmark.setImageDrawable(getResources().getDrawable(R.drawable.bouton_bookmark));
+        }
+    }
+
+    void scrollWebVueToBookmScroll(BookMark bookmark) {
+        if (bookmark.scrollY > 0) {
+            if (bookmark.orientation.equals(getOrientationString())) {
+                //vueWebTxt.scrollTo(0,bookmark.scrollY);
+                scrollY = bookmark.scrollY;
+            }
+            else {
+                if (vueWebTxt.getWidth() > 0) {
+                    int rap = vueWebTxt.getHeight()/vueWebTxt.getWidth();
+                    //vueWebTxt.scrollTo(0,bookmark.scrollY * rap);
+                    scrollY = bookmark.scrollY * rap;
+                }
+            }
+        }
+        else {
+            vueWebTxt.scrollTo(0,0);
+            scrollY = 0;
+        }
+    }
+
+    void ouvreDialogueListeBookmarks() {
+        GestionSettings gs = new GestionSettings(mContext);
+        ArrayList<BookMark> bml = gs.getBookmarksList();
+        ArrayList<String> listeStringBookmarks = new ArrayList<String>();
+        for (BookMark bm : bml) {
+            String descr = mGestionTextes.getDescriptionBookmark(bm);
+            listeStringBookmarks.add(descr);
+            //Log.d(ActivitePrincipale2.TAG,TAG + " : " + descr);
         }
 
+        String[] lsbm = new String[listeStringBookmarks.size()];
+        listeStringBookmarks.toArray(lsbm);
 
+
+        if (listeStringBookmarks.size() == 0) {
+            Toast.makeText(mContext, "Vous n'avez pas de marque-pages.", Toast.LENGTH_SHORT).show();
+        }
+        else {
+            AlertDialog.Builder myDialog = new AlertDialog.Builder(getActivity());
+            myDialog.setTitle("Marque-pages");
+            myDialog.setItems(lsbm, new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialog, int which) {
+                    BookMark bm = bml.get(which);
+                    ouvrePageBookmark(bm);
+                }
+            });
+            myDialog.show();
+        }
+
+    }
+    //endregion
+
+    void affichageBoutonsNav(int section, int indice) {
+        List<String> lt = mGestionTextes.listeChapitresOeuvreParSectionIndice(section,indice);
+        //Log.d(ActivitePrincipale2.TAG,TAG + "chaps size : " + lt.size());
+        if (lt.size() == 1) {
+            bdroit.setVisibility(View.INVISIBLE);
+            bgauche.setVisibility(View.INVISIBLE);
+        }
+        else {
+            bdroit.setVisibility(View.VISIBLE);
+            bgauche.setVisibility(View.VISIBLE);
+        }
+    }
+
+    //region ANIMATION
+    void lanceAnimationRevientTablet() {
+        frameLayListeFichiers.setVisibility(View.VISIBLE);
+        if (frameLayListeFichiers.getTranslationX() > 0) {
+            frameLayListeFichiers.setTranslationX(frameLayListeFichiers.getWidth());
+        }
+        ObjectAnimator anim1 = ObjectAnimator.ofFloat(frameLayListeFichiers,"translationX",0);
+        anim1.setDuration(dureeAnimations);
+        anim1.start();
+        typeFichier = TYPE_LISTE_FICHIERS;
+        optionsMenu(TYPE_LISTE_FICHIERS,"");
     }
 
     void lanceAnimationRevientPhone() {
@@ -861,7 +1014,7 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
             typeFichier = TYPE_LISTE_FICHIERS;
             optionsMenu(TYPE_LISTE_FICHIERS,"");
         }
-        if (typeFichier == TYPE_PDF || typeFichier == TYPE_HTML) {
+        if (typeFichier == TYPE_PDF || typeFichier == TYPE_HTML || typeFichier == TYPE_TXT) {
             listeFichiers.setVisibility(View.VISIBLE);
             listViewChapitres.setVisibility(View.VISIBLE);
             if (listeFichiers.getTranslationX() == 0) {
@@ -928,21 +1081,7 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
                 typeFichier = TYPE_TEXTEAUTEUR_CHAPITRES;
                 optionsMenu(TYPE_TEXTEAUTEUR_CHAPITRES,titreTexte.getText().toString());
             }
-
-
-
         }
-    }
-    void lanceAnimationRevientTablet() {
-        frameLayListeFichiers.setVisibility(View.VISIBLE);
-        if (frameLayListeFichiers.getTranslationX() == 0) {
-            frameLayListeFichiers.setTranslationX(frameLayListeFichiers.getWidth());
-        }
-        ObjectAnimator anim1 = ObjectAnimator.ofFloat(frameLayListeFichiers,"translationX",0);
-        anim1.setDuration(dureeAnimations);
-        anim1.start();
-        typeFichier = TYPE_LISTE_FICHIERS;
-        optionsMenu(TYPE_LISTE_FICHIERS,"");
     }
 
     void lanceAnimationMontreListeChapitres() {
@@ -1008,7 +1147,7 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
     }
     void lanceAnimationMontreWebVuePhone(final int typeFichierNum, final String nomFichier) {
 
-        if (typeFichier == TYPE_PDF || typeFichier == TYPE_HTML) {
+        if (typeFichier == TYPE_PDF || typeFichier == TYPE_HTML || typeFichier == TYPE_TXT) {
             float delta = listeFichiers.getWidth() + 50;
             listViewChapitres.setVisibility(View.INVISIBLE);
             ObjectAnimator anim1 = ObjectAnimator.ofFloat(listeFichiers,"translationX",delta);
@@ -1067,12 +1206,17 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
         vueWebTxt.setVisibility(View.VISIBLE);
         optionsMenu(typeFichierNum,nomFichier);
     }
-
+    //endregion
 
     WebViewClient setWbC() {
         return new WebViewClient() {
             public void onPageFinished(WebView view, String url) {
                 super.onPageFinished(view, url);
+                if (scrollY > 0) {
+                    vueWebTxt.scrollTo(0,scrollY);
+                    scrollY = 0;
+                }
+                /*
                 if (!mTwoPane) {
                     if (typeFichier == TYPE_TEXTEAUTEUR) {
                         if (pageACharger != -1) {
@@ -1082,6 +1226,8 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
                         }
                     }
                 }
+
+                 */
             }
             @Override
             public void onScaleChanged(WebView view, float oldScale, float newScale) {
@@ -1170,11 +1316,20 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
 
     String htmlbidon = "<html  <head></head> <body><div><p></p> </div></body></html>"; //Lorem ipsum etc...
 
-
-    @Override
-    public void debug(String texte) {
-        Log.d(TAG,"webappInt debug : " + texte);
+    @RequiresApi(api = Build.VERSION_CODES.KITKAT)
+    void getHtml() {
+        vueWebTxt.evaluateJavascript(
+                "(function() { return ('<html>'+document.getElementsByTagName('html')[0].innerHTML+'</html>'); })();",
+                new ValueCallback<String>() {
+                    @Override
+                    public void onReceiveValue(String html) {
+                        //Log.d("HTML", html);
+                        MiseEnForme.afficheGrosLog("gros log ? : " + html,ActivitePrincipale2.TAG);
+                        // code here
+                    }
+                });
     }
+
 /*
     public void montrePopUp() {
         popUpVisible = true;
@@ -1288,6 +1443,8 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
             recupereTexte(s);
         }
        */
+
+    //region WEBINTERFACE
     public void recuperePages(int pageCourante, int nbPages) {
         nbPagePDF = pageCourante + "/" + nbPages;
 
@@ -1301,21 +1458,13 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
     public void recupereChapitreCourant(int chapitre) {
         //Log.d(TAG,"recupChap? " + chapitre);
         positionCourante = chapitre;
-    }
-
-
-    private class changePageTask extends AsyncTask<String, Void, String> {
-
-        @Override
-        protected void onPostExecute(String result) {
-            super.onPostExecute(result);
-            blangue.setText(result);
-
-        }
-
-        @Override
-        protected String doInBackground(String... params) {
-            return params[0];
+        // appele a chaque fois que chapitre change
+        if (typeFichier == TYPE_TEXTEAUTEUR) {
+            getActivity().runOnUiThread(new Runnable() {
+                public void run() {
+                    updateBoutonBookmark(chapitre);
+                }
+            });
         }
     }
 
@@ -1335,6 +1484,28 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
             Log.d("clipboard texte== ", txtSelect);
             */
     }
+    @Override
+    public void debug(String texte) {
+        Log.d(TAG,"webappInt debug : " + texte);
+    }
+    //endregion
+
+    private class changePageTask extends AsyncTask<String, Void, String> {
+
+        @Override
+        protected void onPostExecute(String result) {
+            super.onPostExecute(result);
+            blangue.setText(result);
+
+        }
+
+        @Override
+        protected String doInBackground(String... params) {
+            return params[0];
+        }
+    }
+
+
 
     void webViewEvalJS(String js) {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
@@ -1372,9 +1543,9 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
         pointTouche.set((int) px, (int) py);
         switch(motionEvent.getAction()){
             case MotionEvent.ACTION_DOWN:
-                if (typeFichier == TYPE_HTML) {
+                //if (typeFichier == TYPE_HTML) {
                     webViewEvalJS(unhighlightScript());
-                }
+                //}
                 toucheBouge = false;
                 break;
             case MotionEvent.ACTION_MOVE:
@@ -1453,22 +1624,23 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
     // interface SelectDocuments
     @Override
     public void ouvreDocuments() {
-        listeFichiers.collapseGroup(mArrayAdapterTextes.gestionTextes.listeAuteurs.size());
+        listeFichiers.collapseGroup(mGestionTextes.listeAuteurs.size());
 
-        /*
-        File yo = mArrayAdapterTextes.gestionTextes.GF.getDirectoryStorage(getActivity());
-        Uri uri = Uri.fromFile(yo);
-        openFile(uri);
-        */
+        String initialUriString = "content://com.android.externalstorage.documents/document/primary%3ATabula%2F";
+        //  String initialUriString =  "content://com.verbole.dcad.scriba.provider/scriba/";
+        Uri uriFile = Uri.parse(initialUriString); //MonFileProvider.CONTENT_URI;
 
-     //   Uri uriFile = MonFileProvider.getUriForFile(getContext(),AUTHORITY,yo);
-        //Intent intent = new Intent(Intent.ACTION_OPEN_DOCUMENT, uriFile);
-        //intent.addCategory(Intent.CATEGORY_OPENABLE);
-
-        Uri uriFile = Uri.parse("content://com.verbole.dcad.tabula.provider/tabula/"); //MonFileProvider.CONTENT_URI;
-        Intent intent = new Intent(Intent.ACTION_OPEN_DOCUMENT, uriFile);
-
+        Intent intent = new Intent(Intent.ACTION_OPEN_DOCUMENT); //, uriFile
+        intent.setType("*/*");
+        String[] mimetypes = {"text/plain", "text/html","application/pdf","text/x-tex"}; // shtml marche pas bien que teste mimetype = "text/html" ...
+        intent.putExtra(Intent.EXTRA_MIME_TYPES, mimetypes);
+        uriCourante = null;
         intent.addCategory(Intent.CATEGORY_OPENABLE);
+
+        intent.putExtra(DocumentsContract.EXTRA_INITIAL_URI, uriFile);
+        // intent.putExtra("android.content.extra.SHOW_ADVANCED", true);
+        //causes device storage to be available as a provider (otherwise, depending on the flavor of Android, it may require the user to select it or not be available at all).
+
         startActivityForResult(intent, 1);
     }
 
@@ -1492,80 +1664,40 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
         startActivityForResult(intent, 1);
     }
 
-
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
-        super.onActivityResult(requestCode,resultCode,data);
-
+        //super.onActivityResult(requestCode,resultCode,data);
+        // !!!!! vueDocuments onStart, onResume va etre appele apres onActivityResult ...
         if (resultCode == Activity.RESULT_OK) {
+            uriCourante = data.getData();
+            //chargeWebVueFromUri(uri,true);
 
-            Uri uri = data.getData();
-            Log.d(ActivitePrincipale2.TAG,TAG + " activity result: " + uri.toString());
-            String dernpart = uri.getLastPathSegment();
-            String nomFichier = dernpart;
-            if (dernpart.contains("/")) {
-                int indt = dernpart.indexOf("/");
-                if (nomFichier.length() > indt + 1) {
-                    nomFichier = nomFichier.substring(indt + 1);
+            pathFichierCourant = com.verbole.dcad.scriba.URI_helper2.getPath(getContext(),uriCourante);
+            if (pathFichierCourant == null || pathFichierCourant.isEmpty()) {
+                pathFichierCourant = URI_helper.getPath(getContext(),uriCourante);
+            }
+            //  String path = URI_helper.getPath(getContext(),uriCourante);
+            Log.d(ActivitePrincipale2.TAG,TAG + " activity result: " + uriCourante.toString() + " path2 : " + pathFichierCourant);
+            if (pathFichierCourant != null) {
+                if (pathFichierCourant.endsWith(".html")) {
+                    typeFichier = TYPE_HTML;
                 }
-
-            }
-
-            if (dernpart.endsWith(".html")) { // || dernpart.endsWith(".rtf")
-                //String path = URI_helper.getPath(getContext(),uri);
-                nomFichier = nomFichier.replace(".html","");
-                String cf = "";
-             //   String cf = GestionFichiers.readStringFromInputStream(getActivity(),uri);
-             //   GestionFichiers GF = new GestionFichiers(mContext);
-             //   String cf = GF.readStringFromPath(path);
-
-                try {
-                    InputStream inputStream = getActivity().getContentResolver().openInputStream(uri);
-
-                    BufferedReader r = new BufferedReader(new InputStreamReader(inputStream));
-                    StringBuilder total = new StringBuilder(inputStream.available());
-                    for (String line; (line = r.readLine()) != null; ) {
-                        total.append(line).append('\n');
-                    }
-                    cf = total.toString();
-
-                } catch (IOException e) {
-                    e.printStackTrace();
+                if (pathFichierCourant.endsWith(".txt")) {
+                    typeFichier = TYPE_TXT;
                 }
-                cf = cf.replace("HTML","html");
-                cf = cf.replace("BODY","body");
-                cf = cf.replace("HEAD","head");
-                cf = cf.replace("META","meta");
-
-                //MiseEnForme.afficheGrosLog(cf,TAG);
-
-                chargeHtmlString(cf,nomFichier,true);
-
-            }
-
-            String path = URI_helper.getPath(getContext(),uri);
-
-            if (dernpart.endsWith(".tex")) {
-                if (path == null) {
-                    path = "";
+                if (pathFichierCourant.endsWith(".pdf")) {
+                    typeFichier = TYPE_PDF;
                 }
-                ParseGaffiot pg = new ParseGaffiot();
-                String version = pg.parseDebutFichier(path);
-                installeDictGaffiot(uri,version);
-
-                //installeGaffiot(path);
-            }
-            if (dernpart.endsWith(".pdf")) {
-                //nomFichier = mArrayAdapterTextes.gestionTextes.getNomFichierFromPath(path);
-                nomFichier = nomFichier.replace(".pdf","");
-                chargePDFfile(nomFichier, path, true);
+                if (pathFichierCourant.endsWith(".tex")) {
+                    ParseGaffiot pg = new ParseGaffiot();
+                    String version = pg.parseDebutFichier(pathFichierCourant);
+                    installeDictGaffiot(uriCourante,version);
+                    //installeGaffiot(path);
+                }
             }
 
-
-            Log.d(ActivitePrincipale2.TAG,TAG + "yo bien recu1 ... dern part : " + dernpart + " path : " + path);
         }
-
-
     }
+
     /*
     public void openDirectory(Uri uriToLoad) {
         // Choose a directory using the system's file picker.
@@ -1618,6 +1750,34 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
             }
             //return true;
         }
+        if (v == boutonMontreBookmarks) {
+            ouvreDialogueListeBookmarks();
+        }
+
+        if (v == boutonBookmark) {
+            int posY = 0;
+            int sectionVirgil = mGestionTextes.listeAuteurs.indexOf("Virgil");
+            //  if (sectionCourante == sectionVirgil) {
+            posY = vueWebTxt.getScrollY();
+            //   }
+
+            //Log.d(ActivitePrincipale2.TAG,TAG + "bookmark : section " + sectionCourante + " - indice " + indiceCourant + " - position " + positionCourante);
+            BookMark bm = new BookMark(sectionCourante,indiceCourant,positionCourante,posY);
+            bm.orientation = getOrientationString();
+            GestionSettings gs = new GestionSettings(mContext);
+            if (gs.isBookmarkDansListe(bm)) {
+                gs.enleveBookmark(bm);
+                setBoutonBookmark(false);
+                Toast.makeText(mContext, "le marque-page a été enlevé", Toast.LENGTH_SHORT).show();
+            }
+            else {
+                gs.ajouteBookmark(bm);
+                setBoutonBookmark(true);
+                Toast.makeText(mContext, "le marque-page a été ajouté", Toast.LENGTH_SHORT).show();
+            }
+
+            //Log.d(ActivitePrincipale2.TAG,TAG + " ajoute : " + bm.indAuteur + " - " + bm.indPartie + " - " + bm.indChapitre + " - " + bm.scrollY);
+        }
 
         if (v == bgauche || v == bdroit) {
             if (mTwoPane) {
@@ -1631,7 +1791,7 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
             if (positionCourante > 0) {
                 String js = "(function() {enArriere()})()";
                 webViewEvalJS(js);
-                positionCourante -= 1;
+                //positionCourante -= 1;
 
                 if (positionCourante <= 0) {
                     bgauche.setEnabled(false);
@@ -1646,7 +1806,7 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
                 //  listeChapitres.size() = 0 : tablette
                 String js = "(function() {enAvant()})()";
                 webViewEvalJS(js);
-                positionCourante += 1;
+                //positionCourante += 1;
 
                 if (positionCourante >= listeChapitres.size() - 1 && listeChapitres.size() > 0) {
                     bdroit.setEnabled(false);
@@ -1841,6 +2001,15 @@ public class FragmentTextes extends Fragment implements View.OnTouchListener, We
         }
     }
 
+    String getOrientationString() {
+        int or = getActivity().getResources().getConfiguration().orientation;
+        if (or == Configuration.ORIENTATION_PORTRAIT) {
+            return  "P";
+        }
+        else {
+            return  "L";
+        }
+    }
 
     public void createDial() {
         DialogueAjouteCarte dial = new DialogueAjouteCarte(getContext(),getActivity(),MeF);

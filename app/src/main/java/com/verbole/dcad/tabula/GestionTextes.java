@@ -29,7 +29,7 @@ public class GestionTextes {
         oeuvreClassique.auteur = "Salluste";
         oeuvreClassique.titre = "Guerre de Jugurtha";
         oeuvreClassique.fichiers = Arrays.asList("Salluste_GJugurtha");
-        oeuvreClassique.parties = Arrays.asList(new Partie().init("I",114));
+        oeuvreClassique.parties = Arrays.asList(new Partie("I",114));
                 //.init(auteur: "Salluste", titre: "Guerre de Jugurtha", fichiers: ["Salluste_GJugurtha"], parties: [("I",114)])
         listeOeuvresClassiques.add(oeuvreClassique);
 
@@ -37,7 +37,7 @@ public class GestionTextes {
         oeuvreClassique.auteur = "Salluste";
         oeuvreClassique.titre = "Conjuration de Catilina";
         oeuvreClassique.fichiers = Arrays.asList("Bellum_Catilinae");
-        oeuvreClassique.parties = Arrays.asList(new Partie().init("I",61));
+        oeuvreClassique.parties = Arrays.asList(new Partie("I",61));
         //.init(auteur: "Salluste", titre: "Guerre de Jugurtha", fichiers: ["Salluste_GJugurtha"], parties: [("I",114)])
         listeOeuvresClassiques.add(oeuvreClassique);
 
@@ -54,7 +54,7 @@ public class GestionTextes {
             String titre = "Guerre des Gaules " + rom;
             String fichier = "Caesar_BellumGallicum_" + rom;
             oeuvreClassique.fichiers.add(fichier);
-            oeuvreClassique.parties.add(new Partie().init(titre,chaps1[i - 1]));
+            oeuvreClassique.parties.add(new Partie(titre,chaps1[i - 1]));
         }
         listeOeuvresClassiques.add(oeuvreClassique);
 
@@ -69,7 +69,7 @@ public class GestionTextes {
             String titre = "Guerre Civile " + rom;
             String fichier = "Caesar_BelloCivili_" + rom;
             oeuvreClassique.fichiers.add(fichier);
-            oeuvreClassique.parties.add(new Partie().init(titre,chaps2[i - 1]));
+            oeuvreClassique.parties.add(new Partie(titre,chaps2[i - 1]));
         }
         listeOeuvresClassiques.add(oeuvreClassique);
 
@@ -91,12 +91,15 @@ public class GestionTextes {
             if (v.startsWith("A") || v.startsWith("E") || v.startsWith("I")) {
                 titre = "Vie d'" + v;
             }
-            if (v.equals("Des Rois") || v.equals("Preface")) {
+            if (v.equals("Des Rois")) {
                 titre = v;
+            }
+            if (v.equals("Preface")) {
+                titre = "Préface";
             }
             String fichier = "Nepos/" + v;
             oeuvreClassique.fichiers.add(fichier);
-            oeuvreClassique.parties.add(new Partie().init(titre,chaps3[i - 1]));
+            oeuvreClassique.parties.add(new Partie(titre,chaps3[i - 1]));
         }
         listeOeuvresClassiques.add(oeuvreClassique);
 
@@ -120,7 +123,7 @@ public class GestionTextes {
             String titre = "Annales " + rom;
             String fichier = "Tacite/Annales_Tacite_" + rom;
             oeuvreClassique.fichiers.add(fichier);
-            oeuvreClassique.parties.add(new Partie().init(titre,chaps5[i - 1]));
+            oeuvreClassique.parties.add(new Partie(titre,chaps5[i - 1]));
         }
         listeOeuvresClassiques.add(oeuvreClassique);
 
@@ -136,7 +139,7 @@ public class GestionTextes {
             String titre = "Histoires " + rom;
             String fichier = "Tacite/Histoires_Tacite_" + rom;
             oeuvreClassique.fichiers.add(fichier);
-            oeuvreClassique.parties.add(new Partie().init(titre,chaps4[i - 1]));
+            oeuvreClassique.parties.add(new Partie(titre,chaps4[i - 1]));
         }
         listeOeuvresClassiques.add(oeuvreClassique);
 
@@ -155,7 +158,7 @@ public class GestionTextes {
             String titre = "Confessions " + rom;
             String fichier = "StAugustin/Confessions_StAugustin_" + rom;
             oeuvreClassique.fichiers.add(fichier);
-            oeuvreClassique.parties.add(new Partie().init(titre,chaps6[i - 1]));
+            oeuvreClassique.parties.add(new Partie(titre,chaps6[i - 1]));
         }
         listeOeuvresClassiques.add(oeuvreClassique);
 
@@ -166,42 +169,42 @@ public class GestionTextes {
         oeuvreClassique.auteur = auteur;
         oeuvreClassique.titre = "Psaumes";
         oeuvreClassique.fichiers = Arrays.asList("StJerome/Vulgate_Psaumes");
-        oeuvreClassique.parties = Arrays.asList(new Partie().init("I",150));
+        oeuvreClassique.parties = Arrays.asList(new Partie("I",150));
         listeOeuvresClassiques.add(oeuvreClassique);
 
         oeuvreClassique = new OeuvreClassique();
         oeuvreClassique.auteur = auteur;
         oeuvreClassique.titre = "St Matthieu";
         oeuvreClassique.fichiers = Arrays.asList("StJerome/Vulgate_Matthieu");
-        oeuvreClassique.parties = Arrays.asList(new Partie().init("I",28));
+        oeuvreClassique.parties = Arrays.asList(new Partie("I",28));
         listeOeuvresClassiques.add(oeuvreClassique);
 
         oeuvreClassique = new OeuvreClassique();
         oeuvreClassique.auteur = auteur;
         oeuvreClassique.titre = "St Marc";
         oeuvreClassique.fichiers = Arrays.asList("StJerome/Vulgate_Marc");
-        oeuvreClassique.parties = Arrays.asList(new Partie().init("I",16));
+        oeuvreClassique.parties = Arrays.asList(new Partie("I",16));
         listeOeuvresClassiques.add(oeuvreClassique);
 
         oeuvreClassique = new OeuvreClassique();
         oeuvreClassique.auteur = auteur;
         oeuvreClassique.titre = "St Luc";
         oeuvreClassique.fichiers = Arrays.asList("StJerome/Vulgate_Luc");
-        oeuvreClassique.parties = Arrays.asList(new Partie().init("I",24));
+        oeuvreClassique.parties = Arrays.asList(new Partie("I",24));
         listeOeuvresClassiques.add(oeuvreClassique);
 
         oeuvreClassique = new OeuvreClassique();
         oeuvreClassique.auteur = auteur;
         oeuvreClassique.titre = "St Jean";
         oeuvreClassique.fichiers = Arrays.asList("StJerome/Vulgate_Jean");
-        oeuvreClassique.parties = Arrays.asList(new Partie().init("I",21));
+        oeuvreClassique.parties = Arrays.asList(new Partie("I",21));
         listeOeuvresClassiques.add(oeuvreClassique);
 
         oeuvreClassique = new OeuvreClassique();
         oeuvreClassique.auteur = auteur;
         oeuvreClassique.titre = "Actes des Apôtres";
         oeuvreClassique.fichiers = Arrays.asList("StJerome/Vulgate_Actes");
-        oeuvreClassique.parties = Arrays.asList(new Partie().init("I",28));
+        oeuvreClassique.parties = Arrays.asList(new Partie("I",28));
         listeOeuvresClassiques.add(oeuvreClassique);
 
         //================ Virgile
@@ -216,7 +219,7 @@ public class GestionTextes {
             String rom = convertToRoman(i);
             oeuvreClassique.titre = "Enéide chant " + rom;
             oeuvreClassique.fichiers = Arrays.asList("Virgile/Virgile_Eneide" + i);
-            oeuvreClassique.parties = Arrays.asList(new Partie().init("I",1));
+            oeuvreClassique.parties = Arrays.asList(new Partie("I",1));
             listeOeuvresClassiques.add(oeuvreClassique);
 
         }
@@ -225,7 +228,7 @@ public class GestionTextes {
         oeuvreClassique.auteur = "Virgile";
         oeuvreClassique.titre = "Enéide";
         oeuvreClassique.fichiers = Arrays.asList("Virgile/Virgile_Eneide");
-        oeuvreClassique.parties = Arrays.asList(new Partie().init("I",12));
+        oeuvreClassique.parties = Arrays.asList(new Partie("I",12));
         listeOeuvresClassiques.add(oeuvreClassique);
 */
 
@@ -289,11 +292,11 @@ public class GestionTextes {
 
                 String nomOeuvre = oeuv.titre;
                 for (Partie p : oeuv.parties) {
-                    if (p.partie.equals("I")) {
+                    if (p.refPartie.equals("I")) {
                         res.add(nomOeuvre);
                     }
                     else {
-                        res.add(p.partie);
+                        res.add(p.refPartie);
                     }
                 }
             }
@@ -370,11 +373,11 @@ public class GestionTextes {
                 }
             }
         }
-        if (partie.partie.equals("I")) {
-            partie.partie = oeuvre;
+        if (partie.refPartie.equals("I")) {
+            partie.refPartie = oeuvre;
         }
 
-        return partie.partie;
+        return partie.refPartie;
     }
 
     List<String> listeChapitresOeuvreParSectionIndice(int section, int indice) {
@@ -394,15 +397,15 @@ public class GestionTextes {
         }
         List<String> res = new ArrayList<String>();
 
-        if (auteur.equals("Cornelius Nepos") && partie.partie.equals("Preface")) {
+        if (auteur.equals("Cornelius Nepos") && partie.refPartie.equals("Préface")) {
             res.add("I");
             return res;
         }
 
-        if (auteur.equals("Jules César") && partie.partie.equals("Guerre des Gaules VIII")) {
+        if (auteur.equals("Jules César") && partie.refPartie.equals("Guerre des Gaules VIII")) {
             res.add("Préface");
         }
-        for (int i = 1; i <= partie.numero; i++) {
+        for (int i = 1; i <= partie.nbChapitres; i++) {
             String rom = convertToRoman(i);
             res.add(rom);
         }
@@ -429,11 +432,9 @@ public class GestionTextes {
         return "";
     }
 
-    // complique mais si preface : decalage ...
-    int pagePourChapitreOeuvreParSectionIndice(int section, int indice, int page) {
-        int ind = 0;
-        String auteur = this.listeAuteurs.get(section);
+    Partie getPartieParAuteurIndice(String auteur, int indice) {
         Partie partie = new Partie();
+        int ind = 0;
         List<OeuvreClassique> lo = listeDesOeuvresAuteur(auteur);
         while (ind <= indice) {
             for (OeuvreClassique o : lo) {
@@ -445,11 +446,32 @@ public class GestionTextes {
                 }
             }
         }
-        if (auteur.equals("Jules César") && partie.partie.equals("Guerre des Gaules VIII")) {
+        return partie;
+    }
+
+    // complique mais si preface : decalage ...
+    int pagePourChapitreOeuvreParSectionIndice(int section, int indice, int page) {
+        int ind = 0;
+        String auteur = this.listeAuteurs.get(section);
+        Partie partie = getPartieParAuteurIndice(auteur, indice);
+
+        if (auteur.equals("Jules César") && partie.refPartie.equals("Guerre des Gaules VIII")) {
             return page;
         }
         else {
             return page + 1;
+        }
+    }
+
+    int chapitrePourPageOeuvreParSectionIndice(int section, int indice, int page) {
+        String auteur = this.listeAuteurs.get(section);
+        Partie partie = getPartieParAuteurIndice(auteur, indice);
+
+        if (auteur.equals("Jules César") && partie.refPartie.equals("Guerre des Gaules VIII")) {
+            return page;
+        }
+        else {
+            return page - 1;
         }
     }
 
@@ -506,15 +528,26 @@ public class GestionTextes {
     }
 
     private class Partie {
-        String partie = "";
-        int numero = -1;
+        String refPartie = "";
+        int nbChapitres = -1;
 
+        public Partie(String partie, int numero) {
+            this.nbChapitres = numero;
+            this.refPartie = partie;
+        }
+        public Partie() {
+            refPartie = "";
+            nbChapitres = -1;
+        }
+        /*
         Partie init(String partie, int numero) {
             Partie res = new Partie();
             res.numero = numero;
             res.partie = partie;
             return res;
         }
+
+         */
     }
 
 
@@ -562,199 +595,24 @@ public class GestionTextes {
         return res;
     }
 
-    /*
-    String requestUrlFromFile(String nomFichier) {
-        String res = "file:///android_asset/textesAuteurs/" + nomFichier;
-        return res;
+    String nomOeuvreParAuteur(String auteur, int partie) {
+        List<String> lp = listeDesPartiesOeuvresAuteur(auteur);
+        return lp.get(partie);
     }
 
-    File storageFile() {
-        // File myDir = new File("sdcard", dirName);
-        //Find the directory for the SD Card using the API
-        //*Don't* hardcode "/sdcard"
-        boolean sd = false;
-        String state = Environment.getExternalStorageState();
-        if (Environment.MEDIA_MOUNTED.equals(state)) {
-            Log.d("Test", "sdcard mounted and writable");
-            sd = true;
-        }
-        else if (Environment.MEDIA_MOUNTED_READ_ONLY.equals(state)) {
-            Log.d("Test", "sdcard mounted readonly");
-            sd = true;
-        }
-        else {
-            Log.d("Test", "sdcard state: " + state);
-        }
-
-        File sdcard;
-        if (sd) {
-            sdcard = Environment.getExternalStorageDirectory();
-            // test si dossier Tabula deja cree ds InternalStorage (ex. avant avoir rajoute SDCard ??)
-            File st = myContext.getFilesDir();
-            File myDir = new File(st, dirName);
-            if(myDir.exists()) {
-                sdcard = myContext.getFilesDir();
-            }
-
-        }
-        else {
-            sdcard = myContext.getFilesDir();
-        }
-        return sdcard;
-    }
-
-    void creeDirectoryStorage() {
-        File sdcard = storageFile();
-        File myDir = new File(sdcard, dirName);
-        if(!myDir.exists())
-            myDir.mkdirs();
-    }
-
-    File DirectoryStorage() {
-        File sdcard = storageFile();
-        File myDir = new File(sdcard, dirName);
-        if(!myDir.exists())
-            myDir.mkdirs();
-        return myDir;
-    }
-
-    List<String> getListeNomsFichiers() {
-        //voir repertoires interieurs ?
-        List<String> res = new ArrayList<>();
-
-        File sdcard = storageFile();
-        File myDir = new File(sdcard, dirName);
-        if(!myDir.exists()) {
-
-            myDir.mkdirs();
-        }
-        else {
-            getFileNamesRecursive(myDir,res);
-
-
-        }
-
-        return res;
-    }
-
-    private static void getFilesRecursive(File pFile, List<String> res)
-    {
-        for(File files : pFile.listFiles())
-        {
-            if(files.isDirectory())
-            {
-                getFilesRecursive(files,res);
-            }
-            else
-            {
-                res.add(files.getAbsolutePath());
-            }
-        }
-    }
-    private static void getFileNamesRecursive(File pFile, List<String> res)
-    {
-        for(File files : pFile.listFiles())
-        {
-            if(files.isDirectory())
-            {
-                getFileNamesRecursive(files,res);
-            }
-            else
-            {
-                res.add(files.getName());
-            }
-        }
-    }
-
-    List<String> getListePaths() {
-        List<String> res = new ArrayList<>();
-        //File myDir = DirectoryStorage();
-
-        File sdcard = storageFile();
-        File myDir = new File(sdcard, dirName);
-        if(!myDir.exists()) {
-            myDir.mkdirs();
-        }
-        else {
-            getFilesRecursive(myDir,res);
-
-        }
-
-        return res;
-    }
-
-    void effaceFichier(int numero) {
-
-        //File myDir = DirectoryStorage();
-        File sdcard = storageFile();
-        File myDir = new File(sdcard, dirName);
-
-        if(myDir.exists()) {
-            File listeFich[] = myDir.listFiles();
-
-            if (listeFich.length > numero) {
-                listeFich[numero].delete();
-            }
-        }
-    }
-        */
-
-    /*
-    String chargeFichierHtmlFromDirectory(String chemin) {
+    String getDescriptionBookmark(BookMark bookmark) {
         String res = "";
-
-        return res;
-    }
-
-    String chargeFichiersAssets(String nomDossier, String nomFichier, String typeFichier) {
-        String res = "";
-        AssetManager asmatt = myContext.getAssets();
-        InputStream input;
-        String path = nomDossier + "/" + nomFichier;
-        try {
-            input = asmatt.open("textesAuteurs/" + nomFichier + "." + typeFichier);
-            int size = input.available();
-            byte[] buffer = new byte[size];
-            input.read(buffer);
-            input.close();
-            res += new String(buffer);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        return res;
-    }
-
-
-    // marche pas permissions ?
-    public void appendLog(String text, String nomFile)
-    {
-        File logFile = new File("sdcard/" + nomFile + ".txt");
-        if (!logFile.exists())
-        {
-            try
-            {
-                logFile.createNewFile();
-            }
-            catch (IOException e)
-            {
-                // TODO Auto-generated catch block
-                e.printStackTrace();
+        String auteur = listeAuteurs.get(bookmark.indAuteur);
+        List<String> lp = listeDesPartiesOeuvresAuteur(auteur);
+        String partie = lp.get(bookmark.indPartie);
+        String chapitre = "chapitre " + (bookmark.indChapitre);
+        if (bookmark.indAuteur == 1 && bookmark.indPartie == 7) {
+            if (bookmark.indChapitre == 0) {
+                chapitre = "Préface";
             }
         }
-        try
-        {
-            //BufferedWriter for performance, true to set append to file flag
-            BufferedWriter buf = new BufferedWriter(new FileWriter(logFile, true));
-            buf.append(text);
-            buf.newLine();
-            buf.close();
-        }
-        catch (IOException e)
-        {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
-        }
+        res = auteur + " - " + partie + " - " + chapitre;
+        return res;
     }
-*/
 
 }

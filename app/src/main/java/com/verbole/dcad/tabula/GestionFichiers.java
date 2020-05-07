@@ -7,6 +7,7 @@ import android.net.Uri;
 import android.os.Environment;
 import android.util.Log;
 
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
@@ -14,6 +15,7 @@ import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.util.ArrayList;
 import java.util.List;
@@ -294,6 +296,35 @@ Log.d(ActivitePrincipale2.TAG,TAG + "directory storage " + myDir.getAbsolutePath
             cf = new String(buffer);
 
         } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return cf;
+    }
+
+    static public String readTextFromUri(Activity activity, Uri uri, Boolean isText) {
+        String cf = "";
+        //   String cf = GestionFichiers.readStringFromInputStream(getActivity(),uri);
+        //   GestionFichiers GF = new GestionFichiers(mContext);
+        //   String cf = GF.readStringFromPath(path);
+        String charsetStr = "utf-8";
+        try {
+            InputStream inputStream = activity.getContentResolver().openInputStream(uri);
+
+            BufferedReader r = new BufferedReader(new InputStreamReader(inputStream));
+            StringBuilder total = new StringBuilder(inputStream.available());
+            for (String line; (line = r.readLine()) != null; ) {
+                // pb si charset != utf-8 ????
+                //content="text/html; charset=windows-1252"
+                if (isText) {
+                    total.append(line).append("<BR>\n");
+                } else {
+                    total.append(line).append('\n');
+                }
+
+            }
+            cf = total.toString();
+
+        } catch (Exception e) { // IOException e
             e.printStackTrace();
         }
         return cf;

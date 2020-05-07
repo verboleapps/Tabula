@@ -4,7 +4,6 @@ import android.content.ContentUris;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.DatabaseUtils;
-import android.database.SQLException;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Environment;
@@ -152,7 +151,7 @@ public class URI_helper {
                 final int column_index = cursor.getColumnIndexOrThrow(column);
                 return cursor.getString(column_index);
             }
-        }   catch (SQLException e) {
+        }   catch (Exception e) { // SQLException e
                 e.printStackTrace();
         } finally {
             if (cursor != null)
@@ -206,11 +205,16 @@ public class URI_helper {
 
                     final String id = DocumentsContract.getDocumentId(uri);
                     Log.d(ActivitePrincipale2.TAG,TAG + " urihelper " + id);
+                    String id2 = id;
+                    if (id.contains(":")) {
+                        String[] temps = id.split(":");
+                        id2 = temps[1];
+                    }
                     try
                         {
-                            Long l = Long.valueOf(id);
+                            Long l = Long.valueOf(id2);
                             final Uri contentUri = ContentUris.withAppendedId(
-                                    Uri.parse("content://downloads/public_downloads"), Long.valueOf(id));
+                                    Uri.parse("content://downloads/public_downloads"), l);
                             return getDataColumn(context, contentUri, null, null);
                         }
                     catch (NumberFormatException e) {
@@ -222,9 +226,7 @@ public class URI_helper {
                     final String[] split = id.split(":");
                     final String type = split[0];
 
-                    String path = split[1];// Environment.getExternalStorageDirectory() + tp; // "/" + split[1];
-
-                    return path;
+                    return split[1];// Environment.getExternalStorageDirectory() + tp; // "/" + split[1];
 
                 }
                 // MediaProvider
